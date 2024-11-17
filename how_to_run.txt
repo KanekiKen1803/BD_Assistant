@@ -1,0 +1,4 @@
+# Go to root directory ie BD_ASSISTANT Folder and run the following commmands in terminal
+
+conda activate hackathon_env
+streamlit run backend/talk_back_app.py
