@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWeb-based pricing tool\n1\nRedefined the pricing methodology to incorporate value-based pricing and built \nan end-to-end web-based pricing application to simplify pricing process, improve \nefficiency and enhance transparency into the pricing process\nPatient engagement solutions company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the prescription data of partner Health Care Providers (HCPs) and categorized HCPs into deciles across each drug category based on specialty \n(cardiology vs. oncology etc.) and prescription volume\n•\nDevised a value-based pricing methodology that differentiated pricing across HCP prescription deciles and developed an intelligent pricing engine to \nidentify the best-fit HCPs based on customer’s criteria and budget\n•\nStreamlined pricing process and built an end-to-end web-based application that auto populates most data fields and generates the recommended pricing \noptions for the Corporate and Field Sales teams, thus, reducing the turn around time and improving the accuracy of the pricing options.\n•\nLeveraged the Pricing tool as a key data source to identify contracted HCPs and provide an accurate view of available inventory\nSituation\n•\nClient was following a standard cost-based pricing approach which was very manual due to the dependency on multiple data sources and lack of visibility \ninto real-time inventory status and potential impact of footprint contracted, leading to significant revenue leakage\n•\nPartnered with the client to re-define the pricing methodology and built a web-based pricing application to streamline the pricing process\nPricing application for a patient engagement solutions \ncompany\n2\nImpact\n•\nValue-based pricing methodology has potentially improved the annual revenues by 5%\n•\nStreamlining and automation of the Pricing process has reduced the time to create a pricing option by over 60%\n•\nDeployment of Pricing application has led to new opportunities to improve operations such as real-time inventory tracking, blocking inventory based on \npotential contracts, etc.\nWEB-BASED PRICING TOOL\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology for pricing application\n3\n▪\nAdlogic – to fetch the locations that are \ncurrently contracted\n▪\nSalesforce – to fetch historical pricing \ninformation of brands\n▪\nSymphony – to fetch prescription volumes \nacross all partner HCPs\n▪\nHistorical ROI studies conducted by the client\n▪\nNetwork forecast data across various \nprograms\n▪\nHCPs are categorized into deciles based on \ntheir historical prescribing power in each \ncategory\n▪\nBased on the category, target ROI & other \npricing inputs, price per HCP is determined \n▪\nAbility to apply premiums for HCPs with higher \nprescription volume\n▪\nIdentifies the best match of HCPs based on \npremiums, type of buy and other inputs\n▪\nMultiple options to select required Ad footprint \n– by HCP list upload, by address or by \ncoordinates\n▪\nOverride capability for default Ad time & \nFrequency\n▪\nAuto-excludes competing brands in a category \nwith a flexibility to the user to include\n▪\nCompare multiple pricing options across ~25 \nmetrics and export the best suited option to \nshare with the customer\nIntegrated multiple data sources\nIncorporated value-based pricing \nmethodology\nProvided flexibility to accommodate custom \nrequests\nPricing tool\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPricing application architecture\n4\nExpressJS\nREST API\nGateway\nLogin Service\nOther Services\nHTTPS\n<JSON>\nHTTPS\n<JSON>\nJSON Web \nToken\nEmail Service\nInput/output\nInput/output\nInput/output\nNodeJS \nPlatform\nAngular 9\nMiddleware\n1\n2\n3\nTech stack \ndetails:\nAngular 9.1.9\nMaterial 9.2.4\n1\n2\nNodeJS 8.5.5\nExpressJS 4.16.3\nNodemailer 4.6.8\nAuthorization: JWT with Cipher Text\nCryptography Algorithm: AES-257-cbc\n3\nSQL Server\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Contracts summary dashboard\n5\nA view of all the contracts \nthat were priced and their \nstatus\nAbility to filter the contracts \nacross various attributes to \neasily access the desired \ncontract\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Identifying inventory as per customers’ criteria\n6\nILLUSTRATIVE\nTool connects with various \ndata sources such as \nSalesforce, Symphony, \nAdLogic etc. to identify the \navailable inventory across \ncontent types (programs) \nthat match the customer \ncriteria \n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Configure a pricing option\n7\nILLUSTRATIVE\nSeamless \nnavigation across \nthe Configuring \noptions, viewing \nsummary of an \noption and \nComparing options \nmodules\nStreamlined & \nsimplified the \nprocess to price a \ncontract and \nprovided users \nwith exhaustive \npricing inputs\nQuick access to \noverall contract \nvalue and key \nmetrics based on \nchanges in each \nstep of the process\nSmart engine to \nidentify best \nlocations for \nadvertising based on \nthe budget and other \nuser inputs \n(locations shown in \nsummary screen) \n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Create multiple pricing options\n8\nILLUSTRATIVE\nSeamless \nnavigation \nacross various \npricing options\nApplication connects to \nvarious data sources to \nfetch the historical price \nand ROI details that could \nbe used as a benchmark\nApplication estimates \nthe final price and \npotential ROI for the \ncontract\nHCPs are categorized \ninto deciles based on \ntheir performance \nand tool allows to \ncharge premiums\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Option-wise summary \n9\nILLUSTRATIVE\nThis section allows \nusers to review key \nmetrics of all the \npricing options\nSummary of all the key \nmetrics\nAbility to view and \nexport the list of \nlocations for \nadvertising\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (400).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184443+05'30'",
+            "modDate": "D:20241114184443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey features – Compare options\n10\nILLUSTRATIVE\nAllows users to select \nsuitable options and \nexport the details for \nsharing with the client\nFlexibility to compare \noptions across more \nthan 25 metrics\nThis section allows users \nto compare pricing \noptions across key metrics\n"
+    }
+]

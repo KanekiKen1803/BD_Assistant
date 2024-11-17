@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse implementation\n1\nBuilt an automated and scalable Enterprise Data Warehouse to improve the speed \nand efficiency of analyzing various datasets coming from all acquisitions and act \nas the single source of truth for comprehensive data analytics and reporting. \nIntegrated key practice management systems and other supporting systems such \nas Paylocity and HubSpot\nMedical spa and aesthetic services provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build a scalable and automated enterprise data warehouse to handle increasing data and reporting \nrequirements from new acquisitions. Currently, the reporting relies on manual Excel extracts which is time-consuming and error \nprone. \nMedical spa company needs a scalable data warehouse\n2\nYour value is enhanced. \n•\nPre-built data marts in the data warehouse reduced the Power BI dashboard refresh time by ~90% (from 20 mins to < 2 mins)\n•\nYou have automated pipelines and data source integration removed the manual intervention of data extracts that saved ~20 \nperson-hours a month\n•\nYou  also have a robust enterprise data warehouse that has scalability to manage the increasing volume of data resulting from \nforthcoming acquisitions\nENTERPRISE DATA WAREHOUSE \nIMPLEMENTATION\nKEY RESULT   \n•\n~20 person-hours \nsavings\n•\n~90% reduction in \ndashboard refresh \nduration \nVALUE LEVERS PULLED\n•\nEnterprise Data \nWarehouse \nImplementation\n•\nPower BI Dashboard \nReconfiguration\n•\nGolden Customer Record\n2\nYou turn to Accordion. \nWe partner with your team to build an automated and scalable enterprise data warehouse to improve the speed and efficiency \nof analyzing various datasets coming from all acquisitions and act as the single source of truth for comprehensive data analytics \nand reporting, including:\n1) Assessing the existing data sources and developing automated data ETL pipelines to extract data from different data \nsystems (Payroll Systems, POS, MedSpa EMR) using Fivetran and ingesting into Snowflake\n2) Cleaning and transforming the raw data in DBT as per business requirements and building data marts for analytical and \nreporting purposes\n3) Developing a robust customer mapping algorithm and building a customer database to accurately identify unique \ncustomers from all EMR systems & HubSpot \n4) Migrating the existing sales and customer analytics dashboards on Power BI to feed off the new data warehouse on \nSnowflake\n5) Deploying the Power BI dashboards with entity-based security using RLS (Row-level Security) and set up the Power BI \nservice environment for end-users\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAssessed the existing data sources and developed automated data ETL pipelines to extract data from different data systems (Payroll Systems, POS, \nMedSpa EMR) using Fivetran and ingested into Snowflake\n•\nCleaned and transformed the raw data in DBT as per business requirements and built data marts for analytical and reporting purposes\n•\nDeveloped a robust customer mapping algorithm and built a customer database to accurately identify unique customers from all EMR systems & HubSpot \n•\nMigrated the existing sales and customer analytics dashboards on Power BI to feed off the new data warehouse on Snowflake\n•\nDeployed the Power BI dashboards with entity-based security using RLS (Row-level Security) and set up the Power BI service environment for end-users\nSituation\n•\nClient was growing through strategic acquisition opportunities across the U.S. but lacked a scalable and automated system to manage its growing data \nand reporting needs from multiple sources. The existing reporting relied on manual Excel extracts which was time-consuming and error prone. \n•\nPartnered with the client to build a scalable and automated enterprise data warehouse to handle its increasing data and reporting requirements from new \nacquisitions \nEnterprise data warehouse implementation for \nMEDSPA company\n3\nImpact\n•\nThe pre-built data marts in the data warehouse reduced the Power BI dashboard refresh time by ~90% (from 20 mins to < 2 mins)\n•\nThe automated pipelines and data source integration removed the manual intervention of data extracts and helped save ~20 person-hours a month\n•\nThe robust enterprise data warehouse provided the scalability to manage the increasing volume of data resulting from forthcoming acquisitions\nENTERPRISE DATA WAREHOUSE \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrevious reporting state\n4\nData Storage & Processing\nData Visualization\n1\nDownload extracts and \nupload to SharePoint\nData Sources\n2\nManual Refresh in Power \nBI\nLimitations of Previous Reporting State:\n1.\nAccuracy issues arising from manually holding current data sets in Excel/data model while layering data from multiple practices on top of each other (data \nnot in one place)\n2.\nManaging data in separate Excel files for each year led to scalability challenges as the volume of data grows over time\n3.\nNo established system for historical data maintenance. Challenges with Excel cataloging include needing to upload/maintain in a data model for Power BI \nuse, versioning, etc.\n4.\nRedundant columns within the data models, potentially leading to increased model size\n5.\nNeed for manual intervention in downloading from the data systems and uploading into SharePoint to be used in Power BI\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImplemented data architecture\n5\nData Visualization\nData Storage & Processing\nRaw Layer\nData Sources\nDBT Models\nRaw\nAs-is copy \nof source \ndata\nTransient\n(FIVETRAN_WH)\n(FIVETRAN_DB)\nStaging\nAs-is copy \nof raw data\nTransient\n(PROD_WH)\n(PROD_DBT)\nIntermediat\ne\nMart\nSchema wise\nFact and dim\nCleanse and \ntransform\nHarmonize \n& aggregate\nVersion \nControl\n4\n5\n2\n3\nData is ingested from different data systems (Payroll Systems, POS, MedSpa EMR, HubSpot) using Fivetran into Snowflake using automated ETL pipelines\nThe CRM data from Segment is replicated directly into Snowflake as a virtual database instance\nThe POS and CRM data from Zenoti is ingested into the Snowflake using its API by leveraging Azure functions\nAll the raw data is transformed in Snowflake using dbt in three layers – Staging, Intermediate and Mart, and segmented into data marts in the final reporting layer\nThe reporting data marts are used to feed off the Power BI dashboards for data visualization and analytics\n1\nAzure \nFunctions\nReplicate\n2\n1\n3\n5\n4\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (81).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200124+05'30'",
+            "modDate": "D:20241114200124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales performance dashboard\n6\nTracks sales by \neach practice and \nlocation each WTD, \nMTD, & YTD, \ncompares them \nagainst the same \nperiod last year, and \nthe budget\nCompares the key \nsales and customer \nretention metrics by \npractice and their \ntrends over months\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194415+05'30'",
+            "modDate": "D:20241114194415+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nSet up processes to integrate data across various accounting systems and \ndefined the process to load trial balances from disparate accounting systems \ninto SAP to create a single source of truth for financial reporting\nMDM for SAP Integration \n(Global Beauty Brand)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194415+05'30'",
+            "modDate": "D:20241114194415+05'30'",
+            "trapped": ""
+        },
+        "content": "INTEGRATED SALES AND FINANCIAL REPORTING FOR A COSMETICS BRAND\nSITUATION\n▪\nThe corporate venture division invests in new and emerging brands across the world and entrusts the Finance team to track the performance and integrate \nthem into the company’s sales and financial reporting systems\n▪\nMerilytics partnered with the Finance team to set up reporting processes that integrate data across various accounting systems for a perfume brand\n▪\nIn addition, the process to map and load trial balances from various disparate accounting systems into SAP was set up, so that the company could have a \nsingle system for financial reporting across all its brands\n▪\nDeveloped understanding of various existing sales reports and accounting systems. Worked with key stakeholders to create accurate mapping of transactions \nto customer, region and legal entity.\n▪\nIdentified and reconciled discrepancies related to delayed shipments, returns, credit notes, annual discounts etc. to ensure data consistency\n▪\nProvided executive management detailed sales reports by region, legal entity, category, time period (week/month/quarter/YTD), with comparisons to budget \nand previous year\n▪\nMapped GL accounts of local entity accounting system to SAP GL accounts\n▪\nMade accounting adjustments to align with GAAP norms and loaded trial balances in SAP system to enable consistent financial reporting across the \ncompany\nVALUE ADDITION\nIMPACT\n▪\nAccurate and detailed sales reporting enabled the Management to understand true performance of its brands and the drivers of sales trends\n▪\nProcess to integrate accounting data from various disparate systems became efficient, and it enabled timely and accurate reporting of financial performance \nof various legal entities and overall company\nABOUT THE CLIENT\nCompany is a global beauty brand, focused on make-up, skin care, fragrances and hair care, with presence in over 150 countries\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (68).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194415+05'30'",
+            "modDate": "D:20241114194415+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nSAP upload excel template and input screen\nStandard Excel upload \ntemplates were created for \nautomated mapping of local \nsystem accounts to SAP GL \naccounts and cost centers\nThe trial balances for GL \naccounts were uploaded using \nbatch input in SAP system\nTRIAL BALANCES UPLOADED TO SAP TO ENABLE FINANCIAL REPORTING \nTHROUGH SINGLE ACCOUNTING SYSTEM\n3\n"
+    }
+]

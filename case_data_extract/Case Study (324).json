@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170606+05'30'",
+            "modDate": "D:20241114170606+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪Designed and analyzed a conjoint survey to better understand price elasticity for a \nproduct launched in an adjacent segment\n▪Leveraged price elasticity and product cost information to identify the optimum launch \nprice for the product\n▪Generated sales and market share forecast after launch to estimate build quantity for \nthe procurement team\nConjoint Survey Design and Analysis\n(CPG Company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170606+05'30'",
+            "modDate": "D:20241114170606+05'30'",
+            "trapped": ""
+        },
+        "content": "SITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nA fast-growing Natural Wellness brand, wanted to identify the optimum price for their new product to penetrate a new segment\n2\nCONJOINT SURVEY DESIGN AND ANALYSIS TO ESTIMATE THE OPTIMUM PRICE\n▪\nThe company had limited information about the segment and brand level price elasticity, which limited its ability to price the product in an \noptimal way\n▪\nIn addition, the company wanted to understand consumer acceptance levels for the brand in the new segment to forecast sales and market \nshare after launch\n▪\nResearched the target segment of the client’s new product, to identify pricing and market share trends, to identify competitor brands and base \nprices for the conjoint survey design\n▪\nDesigned a choice-based conjoint survey, which provides product choices (proposed product and top competitors) with randomized price \noptions to respondents. The design also included a screener section to select appropriate respondents for the survey. \n▪\nWorked with a third-party research company and provided them with a complete set of coding rules for implementing the survey\n▪\nAnalyzed the survey results using logistic regression to estimate self and cross price elasticity of client and competitor products\n▪\nThe client leveraged the insights from the conjoint survey to make pricing decisions for the new product\n▪\nThe analysis provided visibility for the client into customer preferences for various brands and helped fine tune the forecast for the new product\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170606+05'30'",
+            "modDate": "D:20241114170606+05'30'",
+            "trapped": ""
+        },
+        "content": "Product descriptions\nProducts for the survey chosen based on their \nmarket share in the Target Category\n• A – Competitor A\n• B – Competitor B\n• C – Competitor C\n• D – Company product\nPrice Levels\nFive price points were considered for each \nproduct for the survey as 10% below current base \nprice, base price, 10% above base price, 20% \nabove base price and 40% above base price\n                     \n• A – Competitor A\n• B – Competitor B\n• C – Competitor C\n• D – Company product\n$ 4.45\n$ 4.94\n$ 5.38\n$ 5.83\n$ 6.72\n$ 4.45\n$ 4.94\n$ 5.38\n$ 5.83\n$ 6.72\n$ 4.94\n$ 5.49\n$ 5.99\n$ 6.49\n$ 7.49\n$ 3.31\n$ 3.68\n$ 4.01\n$ 4.34\n$ 5.00\nBase Price\nQuestion Bank\nA list of 625 questions based on various \ncombinations of price levels for the various \nproducts is created\nQuestion:    Which product would you \npurchase given the prices below?\nProducts\n        A             B           C            D\n1)\n2)\n3)\n4)\n5)\n.\n.\n.\n$ 4.94\n$ 4.94\n$ 4.01\n$ 4.94\n$ 5.83\n$ 4.45\n$ 4.34\n$ 6.49\n$ 4.94\n$ 6.72\n$ 3.31\n$ 6.49\n$ 5.38\n$ 6.72\n$ 4.01\n$ 5.99\n$ 4.45\n$ 4.45\n$ 4.34\n$ 5.49\nOther price points\nCONJOINT SURVEY DESIGN METHODOLOGY (1/2)\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170606+05'30'",
+            "modDate": "D:20241114170606+05'30'",
+            "trapped": ""
+        },
+        "content": "Self-elasticity estimated at the \nbase price of a product is an \nestimation of the expected % \nchange in volume for every 1% \nchange in price for the product. \nFor instance, a self-elasticity of -2 \nindicates that volume is expected \nto increase by 2% for every 1% \ndecrease in prices of the product.\nSelf-elasticity is estimated using a \nmultivariate logistic regression \nmodel (GLM) based on the price of \na product and whether the user \nhad chosen the product.\nSurvey Design\nEach user is asked 6 randomly selected \nquestions from the question bank.\nQuestion: Which product would you \npurchase at the below prices?\nProducts\n    A             B            C             D\n$4.94\n$5.83\n$3.68\n$6.49\n$5.38\n$4.45\n$4.34\n$6.49\n$4.94\n$5.83\n$4.01\n$6.49\n$6.72\n$4.94\n$3.31\n$6.49\n$5.38\n$5.38\n$3.68\n$6.49\n$5.83\n$6.72\n$5.00\n$6.49\nSelf-elasticity\nQuestion Bank\n•\n…...\n•\n……\nCross-price elasticity of product A \nto Product B is an estimation of \nthe expected % change in volume \nof Product A for every 1% change \nin price of Product B. \nCross-price elasticity is also \nestimated using a multivariate \nlogistic regression model (GLM). \nThe price points of all products \nand a customer’s choice of a \nspecific product are entered as \ndata for estimating the cross-\nprice elasticity of a product to its \ncompetitor products.\nCross-price elasticity\n4\nCONJOINT SURVEY DESIGN METHODOLOGY (2/2)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (324).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170606+05'30'",
+            "modDate": "D:20241114170606+05'30'",
+            "trapped": ""
+        },
+        "content": "Self-elasticity1 is the expected percent change in the volume of a product due to 1% percent change of its price \nPrice Elasticity by product\n1\nSelf-elasticity estimated is at the base price of a product. The self-elasticity might shift as we go further from that price.\n2\nCategory A consumers is a segment of consumers which is more responsive to the company’s brand positioning\nTotal Responses\nCategory A2 consumers\n-3.26\n-2.97\n-3.33\n-1.99\n-4\n-3\n-2\n-1\n0\nCompetitor \nA’s Product\nCompany’s \nProduct\nCompetitor \nB’s Product\nCompetitor \nC’s Product\n-2.38\n-2.36\n-2.66\n-1.79\n-3\n-2\n-1\n0\nCompetitor \nB’s Product\nCompetitor \nA’s Product\nCompetitor \nC’s Product\nCompany’s \nProduct\nTotal # of Category A consumers: 533 out of 938\nTotal # of consumers: 938\nAs per the analysis, a \n1% decrease in the price \nof Company’s product is \nexpected to result in a \n3.3% increase in its \nvolume sales\nAs per the analysis, a \n1% decrease in the price \nof Company’s product is \nexpected to result in a \n2.4% increase in its \nvolume sales\nCUSTOMER SELF ELASTICITY RESULTS\n5\nILLUSTRATIVE\n"
+    }
+]

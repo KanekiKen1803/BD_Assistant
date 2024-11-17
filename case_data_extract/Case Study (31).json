@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164744+05'30'",
+            "modDate": "D:20241114164744+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nMaterial requirement & Planning\nFoundation makeup brand\nDeveloped a suite of S&OP tools including demand \nforecasting, inventory modeling leading to a supply \nplanning model, that helped a makeup products company \nestimate safety stock, reduce excess inventory, minimize \nstock-outs and improve accuracy and efficiency in placing \norders.\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164744+05'30'",
+            "modDate": "D:20241114164744+05'30'",
+            "trapped": ""
+        },
+        "content": "MATERIALS REQUIREMENTS PLANNING (MRP) TOOL FOR A MAKEUP BRAND\nSITUATION\n▪\nForecast accuracy was low, inventory modelling was not robust and subsequently, the Material Requirement Planning (MRP) process was \nmanual and inefficient\n▪\nMerilytics partnered with the company to build a robust MRP tool that fed of off accurate forecasting and inventory models, and improved the \noverall efficiency and accuracy of the supply chain process\n▪\nDeveloped a demand forecasting model to accurately reflect the demand trends, seasonality and product changes\n▪\nDeveloped an inventory model to estimate safety stock based on vendor lead times, demand variability and service levels\n▪\nIntegrated forecasting and inventory models to build a MRP tool for finished goods and components for next 52 weeks\n▪\nAdjusted the schedule for lead time, safety stock, MOQ/EOQ and cycle time\n▪\nProvided the flexibility to manually override the purchase orders for the first 8 weeks to account for budget constraints, corporate targets etc.\nVALUE ADDITION\nIMPACT\n▪\nNew MRP process was rolled out successfully and the improved MRP process and tool helped the company reduce excess inventory, \nminimize stock-outs and place orders accurately and efficiently\n▪\nFurther improved efficiency of process by automating the Purchase Order generation, which could be uploaded directly into the ERP \nsystem\nABOUT THE CLIENT\nCompany is a foundation makeup brand that has been growing at a rapid pace but had seen frequent unexpected demand peaks leading to excess/shortage of \nstock and related working capital issues\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164744+05'30'",
+            "modDate": "D:20241114164744+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH & METHODOLOGY\n3\nPreliminary \nOrder \nschedule1\nDemand \nForecast\nPlanned \nSafety Stock\nCurrent \ninventory \nposition\nLead time\nPreliminary \nOrder \nscheduling \ncycle1\nOn-order\nMOQ3/EOQ4 (and \norder multiple), \ncycle time \nadjustment\nOrder \nscheduling \ncycle2\nOrder \nSchedule2\nFinal Order \nSchedule5\nManual \nOverride6 for \nthe current \nweek\n3\nInputs for the Supply Planning Model\n1.\nOrder Quantity before applying cycle time and MOQ (and order multiple)\n2.\nOrder Quantity after considering cycle time and MOQ (and order multiple)\n3.\nMinimum Order Quantity\n4.\nEconomic Order Quantity\n5.\nThe final order schedule for finished goods will determine the demand for raw materials and a similar inventory planning cycle\n6.\nFlexibility to tweak the orders recommended by the model for the current week to account for any business limitations\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164744+05'30'",
+            "modDate": "D:20241114164744+05'30'",
+            "trapped": ""
+        },
+        "content": "MRP TOOL EXHIBITS #1\n4\nDeveloped an in-built tool in the \nmodel to generate Purchase orders \nbased on the final order quantity \nthat are customized based on the \nERP system\nProvided complete flexibility to the user to tweak the \nvariables involved in the model, such as Safety Stock, \ncriteria for minimum order (Minimum Order Quantity \nor Economic Order Quantity)\nPresented the summary of orders \nplaced for finished goods at the \nassembly unit and raw materials at \nthe suppliers in dollars and units\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (31).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164744+05'30'",
+            "modDate": "D:20241114164744+05'30'",
+            "trapped": ""
+        },
+        "content": "MRP TOOL EXHIBITS #2\n5\nILLUSTRATIVE\nBuilt views to show the expected inventory position by week for a SKU/type/category based on the demand forecast and final orders recommended by the model\n"
+    }
+]

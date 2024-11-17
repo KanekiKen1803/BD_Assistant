@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLTL Logistics Freight Profitability Analysis\n1\nRoot cause analysis of declining profit margin through a robust profitability model \nthat allocated costs at a shipment level\nLess-than-truckload (LTL) Shipping Services Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated data from disparate source systems (shipment data, dimensions data, GL data, pickup & delivery data, trips data, etc.) into a single database in \nSQL server by building automated pipelines using Qlik Replicate and SSIS.\n•\nEstablished relationships across all datasets at shipment level and developed automated data cleansing processes to ensure data quality.\n•\nDeveloped a comprehensive cost allocation methodology by cost header (shipment volume, miles traveled etc.) to enable margin estimation at shipment \nlevel.\n•\nBuilt robust self-serve dashboards in Power BI to track profitability by customer, lane, transportation mode, etc. and identify drivers of low margin.\nSituation\n•\nClient had negative net profit margins for 5 years and was unable to identify the root cause due to lack of visibility into shipment level profitability. \n•\nPartnered with the client to build a shipment-level profitability analysis and identified drivers of low profitability by: i) integrating cost components \n(linehaul, pick-up, delivery, labor, fuel, etc.) spread across multiple systems; and ii) allocating costs at shipment level.\nFreight Profitability Analysis for an LTL Logistics Company\n2\nImpact\n•\nEnabled transformation of the freight network by strategic closure of loss-making lanes, introduction of margin-based pricing, removal of less profitable \nmodes, and review of cities being served. These data-driven initiatives helped the client become profitable within I year of the engagement.\n•\nAs a result, Gross Margins increased by $20 million (5% margin improvement). \nLTL Logistics Freight Profitability \nAnalysis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nValue Creation Initiatives\nValue Creation Analytics\nRevenue Drivers\nCost Drivers\nWorking Capital Drivers\n1.\nSales Analysis – Analyzed sales data, sales team \nperformance vs targets and key customer accounts to \nincentivize the sales reps\n2. Missed pickups Analysis – Developed automated reporting \nto analyze missed pickups by drivers resulting in lost \nrevenue\n3. Dimming & Reweighing Reporting – Compared dimensions \nand weight of shipment provided by customer to actual \nvalues to identify shipments that required rebilling. This \nminimized revenue leakage.\n4. Service Quality Reporting – Tracked key customer service \nmetrics including on-time delivery, appointment service, \nscanning compliance, damaged/lost shipments claims, etc.\n5. Operations Reporting & Analysis – Tracked all operational \nmetrics including on-time dispatch, route compliance, time \nto load/unload, dock aging, etc.\n6. Pricing Analysis – Analyzed pricing per volume of shipment \nagainst cost and suggested changes in pricing for lanes\n1.\nValue Chain Planning Reporting– Provided visibility into value \nchain metrics to the executive management and investors\n2. Linehaul Profitability Analysis – Analyzed profitability at a \ngranular level and identified low profitability lanes to be \ndiscontinued\n3. Pickup and Delivery Costs Analysis – Analyzed various cost \ncomponents involved in pickup/delivery and identified \noperational inefficiencies across terminals, customers and \ndrivers\n4. Truck Utilization Analysis – Analyzed truck utilization \n(volume) and recommended changes to shipment routes to \nmaximize utilization and reduce costs \n5. Labor Productivity Reporting – Tracked dock labor \nproductivity metrics including shipments scanned and weight \nhandled per hour, idle time, % rehandles, etc. against targets\n1.\nEquipment Reporting – Provided visibility into service status \nand location of trailers, trucks and tractors to track \ndamaged/lost equipment\n2. Driver Settlements Reporting – Tracked settlement and \ndriver payments to reconcile with driven miles\n3. P&L Reporting – Provided visibility into expenses (COGS, \nSG&A, overheads, etc.) related to shipments to identify \nirregular expenses\n•\nAssessed existing data architecture, built a comprehensive view of systems and data flow, and recommended changes to improve efficiency, scalability and process automation in the \narchitecture\n•\nIntegrated data from disparate source systems (shipment data, dimensions data, GL (Finance) data, pickup & delivery data, trips data, etc.) into a single database in SQL server using Qlik \nReplicate and SSIS. Established linkages across all datasets at shipment level and added automated data clean-up processes to address data quality & missing data points\n•\nBuilt a consolidated SQL Server-based Data Warehouse (DW) ensuring a single source of truth for all reporting\n•\nCreated seven data cubes on SSAS for the key business functions including operations, drivers, equipment, sales, pricing, partners, and finance \n•\nDeployed a reporting suite in Power BI and configured infrastructure to enable automated self-serve reporting and to drive data-driven decision-making across various stakeholder (executives, \nfunctional heads, service center managers, operators, and drivers)\n•\nAutomated the governance and maintenance of DW with failure notifications, refresh notifications, run time monitoring, etc. to ensure accurate reporting \nData Management\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach\n4\nTrip Data\n(Linehaul costs, Miles) \nPickup Data\n(Pickup attempts and costs)\nDelivery Data\n(Delivery attempts and costs)\nShipment Data\n(Revenue, Dimensions, Weight)\nFinance (GL) Data\n(Ops Overheads like Doc \ncosts)\nIntegrated Data\nCost Allocation \nMethodology\nData\nCleanup\nSSAS \nModel\nPower BI Reports\nData Cleanup:\n1. Missing shipments’ dimensional data\n•\nEstimated based on shipment’s weight & freight class\n2. Missing Miles (distance traveled)\n•\nCalculated ‘Miles’ using PC Miler API based on zip codes \nfor trip’s origin and destination\n3. Poor data quality of Volume and Weight of shipments\n•\nReplaced volume or weight outliers with calculated \nvalues for shipment freight class\n4. Negative GL cost components for a few months due to the \ndelayed posting of reversals\n•\nAggregated  GL costs (every 6 months) and redistributed \non a monthly basis\nCost Allocation Methodology:\nIdentified and allocated all cost components at shipment level\n1. Trip Level Costs: Allocated trip costs based on volume\n•\nExample: Trip cost, Fuel cost\n2. Monthly Costs:  Allocated shipment costs based on volume \nx miles traveled in the respective month\n•\nExample: GL Ops Overhead Costs\nQlik Replicate\nQlik Replicate\nSQL Replicate\nSQL Replicate\nSSIS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nShipment Profitability Analysis\nSummarizes key \nprofitability metrics \n(Revenue, Cost, \nMargin)\nILLUSTRATIVE\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nInitiatives Tracker\nILLUSTRATIVE\nChange Management \nReport tracks \nprogress of key \ninitiatives against \ntargets on a daily \nbasis\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRoot Cause Analysis to Identify Drivers of Low Profitability \nILLUSTRATIVE\nDecomposition tree \nidentifies the root \ncause of margin \nvariance by region, \nterminal, power type, \ntrip miles travelled.\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (334).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171842+05'30'",
+            "modDate": "D:20241114171842+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer Profitability and Pricing Adjustments\nILLUSTRATIVE\nIdentifies customers \nwith low margins to \nre-evaluate pricing \nand improve margins\n8\n"
+    }
+]

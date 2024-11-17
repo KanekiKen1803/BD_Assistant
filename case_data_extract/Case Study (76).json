@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195436+05'30'",
+            "modDate": "D:20241114195436+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nBranch Footprint Optimization\nIndustrial Staffing Company \nRecommended the optimal branch footprint by identifying \nthe counties that have high market opportunities and \nenabled the client to rationalize their current footprint and \nincrease presence in high-opportunity markets\nBranch Performance analysis overlaid \non Market Outlook analysis\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195436+05'30'",
+            "modDate": "D:20241114195436+05'30'",
+            "trapped": ""
+        },
+        "content": "BRANCH FOOTPRINT OPTIMIZATION\n▪\nDeveloped a robust model analyzing the performance of Client’s existing locations by considering productivity and profitability indicators such as Sales, \nEBITDA, Gross Margins, People on Assignment, etc.\n▪\nLeveraged data from various U.S. employment related data sources and built a market opportunity scoring model at a county level, involving multiple \nindicators such as employment, market demand, market spend and competitor presence\n▪\nEvaluated market opportunity at overall temporary industry level as well as by specific industry verticals such as Manufacturing, Logistics, Call Center \nServices, etc.\n▪\nEstimated market spend for all the U.S. counties at overall and by target industry levels, to identify high-opportunity markets for the company to expand into\nVALUE ADDITION\nABOUT THE CLIENT\nClient is one of the largest temporary staffing agencies with over 500 locations across the U.S.\nSITUATION\n▪\nClient had an opportunity to optimize its location footprint by identifying areas to rationalize the current footprint as well as increase presence in high-\nopportunity markets\n▪\nMerilytics partnered with the Client to assess the existing location presence and the market to identify opportunities for location introductions, industry \nspecific brand introductions and turnaround prospects\nIMPACT\n▪\nEnabled company to identify counties that have high market opportunity by target industry\n▪\nAnalyses provided visibility into under-performing counties to improve market share as well as areas of focus in order to turnaround the performance of \nweaker location\n▪\nHelped identify locations where opportunity exists at industry level to drive market share\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195436+05'30'",
+            "modDate": "D:20241114195436+05'30'",
+            "trapped": ""
+        },
+        "content": "Identify key indicators to understand employment, market \ndemand and competitiveness in the county\nEstimate indicators for each county, both at overall temporary \nindustry level and by specific industry verticals such as \nmanufacturing, logistics, etc.\nLeverage statistical techniques, assign relative score (0-100) to \neach indicator by county, in comparison to other counties \nwithin the region/MSA\nMarket Opportunity Scoring Methodology\nAssign weights to each indicator and take weighted average of \nindicators’ scores to calculate Market Opportunity Score\nIdentify NAICS codes most relevant to the industry vertical, \ni.e., mfg., logistics, etc.\nIdentify occupation codes (SOC) forming majority of the total \njobs in selected NAICS codes\nExtract temporary jobs data for these occupation codes and \napply a job share to arrive at the temporary jobs relevant to the \nindustry vertical\nMarket Sizing Estimation Methodology\nEstimate market size as product of temporary jobs, avg. hourly \nwages, avg. # working hours/employee and a markup %\n3\nAPPROACH & METHODOLOGY\nMarket Opportunity leverages the market sizing analysis, \nand overlays that with competitiveness of the county\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195436+05'30'",
+            "modDate": "D:20241114195436+05'30'",
+            "trapped": ""
+        },
+        "content": "Region\nIndustry\nMarket\n# Existing \nlocations\nOpportunity\nGrowth\nOpportunity \nScore\nGrowth Score\nCounty 1\nIN01\nM1\n1\nHigh Opportunity\nMedium Growth\n96\n63\nCounty 2\nIN01\nM1\n0\nHigh Opportunity\nHigh Growth\n94\n83\nCounty 3\nIN01\nM1\n0\nMedium Opportunity\nMedium Growth\n67\n66\nCounty 4\nIN01\nM1\n0\nMedium Opportunity\nMedium Growth\n59\n66\nCounty 5\nIN01\nM1\n0\nMedium Opportunity\nMedium Growth\n46\n69\nCounty 6\nIN01\nM1\n0\nMedium Opportunity\nHigh Growth\n37\n92\nCounty 7\nIN01\nM1\n2\nMedium Opportunity\nMedium Growth\n28\n44\nCounty 8\nIN01\nM1\n0\nLow Opportunity\nLow Growth\n22\n10\nCounty 9\nIN01\nM1\n0\nLow Opportunity\nLow Growth\n17\n5\nCounty 10\nIN01\nM1\n0\nLow Opportunity\nLow Growth\n11\n17\nLocation Name Market\nMarket Share\nPerformance\nGrowth\nPerformance \nscore\nGrowth score\nLocation 1\nDFW\n1.4%\nHigh Performance\nMedium Growth\n89\n59\nLocation 2\nDFW\n2.5%\nHigh Performance\nMedium Growth\n79\n73\nLocation 3\nDFW\n1.4%\nMedium Performance\nHigh Growth\n59\n94\nLocation 4\nDFW\n1.4%\nMedium Performance\nMedium Growth\n52\n34\nLocation 5\nDFW\n1.4%\nLow Performance\nLow Growth\n15\n18\nLocation 6\nDFW\n1.4%\nLow Performance\nLow Growth\n10\n14\nMarket Outlook Analysis:\nIdentified markets with high \nopportunity for new Location \nintroductions, e.g., County 2 in the M1 \nmarket seems to be a high opportunity \nmarket with high growth\nLocation Performance Analysis:\nIdentified location \nturnaround/rationalization \nprospects, e.g., Location 6 in the \nDFW market is a low performer and \ncan be considered for rationalization\nIN01 – Industry 01\nM1 – Market 1\n4\nILLUSTRATIVE\nSNAPSHOT OF MARKET OPPORTUNITY LOCATION PERFORMANCE SCORING MODELS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (76).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195436+05'30'",
+            "modDate": "D:20241114195436+05'30'",
+            "trapped": ""
+        },
+        "content": "88\n29\n27\nCounty 1\nCounty 2\nCounty 3\nMarket Opportunity Score \n14\n58\n81\nMarket growth Score\nProjected growth in market size\n$11M\n$12M\n$18M\n1.2%\n3.4%\n1.6%\n1.1%\n6.6%\n6.5%\n5.8%\n10.5%\n2.6%\nMarket Share\nOverall\nIN01\nIN02\n84\n17\nLocation 2\n(County 1)\nLocation  1\n(County 1)\n67\n13\nLocation performance score\nLocation growth score\n94\n97\nIndustry revenue mix (%)\n36\n56\n18\n18\n46\n25\nCustomer revenue mix (%)\nTop 2&3\nTop-1\nOthers\nIIN02\nOther\nIN01\n0\n0\n0\n22\n33\n22\n48\n56\n19\nSkill tier revenue mix (%)\nLevel 1 Level 2 Level 3\nIN01 – Industry 01\nIN02 – Industry 02\nOpportunity to \ndiversify the \ncustomer base for \nLocation 2 as a high \nshare of revenue is \nbeing contributed by \nthe top customer\nHigh\nMedium\nLow\n• Opportunity to \nincrease focus in \nIndustry 01 (IN01) \nin County 1\n• Opportunity to \nincrease footprint \nin County 3 as \nwell given the \ngood growth \nscore and low \nmarket share\n5\nILLUSTRATIVE\nOVERLAYING OF MARKET OUTLOOK AND LOCATION PERFORMANCE ANALYSIS\n"
+    }
+]

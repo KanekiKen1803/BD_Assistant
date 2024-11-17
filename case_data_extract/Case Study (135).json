@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nReconciliation of Collections Data\nLTAC Provider\nReconciled third-party collections data with the company’s \ninternal collections data to estimate the net overbillings in \nthe amount claimed by third-party collections agency.\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "RECONCILIATION OF COLLECTIONS DATA\nSITUATION\n▪\nClient has employed a third-party collections agency to collect Account Receivables but did not have clear visibility into agency billing v/s \ncollections accounts and wanted to understand potential over/ under billing. \n▪\nMerilytics partnered with the Provider to reconcile third-party and internal collections data to identify variances in billings by collections agency\n▪\nOnly 14% of the total claimed amount had a unique identifier that mapped  the third –party data with internal collections data. Merilytics \ncreated a unique identifier using different combinations of data fields (e.g., Bill # assigned using file number, assigned using payment date & \namount, etc.)  to map the transactions amounting to additional 86% of total claimed amount\n▪\nIdentified list of overbilled transactions/bills at each facility that could be claimed by the client for reimbursement. \n▪\nCreated Excel & Power BI dashboards to facilitate reconciliation at multiple levels (district/facility/patient/transaction) that could be refreshed  \non a monthly basis\nVALUE ADDITION\nABOUT THE CLIENT\nClient is a healthcare services company that operates long-term acute-care hospitals and provides rehabilitation services across the United States\nIMPACT\n▪\nIdentified 5% of total claimed amount as net overbillings for transactions over a period of 18 months, leading to a potential reimbursement of \n8% of the total fee from third-party collections\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nDATA CLEANSING\nDATA MAPPING\nRECONCILIATION \nDASHBOARDS\n▪\nFiltered internal collections data \nto consider data of relevant time \nperiod for reconciliation\n▪\nUsed patient ID and bill \nnumber combination to map \ntransactions amounting to 14% \nof claim amount \n▪\nCreated a unique identifier \nbased on different \ncombinations of available data \nfields (e.g., Bill # assigned \nusing file number, assigned \nusing payment date & amount, \netc.) to map transactions \namounting to additional 86% of \nclaim amount\n▪\nReconciled the internal \ncollections data and third-party \ncollections data and identified \nvariation in claim amount at each \nfacility level\n▪\nCreated a reconciliation report on excel \nwith the flexibility to drill down to \ndistrict/facility/patient/bill/transaction \nlevel\n▪\nProvided reports in PowerBI \ndashboards for ease of reconciliation\nAPPROACH / METHODOLOGY FOR PROJECT DELIVERY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "Third-party collections agency  has overbilled \nand underbilled patients below and above \nthe line respectively\nUser can view the variation at a patient-\nbill level by clicking on the patient \nsequence number\nRECONCILIATION DASHBOARD (POWER BI)\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "APPENDIX\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (135).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104032+05'30'",
+            "modDate": "D:20241115104032+05'30'",
+            "trapped": ""
+        },
+        "content": "100%\nTransactions reconciled using \npatient number due to the lack \nof Bill # mapping\nTransactions that are \nmapped to a Bill # in \nthird-party data\n87%\nTransactions with Bill \n# available in third-\nparty collections data\n61%\nTransactions for \nwhich a Bill # is \nassigned\n26%\nPatient sequences \nwith unique Bill # in \nthird-party data\n5%\nBill # assigned using \nfile number\n4%\nBill # assigned using \npayment date & \namount\n10%\nBill # assigned \nmanually\n7%\nTransactions \nexcluded from the \nanalysis\n3%\n10%\nMAPPING DATA BETWEEN SOURCES\n6\n"
+    }
+]

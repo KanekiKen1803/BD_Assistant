@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOutpatient Operation Analytics\n1\nBuilt a robust reporting suite on Power BI by setting up a consolidated SQL data \nwarehouse from multiple Electronic Health Record (EHR) systems and migrated \nexisting manual excel reports to automated self-serve dashboards\nChain of Healthcare facilities for Mental and Behavioral health\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned and implemented data infrastructure to consolidate operational data from different EHR, Payroll systems (Valant, Therapy Notes, ADP, HST, Thera \nManager, Medisoft, MicroSD and ADS) and setup a consolidated data warehouse that acts a single source of truth for all reporting\n•\nBuilt data models on Azure Analysis Services with all key metrics and designed robust self-serve dashboards on Power BI with scheduled refresh of data \nweekly to provide insights into Clinics performance\n•\nImplemented Row Level Security (RLS) to restrict the access to the Clinic Directors/Regional Managers and securely share the BI dashboards\n•\nBuilt various dashboards on Power BI such as Payor Mix Report, Active Provider Dashboard, Fee Schedule Analysis etc. to provide insights into billing and \ncollection process\nSituation\n•\nClient did not have visibility into organization’s Clinics operations performance due to lack of  data gathering structure, timely reporting, accurate analysis, \nand historical data systems\n•\nPartnered with the client to build structured SQL Data Warehouse, data models, automated dashboards on Power BI that are refreshed on daily & weekly \nbasis\nOutpatient operation analytics for a healthcare provider\n2\nImpact\n•\nThe Power BI dashboards replaced the legacy Excel reports and provided more real-time actionable insights to drive key business decisions\n•\nAutomation of reports saved about 40 person-hours a week by avoiding the manual creation of excel reports\n•\nClients were able to get real-time visibility into upcoming Appointments and No-Show Appointments and took action to reduce the Cancellation/No Shows\nOutpatient Operation Analytics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nReporting flow after BI infrastructure implementation\n3\nData Sources \nIngest\nAzure Data \nFactory\nData Warehouse\nAzure SQL\nCleaning & \nTransform\nModel\nAzure Analysis \nServices\nServe\nAutomated ETL Process with e-mail alerts / \nnotifications\nData Ingestion In Pipeline\nManual Data Ingestion\nBuilt an Enterprise Datawarehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nCreated a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes. \nDeveloped Power BI dashboards on top of the Analysis services to monitor and track business performance\n1\n2\n3\n4\n5\n1\n2\n3\n4\n5\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAppointments summary for operations\n4\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProvider summary\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (250).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153205+05'30'",
+            "modDate": "D:20241114153205+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nClinical director dashboard\n6\nILLUSTRATIVE\n"
+    }
+]

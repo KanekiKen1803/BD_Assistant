@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRevenue Recognition Automation\n1\nDeveloped and implemented an automated Revenue Recognition model to \nstreamline the recording and booking of accrual revenue in the Income Statement, \nwith the flexibility to capture snapshots on a designated date each month, \nensuring timely and accurate financial reporting\nUrgent and Primary Healthcare Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou're a rapidly expanding healthcare provider, growing through the acquisition of new practices. However, your monthly \nclose process is cumbersome, labor-intensive, and prone to discrepancies due to manual errors and non-standardized \nprocedures, as it requires manually downloading transaction data for each practice and building a model to recognize \nrevenue for the given month\nHealthcare provider company needs a “accurate view” into the \nRevenue Recognition\n2\nYour value is enhanced. \nYou have eliminated the 36 man-hours of manual effort per facility each month and significantly enhanced the accuracy of \nthe Revenue Recognition process through complete end-to-end automation. Additionally, the solution enables near real-\ntime monitoring and tracking through an integrated reporting layer, providing greater transparency and control over \nfinancial operations\nHEALTHCARE \nKEY RESULT   \n•\nAutomation of the \nRevenue Recognition \nand improved accuracy\n•\nEliminated 36 man-\nhours of effort per \nfacility each month\nVALUE LEVERS PULLED\n•\nRevenue Recognition \nAutomation\n•\nPayer Collection Rate\n2\nYou turn to Accordion. \nWe collaborate with your team to design and implement a scalable, automated Revenue Recognition model that seamlessly \ncalculates revenue to be recorded in the Income Statements, streamlining your financial close process and minimizing \nmanual intervention\n1) Develop a robust, scalable, and automated data model for the Revenue Recognition process across all practices, \nensuring consistency and efficiency while accommodating the complexities of multi-practice financial reporting\n2) Utilize historical payer payment patterns to forecast collectable amounts across practices, clinics, service types, and \nProcedure Codes (CPT), enabling data-driven insights into payer behavior and more accurate revenue forecasting\n3) Customize the model to capture transaction snapshots and calculations on a specified day each month (e.g., the 10th), \nand build a comprehensive reporting layer that provides actionable revenue metrics that can be directly incorporated \ninto the Income Statements\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n3\nINPUTS\nPREPARATIONS\nCALCULATIONS\nVISIBILITY\n• Claims and services data such as \nclaim status, service type and \nprocedure codes (CPT) from the \nclaims management system\n• Billing data such as charges, \npayments, adjustments etc. from \nbilling system (s)\n• Payer information from EMR \nsystems \n• Data cleanup to remove void claims \nand data anomalies\n• Transform the transactional Charge \nlevel dataset to calculate the Total \nCharges, Adjustments, Payments \nand Accounts Receivables \n• Map the payer class / type \ninformation to each claim\n• Analyze the Payer \npayment/collection rate for \nhistorical closed/cleared claims \nacross practices, clinics, service \ntypes, procedure codes (CPT), and \npayer class\n• Prorate the Collectable amount for \neach open claim by applying \nhistorical Payer collection rate \nbased on the relevant practices, \nclinics, Service type and Procedure \nCodes (CPT) of the service \nrendered\n• Freeze transactions data on the \n10th day of each month\n• Estimate the overall Collectable \nand Adjustable amounts\n• Collectable Amount = Payments \nreceived for Closed Claims + \nProrated Collectable amount for \nOpen Claims\n• Adjustable Amount = Adjustments \nmade on Closed Claims + Total \nCharge amount for Open Claims - \nProrated Collectable amount for \nOpen Claims\nData Source\nData Transformations\nData Modelling\nReporting\nSteps followed for automating the Revenue Recognition process.\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDatawarehouse Architecture design\n4\n1\nData Sources \nIngest\nAzure Data \nFactory\nData Warehouse\nAzure SQL\nCleaning & \nTransform\nModel\nAzure Analysis \nServices\nRevenue \nRecognition Cube\nAutomated ETL Process with e-mail alerts / \nnotifications\nManual Data \nIngestion via \nSharePoint\nBuilt an Enterprise Datawarehouse connecting different data sources through automated data pipelines and transformed raw data as per business requirements\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nCreated a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes\nDeveloped a Revenue Recognition cube on Azure Analysis services data model and customized to the business requirements\nDeveloped Power BI dashboards on top of the Analysis services to monitor and track business performance\n2\n3\n4\n5\n1\n5\n2\n3\n4\n1\nServe\n6\nAzure Analysis \nServices\n6\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nRevenue Summary\nILLUSTRATIVE\nTotal Est Payments which is \ncalculated based on actual \npayments and projected payments \nbased on historical behvaiors to be \nused in the Income Statement for \nrevenue recognition\nSelect desired lookback timeframe \nto analyse the Payer payments \nhistorical behaviour. Can be \ncustomized to 3,6,9,and 12 months \ndepending on business \nrequirements\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (28).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103237+05'30'",
+            "modDate": "D:20241115103237+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nPractice and Clinic Level Summary\nILLUSTRATIVE\nDetailed break-up of the recognized \nrevenue at a clinic/ practice and \npayer level\n"
+    }
+]

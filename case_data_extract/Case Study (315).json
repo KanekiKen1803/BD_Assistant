@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped Power Apps-based application to streamline the process of collecting the data \nrelated to SKUs sold by its distributors (~60K), and storing the data on an on-premise \ndatabase\nBoating and Fishing Supplies Retailer \n(Development of Distributor Management Application)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "DISTRIBUTOR MANAGEMENT APPLICATION BASED ON POWER APPS\nSITUATION\n▪Client partners with ~60K distributors to retail its products and uses multiple applications/systems such as Rollstream, Excel etc. to manually collect the SKU \ninformation of the products sold. The process is manual and there was an opportunity to consolidate and store the data in a centralized location.\n▪Merilytics partnered with the client to design and build an application to systematically collect and store information while ensuring data integrity by \napplying relevant data validation techniques\n▪Developed an application on Power Apps with flexibility to assign multiple roles and privileges (such as Admin/Manager etc.) to track the details \nregarding SKUs sold at each of the store locations\n▪Provided functionality to bulk upload Excel files using the template available on the application screen\n▪Linked the application to Enterprise Data Warehouse tables on an on-premise database to store the data collected, and set up admin rights and hierarchy \nfor approval to ensure data is stored in database from authorized personnel\n▪Set up data validation rules to ensure the accuracy of the data collected from the distributors\nVALUE ADDITION\nIMPACT\n▪Distributor Management Application helped to streamline data collection/acceptance process from the distributors with an appropriate approval \nhierarchy in place to ensure data integrity\n▪The application enabled Category Managers to track the requests raised by the distributors with the convenience of using a single platform\n▪Automated process of storing data and validation enhanced the data consistency and integrity in the Enterprise Data Warehouse\nABOUT THE CLIENT\nClient is a leading omni-channel boating and fishing supply retailer in the U.S. with over 250 stores across the country\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nAPPLICATION SCREENSHOTS (LOGIN AND SKU SCREEN)\nILLUSTRATIVE\nLogin screen with functionality for distributor \nregistration and password reset.\nAccess to edit and modify data within a screen \nis defined by the access privileges\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nAPPLICATION SCREENSHOTS (BULK UPLOAD AND CATEGORY MANAGER SCREEN)\nFunctionality to bulk upload of Excel files to \nreduce manual effort to submit the data\nFunctionality for the Category Manager to review \nthe inputs and take action on uploaded \ninformation.\nDistributor will also be able to view the reason for \nrejection, if applicable and can re-upload the \ninformation accordingly. \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nCONTROL FLOW DIAGRAM\nILLUSTRATIVE\nMicrosoft AD \nLogin Screen\n(Generic Credentials)\nLogin Screen\nUser cannot access \nthe application\nUnauthorized\nUser cannot access \nthe application\nUnauthorized\nAuthorized\nUser Registration \nScreen\nPassword Recovery \nScreen(Optional)\nOptional Screens\nForgot \nPassword\nDistributor \nRegistration\n1. Item Master Screen\n2. Distributor Approval Screen\n3. User Access Approval Screen\n1. Item Master Screen\n2. Distributor Approval Screen\n1. Distributor Submission Screen\nAuthorized\nAdmin \nRole\nCategory \nManager \nrole\nDistributor \nRole\nUser\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (315).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165437+05'30'",
+            "modDate": "D:20241114165437+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA FLOW DIAGRAM\nILLUSTRATIVE\nAdmin Role Only\nDistributor Role\nCategory Manager Role\nEnterprise Data warehouse\nAdmin Role \nDistributor Submission Screen\nDistributor Approval Screen\nApproval\nDistribut\nor Entry\nSubmitted\nDistributor DB\nStatus : Approved\nApproved\nRejected\nUser Access \nApproval \nScreen\nApproval\nUser DB\nStatus : Approved\nApproved\nRejected\nUser Registration Screen\nUser \nCredentials\nItem Master Screen\nSKU Entry\nSKU Dataset\nSubmitted\nDistributor DB\nStatus : Rejected\nUser DB\nStatus : Rejected\nSubmitted\n6\n"
+    }
+]

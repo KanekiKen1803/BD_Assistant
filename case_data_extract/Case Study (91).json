@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer Analytics\n1\nAnalyzed the sales patterns, customer behavior (Churn and retention), and Cohort \nanalysis to derive Lifetime value of customers and establish correlation with CAC\nSports Media and Publishing Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped an excel model with visibility into sales, number of subscriptions, revenue and other key performance metrics such as churn rate, LTV\n•\nPerformed cohort analysis to identify key factors driving sales/customer behavior using attributes such as acquisition Issue, period and source\n•\nIdentified the efficient sources to acquire customers using LTV – CAC analysis of customer cohorts\n•\nProvided visibility into comparative (Issue vs. Issue , Week vs. Week and Month vs. Month) performance of Sales, Churn and Retention\n•\nAnalyzed the effectiveness of bundling merchandize with magazine sales in driving customer retention\nSituation\n•\nClient had started a subscription-based model for a leading sports magazine and wanted to analyze the customer trends (Sales, Churn and Retention \nrelated) to track the performance and identify avenues for higher sales\n•\nPartnered with the client to develop a model with the analysis focused on sales pattern and behavior (Region level sales, WoW, MoM sales, AOV), Churn \nand retention, also leveraging Cohort analysis to derive Lifetime value of Customers and establish correlation with CAC\nCustomer Analytics for a Sports Media and Publishing \nCompany \n2\nImpact\n•\nCohort analysis enabled the client to identify the efficient acquisition sources using LTV – CAC metrics\n•\nBundling analysis enabled the client to identify the correct fit for bundling to achieve higher sales and improve retention\nCustomer Analytics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nConsolidation\nOutputs\nMappings\nRaw Data\nLegend\nIngesting raw data in Excel Data \nModel and establishing \nrelationships across tables\nusing customer email and Product \nname for relationships\nProduct Mapping\n1.\nMagazine / Merchandise \nidentifier\n2.\nIssue number mapping\nIssue-Month Mapping\nto map month to corresponding\nIssue number\n1.\nOverall summary for \nMagazines / Merchandise \nalong with Regional splits \nand Subscription vs. Non-\nSubscription analysis\n2.\nTrend analysis using # \nWeeks since 1st purchase\n3.\n# Orders by Source\nSales Performance Analysis vs. \nLast Issue\n1.\nby Acquisition Issue\n2.\nby Acquisition Period \n[Month / Year]\n3.\nby Source\nCohort Analysis – \nRepurchase, Sales, LTV \nacross issues at different \ncuts\nSales data\nChurn customers data\nSubscription customers data\n1.\nAnalyzing % retention of \ncustomers – over last issue \nas well as all previous issues\n2.\nTracking new customers \nacquired by Source, Sub / \nNon-Sub \nRetention & New Customers \nAnalysis\n1.\nChurned vs. New customers \nacquired in current issue over the \nlast issue\n2.\nHistorical purchase behavior of \nchurned customers\n3.\nAOV & LTV comparison of \nChurned vs. New vs. Retained \ncustomers\nChurn Analysis – tracking customers \nchurned by Region, Source and \nSubscriber level\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of Sales Performance of Magazine at Issue Level\n4\nFlexibility to select the \ndifferent issues\nSummary of Sales \nperformance, Break -even \nanalysis and the \ncomparison with the earlier \nissue.\nfilter to compare \nthe \nperformance  \nbased on # \nweeks\nIssue #\nIssue 25\nIssue #\nIssue 24\n# Weeks\nLast Issue\nChange\nLast Issue\nChange\nLast Issue\nChange\nLast Issue\nChange\nMAGAZINE\n-2000\n# New Customers Acquired\n3,500\n70.0%\n500\n4,000\n40.0%\n2,500\n-1,200\n-600\nOverall\n% Retention (from \nlast issue)\n#Customers\n% Retention from last Issue\n-500\n+ 30 pps\nOverall\n# Copies Sold\nTotal Copies sold\nWoW copies sold\n# Copies to achieve Breakeven\n3,500\n50\n6,000\n4,700\n650\nSubscription\n# Copies Sold\nCopies sold\nWoW copies sold\n2,800\n5\n3,000\n70\n-200\n-65\n650\n40\n1,600\n560\n-950\n- 520\nFILTER PANE\nselect current issue >>\nselect last issue for comparison >>\n#Weeks of sales to be considered for last issue >>\nAll weeks\nNon Subscription\n# Copies Sold\nCopies sold\nWoW copies sold\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCohort Analysis Based on Acquisition Issue and Source\n5\nCharts to show \nCohort analysis \nbased on Acquisition \nIssue\nDetailed cohort \nanalysis to estimate \nLTV at acquisition \nissue, acquisition \nsource level\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBundling Analysis of Merchandise and Magazine at Issue Level\n6\nAnalysis to \nidentify the \neffectiveness of \nbundling\nIssue #\nIssue 1\nIssue #\nIssue 2\n# Weeks\nFILTER PANE\nSelect current issue >>\nSelect last issue for comparison >>\n#Weeks of sales to be considered >>\nAll weeks\nFilter pane to select the \nrespective issues for \ncomparison\nFlexibility to select the \nnumber of weeks for \ncomparison\nMag & Merch\nMag\nMerch\nLast Issue\nChange\nLast Issue\nChange\nLast Issue\nChange\nLast Issue\nChange\nMAGAZINE & MERCHANDISE\n# Customers by Purchase Type\nBoth - Mag & Merch\nMagazine only\nMerchandise Only\n100\n3,500\n100\n1,700\n2,000\n200\n-1600\n+1500\n-100\n% Customers by Purchase Type\nBoth - Mag & Merch\nMagazine only\nMerchandise Only\n2.0%\n95.0%\n3.0%\n42.0%\n53.0%\n5.0%\n- 40.0 pps\n+ 42.0 pps\n- 2.0 pps\nAOV ($) by Purchase Type\nBoth - Mag & Merch\nMagazine only\nMerchandise Only\n$15.00\n$10.00\n$20.00\n$8.00\n$13.00\n$22.00\n+$ 7.0\n- $ 3.0\n- $ 2.0\nMerchandise Purchases\n# Merchandise Sold\nMerchandise Revenue ($)\n% bought Merch & Mag\n192\n$3,500\n2.0%\n418\n$9,000\n42.0%\n- 226\n-$ 5500\n- 40.0 pps\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBundling Analysis of Magazine and Merchandise at Source Level\n7\nFlexibility to \nselect Issues\nSummary of \nMagazine and \nmerchandise \nbundling sales \nw.r.t sources\nTotal\nTotal\nTotal\nTotal\nTotal\nTotal\n105\n20\n19%\nMerchandise 4\n5\n5%\nMerchandise 5\n10\n10%\n# New Customers\n% Customers\nMerchandise\nMerchandise 1\n65\n62%\nMerchandise 2\n5\n5%\nMerchandise 3\nOverall\n# New Customers\nMagazine only\nMerchandise Only\nBoth - Mag & Merch\n345\n85\n20\n450\nSource 5\n# New Customers\n200\n50\n10\n260\nSource 4\n# New Customers\n60\n15\n5\n80\nSource 2\n# New Customers\n45\n15\n3\n63\nMagazine only\nMerchandise Only\nBoth - Mag & Merch\nMAGAZINE & \nMERCHANDISE\nSource 1\n# New Customers\n40\n5\n2\n47\nselect current issue >>\nIssue #\nIssue 1\nFILTER PANE\nSummary of \nPurchase \nbehavior of Newly \nacquired \ncustomers\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of Subscription and Region Analysis at Issue Level\n8\nFlexibility to select the \ncomparison issues\nSubscription and region \nanalysis of selected \nissues and their \ncomparison\nIssue #\nIssue 1\nIssue #\nIssue 2\n# Weeks\nvs Budget\nvs Budget\nChange vs last \nissue\nFILTER PANE\nselect current issue >>\nselect last issue for comparison >>\n#Weeks of sales to be considered for last issue >>\nAll weeks\nMAGAZINE\nSubscription Analysis\nIssue 2\nSubscriptions\n% subscriber vs one of sales\nFY 1 subscriber target\n2,500\n80%\n20,000\n-500\n+ 30.0 pps\nSaaS metrics\nGross Adds, \nchurn & CAC\nGross Adds\nChurn %\nCAC $\n3,500\n5.0%\n20\n-3000\n+ 3.0 pps\n+10\nRegional Analysis\n% Customers \nby Region\nRegion 1\nRegion 2\nRegion 3\n80.0%\n15.0%\n5.0%\n+ 3.0 pps\n- 1.9 pps\n- 1.2 pps\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (91).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201400+05'30'",
+            "modDate": "D:20241114201400+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n9\n•\nProject requirement led the team to study cohort analysis and learn major KPIs such as LTV, AOV churn rate etc.\n•\nTeam got an opportunity to learn advanced excel and work on the data model with complicated Dax formulae and power queries.\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182143+05'30'",
+            "modDate": "D:20241114182143+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUKG data integration\n1\nSetting up an automated process to integrate UKG (HR Management software) \nwith the data warehouse to streamline the HR data consolidation processes and \ncreating a visualization layer for providing visibility into employee performance, \nturnover and incentives.\nIndoor skydiving company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182143+05'30'",
+            "modDate": "D:20241114182143+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nPicture this…\nYou’re looking to streamline the data consolidation process by integrating UKG with the existing data warehouse. This is to \nensure that the UKG data is readily available in a central repository of data warehouse along with a visualization layer for \nvisibility into employee performance, turnover and incentives. Currently, you leverage UKG (HR management software) for \npayroll management, leaves, attendance tracking, and HR management. Significant manual intervention is needed to extract \nthe UKG data and leverage the same for visibility into employee performance, turnover, and incentives.\nIndoor skydiving company needs integration between UKG and \ndata warehouse\n2\nYour value is enhanced. \nYou have streamlined and automated UKG data consolidation process reducing the manual intervention by ~40+ person \nhours per month\nYou have generated actionable insights that helped to make informed decisions and drive strategic initiatives related to \nemployee management, performance optimization, and talent acquisition. You have flexibility to leverage this data for \ncomprehensive employee level reporting after integrating UKG with other data sources.\nUKG DATA INTEGRATION\nKEY RESULT   \n•\n~40+ person hours per month \nreduced\nVALUE LEVERS PULLED\n•\nAutomation of UKG\n•\nDevelopment of data \npipeline\n•\nBI reoporting\n2\nYou turn to Accordion. \nWe partner with your team to set up an automated process to integrate UKG (HR Management software) with the data \nwarehouse to streamline the HR data consolidation processes and creating a visualization layer for providing visibility into \nemployee performance, turnover and incentives including:\n1) Developing a robust and efficient data pipeline using API connections and SSIS, ensuring seamless capture of UKG data \nin the data warehouse\n2) Implementing custom reports within the UKG front-end platform, leveraging power automate and SSIS to automatically \npush the necessary data into the data warehouse\n3) Establishing new processes and optimized existing processes within SQL Server to seamlessly integrate UKG data with \nother data sources within the data warehouse, enabling comprehensive analyses and reporting\n4) Collaborating closely to understand the business requirements, and developed BI reports and analyses leveraging the \nintegrated UKG data to provide actionable insights on employee performance, turnover and incentives\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182143+05'30'",
+            "modDate": "D:20241114182143+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nMethodology/Approach\n3\nData from UKG is retrieved as custom reports created in UKG front end through automated \nemails\n1\nUltiPro\ndata warehouse\nReporting DB\nPower BI\nPower Automate is leveraged to download those reports in FTP folder\n2\n4\nData mapping \n/transformations\n5\n6\nCustom reports\nExcel\n1\nPower Automate\n2\nZappySys\n3\nUsing SSIS, custom reports from UKG is pushed into the data warehouse\n3\nAPI objects such as Employee, Leaves, Paygroup, Paycode, Location, Job etc. present in UKG are downloaded using API connector (ZappySys), which is integrated with \nSSIS and the corresponding data is pushed into existing data warehouse \n4\nData mapping and transformations are performed in data warehouse to clean the data and integrate the same with other data sources, which is then pushed into Reporting \ndatabase\n5\nUsing stored procedures, the cleaned data is leveraged for BI reporting/analyses purposes\n6\nStored procedure\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182143+05'30'",
+            "modDate": "D:20241114182143+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nEmployee hiring and attrition\n4\nILLUSTRATIVE\nTerminations and New \nhirings by various \npositions\n# Involuntary \nTerminations by reason\n# Terminations by \nTermination type\n# Voluntary \nTerminations by \nreason\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (383).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182143+05'30'",
+            "modDate": "D:20241114182143+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nLabor hours and employee efficiency \n5\nComparison of Actual vs \nBudget Labor Hours\n#Customers and \nRevenue generated \nper Labor Hour \nT7, T28 – Last 7/28 days\nT13W, T52W – Last 13/52 weeks\nPD - Previous Day\nDays\n"
+    }
+]

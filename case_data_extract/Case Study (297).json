@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDiversion Diagnostics Report Automation\n1\nAutomated the process of generating a diversion diagnostic report that helped \nidentify sellers who may be potentially diverting goods to unauthorized \nchannels/sellers\nLaw firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConverted existing R code of the report into Python (Azure Databricks) to enhance and optimize the same for improved memory and reduced runtime using \nparallel processing with robust logic\n•\nAutomated the entire workflow including report request using PowerApps, Azure Data factory for orchestration, Databricks based code having SQL queries \nfor fetching data, Pyspark/Python code for data transformation, Excel report generation and Logic Apps based emails to deliver the reports published on \nSharePoint\n•\nCreated a PowerApps based UI that provided real time information of available data that allowed flexibility to choose various control parameters to \ncustomize the report based on the context\n•\nStandardized and templatized the final reports to a consistent and user-friendly format for easier consumption\nSituation\n•\nAttorneys at the client use Diversion Diagnostics reports to identify authorized sellers/distributors who may be diverting the goods to unauthorized \nchannels. However, it took more than 2 days for the client's data analyst to create reports every time using R-based scripts, involving multiple manual steps \nand iterations.\n•\nPartnered with the client to develop an end-to-end automated process to request, generate and deliver the reports without the need of manual intervention\nDiversion diagnostics report automation for a law firm\n2\nImpact\n•\nCode improvement reduced code runtime per report from over 8-12 hours to 1 hour (~90% reduction in runtime)\n•\nThe deployed solution reduced the TAT (request to delivery) for diversion diagnostics report to less than 2 hours depending on size of specific dataset from 2 \ndays and eliminated need of a data analyst completely\n•\nUpfront information on available data, with the ability to select custom parameters reduced number of iterations and back-forth communications for each \nreport\nDIVERSION DIAGNOSTICS REPORT \nAUTOMATION \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach\n3\nOPTIMIZE\n▪\nTranslated the existing R code to Python and \noptimized the same for faster run-time\n▪\nImproved logical inconsistencies in the code which \ninclude error handling and corner case handling\n▪\nModularization and parallel processing improved \nperformance and consistency\nProcess Flow\n>\n>\n>\n>\nEnd user utilize \nPowerApps UI to \nrequest reports\nUser request will \ntrigger Azure Data \nFactory pipelines\nDatabricks (Python \nand Spark) process \nthe data and prepare \nthe report \nUsed Azure Logic \nApp to connect Blob \n& SharePoint\nOutput reports \nshared through \nEmail\nSTART\nFINISH\n▪\nUnderstood the business use case and created \nstandard templates for the reports\n▪\nStandardized the user parameters and choices to \nenable consistent calculation and analysis\n▪\nImproved the UI of the report for increased \nusability and clarity\n▪\nCreated a complete system including a user \ninterface for taking report request, a pipeline to \nfetch data from database and then run the analysis\n▪\nAutomatically pulled user email from PowerApps \nlogin, passed it along with other parameters to data \npipeline\n▪\nDeployed Python and SQL queries in Azure \nDatabricks taking advantage of auto-scalability and \nparallel processing optimizing performance and cost\n▪\nUsed Logic Apps to share final reports with user \nover SharePoint link to avoid file size limitations on \ndirect mails\n▪\nImplemented security measures like email domain \ncheck to ensure reports are not sent to unauthorized \nemail domains\nSTANDARDIZE\nAUTOMATE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApplication architecture\n4\nData Source\nProcessing\nReport \ndelivery\nAzure \nBlob \nStorage\nAzure Data \nFactory\nPrimary data \nwarehouse\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAzure \nLogic \nApps\nWhen user access the PowerApps, it \npulls information about available data \nfrom database\nWhen user sends request, Azure data \nfactory is triggered using user inputs and \nparameters\nData factory runs notebooks in data \nbricks for analysis\nDatabricks notebooks fetch data from \nSQL database and runs analysis\nDatabricks fetches report templates from \nblob storage and inserts analysis outputs \nand saves to Blob storage\nADF triggers Logic app and passes \nreport meta data\nLogic app fetches the created reports \nfrom blob storage and pushes it to a \nSharePoint folder.\nLogic app creates a shareable link to the \nreport and sends a mail to user with the \nlink to the SharePoint folder.\nAzure Key vault used for storing all \naccess tokens and keys for security\n1\n2\n3\n4\n5\n6\n7\n8\n9\nUser Interface\nPowerApps\nMicrosoft \nSharePoint\nEmail\nAzure \nKey \nVault\nAzure \nDatabricks\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nApplication user interface\n5\nInformation displayed on \nUI are extracted from \nAzure SQL database  \nA request from end users \nwill trigger the process set \nup in Azure resources \nApplication user interface \nleveraged by end user to \nrequest a report \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (297).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163031+05'30'",
+            "modDate": "D:20241114163031+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nOutput reports and emails\n6\nOutput report generated \nthrough automated \nprocess\nOutput email \nreceived by the \nuser\n"
+    }
+]

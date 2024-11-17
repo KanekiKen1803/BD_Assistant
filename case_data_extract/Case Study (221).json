@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145430+05'30'",
+            "modDate": "D:20241114145430+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪Identified key factors that drove trends in lead generation by analyzing over 30 \nlisting and demographic attributes\n▪Provided recommendations on market-specific actionable initiatives\nBusiness Performance Reporting\n(Digital Media)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145430+05'30'",
+            "modDate": "D:20241114145430+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPROVING LEAD GENERATION FOR A DIGITAL MARKETING FIRM\nABOUT THE CLIENT\nCompany is a digital media client focused on online rental listings\nSITUATION\n▪Has online and mobile platforms, to access the searchable database of listings, across the U.S.\n▪Merilytics partnered with client, to identify key factors that drive trends in lead generation on the website, and also to evaluate potential \nscope for improvement of lead generation\n▪About thirty demographic factors and listing attributes were analyzed to cluster factors that impact lead generation \n▪Identified key differentiating factors of performance between high/low performing markets using step-wise logistic regression analysis\n▪Analyzed performance by sales and marketing channel in conjunction with demographics data to identify an efficient way to allocate \nmarketing resources\n▪Recommended market-specific actionable initiatives to improve lead performance\nVALUE ADDITION\nIMPACT\n▪Our analyses led to re-defining the baseline performance of the company based on the data clean up\n▪It helped the client to understand key factors among various demographic variables and listing attributes, that significantly impact online \nlead generation\n▪Implementation of tactical initiatives by market, that lead to better lead generation rates\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145430+05'30'",
+            "modDate": "D:20241114145430+05'30'",
+            "trapped": ""
+        },
+        "content": "Top-50 regions\nMedium \nperformance regions \n(n=47)\nBottom-50 regions\nListing variables\n• Videos (Y/N, Regular/HD)\n• Photos (Y/N, Regular/HD)\n• Coupons (Y/N)\n• Dynamic lead form (Y/N)\n• Office hours info (Y/N)\n• Pricing info (Y/N)\n• Placement tier\n• Description length\n• # of photos\nProperty/CBSA attributes\n• Rent/sq.ft.\n• Deposit (Y/N, Amount)\n• # of floor plans\n• Market penetration\n• Average tenure of the property as a \ncustomer\n• Desktop/Mobile share (%)\nDemographics\n• Median age bracket\n• Average HH income\n• % of married people in CBSA\n• Average family size\n• Population\n• Population per property\nLogistic step-wise regression on SPSS \n‒\nForward conditional method (significance level 0.2)\n‒\nCox & Snell adj. R-Squared = 0.41\nListing variables\n• # of photos\n• Description length (-ve)\nDemographics\n• Average HH income (-ve)\n• Population per property\n• % of married people (-ve)\nUsed the performance \nbucket of region as a \ndependent variable…\n..and considered variables across \nlistings, properties and \ndemographics…\n..to perform a logistic \nregression…\n…leading to identification of key \nvariables that differentiate regional \nperformance\nProperty/CBSA attributes\n• Average tenure of the property as a \ncustomer\n• Deposit (-ve)\nIDENTIFICATION OF KEY PERFORMANCE FACTORS FOR REGIONS – STATISTICAL ANALYSIS\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (221).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145430+05'30'",
+            "modDate": "D:20241114145430+05'30'",
+            "trapped": ""
+        },
+        "content": "Objective: To evaluate the potential for improvement of lead generation across all the regions\nMethodology: Based on the key performance factors identified, the estimated increase in leads was evaluated to prioritize the initiatives and regions\nImpact: Implementation of tactical initiatives by market, that lead to better lead generation rates\nILLUSTRATIVE\nRECOMMENDATIONS FOR IMPROVEMENT OF LEAD GENERATION BY PRIORITY ORDER\n4\n"
+    }
+]

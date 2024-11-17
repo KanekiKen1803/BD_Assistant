@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped Tableau dashboards and backend data architecture to enable real-time job \nstatus monitoring.\nJob Monitoring Dashboard\n(Multichannel Video Programming Distributor )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "JOB MONITORING DASHBOARD FOR MULTICHANNEL VIDEO PROGRAMMING DISTRIBUTOR \nSITUATION\n▪Client's advanced analytics vertical struggled to get timely and organized reports on the job statuses. This hindered their ability to make informed \ndecisions and take necessary actions, potentially resulting in dissatisfied customers and lost revenue.\n▪Merilytics partnered with the client to create job monitoring dashboards to track jobs with multiple refresh frequencies and provide near real-time \nstatus updates to stakeholders. Also, implemented an automated email alert system and developed the backend data architecture including reporting \nlayer and ETL processes.\n▪Designed and implemented data architecture including reporting layer and ETL processes for data ingestion/ processing and updates to dashboards\n▪Developed dynamic Tableau dashboards that provide users with near real time job status updates\n▪Designed tree maps to visualize job dependencies, and heat maps to analyze the distribution of workload and exception statuses over time\n▪Established automated email alerts to notify job owners promptly in case of job failure or exceptional status updates\nVALUE ADDITION\nIMPACT\n▪Reduced the turnaround time in identifying and solving daily job issues by ~60%, resulting in improved productivity\n▪Dashboard provided insights into system’s workload and exception statuses frequency, enabling client to take proactive measure resulting in improved \nclient efficiency and customer satisfaction\nABOUT THE CLIENT\nClient is a multichannel video programming distributor in U.S with 15M+ subscriber base\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n3\nSource data\nJob monitor tables\nReporting Tables\nStandard Gateway\nETL\nData Flow Diagram\nEmail alerts are sent by client’s \ninternal automation team using \ntable architecture & Databricks \nprocedure  created by Merilytics.\nContains details of jobs that needs \nto be monitored. \nEmail Automation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – JOB CURRENT STATUS MONITORING\n4\nProvides \nsummary \nof \ncurrent status of jobs \nscheduled for the day\nSlicers provided to deep dive \ninto groups and programs\nProvides current statuses of \njobs scheduled for the day\nJOB STATUS\nDate time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – EXCEPTION JOB STATUSES TRACKING\n5\nProvides \nsummary \nof \nexceptional statuses of \nvarious jobs by run date\nProvides history of \nexceptional statuses of \nvarious jobs by job ID\nSlicers provided to deep \ndive into groups, programs, \nand alerts\nProvides \nhistory \nof \nexceptional statuses of \nvarious jobs by job ID\nSlicers provided to deep \ndive \ninto \ngroups, \nprograms, and alerts\nEXCEPTION STATUSES \nDate time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 – JOB DEPENDENCY TRACKING \n6\nLegend provided to identify \nthe program IDs of trigger \nand dependant jobs\nProvides summary of trigger \njobs and dependant jobs for a \ngiven job ID\nJOB DEPENDENCY\nDate time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #4 – JOB LOAD AND EXCEPTIONAL OUTCOME DISTRIBUTION \n7\nShows \ncolour \ncoding \nscheme of the heat map\nProvides \nsummary \nof # jobs that ran \nbetween \nthe \nselected run dates \nby hour and minutes\nProvides summary \nof # jobs that ran \nbetween \nthe \nselected run dates \nby day and hour\nProvides summary of # exceptional \noutcomes (only skipped and failed) \noccurred between the selected run \ndates by day and hour\nHEAT MAPS\nDate time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (359).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175054+05'30'",
+            "modDate": "D:20241114175054+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n1.Built data architecture for near real-time refresh of Tableau dashboards:\n▪\nGained expertise in designing and implementing data architecture for real-time data ingestion/processing and updates to Tableau dashboards.\n2.Implemented automated email alert system using Databricks and Snowflake:\n▪\nUtilized Databricks and Snowflake platforms to set up automated alerts for specific events or triggers.\n▪\nDeveloped workflows to automate the generation and distribution of email alerts based on predefined criteria.\n3.Enhancing knowledge of Tableau, Databricks, and Snowflake platforms:\n▪\nGained deeper insights into the features and functionalities Tableau, Databricks, and Snowflake.\n▪\nImproved proficiency in using various tools, techniques, and workflows for data analysis, processing, and visualization.\n8\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192228+05'30'",
+            "modDate": "D:20241114192228+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nGenerative AI chatbot for HR Q&A\n1\nDeveloped a HR Chatbot leveraging Anthropic Claude (LLM) to enhance \nemployee support by efficiently addressing queries related to corporate \nregulations and internal policies, ensuring uniform and timely responses\nPE backed Multi-channel Video Streaming & Satellite Service Provider \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192228+05'30'",
+            "modDate": "D:20241114192228+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for reducing significant amount of time in checking the documents and tailoring appropriate responses to \nemployee queries.\nDigital service company needs AI chatbot to address Q&A\n2\nYour value is enhanced. \nYou have reduced operational burden on HR team and improved employee experience by providing real time and near \naccurate answers based on the knowledge base. You have deployed the tool securely on client‘s AWS environment, with \nring-fencing measures to ensure data integrity and confidentiality.\nGENERATIVE AI CHATBOT FOR HR \nQ&A\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nGen-AI based \nconversational Q&A \nchatbot\n•\nAccess previous \nconversations and user \ndemographics\n•\nRing-fencing measures \n2\nYou turn to Accordion. \nWe partner with your team to build a web-based chatbot capable of indexing data from HR document repository and \nleverage Anthropic Claude (LLM) to generate responses for user queries, including:\n1) Developing a user-friendly interface to facilitate seamless interactive conversations on the contract repository.\n2) Providing users the functionality to check the source document from the knowledge base leveraged for the response \nalong with confidence scores.\n3) Enabling chat encryption, abuse monitoring and kill switch functionalities to ensure data security.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192228+05'30'",
+            "modDate": "D:20241114192228+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a web-based chatbot capable of indexing data from HR document repository and leverage Anthropic Claude (LLM) to generate \nresponses for user queries\n•\nUser-friendly interface to facilitate seamless interactive conversations on the contract repository\n•\nProvided users the functionality to check the source document from the knowledge base leveraged for the response along with confidence \nscores\n•\nEnabled chat encryption, abuse monitoring and kill switch functionalities to ensure data security \nSituation\n•\nClient has a large employee base and faced significant administrative burden in responding to HR policy queries from employees\n•\nClient maintains an extensive repository comprising hundreds of documents, each containing overlapping and interrelated information. HR \nteam spends significant amount of time in checking the documents and tailoring appropriate responses to employee queries\n•\nPartnered with the client to develop a HR chatbot leveraging Anthropic Claude model to enhance support by efficiently addressing employee \nqueries related to corporate regulations and internal documentation, ensuring uniform and timely responses\nGenerative AI Chatbot for HR Q&A\n3\nImpact\n•\nReduced operational burden on HR team and improved employee experience by providing real time and near accurate answers based on the \nknowledge base\n•\nDeployed the tool securely on client‘s AWS environment, with ring-fencing measures to ensure data integrity and confidentiality\nGenerative AI HR Chatbot\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192228+05'30'",
+            "modDate": "D:20241114192228+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHR Chatbot Solution Design – AWS Platform\n4\nOrganization\nAWS Resources\nAdmin\nHR Documents\nUsers\nBrowser\n1\nAWS VPC enables the user to create and \nmanage isolated virtual networks in the \nAWS cloud environment\n2\nAWS EKS is a scalable container service \nwhich will be used to host the web \napplication, orchestration\n3\nEC2 provides resizable compute capacity \nto host the Milvus vector database\nData is securely transferred between chat bot and app service by SSL/HTTPS secure connections\n4\nAmazon Bedrock/Claude provides LLM \nservices for text generation and \nembeddings \n5\nECR provides a registry to store container \nimages and upload to different Amazon \ncontainer services\n6\nAWS S3 is a scalable and secure storage \nservice which will be used to store \nhistorical logs and conversations\n7\nAWS KMS is a key management service \nthat will be used to generate and store \nkeys used for data encryption\n8\nMilvus is an open-source vector database \nand will be used to store the vectorized \ndocuments and perform similarity search\n9\nTerraform is an Infrastructure as a Code \ntool that simplifies designing and \ndeploying cloud architectures\n7\n6\nECR\nEKS\nEC2\nBEDROCK\nCLAUDE\n2\n3\n4\n5\n8\n9\n1\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (50).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192228+05'30'",
+            "modDate": "D:20241114192228+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHR chatbot\n5\nHR Chatbot sample outputs\nFiles uploaded by \nHR team\nMulti \nformat \nsupport\nUser query\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141855+05'30'",
+            "modDate": "D:20241114141855+05'30'",
+            "trapped": ""
+        },
+        "content": "Built A/B testing models to evaluate the impact of marketing campaigns by analyzing \nand comparing the customers behavior (from the control and target group) in response \nto the campaign\nHealth & Wellness Products Firm\n(A/B Testing)\n1\nCase Studies Summary Page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141855+05'30'",
+            "modDate": "D:20241114141855+05'30'",
+            "trapped": ""
+        },
+        "content": "SUMMARY OF A/B TESTING INITIATIVE\nSITUATION\n▪Client was evaluating multiple marketing strategies (Email, Voicemail, SMS etc.) to enhance customer conversion rates, retention and \nreactivations, and wanted to understand the effectiveness of each strategy using control and test groups\n▪Merilytics partnered with the client to build A/B testing models to evaluate the impact of marketing campaigns by analyzing and comparing \nthe customers behavior (from the control and target group) in response to the campaign\n▪Segmented customers into control and test groups for each marketing campaign, ensuring the groups are comparable and statistically similar based on \ndemographics, age, lifetime orders/tenure etc. \n▪Defined pre-period and post-periods for each campaign to estimate the impact of the marketing campaigns and compare the results across the groups\n▪Calculated key metrics such as customer conversion rate, retention, and reactivations in the pre-period and post-period for test and control group for \neach campaign to identify the optimal marketing strategy\n▪Devised checks to ensure the post period lift is attributable to the marketing campaign by measuring the statistical significance of the A/B test results\nVALUE ADDITION\nIMPACT\n▪Our analyses helped Persona to evaluate the marketing strategies and identify the marketing campaigns and parameters that are delivering best \nperformance in terms of customer conversion, retention, and reactivations\n▪The analyses also helped the client avoid marketing campaigns that do not deliver any incremental value against the cost incurred in running the \ncampaigns\nABOUT THE CLIENT\nClient is a direct-to-consumer health and wellness brand with presence in the U.S. and multiple countries across the world.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141855+05'30'",
+            "modDate": "D:20241114141855+05'30'",
+            "trapped": ""
+        },
+        "content": "Analyzed customer retention trends of customers \nfrom different groups i.e., DM, EM, DM+EM and \nHoldout\nAnalyzed customer subscription reactivations \nacross three variations in handwritten letters sent \nto a group of lapsed customers\nCompared customer conversion rate for Opt-out vs. \nOpt-in scenario and impact on average order value \nfor a particular product recommendation\nAnalyzed the customer subscription reactivations \nfrom the two segments of the Slybroadcast (long \nvs. short mail version)\nCompared the performance of Generic vs. Social \nImpact themed emails sent out to lapsed \ncustomers\nCompared conversion rate from different groups \ni.e., DM vs. DM+VM\nDirect Mail (DM) vs. E-Mail (EM)\n“Letter Friend”\nSKU Opt-in/Opt-out\nSlybroadcast \nEmail Type\nDirect Mail (DM) vs. Voice Mail (VM)\nMARKETING STRATEGY SCENARIOS FOR A/B TESTING\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141855+05'30'",
+            "modDate": "D:20241114141855+05'30'",
+            "trapped": ""
+        },
+        "content": "A/B testing analysis measuring the \nimpact of Test group (SKU Opt-in) vs. \nthe control group (SKU Opt-out) \nacross the metrics like conversion \nrate, Average order value (AOV) and \nrevenue per potential customer \n(Vitamin Assessment (VA) taker)\nA/B testing analysis measuring the \nimpact of various marketing \ncampaigns i.e., Direct Mail (DM), E-\nMail (EM) & DM+EM and comparing \nit to the Conversion rate of holdout \ngroup.\nMeasuring the impact of retargeting \nlapsed customers via two different \ntypes of Mailing themes and \nchecking if the impact is statistically \nsignificant\nA/B TEST RESULTS FOR “SKU OPT-IN/OPT-OUT” SCENARIOS\nA/B TEST RESULTS FOR “EMAIL TYPE” SCENARIOS\nA/B TEST RESULTS FOR “DIRECT MAIL (DM) VS. E-MAIL (EM)” SCENARIOS\nA/B TEST RESULTS FOR A FEW STRATEGIES\n4\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (194).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141855+05'30'",
+            "modDate": "D:20241114141855+05'30'",
+            "trapped": ""
+        },
+        "content": "Breakeven Analysis measuring  the Target \nLifetime Orders (LTO) or Target Conversion \nrate needed to breakeven on the costs \nincurred across the various A/B test scenarios \nof Direct Mail (DM), E-Mail (EM) & DM+EM \nCampaigns \nTARGET LIFETIME ORDERS FOR BREAK-EVEN\nTARGET CONVERSION RATE FOR BREAK-EVEN\nBREAKEVEN ANALYSIS FOR “DIRECT MAIL (DM) VS. E-MAIL (EM)” SCENARIOS\n5\nILLUSTRATIVE\n"
+    }
+]

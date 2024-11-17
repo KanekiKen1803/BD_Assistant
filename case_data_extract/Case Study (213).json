@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144406+05'30'",
+            "modDate": "D:20241114144406+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData ingestion using power automate\n1\nPartnered with the client to automate consolidation and homogenization of data \nfrom multiple sources (SharePoint, email attachments, local drives, etc.) into a \ncentral data repository\nAutomotive accessories manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144406+05'30'",
+            "modDate": "D:20241114144406+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for an opportunity to homogenize and automate the consolidation of data to facilitate deeper, robust \nanalysis and reporting given that data is currently spread across multiple legacy ERP systems as flat files, across \nmanufacturing plants, with limited availability and accessibility for analysis. \nAutomative accessories manufacturer needs to fuel the data \ningestion process\n2\nYour value is enhanced. \nYou have automated data pipelines to reduce the man hours that go into collating the data manually. You have also \nimproved the data quality significantly and ensured that the latest data for all plants is accessible to all key stakeholders for \nfurther analysis.\nDATA INGESTION USING POWER \nAUTOMATE\nKEY RESULT   \n•\n~60 manhours reduced \nper month\nVALUE LEVERS PULLED\n•\nAutomated Data \nIngestion\n2\nC\nYou turn to Accordion. \nWe partner with your team to automate consolidation and homogenization of the flat files from multiple sources \n(SharePoint, email attachments, local drives, etc.) into a central data repository, including:\n1) Building Microsoft Power Automate flows to store any new attachment/data exports received through emails into a \ncloud storage location (SharePoint).\n2) Creating automated data pipelines to ingest, integrate, and transform the data from SharePoint (and other data sources) \ninto a central data repository through custom Python scripts daily.\n3) Configuring e-mail alerts/notifications to monitor the overall ETL process. \n4) Consolidating and harmonizing the data by pushing the data into SQL Server Analysis Services (SSAS) for data \nmodelling purposes which feeds the dashboarding suite.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144406+05'30'",
+            "modDate": "D:20241114144406+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt Microsoft Power Automate Flows to store any new attachment/data exports received through emails into a cloud storage location (SharePoint).\n•\nCreated automated data pipelines to ingest, integrate, and transform the data from SharePoint (and other data sources) into a central data repository \nthrough custom Python scripts daily.\n•\nConfigured e-mail alerts/notifications to monitor the overall ETL process. \n•\nConsolidated and harmonized the data, pushing the data into SQL Server Analysis Services (SSAS) for data modelling purposes which feeds the \ndashboarding suite.\nSituation\n•\nClient’s operational data was spread across multiple legacy ERP systems as flat files, across manufacturing plants, with limited availability and accessibility \nfor analysis. There was an opportunity to homogenize and automate the consolidation of data to facilitate deeper, robust analysis and reporting.\n•\nPartnered with the client to automate consolidation and homogenization of the flat files from multiple sources (SharePoint, email attachments, local drives, \netc.) into a central data repository.\nData Ingestion using Power Automate for an automotive \naccessories manufacturer \n3\nImpact\n•\nAutomated data pipelines helped the client to reduce the man hours that went into collating the data manually.\n•\nImproved the data quality significantly and ensured that the latest data for all plants was accessible to all key stakeholders for further analysis. \nData Ingestion using Power \nAutomate\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144406+05'30'",
+            "modDate": "D:20241114144406+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\n1\nBuilt Microsoft Power Automate Flows to save any new attachment/data exports received through emails to a cloud storage location, such as \nSharePoint.\nData Sources\nData Storage & Processing\nData Warehouse\nE-Mail Attachments\nCloud Data Storage \n2\nCollate and ingest data from a shared location, such as SharePoint. Shared folder to SQL server using Python libraries, such as Share Plum. \n2\nPython Scripts\n2\n1\nPython Scripts\nPower Flow \nShared Location \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (213).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144406+05'30'",
+            "modDate": "D:20241114144406+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales dashboard\nSales distribution \nby channels on a \nweekly basis\nSales by plant, \nproduct type, and \nproduct line \nbenchmarked with \nbudget numbers\n5\nILLUSTRATIVE\n"
+    }
+]

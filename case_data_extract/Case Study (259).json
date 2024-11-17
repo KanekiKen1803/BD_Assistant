@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nCleaned up, updated & streamlined client’s existing database (DB) of prospects for \nhiring executives through a combination of manual searching, automated offline \nscraping & Python based de-duplication algorithms \nHR Data Remediation Through Automation\n(Private Equity Firm)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "HR DATA REMEDIATION THROUGH AUTOMATION\nIMPACT\nABOUT THE CLIENT\nClient is one of the largest Private Equity firms headquartered in the U.S. with investments in companies across various industries \nSITUATION\n▪\nClient’s current database (DB) of prospects for hiring senior executives for their portfolio companies had opportunities to improve data quality and data \ncompleteness. These opportunities had increased over time, due to ‘multiple sources’, ‘data loss during transfer from old DB’, ‘using different variants of \nnomenclature’ etc. \n▪\nMerilytics partnered with the client to clean up, update & streamline the existing database through a combination of manual search, automated offline \nscraping and de-duplication algorithms. \n▪\nMined external databases (such as Capital IQ etc.) to address mapping of industries/sectors and data completeness issues\n▪\nDeveloped an offline scraping bot to automate the search process and extract required information from the external databases\n▪\nBuilt Python based de-duplication algorithms to match the Positions/Titles with Company master database leading to reduction in redundancies and \nhigher accuracy of information\n▪\nUtilized the Python based algorithms to group Positions/Titles with similar company names and manually analyzed the groups to identify companies that \ncan be added to the database\n▪\nOnce the above companies are added, they can be mapped to the corresponding Positions/Titles\nVALUE ADDITION\n▪\nAchieved data completeness of ‘critical’ fields for ~98% of the companies in the company master database \n▪\nIncreased the number of correct Position-Company mapping by ~50%\n▪\nOffline scraping automation and de-duplication algorithms reduced manual efforts by 40%\n▪\nUpdated database improved the filtering capabilities of the tool (by Industry/Company) and helped the client in making better hiring decisions \n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "MANUAL \nSEARCH \nPROCESS\nAUTOMATION \nPROCESS\nTEXT & \nREVERSE\nMATCHING\nDivided the entire process into following steps:\n▪\nStep 1 - Search for the missing company details in \nonline company databases, such as Capital IQ\n▪\nStep 2 - Select the most appropriate company from \nthe search results (also based on the details of the \nlinked ‘Contacts’)\n▪\nStep 3 - Copy the information on all the missing fields \nfrom Capital IQ into client’s database\n▪\nStep 4 - Map every company with appropriate \nIndustry and Sector Codes based on the description \nof the company\nAutomated Step 3 in the Manual Search Process by creating \nan offline scraper (the other three steps involved a degree \nof subjective judgment)\n▪Downloaded company data from the company \ndatabases and created a macro to scrape data from \nthose reports and extract required information into \nsingle table\n▪\nDeveloped Python based ‘Text / Word Matching \nalgorithms’ to search for similar names in the Company \nMaster for every ‘Experience detail’ (Position, Company \netc.) in the Position master database, after removing \nrepetitive / common words\n▪\nRan mapping in reverse for each company, to generate a \nlist of companies (from Position Master) that have similar \ncompany name as in the company master database. \n▪\nThe methodology used for text matching was '% partial \nstring match in unordered string’\n3\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\n4\nExample of  \ndownloaded report \nMacro can consolidate \nrequired data from \nhundreds of Excel tabs into \nsingle tab in < 2 minutes\nOUTPUT\nExample of third-party source\nOFFLINE SCRAPER (EXCEL MACRO AUTOMATION)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "List was checked during manual search process and \nthe matches were added as aliases in Company \nMaster\n‘Reverse Matching Algorithm’ searches for similar \nmatches from positions list for every company and \ngenerates results in separate columns\nReverse Matching Algorithm: \nComparing Companies in Position Master, \nagainst company in Company Master, e.g., \n‘Merilytics’\nOption to change confidence interval of ‘match \npercentage’ to increase / decrease the number of \nmatches\nPosition master\nILLUSTRATIVE\n5\nREVERSE MATCHING ALGORITHM\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (259).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154225+05'30'",
+            "modDate": "D:20241114154225+05'30'",
+            "trapped": ""
+        },
+        "content": "•\nWe have learned how to combine different reports and extract required information from hundreds of excel tabs to single tab by using macro\n•\nWe gained knowledge on ‘Text Matching Algorithms’ and used them for the de-duplication of the Position list and to link them to the Company Master\n•\nWe have improved our understanding on Industry & Sector codes\nLEARNINGS\n6\n"
+    }
+]

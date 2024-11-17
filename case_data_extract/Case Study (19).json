@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141310+05'30'",
+            "modDate": "D:20241114141310+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDemand planning & forecasting\n1\nGenerated an integrated demand forecast at retailer level based on historical data \nnormalized for promotions, distribution, stock-outs and non-recurring events, and \nadjustments for future promotions & distribution changes\nDairy products manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141310+05'30'",
+            "modDate": "D:20241114141310+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nPicture this…\nYou’re looking for a long-term basis to revamp and manage their demand planning and operations planning processes by \ncreating demand forecasting models, shipment scheduling tools and operations related models. Currently, there is no \nmature forecasting process, resulting in relatively low forecast accuracy, which causes production planning issues. \nAdditionally, sales, promotion, and stock-out data are not properly tracked, posing challenges for future growth planning.\nDairy product manufacturing company needs demand \nforecasting and operations planning\n2\nYour value is enhanced. \nYou have Accurate demand forecasts helped reduce raw material wastage during manufacturing process by 90%. Given the \nrelatively low shelf life of the raw materials (2-5 days), this led to 5 pps increase in the overall margins. You have improved \ndemand planning process, and the models helped the company improve their production planning and service levels\nDEMAND FORECASTING AND \nOPERATIONS PLANNING\nKEY RESULT   \n•\n90% reduced raw \nmaterial wastage\n•\n5 pps increase in \noverall margins\nVALUE LEVERS PULLED\n•\nDemand forecasting and \noperations planning\n2\nYou turn to Accordion. \nWe partner with your team to generate an integrated demand forecast at retailer level based on historical data normalized \nfor promotions, distribution, stock-outs and non-recurring events, and adjustments for future promotions & distribution \nchanges, including:\n1) Forecasting for top-retailers using statistical tools based on historical data normalized for promotions, distribution, \nstock-outs and non-recurring events; Adjusting the forecast for future promotions & distribution changes\n2) Generating 100% consolidated forecast which includes forecast for tail of retailers\n3) Creating a model to overlay various corporate adjustments at a customer and category level on the consolidated \nforecast\n4) Developing a model to generate the wholesale shipment schedule for the operations planning team based on the \nforecast after overlays\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141310+05'30'",
+            "modDate": "D:20241114141310+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nStatistical forecasting models for top retailers\n3\nControl Panel\nForecast cut selection\nNo. of forecast weeks\nExpected reach of promotions (%)\nInclude discontinued SKUs in historical sales?\nSelect from drop down menu\nSelect from drop down menu\nYes\n26\n100%\nObjective\n• Generate forecast for top-retailers using statistical \ntools and account for future promotions, \ndistribution strategy and new product launches\nApproach\n• Normalized historical data for gaps, noise, out-of-\nstock, promotions, distribution changes and non-\nrecurring events to generate historical base \ndemand\n• Generated statistical base demand forecast using \nforecasting tools at a SKU and week level, applying \nAuto Regressive Integrated Moving Average \n(ARIMA) method \n• Generated base demand forecast for new product \nlaunches based on user inputs \n• Adjusted the baseline forecast for future \npromotions, distribution strategy, discontinued \nSKUs and exception-based inputs\n• Generated aggregated views/reporting at a \ncategory and sub-category levels for the forecast \nperiod\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141310+05'30'",
+            "modDate": "D:20241114141310+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nDynamic adjustment and reporting of forecast based on corporate \noverays related to marketing, pricing & cannibalization\n4\nObjective\n• Apply various corporate overlays on the \nconsolidated forecast\n• Generate reports/charts to compare forecast and \nshipments with annual plan and historical values\nApproach\n• Use consolidated 100% grossed-up sales forecast \nand trade spend as inputs\n• Apply corporate overlays related to marketing, \npricing, competitors' activity, cannibalization etc. \nat a retailer and sub-category level for the forecast \nperiod\n• Update the retail forecast and trade spend based \non the corporate overlays and generate the final \nconsensus forecast in the required reporting \nformat\n• Generate reports to compare projected, prior year \nand actual consumption/shipments for the \nselected retailer and sub-category\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (19).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141310+05'30'",
+            "modDate": "D:20241114141310+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nShipment scheduling tool to generate expected weekly \nshipments by SKU and warehouse for operations planning\n5\nObjective\n• Generate wholesale shipment schedule (by SKU, \nwarehouse, customer warehouse) for the Operations \nplanning team based on the retail forecast (after \noverlays)\nApproach\n• Use the final consolidated retail forecast (after \noverlays) as input\n• Split the retail forecast by direct and indirect \n(through distributor) sales\n• Estimate the retail-wholesale time lag for each \nretailer and sub-category combination using \noptimization techniques (minimize error between \nretail sales and time-adjusted wholesale shipments)\n• Apply the calculated lag to convert retail forecast \ninto wholesale forecast at customer level\n• Generate shipment schedule ((by SKU, ‘From’ \nwarehouse and ‘To’ customer warehouse) based on \nthe wholesale forecast\nObjective\nApproach\n"
+    }
+]

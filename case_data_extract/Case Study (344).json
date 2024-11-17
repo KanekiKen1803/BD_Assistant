@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173116+05'30'",
+            "modDate": "D:20241114173116+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Integration and Reporting\n1\nIntegrated data from internal applications (loan system, Google Analytics, \nZendesk) into Microsoft Dynamics 365, to improve the marketing team’s outreach \nand campaign effectiveness\nFinancial Services Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173116+05'30'",
+            "modDate": "D:20241114173116+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed data structures of existing systems and finalized field mapping methodology to populate data in Dynamics 365 \n•\nCreated entities in the target application (Dynamics 365) and maintained data quality and consistency\n•\nDeveloped fully automated data pipelines in Azure to ingest data from finPOWER, Google Analytics and Zendesk to Dynamics 365\n•\nDeveloped data resilience and reconciliation mechanisms within the pipelines to ensure failures/successes are notified\n•\nDocumented the process for future reference and to support future enhancements\nSituation\n•\nA marketing automation technology initiative was launched to derive insights and target customers in the existing loan system (finPower), and address \nnew customer queries online (Google Analytics and Zendesk)\n•\nPartnered with the client to integrate data from internal applications (finPower, Google Analytics, Zendesk) to Microsoft Dynamics 365, to improve the \nmarketing team’s outreach and campaigns\nData integration for a financial services company\n2\nImpact\n•\nIntegration of customer financial information with customer engagement data in Dynamics 365 enabled the marketing team to develop a detailed customer \nsegmentation analysis\n•\nCross linkages across systems enabled the marketing team to create targeted campaigns and increase marketing ROI\n•\nThe marketing team was able to pitch their products according to customer needs\nData Integration and Reporting\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (344).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173116+05'30'",
+            "modDate": "D:20241114173116+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApplication architecture & data cleansing\nPrimary Data \nSources\nData Storage & Processing\nDestination \nSource\nAzure Data Lake \nStorage\nAzure Data Factory\nAzure Logic \nApps\nStaging SQL Database\nAzure Functions\nLoan \nManagement \nSystem\n1\n2\n3\n4\n5\n6\n7\n8\n9\nRead SQL database containing fin \nPOWER data using Azure Data Factory\nRead Google Analytics API and Zendesk \nAPI using Azure functions\nStore API outputs to storage account in \nfolders organized by date/hour\nAppend the API output to data with \nincremental values in staging database\nRead staging database tables \n(incremental and staging) using ADF to \nupdate the entity\nUpdate staging tables with latest values \nfrom Dynamics 365\nUpdate missing values tables/views \nbased on reconciliation in staging \ndatabase\nUpdate and insert values in Dynamics \n365 based on unique GUID\nPull data from Dynamics 365 entities after \nevery refresh to compare with \nincremental data\n1\n2\n3\n4\n5\n6\n7\n8\n9\n3\n"
+    }
+]

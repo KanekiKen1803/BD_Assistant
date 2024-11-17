@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAutomated class schedule upload to \nwebsite\n1\nImplemented an automated solution leveraging Python and UiPath RPA tools to \nefficiently generate and upload weekly scheduling files to a third-party portal\nIndoor Skydiving Experience Facility\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a process to generate these files automatically using Python. The solution would consider the inputs from \nRegional Directors and automate the subsequent push to third-party portal using UiPath\nIndoor skydiving experience facility company needs automated \nclass schedule upload to website\n2\nYour value is enhanced. \nYou have gathered inputs from Regional Directors at a broad level (tunnel-day) and breaking them down to a granular level \n(tunnel-product-hour) made the schedule change process more flexible, enabling the client to be more responsive to \ncustomer demand. You also have automated processes for preparing and uploading schedules saved ~2 FTE days per week and \nreduced delays for updated schedules to reflect on the client’s website, enabling a smooth booking experience for the customers. \nThis resulted in an estimated annualized sales lift of $1.5 M (~2%).\nAUTOMATED CLASS SCHEDULE \nUPLOAD TO WEBSITE\nKEY RESULT   \n•\n~$1.5mn increase in \nweb sales\n•\n~100 person-hours \nreduction\nVALUE LEVERS PULLED\n•\nSetup a process to \ngather stakeholders’ \ninputs\n•\nAutomated \ncreation/upload of \nschedules on the \nthird-party portal\n2\nYou turn to Accordion. \nWe partner with your team to Implement an automated solution leveraging Python and UiPath RPA tools to efficiently generate \nand upload weekly scheduling files to a third-party portal, including:\n1)\nDesigning and engineered Excel templates and instituted collaborative forums with client’s regional heads, aggregating weekly \noverride inputs\n2) Developing a sophisticated Python model to automate the preparation of 200+ weekly schedule files, to ensure that overall \noperating hours and classes are broken down at a product and location granularity and slots are enabled based on specified \nbusiness rules\n3) Implementing a robust RPA solution using UiPath to seamlessly integrate these files into a third-party portal, significantly \nenhancing efficiency in updating product schedules and operating hours on the client’s/third-party websites\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned and engineered Excel templates and instituted collaborative forums with client’s regional heads, aggregating weekly override inputs\n•\nDeveloped a sophisticated Python model to automate the preparation of 200+ weekly schedule files, to ensure that overall operating hours and \nclasses are broken down at a product and location granularity and slots are enabled based on specified business rules\n•\nImplemented a robust RPA solution using UiPath to seamlessly integrate these files into a third-party portal, significantly enhancing efficiency \nin updating product schedules and operating hours on the client’s/third-party websites\nSituation\n•\nClient offers indoor skydiving experience to customers in 35 locations across with 8-9 product offerings. They had to manually update the \navailable operating hours and slots weekly on a third-party portal involving upload of ~200 files.\n•\nThis time-consuming process caused delays of 2-3 days each week, leading to rescheduled customer bookings. Additionally, they faced \ncomplexity of allowing manual updates for last-minute changes.\n•\nMerilytics partnered with the client to set up a process to generate these files automatically using Python. The solution would consider the \ninputs from Regional Directors and automate the subsequent push to third-party portal using UiPath\nAutomated class schedule upload to website\n3\nImpact\n•\nGathering inputs from Regional Directors at a broad level (tunnel-day) and breaking them down to a granular level (tunnel-product-hour) made \nthe schedule change process more flexible, enabling the client to be more responsive to customer demand\n•\nAutomated processes for preparing and uploading schedules saved ~2 FTE days per week and reduced delays for updated schedules to reflect \non the client’s website, enabling a smooth booking experience for the customers. This resulted in an estimated annualized sales lift of $1.5 M \n(~2%) \nAutomated class schedule \nupload to website\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n4\nProcess Flowchart - Before\nProcess Flowchart - After\nNotes\n▪\nSchedule generation and finalization process along \nwith upload to Client’s POS is critical for the client \nto keep their website operational \n▪\nRecently, the client planned to change their POS \nvendor due to which the legacy system leveraged \nto perform the upload became outdated and the \nprocess became manual (executed by the POS \nthird-party vendor in ~2 working days each week)\n▪\nMerilytics team created a framework to create the \nfiles at a product and location level leveraging \nPython/Excel, following the business rules (~200 \nfiles weekly)\n▪\nAdditionally, the team deployed a weekly UiPath \npipeline to upload these files on the vendor’s portal\n▪\nThis process reduced the turnaround time for \nschedules to be updated from ~2-3 business days \nto ~4 hours\n▪\nAlso, as the schedules were uploaded promptly, \ncustomers had a smoother booking experience on \nthe website\nRD’s inputs on \nScheduling changes\n~200 files prepared \nusing a semi-\nautomated process\nThird Party vendor \nmanually uploads these \nfiles to the portal\nFiles shared over \nFTP folder\nManual Process\nRD’s inputs on \nScheduling changes\n~200 files prepared \nusing a semi-\nautomated process\nAutomated upload to \nthe portal and Third-\nparty websites\nUIPath \nFlows\nAutomated Process\nPython \nScript\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSchedules predicted by tool – Operations team to adjust as \nneeded\nAutomated template based on demand trends to \nprovide scheduling suggestions to RDs (#classes by \nday / location). It also provides the flexibility to \noverride these suggestions based on operational \nconstraints\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAutomated quality checks on client’s web portal\nUpdated third-party web portal, which is leveraged for \nQuality Checks and ensuring that schedules are \nreflecting correctly to customers on client’s website\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (122).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124827+05'30'",
+            "modDate": "D:20241114124827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\n1) Utilizing automation tools such as Python and UiPath enabled the team to \nstreamline and automate repetitive tasks. This resulted in increased \nefficiency and accuracy in the scheduling process.\n2) Understanding how to integrate UiPath Orchestrator with the scheduling \nprocess was valuable.\n3) Configuring the UiPath flow to loop through schedule files using an input \nfile and triggers/error handling/logging within UiPath flows\n4) Developing a structured process and templates for partnering with \nRegional Directors and gathering scheduling inputs helped in optimizing \nthe overall scheduling workflow. This approach ensured consistency and \nreliability in the data collection process\n5) Ensuring compliance with regulatory requirements and maintaining data \nsecurity standards were essential considerations throughout the project. \nImplementing measures to safeguard sensitive data and comply with \nrelevant regulations mitigated potential risks and protected the client's \ninterests\nLearnings\n"
+    }
+]

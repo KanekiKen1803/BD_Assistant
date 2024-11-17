@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData & Reporting Infrastructure Design and \nBuild\n1\n• Diagnosed current-state data and reporting infrastructure to assess quality, \nreliability and completeness, and identified opportunities to optimize data flow \nand define/track key metrics\n• Recommended and deployed future-state data infrastructure and developed an \nautomated management reporting suite\nBackground screening software & services company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for diagnosing the existing data infrastructure and reporting suite and devise a plan to meet current and future \nreporting requirements. Currently, the internal reporting systems are based on data flowing through a single platform, data from \nthird-party applications and offline sources not integrated which does not allow reporting across multiple data source systems.\nBackground screening company needs a thorough review of its \ndata infrastructure\n2\nYour value is enhanced. \n•\nYou have visibility into key data, process and technology gaps through the diagnostic phase, and defined a roadmap to \nachieve management goals of centralized and automated reporting.\n•\nThe revised architecture enables reliable and automated reporting on a real-time basis, to make informed decisions \nefficiently.\nDATA AND REPORTING \nINFRASTRUCTURE\nKEY RESULT   \nVALUE LEVERS PULLED\n•\nDiagnostic study\n•\nData Integration into \na data warehouse\n•\nPower BI dashboard\n2\nYou turn to Accordion. \nWe partner with your team to conduct a diagnostic study, develop and deploy data and reporting infrastructure, including:\n1)\nAnalyzing data flow from internal systems and platforms, third-party applications (Salesforce, QuickBooks and RingCentral) \nand other sources to identify gaps and opportunities in the current-infrastructure\n2) Identifying high priority KPIs and metrics across finance, operations, sales & marketing, engineering, customer support and \nother functions, through stakeholder interviews and enabling data-driven decision making through future-state data \nwarehouse\n3) Recommending a data architecture framework to build an Enterprise Data Warehouse (EDW)\n4) Creating a single source of truth by integrating data from disparate systems into a data warehouse to consolidate data \nelements and develop data marts and metrics\n5) Building analytics models and developing automated dashboards in Power BI for multiple reports/analyses identified in the \ndiagnostic phase\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed data flow from internal systems and platforms, third-party applications (Salesforce, QuickBooks and RingCentral) and other sources to identify \ngaps and opportunities in the current-infrastructure.\n•\nIdentified high priority KPIs and metrics across finance, operations, sales & marketing, engineering, customer support and other functions, through \nstakeholder interviews and enabled data-driven decision making through future-state data warehouse.\n•\nRecommended a data architecture framework to build an Enterprise Data Warehouse (EDW)\n•\nCreated a single source of truth by integrating data from disparate systems into a data warehouse to consolidate data elements and develop data marts and \nmetrics.\n•\nBuilt analytics models and developed automated dashboards in Power BI for multiple reports/analyses identified in the diagnostic phase.\nSituation\n•\nClient’s internal reporting systems was based on data flowing through a single platform and did not allow reporting across multiple data source systems. In \naddition, the data from third-party applications and offline sources was not integrated, resulting in a limited reporting suite.\n•\nDiagnostic Phase: Partnered with the client to diagnose their existing data infrastructure and reporting suite and devised a plan to meet their current and \nfuture reporting requirements.\n•\nDeployment Phase: Based on the diagnostics, developed and deployed data and reporting infrastructure.\nData and Reporting Infrastructure – Diagnostic & Deployment \n3\nImpact\n•\nProvided visibility into key data, process and technology gaps through the diagnostic phase, and defined a roadmap to achieve management goals of \ncentralized and automated reporting.\n•\nOur revised architecture enabled reliable and automated reporting on a real-time basis, helping the client make informed decisions efficiently.\nData and Reporting Infrastructure – \nDiagnostic & Deployment \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach - Diagnostic phase\n4\nEXPLORATION\nASSESSMENT\nDESIGN\nDOCUMENTATION & \nRECOMMENDATION \n▪Identified  data sources, \nservers and other third-party \nsystems\n▪Accessed client’s data systems \nto deep-dive and explore the \ndata directly\n▪Developed an understanding of \nexisting infrastructure and \ndata flows\n▪Conducted technology \nstakeholder interviews to \nunderstand current-state data \nsources\n▪Connected with functional \nheads to understand the \ndesired future state of \nreporting\n▪Defined existing process \nflows and workflows for every \ndata system\n▪Identified current process \nand data gaps by assessing \nexisting metrics and data \nquality across functional areas \nincluding finance, sales & \nmarketing, operations, etc.\n▪Assessed data governance \nprocesses to document data \ncapture methodology\n▪Reviewed existing reports to \nidentify automation and \nenhancement opportunities\n▪Designed data warehouse \ninfrastructure suitable for \nthe client’s technology stack \nto serve as a single source of \ntruth and automate reporting\n▪Defined a detailed \nmanagement reporting suite \nincluding key performance \ndrivers across finance, \noperations, sales & \nmarketing, engineering, \ncustomer support and other \nkey functions \n▪Created high-level and low-\nlevel architecture diagrams for \nprocesses across all systems\n▪Created data flow and sample \nworkflows for all source \nsystems for ease of reference\n▪Provided recommendations \non data framework to \nestablish a single source of \ntruth and enable actionable \nreporting\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach - Build phase\n5\nDevelop Data \nModel to \nSupport BI \nDashboards\nIntegrate, \nTransform \nand \nStandardize\nTransition \nand Develop \nReports\n• Created standard \nidentifiers for all \ncustomers, services, \norders, packages, etc. \nacross various \napplications to analyze \ndata across the \nbusiness\n• Set-up standard \nnomenclature for future \ncustomer additions and \nnew services\n• Created post-production \ndocumentation and user \nmanual\n• Created data dictionary to \nenable business users to \ncreate new reports in data \nwarehouse\nData warehousing\nData Modelling\nDashboarding\n• Transitioned legacy reports \nincluding revenue recognition \nand profitability reports from \nExcel to Power BI\n• Created company level \nreporting suite across key \nfunctions for management \nconsumption\nSupport\n• Developed data models \nfor each function to \nsupport automated \nPower BI dashboards\n• Provided flexibility to \nshare reports with select \nemployees\nCreate Single \nRepository\nBuilt data pipelines in \nAzure data factory to \ningest data from \n• Internal Platforms and \napplications on MS \nSQL Server\n• QuickBooks\n• Salesforce\n• TestVault\n• Supplier invoices \n(OneDrive)\nOperating \nManual and \nData \nDictionary\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCloud-based architecture (Azure Stack)\n6\nNew Architecture Data Flow:\n▪Pull data from secondary servers into \nonline data storage in Azure cloud \nnetwork\n▪Data storage layer in Cloud:\n−Use Azure Synapse for historical and \nincremental data load\n−Use Azure Synapse with in-built \nAnalysis Services Integration for \nreporting in Power BI or Excel\n−Capture data from third-party \napplications (Salesforce, Quickbooks, \nRing Central) via Azure Synapse\n−Transfer supplier invoices from Excel \nto Azure Synapse via secured share \nfolders\n▪Archive data periodically from Azure \nSynapse to ADLS (Azure Data Lake \nStorage) to optimize time and cost\n▪Utilize Azure Data Redundancy (Local, \nZonal, Geo, Geo-zone) for data backup\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (27).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155610+05'30'",
+            "modDate": "D:20241114155610+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nList of reports deployed\n7\nSales & \nMarketing\nSales Pipeline Reporting\n̶\nSales Pipeline evolution by utilizing snapshots of Salesforce in Data warehouse\n̶\nBooked vs. Actual Revenue Report\n̶\nSales and Revenue Forecast (based on Salesforce data)\nFinance\nProfitability/Revenue Recognition Reporting\n̶\nGross Margin, Exceptional Cost Analysis, Surge Monitor Tracker\n̶\nCost of Services Analysis by invoice consolidation\n̶\nRevenue Analysis Report, Organic Growth Segmentation \nOperations\nOperational Reporting \n̶\nVerification Report, Service Case Report, Daily Statistics Report (only BGV)\n̶\nBusiness Review Report, Services Analysis Report\n̶\nMedical Screening Report\nLeveraged the integrated data warehouse to enable comprehensive reporting across key functions. Developed and automated the following reports \nto provide the real-time and enhanced visibility into business performance\n"
+    }
+]

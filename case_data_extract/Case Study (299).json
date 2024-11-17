@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRobotic process automation for data scraping\n1\nCreated an RPA process to automate the data download process of sales reports \nfrom two portals for multiple brands and set up data validation checks\nLaw Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for automating the data download process of sales reports from two portals for multiple brands and set up \ndata validation checks. However,  each brand has reports specific to a region (US, Canada, EU, etc.) which creates over 250 \ncombinations of brands and regions, and the current data download process is manual and requires a lot of time and effort.\nLaw firm needs to outlaw their data download process\n2\nYour value is enhanced. \n•\nYou have automated data fetch process using RPA to increase the efficiency by scraping the data every day (smallest time \nrange of data available), reduced errors like data contamination, and increased security by curtailing the number of people with \naccess to the portals.\n•\nYou will have increased frequency to download more granular data from the websites by selecting shorter time duration (1 day) \nfor the aggregated report compared to the earlier manual process (1 week).\n•\nThe scraping process would have saved over 150 hours of manual effort needed every month. This process could be setup to \nfunction over the weekends and other nonworking days as well with an equivalent to 0.9 FTE (effort put in by a full-time \nemployee).\nROBOTIC PROCESS AUTOMATION FOR \nDATA SCRAPING\nKEY RESULT   \n•\n>150 hours of manual \neffort saved\nVALUE LEVERS PULLED\n•\nRobotic Process \nAutomation using \nUiPath\n2\nYou turn to Accordion. \nWe partner with your team to help automate the data download process in a robust and reliable way utilizing UiPath for the \nRPA process, including:\n1) Implementing scraping of the brand-region combination before the report download process begins, which will enable \nthe system to scale up automatically when new brands are onboarded. \n2) Removing the cause of most common errors in manual processes, e.g., mismatching the downloaded report to other \nbrands by programmatically handling the downloaded report naming conventions. \n3) Building a robust system to mine the data everyday with the capability to handle common changes in website UI. \nAutomating the system to run behind a locked screen without any necessity of human intervention. \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nImplemented scraping of the brand-region combination before the report download process begins, which enables the system to scale up automatically \nwhen the client onboards new brands onto their platform. \n•\nRemoved the cause of most common errors in manual processes, e.g., mismatching the downloaded report to other brands by programmatically handling \nthe downloaded report naming conventions. \n•\nBuilt a robust system to mine the data everyday with the capability to handle common changes in website UI. The system is built to run behind a locked \nscreen without any necessity of human intervention. \nSituation\n•\nClient fetches sales data from two portals for brands with which they collaborate. Each brand has reports specific to a region (US, Canada, EU, etc.) which \ncreates over 250 combinations of brands and regions. This data download process is manual and requires a lot of time and effort.\n•\nPartnered with the client to help automate the data download process in a robust and reliable way utilizing UiPath for the RPA process.\nRobotic Process Automation for a Law Firm\n3\nImpact\n•\nAutomated data fetch process using RPA has increased the efficiency by scraping the data every day (smallest time range of data available), reduced errors \nlike data contamination, and increased security by curtailing the number of people with access to the portals.\n•\nIncreased frequency helped the client to download more granular data from the websites by selecting shorter time duration (1 day) for the aggregated report \ncompared to the earlier manual process (1 week).\n•\nThe scraping process saves over 150 hours of manual effort needed every month. This process is setup to function over the weekends and other nonworking \ndays. This is equivalent to 0.9 FTE (effort put in by a full-time employee).\nRobotic Process Automation For Data \nScraping\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\nApproach\nThe process to automate the extraction of sales data \nfor over 250 combinations of brands and regions \nfrom 3rd party portals using UiPath involved the \nfollowing phases:\nSolution Designing:\nFirst step is to understand all the tools that are \nrequired to solve the requirement. This step involved \ndesign decisions like browser selection, data storage \nmechanism, etc.\nRPA Implementation:\n•\nAll the steps that a user takes in manual approach \nare listed down \n•\nUiPath Studio is used to implement the steps and \nto build a process\n•\nRobot is created and process to the robot is \npublished using Orchestrator\n•\nProcess is scheduled with a robot on a system \nusing Orchestrator\nSystem Architecture\nWindows System\n▪\nLogin to the portal with given username \nand password \n▪\nScrape list of brand and region accounts \navailable in the portal \n▪\nNavigate to first brand page\n▪\nSelect date range & wait for the page to \nload\n▪\nClick on download > detail view > as CSV, \nthis step will download the file \n▪\nClick on switch accounts, select another \nbrand and repeat above steps\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData scraping\n5\nTables can be scraped from different types of web interfaces using UiPath and saved to excel \nScreenshot of brand & \nregion combination from \nthe website that needs \nto be scraped\nWebpage with list of brands\nList of names scraped by \nUiPath to an Excel file from \nthe table above \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nUiPath orchestrator (1/2)\n6\nUiPath Orchestrator is a \ntool used to manage the \nrobots. Here we can see a \nlist of different automation \nprocesses created\nCreated processes can be \nscheduled to be triggered \nat any interval using the \norchestrator\nUiPath Orchestrator Process List\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (299).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163249+05'30'",
+            "modDate": "D:20241114163249+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nUiPath Orchestrator (2/2)\n7\nUiPath RPA Process\nUse Case:\nThe need is to place order of SKUs on a software \ncalled Siriusware which is a native windows \napplication. This is a manual intensive process where \nan individual needs to input data of multiple SKUs \nfrom excel.\nThe process involves the following steps:\n•\nLaunch the application using windows run \ncommand. \n•\nWait for application launch and login using the \ncredentials. \n•\nSelect the required functionality from activities \ndrop down and select purchase order. \n•\nFill the purchase order details in the subsequent \ndata entry fields. This is complex data entry step \nwhich loops through the data available in an input \nexcel sheet and fills the parameters. \nThe video demonstrates a UiPath RPA process which \nperforms the above steps in a windows machine. \nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "REAL ESTATE PRO FORMA MODELING FOR A WELLNESS AND FITNESS SERVICES PROVIDER \nSITUATION\n▪Client lacked visibility into strategic financial information that could enable them to finalize the locations to rent/lease new properties\n▪Merilytics partnered with client to develop a predictive model to project cash flow and profitability (for 10 successive years), operating expense, and \nfinancial performance KPIs to take informed decision on expanding their geographical presence\n▪Collaborated with the Real Estate, Operations, and Marketing teams for forecasting future cashflows to enable the client estimate financial performance \nKPIs such as Cash on Cash Return, Payback Period, IRR and SLEBITDA, for the prospective studios\n▪Leveraged the historical sales trend from client’s studios located geographically closer to the prospective/new property, to synthesize long term cash flow \nprojections which enabled the client to finalize the properties to lease based on the expected payback period\n▪Modelled the operation expenses based on current market trends as the baseline values, and provided user over-rides to assess the sensitivity of change \nin labor expenses on overall profitability\nVALUE ADDITION\nIMPACT\n▪Based on the forecasting and comparative analyses, the client successfully executed post pandemic geographical expansion into multiple territories\n▪The model provided a bespoke template for finalizing the location of new properties, thus enabling the client to save ~15 person-hours per prospective \nproperty on the analysis\nABOUT THE CLIENT\nClient is a PE-owned yoga fitness chain in the U.S. with more than 200 studios across 25+ states\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n2\nHistorical Data Inputs\nUser Inputs\nRevenue \nEstimation\nIntermediate\nSchedules\nOutputs\nSourced revenue and financial details for the \nexisting properties from the clients Data \nWarehouse.\nBased on current market trends, suggested \ndetails related to the location, lease terms, \ncapital expense, and operational expense as \nbaseline values\nEstimated revenue with the help of 3 approaches \n– historical growth in products’ sale, historical \ngrowth in users, and competitor analysis\nProjected operational expense and monthly \nGAAP adjusted cash flows for a period of 10 \nyears.\nPrepared summarized views of expected \nIRR, payback period, and cash-on-case \nreturns for prospective studios to assist the \nclient in informed decision making on new \nstudio launches\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "Net Income- Annual\nYear 0\nYear 1\nYear 2\nYear 3\nYear 4\nYear 5\nYear 6\nYear 7\nYear 8\nYear 9\nYear 10\nProduct Category 1 Revenue\n$1,774,450 $1,057,124 $1,750,050 $1,041,822 $1,365,893 $1,447,037 $1,812,219 $1,026,556 $1,578,184 $1,479,798 $1,371,457 \nProduct Category 2 Revenue\n$319,829 \n$218,301 \n$385,297 \n$236,935 \n$214,853 \n$351,388 \n$368,155 \n$359,575 \n$313,313 \n$297,196 \n$352,494 \nProduct Category 3 Revenue\n$75,414 \n$79,892 \n$95,515 \n$96,814 \n$61,890 \n$84,701 \n$62,317 \n$96,704 \n$94,334 \n$80,906 \n$65,266 \nProduct Category 4 Revenue\n$15,758 \n$13,664 \n$15,920 \n$18,581 \n$20,106 \n$25,274 \n$0 \n$0 \n$0 \n$0 \n$0 \nTotal Property Revenue\n$2,185,451 $1,368,981 $2,246,782 $1,394,152 $1,662,742 $1,908,400 $2,242,691 $1,482,835 $1,985,831 $1,857,900 $1,789,217 \n% Increase\n-37%\n64%\n-38%\n19%\n15%\n18%\n-34%\n34%\n-6%\n-4%\nCOGS\n$55,924 \n$66,861 \n$67,770 \n$43,323 \n$59,291 \n$43,622 \n$67,693 \n$66,034 \n$56,634 \n$45,686 \nRetail Gross Margin\n$75,414 \n$23,968 \n$28,655 \n$29,044 \n$18,567 \n$25,410 \n$18,695 \n$29,011 \n$28,300 \n$24,272 \n$19,580 \nProperty Expense\nLabour\n$277,340 \n$319,700 \n$187,892 \n$219,017 \n$310,801 \n$495,443 \n$363,271 \n$386,022 \n$117,888 \n$391,679 \n$186,750 \nOther OpEx\n$73,666 \n$61,445 \n$64,446 \n$78,766 \n$61,482 \n$66,810 \n$66,440 \n$77,379 \n$50,613 \n$69,779 \n$55,590 \nTotal Property Expense (ex Rent & NNN)\n$351,006 \n$381,145 \n$252,338 \n$297,783 \n$372,283 \n$562,253 \n$429,711 \n$463,401 \n$168,501 \n$461,458 \n$242,340 \nSLEBITDA-XO (ex Occupancy)\n$1,759,031 \n$963,868 $1,965,790 $1,067,325 $1,271,892 $1,320,737 $1,794,285 \n$990,423 $1,789,030 $1,372,170 $1,527,297 \nOccupancy (Cash Rent & NNN)\n$126,818 \n$164,001 \n$161,276 \n$226,441 \n$121,620 \n$288,930 \n$179,704 \n$295,829 \n$213,575 \n$166,564 \n$221,898 \nSLEBITDA\n$1,632,213 \n$799,867 $1,804,514 \n$840,884 $1,150,272 $1,031,807 $1,614,581 \n$694,594 $1,575,455 $1,205,606 $1,305,399 \n% of Revenue\n58%\n80%\n60%\n69%\n54%\n72%\n47%\n79%\n65%\n73%\nDepreciation & Amortization\n$80,497 \n$91,531 \n$89,738 \n$88,924 \n$65,798 \n$97,636 \n$87,707 \n$50,659 \n$73,305 \n$50,508 \n$84,683 \nNet Income\n$1,551,716 \n$708,336 $1,714,776 \n$751,960 $1,084,474 \n$934,171 $1,526,874 \n$643,935 $1,502,150 $1,155,098 $1,220,716 \n% of Revenue\n52%\n76%\n54%\n65%\n49%\n68%\n43%\n76%\n62%\n68%\nEXHIBIT 1: 10 YEAR CASH FLOW PROJECTION\n3\nNNN denotes triple net lease, i.e., the tenant is responsible for paying all the operating expenses for the property. \nILLUSTRATIVE\nMonthly cash flow estimated \ntill 10 years of operation of \nthe new property\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "Pricing Zone Chosen\n$300 \nLabour Role 1/Labour Role 2\nLabour Role 1\nLabour Role 3\nRequired\nPre-Opening Expense Overrides\nSuggested Value\nUser Input\nEmployee Burden (Benefits)\nPre-Opening Expense\n$1,617\nLabour Role 1\nPre-Opening Expense\n$11,200\nLabour Role 2\nPre-Opening Expense\n$0\nOccupancy (Rent)\nPre-Opening Expense\n$0\nCommunication  \nGrand Opening Expense\n$300\nTravel & Entertainment\nGrand Opening Expense\n$11,000\nG&A  \nGrand Opening Expense\n$2,000\nSupplies\nGrand Opening Expense\n$15,000\nUtilities\nGrand Opening Expense\n$400\nInstructor Labor\nGrand Opening Expense\n$2,000\nMarketing (Pre-Opening)\nGrand Opening Expense\n$10,000\nTotal Operations (Pre-Opening)\nGrand Opening Expense\n$43,517\n$0\nTotal Pre-Opening Expense\nGrand Opening Expense\n$53,517\n$0\nEXHIBIT 2: ASSISTED OPERATING EXPENSES USER INPUTS\n4\nReference values provided to client \nto assist in entering user inputs for \noperating expenses of the new \nproperty\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "LTM Results\nKPIs\nNearest Properties\nLTM \nAttendance\nLTM \nRevenue \nTY('000)\nLTM \nRevenue \nLY('000)\nYOY \nRevenue\nAverage \nRev/Visit\nLTM \nSLEBITDA \nTY ('000)\nLTM \nSLEBITDA \nLY ('000)\nYOY \nSLEBITDA Sales PSF Occup. % \nof Rev.\nSLEBITDA % \nof Rev.\nID1\nProperty 1\n20,649 \n$931\n$1,473\n-37%\n$45\n$142\n$164\n-13%\n$466\n16%\n15%\nID2\nProperty 2\n48,606 \n$1,372\n$436\n215%\n$28\n$367\n$224\n64%\n$686\n11%\n27%\nID3\nProperty 3\n27,842 \n$619\n$911\n-32%\n$22\n$116\n$442\n-74%\n$310\n24%\n19%\nID4\nProperty 4\n45,104 \n$246\n$733\n-66%\n$5\n$308\n$239\n29%\n$123\n61%\n125%\nAverage\n35,550 \n$792\n$888\n-10.8%\n$25\n$233\n$267\n-13%\n$396\n28%\n46%\nYr.3\nNew Property\n1,050 \n$645\n$614\n#REF!\nEXHIBIT 3: KEY FINANCIAL DRIVERS \n5\nLast 12 Months’ Financial \nKPIs (revenue, SLEBITDA and \naverage revenue per visit) \nanalysed with respect to the \nnew property\nSLEBITDA is calculated as (Total Revenue - COGS - Property Expense – Occupancy) and denotes property level EBITDA; Sales PSF represents revenue per square foot.\nILLUSTRATIVE\nKey financial metrics (at the \nend of 3rd year of operation) \nprojected for the new \nproperty\nFinancial Performance: New Property\nProjected\nCash on Cash Return:\n(Yr. 3 Cash EBITDA / Net Capex)\n40%\nPayback (Months):\n22\nIRR:\n(Not tax burdened)\n50%\nSLEBITDA/ 4 Wall Contribution\n(@ Yr. 3)\n26%\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (365).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175855+05'30'",
+            "modDate": "D:20241114175855+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n6\n▪To assist the client in providing user inputs to the model, the team implemented an approach in which the historical data were used to suggest \nreference values. Hence, this manual overriding functionality made the model flexible with respect to the inputs provided by the user.   \n▪For predicting long-term cash flow projections, the team used past revenue and growth rate data from the properties with similar (geographical) \ncharacteristics. This approach could also be leveraged for executing predictive analysis in absence of data which could be directly attributed to the \nsubject of the analysis. \n"
+    }
+]

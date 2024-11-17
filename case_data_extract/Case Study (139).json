@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Warehouse Migration\n1\nPartnered with the client to migrate the existing legacy Data Warehouse system to \nAzure-based Data Warehouse, through NetSuite ODBC connection, providing the \nclient complete control over the back-end infrastructure. Additionally, transitioned \nthe existing reporting suite to run-off the new Azure-based Data Warehouse to \nhelp augment analytics/reporting.\nFood Manufacturing Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSetup the NetSuite ODBC connection to migrate the historical data (Sales, Transaction, Invoices, P&L data) into the Azure-based Data Warehouse (DW). \nExplored and mapped the key metrics to raw data tables, from the NetSuite backend data, to identify the relevant tables that are required to run the existing \ndashboarding suite.\n•\nLeveraged the NetSuite ‘Saved Search’ (custom) reports and existing reports (based out of legacy DW) to reconcile the data across NetSuite, Legacy DW, \nand the new Azure-based DW with high accuracy (~98%). Further documented the mappings for any future reporting requirements for BI team.\n•\nIdentified opportunity to automate the process of getting manual inputs from the Business team, required to run the dashboarding suite, by building custom \npython scripts from SharePoint. Transitioned the existing Power BI-based reporting suite to run-off on the new Azure-based DW. \nSituation\n•\nClient’s existing Data Warehouse was built on proprietary technology and is owned by a third-party vendor. This system does not provide the client any \ncontrol to change or improve the system and is cost-prohibitive & time-consuming. There was an opportunity to transition to Azure-based Data Warehouse\n•\nPartnered with the client to migrate the existing legacy Data Warehouse system to Azure-based Data Warehouse, through NetSuite ODBC connection, \nproviding the client complete control over the back-end infrastructure. Additionally, transitioned the existing reporting suite to run-off the new Azure-\nbased Data Warehouse to help augment analytics/reporting.\nData Warehouse Migration through NetSuite ODBC \nfor a CPG Brand\n2\nImpact\n•\nTransitioned to the Azure-based Data Warehouse enabling the client to have complete control over the back-end infrastructure. Performed a seamless \ntransition of the dashboarding suite without impacting the front-end business users\n•\nMigration process ensured consistent data across all the systems with extremely high-accuracy (~98%) ensuring that the dashboarding suite act as a reliable \nsource of truth for the Business/Sales team\n•\nCreated a central data repository enabling the team to further expand/add more data sources in the future and eliminated any need for manual interventions, \nfrom the Business team, i.e., automated the end-to-end reporting process\nData Warehouse Migration\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology – High Level Diagram of Datawarehouse Architecture\n3\nAzure SQL\nAzure Analysis Services\nAzure Data \nFactory\nAzure Data  Lake\nStorage\nInges\nt\nStore\n1\n3\n4\nModel & Serve\n5\nAzure Functions\n1\nData Sources\nData Storage & Processing\nData Visualization\nSHAREPOINT\nFILES\n2\nNETSUITE \nDATA\n1\nCollate and ingest data from data sources using Azure Data Factory and/or Azure Function either to Azure Data Lake or Azure SQL Database\nConsolidate and harmonize the data and push the data into Analysis Services for data modelling purposes\n2\nAzure functions are used to append the metadata of Helium 10 files (Amazon data) and Sales & Orders data into the tables on SQL database\n5\nAzure Data Lake to serve as “single data repository” for the SharePoint data and NetSuite data.\n3\n4\nBuild operational reports and analytical dashboards on top of Azure Analysis Services or SQL Database to derive insights from the data\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Flow Diagram\n4\nData Orchestration\nSHAREPOINT\nFILES\nNETSUITE \nDATA\nODBC Connection\nOn VM\nOracle\nAzure Self-\nhosted \nIntegration \nruntime\nOAuth Connection\nLogic App \nTrigger every 6 \nhours\nData Sources\nConnection\nStorage\nAzure Data \nLake\nData Warehouse\nData Model\nVisualization\nNetSuite Pipelines\n+\nSharePoint Pipelines\nAzure Data Factory\nAzure SQL Database\nData Warehouse\nAzure \nAnalysis Services\nPower BI dashboards\nTransitioned \n11 dashboards from \nLegacy DW to Azure \nDW\nSingle data model for \n11 dashboards\nAzure Functions\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Tables Leveraged from NetSuite ODBC Backend\n5\nSr. No.\nTable Name\nDescription\n1\nNS_Account\nContains Account details such as account number, account name and account types like Income, COGS, \nexpense etc.\n2\nNS_Classification\nContains list of divisions/ classes\n3\nNS_Customer\nCustomer details with fields such as customer email, alternate email, sales representative etc.\n4\nNS_Department\nDepartment details like Sales, Marketing, HR etc.\n5\nNS_EntityAddress\nAddress fields like Country, state, zip code, phone\n6\nNS_Item\nItem details including item name, units, cost\n7\nNS_Location\nLocation details\n8\nNS_Transaction\nTransaction level data like transaction id, date, amount, posting etc which is the main dataset\n9\nNS_TransactionLine\nTransaction detail table which links to transaction table\n10\nNS_Vendor\nVendor details such as name, vendor type etc.\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (139).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130900+05'30'",
+            "modDate": "D:20241114130900+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales Order Fulfilment Dashboard\n6\nILLUSTRATIVE\nP1          P2          P3          P4          \nP5\nP1          P2          P3          P4          \nP5\nTransition existing \ndashboards. Slicers and \ncharts were replaced with \ncorresponding data fields \navailable in NetSuite data\nDashboards were reconciled \nto less than 2% of variance \nbetween legacy and new DW \ndata\nDashboard >>\nSales & Ops - Sales Order Fulfillment\nOverall Summary\nKPIs\nLegagcy dashboard\nNew dashboard\nVar\nVar %\nQuantity\n1,55,01,557\n                   \n1,54,93,199\n       \n-8,358\n           \n-0.1%\nCases Fulfilled\n1,40,92,661\n                   \n1,40,83,211\n       \n-9,450\n           \n-0.1%\n# Cases Cut\n14,08,916\n                      \n14,09,988\n          \n1,072\n             \n0.1%\n$ Cases Cut\n$ 2,36,92,150\n$ 2,37,25,010\n$ 32,860\n0.1%\n* after removing unmapped customers\n"
+    }
+]

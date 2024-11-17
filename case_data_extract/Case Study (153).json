@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nRevenue Cycle Management (RCM) \nDashboard\nBehavioral healthcare company\nBuilt an RCM dashboard on Power BI to \nprovide comprehensive overview of \nclient’s revenue cycle performance and \ndifferent by integrating data from Azure \nData Bricks\n▪\nClaims Analysis\n▪\nCollections Analysis\n▪\nDenials Analysis\n▪\nBilled and Unbilled AR (Accounts \nReceivables) analysis\nSUCCESS STORIES - SUMMARY\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "RCM DASHBOARD FOR BEHAVIORAL HEALTHCARE PROVIDER\nSITUATION\n▪\nClient was operating at huge scale with more than 40 service centers in total and over a million claims per year, there was huge AR build up \nto the tune of $200 million and client needed immediate action to manage the revenue cycle.\n▪\nThe client’s native reporting solution did not have drilldowns on the factors affecting revenue cycle and was based on gross fee instead of \nnet charges providing limited visibility into the revenue cycle KPIs.\n▪\nMerilytics partnered with the client to build an efficient revenue cycle reporting suite with more granular drilldowns within a short timeline.\n▪\nIdentified various RCM KPIs across claims, denials, AR, etc. and developed methodology to define them accounting for data quality\n▪\nBuilt a Power BI data set customized to the KPIs with complex relationships between ~15 tables catering to more than five million claims \nfor a service period of two years.\n▪\nUsed the customized dataset to develop a Power BI dashboard with more than 25 complex views and granular drilldowns for all KPIs within \na short timeline of two months.\n▪\nValidated and stress tested the dashboard using the front end of client’s practice management system to ensure high accuracy.\nVALUE ADDITION\nIMPACT\n▪\nThe robust Power BI dashboard helped client monitor all the KPIs related to revenue cycle management in a single dashboard such as Clean \nClaims, Charge Lag, Denials Overturned, AR Days, Weighted Average Days to Collect etc. and take strategic decisions easily.\n▪\nThe RCM dashboard provided insights into patient related outstanding/ long overdue balance and thus expedite the collection process \nresulting in over $3.4 million being sent to collections.\n▪\nThe client was able to gain insights into denial outcome trends and thus had insight to managing the crucial process of denial overturning.\nABOUT THE CLIENT\nClient is a behavioral healthcare company offering online psychiatry and therapy services across the U.S.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH\n3\nData Source\nData Preparation (Customized to client needs) \nReporting \nLive Connection\nAzure Data Bricks\nLocal \nSystem\nPower BI \nWorkspace\nPower BI Dashboard\nUploaded\nDownloaded\nAdvanced MD\nPractice Management \nSystem\nHigh number of tables within the client’s database needed to be interlinked in \ncomplex ways to get the required KPIs\nReduced complexity by building a detailed data tracker to make sure that that \nvarious tables within the database are appropriately linked and no critical \ninformation or link is missed\nClient’s entire reporting was previously based on gross AR instead of Net AR, the \nlatter being a much more important metric in revenue cycle management, the \nentire reporting had to be changed to Net AR for reporting to add value\nDeveloped a logic to look for Net AR using data from various tables and \ndeveloped all metrics using Net AR\nDenials were going through multiple iterations of billing, denial/approval, \nrebilling/closure making it very difficult  to know the exact overall idea of AR in \ndifferent cohorts depending on their status\nDeveloped a view to breakdown initial denial amounts by outcomes to get a \nsnapshot of percent of AR denied/collected at any given date\nThe data was huge making Power BI extremely slow\nCreated a Power BI dataset customized to the needs of the client and used a \nPower BI live connection to make the dashboard faster\nMajor Challenges\nSolutions\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – SUMMARY\n4\nKPIs classified into \ndifferent sections –  \nCollections, Denials ,AR  \nand Claims \nKPI  tile showing % of \ncash collected from \nclaims in past 3 months \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – COLLECTIONS AS A % OF OPEN AR\n5\nView giving visibility \ninto the AR funnel , \nthis provides \nvisibility into % of \nmoney in various \nstages of the \nrevenue cycle\nView based on \nclient agreed \ncharges gives a \nrealistic perspective \nof the actually \ncollectable money \ninstead of the entire \ngross fee\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 – TRACKING DENIALS BY CURRENT OUTCOME AND BY SERVICE MONTH\n6\nView giving \nvisibility into the \ndenials funnel, this \nprovides visibility \ninto current status \nof denials post an \ninitial denial.\nHigh payments post \ndenials implies a \nbetter revenue, \nkeeping all other \nfactors constant.\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (153).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132722+05'30'",
+            "modDate": "D:20241114132722+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n7\n▪\nGot an opportunity to upskill in power BI specially when dealing with huge data sets.\n▪\nCreated some RCM knowledge base within the project team.\n"
+    }
+]

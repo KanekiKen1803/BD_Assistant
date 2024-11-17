@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProduct price benchmarking\n1\nBenchmarked prices with various competitor locations, close to restaurant \nlocations, to identify opportunities for increasing revenue through pricing actions\nAmerican coffee chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to benchmark the current product prices with similar products offered by six major direct competitors to \nidentify pricing opportunities while staying competitive. Currently, you are looking to revise the product pricing in the stores \nbut are concerned with the possible impact of price changes.\nAmerican coffee chain needs Product price benchmarking\n2\nYour value is enhanced. \nYou have analyses that helped to increase revenues by revising the menu prices of four under-priced product categories. You have \nidentified key product groups, with strong sales performance, despite being at a premium pricing to key competitors, driven by \nspecific flavors/variants offered enabling to better understand the value of differentiation.\nPRODUCT PRICE BENCHMARKING\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nCompetitor product \nmapping\n•\nCategory price \nbenchmarking \n2\nYou turn to Accordion. \nWe partner with your team to benchmark prices with various competitor locations, close to restaurant locations, to identify \nopportunities for increasing revenue through pricing actions, including:\n1)\nConsolidating the prices of all products offered by competitors using various menu aggregator websites and map them to \nsimilar products offered\n2) Standardizing competitor product prices to match the company’s products, based on key differences in serving size\n3) Benchmarking product pricing at the category level against each competitor based on standardized product prices and \nquantifying the potential for increasing menu prices within these segments\n4) Threat from each competitor is being rated by evaluating proximity of competitor stores to each of the stores using Google \nmaps API\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConsolidated the prices of all products offered by competitors using various menu aggregator websites and mapped them to similar products offered by the \nclient\n•\nStandardized competitor product prices to match client’s products, based on key differences in serving size.\n•\nBenchmarked client’s product pricing at category levels with each of the competitors based on the standardized product prices and quantified the extent to \nwhich the menu prices for these segments could be increased\n•\nThreat from each competitor was rated by evaluating proximity of competitor stores to each of the client’s stores using Google maps API\nSituation\n•\nClient was looking to revise the product pricing in their California stores, but were concerned with the possible impact of price changes\n•\nPartnered with the client to benchmark the current product prices with similar products offered by six major direct competitors operating in California to \nidentify pricing opportunities while staying competitive \nProduct price benchmarking for a large coffee chain\n3\nImpact\n•\nThe analyses helped the client increase revenues by revising the menu prices of four under-priced product categories \n•\nClient was able to identify key product groups, with strong sales performance, despite being at a premium pricing to key competitors, driven by specific \nflavors/variants offered by the client enabling the client to better understand the value of differentiation\nProduct price benchmarking\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n4\nWeb Mining\nProduct descriptions and serving sizes \naggregated from competitor’s websites\nLocations of competitor stores identified \nfrom Maps data\n1\nSynthesis\nWeights assigned to client’s \nproducts based on revenues \ngenerated \nCompetitor product prices \nnormalized to match client’s \nserving size\nStraight line distance of each \nstore to nearest competitor \nstores estimated\nCompetitor products mapped to \nsimilar client products based on \nproduct description\nCompetitor product pricing mined from \nmenu aggregator websites\n2\nOutput\n3\nWeighted average price of client’s products compared with key \ncompetitor’s prices at category levels \nThreat to each client’s store from competitors rated\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMapping similar products\n5\nClient’s products mapped to \nequivalent competitor \nproducts\nCompetitor product prices \nwere compared after \nadjusting for serving size\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBenchmarking product category prices\n6\nProduct category prices were \nbenchmarked with \ncompetitors based on the \ndifference in weighted \naverage price of common \nproducts\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (252).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153423+05'30'",
+            "modDate": "D:20241114153423+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nStore specific competitor threat \n7\nDynamic input to enter the \ndistance for threat evaluation \nNumber of competitor stores \nwithin input radius \nILLUSTRATIVE\n"
+    }
+]

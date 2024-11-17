@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170346+05'30'",
+            "modDate": "D:20241114170346+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n1\nRouting Optimization \n(Apparel Retailer)\nCreated a Frontline Solver based model to systematically optimize the routing of \nseveral product sets to sales associates across the U.S. to minimize the total shipping \ncost incurred by the company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170346+05'30'",
+            "modDate": "D:20241114170346+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nRouting Optimization For Pe-owned Apparel Retailer\n2\nSITUATION\nVALUE ADDITION\nIMPACT\n• Merilytics partnered with the company to develop \nan optimization model to reduce overall product \nshipment costs within its sales force network\nINPUTS\n• Analyzed the sales network and performance data \nto identify shipment cost drivers and cost-saving \nopportunities\n• Developed a complex routing optimization model \nbased on the classic multiple Vehicle Routing \nProblem (mVRP) to provided optimal shipment \nroutes to minimize logistics costs\n• Factored in various business constraints related to \ngeographic locations, sales agent performance, \nshopping seasons etc. and automated the route \noutput\n• Integrated the optimization model with logistics \nprovider’s shipping API for the client to develop \nreal-time optimized routes\nPROCESSING\n• Our in-depth analysis and highly scalable \noptimization model allowed the company to \nenhance the efficiency of its product shipment-route \nplanning process each season\n• Realized higher EBITDA through lower shipment \ncosts and shorter planning process\nOUTPUTS\nABOUT THE CLIENT: Company is a PE-owned multi-million-dollar apparel brand with strong track record of providing multiple lines of custom-designed products over multiple \ndecades\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (322).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114170346+05'30'",
+            "modDate": "D:20241114170346+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nRouting Optimization For PE-owned Apparel Retailer\n3\nSales network of ~300 \nlocations\nObjective: Identifying the optimal route that leads to minimal shipping costs and maximum sales in the season\n•\nDeveloped a complex routing optimization model \nbased on the classic multiple Vehicle Routing Problem \n(mVRP) to provided optimal shipment routes to minimize \nlogistics costs\n•\nFactored in various business constraints related to \ngeographic locations, sales agent performance rank, \navailability schedules, and automated the route output\n•\nIntegrated the optimization model with logistics \nprovider’s shipping API for the client by writing a Java \ncode, which allowed the model to develop real-time \noptimized routes\n•\nModel typically conducted ~10 million iterations\nFour shipments with apparel \nproducts are sent out each season \nto the sales network\nSales network consists of 300 people across 300 \nlocations, with the following constraints\n• Each seller can receive only one shipment\n• Hold product for a week\n• Provide availability schedule\n• Have different selling capabilities\nWAREHOUSE\n"
+    }
+]

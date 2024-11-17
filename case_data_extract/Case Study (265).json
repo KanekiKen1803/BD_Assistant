@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData management, analytics solutions, and \nBI infrastructure setup\n1\nCommissioned a scalable enterprise data warehouse integrating multiple EMRs, \nfinancial, and HRAS system & developed a comprehensive BI reporting suite\nWomen’s healthcare providers\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to setup a comprehensive & scalable Enterprise Data Warehouse, integrating datasets from multiple siloed \nsource systems to a single source of truth and to deploy automated BI reporting suite that provides insights into \noperational and financial performance. Currently, you are in in process of acquiring and transitioning multiple practices hosted \non varying legacy EMR systems to a centralized EMR and lack a proper data and reporting infrastructure.\nWomen’s healthcare provider needs a scalable data warehouse \nand BI infrastructure\n2\nYour value is enhanced. \n•\nYou have no dependency on siloed reporting from multiple source systems with improved accuracy by addressing underlying \ndata gaps. You have reduced efforts to integrate new acquisitions into the centralized repository by provisioning an adaptive \nand scalable data warehouse that feeds into a defined set of reports\n•\nYou have also saved ~40 FTE hours per week that was otherwise spent in manually consolidating data from individual practices \nfor management reporting. The new infrastructure and reporting has aided you in progressing to the next strategic step by \nrolling out the CRM system, leveraging the centralized data repository.\nDATA MANAGEMENT, ANALYTICS \nSOLUTIONS, AND BI \nINFRASTRUCTURE SETUP\nKEY RESULT   \n•\n~40 FTE hours per week \nsaved\nVALUE LEVERS PULLED\n•\nSetup enterprise data \nwarehouse\n•\nRCM & operations \nreporting\n2\nYou turn to Accordion. \nWe partner with your team to commission a scalable Enterprise data warehouse integrating multiple EMRs, financial, and \nHRAS systems and develop a comprehensive BI reporting suite, including:\n1) Building automated pipelines and integrating data from 20+ separate source systems comprising of 18 practices \nspanned across 8 legacy EMR systems, Athena(target EMR), ADP(HRAS), and Sage(Finance and Accounting)\n2) Formulating centralized schemas to integrate and map data from multiple sources, providing a robust reporting solution \nthat is independent of source system variations\n3) Identifying gaps in existing manual reports and assisting in addressing these gaps to improve accuracy\n4) Implementing exception handling to proactively capture new entries for manual mapping, reducing turnaround time and \nenhancing the accuracy of granular reporting\n5) Reporting over 70 KPIs across RCM and Operations dashboards, increasing reporting capacity threefold compared to \nthe previous manual methods, and significantly enhancing visibility into the company’s performance.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuild automated pipelines and integrated data from 20+ separate source systems comprising of 18 practices spanned across 8 legacy EMR systems, \nAthena(target EMR), ADP(HRAS), and Sage(Finance and Accounting)\n•\nFormulated centralized schemas to integrate and map data from multiple sources, providing a robust reporting solution that is independent of source system \nvariations\n•\nIdentified gaps in existing manual reports and assisted in addressing these gaps to improve accuracy\n•\nImplemented exception handling to proactively capture new entries for manual mapping, reducing turnaround time and enhancing the accuracy of granular \nreporting\n•\nReported over 70 KPIs across RCM and Operations dashboards, increasing reporting capacity threefold compared to the previous manual methods, and \nsignificantly enhancing visibility into the company’s performance.\nSituation\n•\nClient was in process of acquiring and transitioning multiple practices hosted on varying legacy EMR systems to a centralized EMR. They lacked proper \ndata and reporting infrastructure to comprehensively track operational and financial performance, owing to spread of data sources across multiple silos  \n•\nPartnered with the client to setup a comprehensive & scalable Enterprise Data Warehouse, integrating datasets from multiple siloed source systems to a \nsingle source of truth and to deploy automated BI reporting suite, providing insights into operational and financial performance. \nEDW & reporting infrastructure setup | RCM & operations \nanalytics for healthcare provider \n3\nImpact\n•\nEliminated dependency on siloed reporting from multiple source system and improved accuracy by addressing underlying data gaps\n•\nReduced efforts to integrate new acquisitions into the centralized repository by provisioning an adaptive and scalable data warehouse that feeds into a \ndefined set of reports\n•\nSaved ~40 FTE hours per week previously spent manually consolidating data from individual practices for management reporting\n•\nAided the executive and leadership team in progressing to the next strategic step by rolling out their CRM system, leveraging the centralized data repository\nData Management, Analytics \nsolutions, and BI Infrastructure \nSetup\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDashboards/Reporting\nDATA SOURCES\nDATA \nVISUALIZATION\nEMR Systems\nHRAS – Headcount, Payroll\nFinance & Accounting\nMapping Files\nFunctions\nLogic \nApps\nCustom ETL Jobs\nAzure Data \nFactory \n(Data \nPipelines)\nIngest\nStore, Prepare, and Publish\nDim \nTable\nDim \nTable\nFact \nTable\nDim \nTable\nReporting \nTables\nCDM  \nTables\nRAW \nZONE\nCLEAN \nZONE\nAGGREGATE ZONE\nData \nQuality \nChecks \nApplied\nData \nModelling\nAzure \nAnalysi\ns \nService\ns\nData Zones\nCode repository\nMonitoring and \nLogging\nActive \nDirectory\nKey \nVault\nDevOps\nMonito\nr\nLog \nAnalytics\nSecurity\nData transfer between layers through Database Stored Procedures\n1\n1\n3\n2\n4\n4\n5\n6\n1\nData ingested via ADF in-built connectors such as ADLS, Snowflake connector\nData ingestion via SFTP server \n2\nData ingestion via DDS (Data Delivery Service)\n3\n4\nCollate and ingest data from different source systems using Azure Data Factory into \nthe Azure SQL Database and transform data through Azure Data Factory\nData modelling to transform data into \nreportable format\n5\nCentralized reporting suite consisting of automated PowerBI \ndashboards\n6\nAzure DataLake \nStorage\nCentral \nRepository/Archival \nStorage\n4\nData architecture design\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRCM executive summary\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (265).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155026+05'30'",
+            "modDate": "D:20241114155026+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nOperations executive summary\n6\n"
+    }
+]

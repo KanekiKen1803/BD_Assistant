@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154115+05'30'",
+            "modDate": "D:20241114154115+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSet up data infrastructure and deployed \nmachine learning models using Microsoft \nfabric infrastructure\n1\nDesigned and developed a Data Warehouse Architecture in a robust, scalable and \nflexible platform (Microsoft Fabric) that meets the business requirements of the \nclient.\nLeveraged Microsoft Synapse Data Science (within the Microsoft Fabric \necosystem) to run a R-based regression model to generate sales projections.\nHealth and wellness products brand\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154115+05'30'",
+            "modDate": "D:20241114154115+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to assess the business requirements and designed/deployed  an enterprise data warehouse leveraging Microsoft \nFabric. Also, to deploy predictive models (for sales projections, marketing-mix modeling, etc.) using Microsoft Synapse Data \nScience within the Fabric environment. \nHealth and wellness product manufacturing company needs to \nset up data infrastructure\n2\nYour value is enhanced. \nYou have the executive team that has access to reliable performance reporting across the company. You have automated the ETL \nprocesses (extract, transform, load) and advanced analytics enabled the marketing function to take real-time decisions to improve \nthe effectiveness of sales campaigns and allocate budget. You also have the shift from on-premises to cloud-based solution also \nenabled a more cost-effective data and reporting infrastructure and seamless monitoring/maintenance.\n \nSET UP DATA INFRASTRUCTURE AND \nDEPLOYED MACHINE LEARNING \nMODELS USING MICROSOFT FABRIC \nINFRASTRUCTURE\nKEY RESULT   \n•\n~80% of man-hours \nreduction\n•\n90% reduction in on-\nprem server \nmaintenance and upkeep\nVALUE LEVERS PULLED\n•\nDesigned and developed \na Data Warehouse \nArchitecture in a \nrobust, scalable and \nflexible platform \n•\nLeveraged Microsoft \nSynapse Data Science ) \nto run a R-based \nregression model\n2\nYou turn to Accordion. \n•\nWe partner with your team to designed and developed a Data Warehouse Architecture in a robust, scalable and flexible \nplatform (Microsoft Fabric) that meets the business requirements of the client. Leveraged Microsoft Synapse Data Science \n(within the Microsoft Fabric ecosystem) to run a R-based regression model to generate sales projections, including:\n1)\nDeveloping a future state data architecture on Microsoft Fabric with optimized tools stack, providing enhanced cost control \nand making it more user friendly. The deployed enterprise data warehouse is based on medallion architecture (Raw, Clean, \nAggregated & Semantic layers) and follows industry best practices by leveraging OneLake, Data Factory, Data Flows and \nNotebook (Microsoft Synapse Data Science).\n2) Setting up end-to-end ETL flows (extract, transform, and load) by ingesting data from multiple sources (Navision ERP, Google \nAnalytics, etc.) and standardized the data management processes to address the complexities of organizing and processing \ndata, and implemented data quality measures to standardize the data types for data ingested from multiple systems. \n3) Deploying predictive models using R-based algorithms for sales projections, marketing-mix modeling etc. leveraging Notebook \n(Microsoft Synapse Data Science) and visualized the results on a Power BI dashboard.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154115+05'30'",
+            "modDate": "D:20241114154115+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a future state data architecture on Microsoft Fabric with optimized tools stack, providing enhanced cost control and making it more user friendly. \nThe deployed Enterprise Data Warehouse is based on medallion architecture (Raw, Clean, Aggregate & Semantic layers) and follows industry best practices \nby leveraging OneLake, Data Factory, Data Flows and Notebook (Microsoft Synapse Data Science).\n•\nSet up end-to-end ETL flows (extract, transform, and load) by ingesting data from multiple sources (Navision ERP, Google Analytics, etc.) and standardized \nthe data management processes to address the complexities of organizing and processing data, and implemented data quality measures to standardize the \ndata types for data ingested from multiple systems. \n•\nDeployed predictive models using R-based algorithms for sales projections, marketing-mix modeling etc. leveraging Notebook (Microsoft Synapse Data \nScience) and visualized the results on a Power BI dashboard\nSituation\n•\nClient was leveraging disparate systems for each department such as Navision ERP for sales, BigQuery for Google Analytics, AWS Aurora for ecommerce, \nSnowflake for Amazon marketplace, and several manual Excel files. Due to the complexity in handling several systems and manual intervention required to \nprocess the data, the client was looking for an automated solution to replicate the current processes and reporting. \n•\nPartnered with the client to assess the business requirements and designed/deployed  an Enterprise Data Warehouse leveraging Microsoft Fabric. Also, we \ndeployed predictive models (for sales projections, marketing-mix modeling, etc.) using Microsoft Synapse Data Science within the Fabric environment. \nData architecture and reporting infrastructure assessment \n3\nImpact\n•\nThe new single source of truth enabled the executive team to have access to reliable performance reporting across the company\n•\nPotential reduction in man-hours by up to 80%\n•\nPotential reduction in man-hours by up to 90% due to reduction in on-prem server maintenance and upkeep\nEDW USING MICROSOFT FABRIC\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (258).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154115+05'30'",
+            "modDate": "D:20241114154115+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nImplemented Microsoft Fabric achitecture\n4\nData Sources\nData Ingestion, Storage and Processing (Fabric)\nMySQL DB\n(AWS Aurora)\nMarketing Budget\nPipelines\nDataflow \nGen2\nSynapse Data \nEngineering\nOneLake\nSynapse Data \nWarehouse\nRaw Data\nSynapse Data \nScience\nNotebook \n(Apache Spark)\nData Factory (Orchestration)\nOneLake\nNotebook \n(Prerequisite: \nSSL Cert.)\n1\n1\n1\n2\n4\n3\n1\nData Orchestration using Azure Data \nFactory\n2\nOneLake data storage – \n•\nRaw Zone: Stores data from sources in \nparquet file format \n4\nAutomate generation of \nreports using regression \nmodels\n3\nOneLake data storage – \n•\nClean Zone: Handle data types, eliminate blanks, \nremove duplicates\n•\nAggregate Zone: Establish dimensions and facts\n•\nSemantic Zone: Utilize this data to perform analysis\nOn-prem \nData \ngateway\nData \nLakehouse\nData \nLakehouse - \nClean\nData \nWarehouse - \nAggregate\nData \nWarehouse - \nSemantic\nOn-prem Data Sources\nOther cloud systems\nPower BI \nreports\n"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI Infrastructure Implementation \n1\n• Tracked monthly revenues generated and identified account receivable trends \nthrough automated dashboards on Tableau\n• Built Billing Denial dashboard on Tableau to track Denials % by billing period \nand by various dimensions such as business regions, payors, and branches\n• Built multiple automated Quality Check dashboards to ensure accuracy of data\nMedical Equipment Company \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConsolidated data across 20 business units using custom-built SSIS models and built automated self-service financial dashboards on Tableau to track \nAccounts Receivable (by age, region, entity etc.) and monthly revenues by product categories and regions\n•\nDeveloped automated Billing Denial report by consolidating Invoice and Payments data from various business units to show denials % across businesses \nand identified Top-10 denial reasons\n•\nDeveloped multiple automated Tableau Dashboards to monitor SQL jobs refresh time, Tableau Data Source Extracts refresh consistency and accuracy of \ndata shown in production dashboards\nSituation\n•\nClient was expanding inorganically by acquiring companies and by scaling up the operations. To provide visibility through this phase, it required support to \naugment the BI Reporting/Analytics capabilities for various functions such as RCM, Accounting, Operations, etc. \n•\nPartnered with the client to design and build the BI Reporting Suite on Tableau, for RCM, Accounting, and Operations, and developed automated critical \nTableau dashboards. Also, we provided data & quality management services to ensure high accuracy of data.\nBI reporting and quality management for a medical \nequipment company\n2\nImpact\n•\nAR Aging report enabled better tracking of balance amounts over time, and identify high risk patients/insurance\n•\nBilling Denial Dashboard helped identify regions and payors with high Denial rates and address the denial reasons. This also helped extract a worklist for \nopen denials and share with respective clearing houses for further processing.\n•\nSQL Status Summary Dashboard and Critical Dashboard Summary Dashboards helped in proactively identifying and debugging the failures in the SQL server \nor in Tableau environment. These automated dashboards reduced manual effort to monitor the production environments and keep the dashboards stable.\nBI Infrastructure \nImplementation \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI infrastructure (old – on prem DW) \n3\nData Sources\nIngest\nData Staging and Preparation\nModel & Serve\nOther Ad-Hoc \nAnalyses\nReporting and \nCollaboration\nData Sources\nETL/Storage\nData Warehouse\nBI reporting\nPython Scripts\nSQL Server \nImporter\nFTP Server \n(storage)\nStaging \ntables\nReporting \ntables\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI infrastructure (new – transitioned from traditional DW to cloud) \n4\nData Sources\nIngest\nData Staging and Preparation\nModel & Serve\nOther Ad-Hoc \nAnalyses\nReporting and \nCollaboration\nData Sources\nETL/Storage\nData Warehouse\nBI reporting\nAutomated ETL Process with e-mail alerts / notifications\nStaging \ntables\nReporting \ntables\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFP&A reporting \nILLUSTRATIVE\nAccounts Receivable by age and payer \ntype\nHelps identify AR Aging for different \ntypes of Payers including Patients and \nInsurance agencies\nAccounts Receivable by Patient regions\nHelps identify the AR Aging for different \nPatient regions\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM reporting (1/2)\nILLUSTRATIVE\nBilling Denial \nDashboard shows \noverall Denial % for \nthe client across \nbusiness operation \nregions and payors\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM reporting (2/2)\nILLUSTRATIVE\nBilling Denial \nDashboard helps the \nclient to identify top \ndenial reasons by \ndenial % for different \nbusiness units and \npayors\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData management & quality reporting\nILLUSTRATIVE\nThis dashboard gives \noverview on overall \nhealth of the Tableau \ninfrastructure of the \nclient. It also identifies \nlong running tableau \nextracts and any high \npriority failures\n8\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (387).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182620+05'30'",
+            "modDate": "D:20241114182620+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData & quality management reporting\nILLUSTRATIVE\nThe dashboard \nshows the overall \nhealth of SQL \nserver of the \nclient. It identifies \nlong running SQL \njobs and \nproactively helps \nto identify and fix \nthe critical failures \nin any given day \n9\n"
+    }
+]

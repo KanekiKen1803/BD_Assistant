@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData products – enterprise level self serve \nreporting\n1\n• Built self-serve reporting capabilities from the Data Lake for the business users \nby developing required fact and dim tables in the aggregate zone of the Data \nLake\n• Deployed the Data Products using the Power BI data models to provide \nenterprise-level self-serve reporting capabilities for the business users\nPediatric healthcare services provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for detailed and accurate 13-week collections forecast every week to have enhanced visibility in cash flow as \nthe existing process is not data-driven and requires frequent manual adjustments and provides limited visibility into \nvariance vs. actuals. \nPediatric healthcare services provider needs Data products – \nenterprise level self serve reporting\n2\nYour value is enhanced. \n•\nYou have automated and streamlined the overall methodology with accelerated delivery of the preliminary forecast by 50% \ncompared to existing process every week, enabling more time for you to improve the forecast.\n•\nYou have the forecast accuracy of more than 99% over a 13-week period, excluding few special cases where the team pulled the \npayments a week earlier than they were forecasted.\n•\nMid-week Actuals vs. Forecast enables the you to focus on the pending invoices and customers.\nFINANCIAL PLANNING AND ANALYSIS\nKEY RESULT   \n•\n>99% forecast accuracy\n•\n50% accelerated \nforecast\nVALUE LEVERS PULLED\n•\nDBT Analysis\n•\nConsolidation of \nPortal reports\n•\nVariance Analysis\n2\nYou turn to Accordion. \nWe partner with your team to enhance, automate and streamline the forecasting process that would enhance the accuracy \nof the forecast within a short period of time, including:\n1) Incorporating historical payment behavior of the customers in the forecast by using DBT (days beyond terms) trends.\n2) Centralizing the process to consolidate customer level payment information and incorporating an additional layer into \nthe model.\n3) Enabling easy tracking of each adjustment layer and its impact on forecast with revised template resulting in reduced \ninstances of manual adjustments while making the process faster, simpler and intuitive.\n4) Tracking of Actuals vs. forecasted collections at the end of the week and in between the week to track accuracy and \nanalysis of the WoW change in future week’s forecast to identify key change levers.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up the automated data ingestion of the Referrals and Prescriptions data from EMRs, Benefits and other data from payors using Azure Data Factory and \nDatabricks Delta Live Table pipelines as the Data Integration technology\n•\nDesigned and developed 40+ enterprise-level dimension tables in the aggregate zone of Data Lake from multiple data sources (EMRs, ADP, Payors) by \nimplementing Star and Snowflake schemas, enabling the availability of enterprise-level dimensions for any cross-functional analytics/reporting\n•\nDesigned and developed 15+ cross-functional fact tables in the aggregate zone of Data Lake by leveraging the summary tables created by cleaning and \ntransforming the data ingested across all the data sources (EMRs, ADP, Payors), enabling the users to have access to the granular data across different \nbusiness use cases\n•\nImplemented the incremental load process in the aggregate zone of the Data Lake to enable the historical data tracking across all the Fact and Dim tables\n•\nDeployed the data models in Power BI enabling the business users across the Clinical, Finance and Operations teams with enterprise level self serve \nreporting capabilities\nSituation\n•\nThe client’s Clinical and Finance users had self-serve reporting capabilities through the Data Models focused on one region (out of 3), however client did \nnot have a robust access control mechanism to manage PHI/PII data across the organization. \n•\nPartnered with the client’s D&A and DE teams to develop enterprise-level self-serve reporting capabilities for the business users by developing \nstandardized, scalable enterprise-wide data architecture and deploying the Power BI data models enabling the client teams to have enhanced control over \nthe data accessibility across the organization.\nData products – Enterprise level reporting for healthcare \nservice provider\n3\nImpact\n•\nClient’s D&A team was able to transition the business users to the Data Products, moving them closer to retiring the legacy data models, resulting in a \npotential annual cost savings of $250K - $300K\n•\nThe client’s team saved about 50 monthly man hours which were required for the maintenance and debugging of legacy Data Cubes\n•\nEnabled the client’s D&A to control the access of the PHI and PII data across the organization in a more robust and streamlined manner\nDATA PRODUCTS – ENTERPRISE LEVEL \nSELF SERVE REPORTING\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData products – Low level design diagram\n4\nLinked Servers\nAzure Data \nFactory\nStorage Account\nLookup Activity \n(Control File)\nExecute COPY \nDATA Activity from \nSource to Landing\nFor each loop\nControl File \n(list of table names)\nB\nADF - 1\nA\nADF - 2\nLanding Zone \n(Parquet files)\nC\nD\nWeb Activity – \nkicks-off DLT \nPipeline on \nDatabricks\nRaw Zone\nClean Zone\nAggregate Zone\nDLT Pipeline – Ingests \ndata from Landing Zone, \ncreates DLT in Raw & \nClean Zones\nPower BI\nI\nPartitioned\nF\nG\nJ\nE\n(flat/encrypted files)\nCompany File \nSystem\nQGenda\nADP\nPlanful\nPayor\nTriMed\neCW (CL, TX, FL)\nOffice Practicum\nATS\nSummary\n Tables\nDim\nFact\nDatabricks Notebook - \nCreate dim/ fact tables \nand final views\nH\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData model – Encounters data product (ER diagram)\n5\nFact_Encounters\nPK\nFact_Encounters_ID\nFK\nDim_Patient_Details_ID\nFK\nDim_Visit_Type_ID\nFK\nDim_Performing_Provider_ID\nFK\nDim_Supervising_Provider_ID\nFK\nDim_Office_Details_ID\nFK\nDim_Source_System_ID\nFK\nService_Date\nDim_visit_type\nPK\nDim_visit_type_id\nDim_date\nPK\nDim_date_id\nCalendar Date\nDim_patient_details\nPK\nDim_patient_details_id\nFK\nDim_patient_id\nDim_patient\nPK\nDim_patient_id\nDim_provider\nPK\nDim_provider_id\nDim_office_details\nPK\nDim_office_details_id\nFK\nDim_office_id\nDim_office\nPK\nDim_office_id\nFK\nDim_state_id\nFK\nDim_county_id\nDim_county\nPK\nDim_county_id\nDim_state\nPK\nDim_state_id\nDim_source_system\nPK\nDim_source_system_id\nFact_Charges\nPK\nFact_Charges_ID\nFK\nDim_Performing_Provider_ID\nFK\nDim_Supervising_Provider_ID\nFK\nDim_Patient_Details_ID\nFK\nDim_Source_System_ID\nFK\nDim_Office_Details_ID\nFK\nDim_Aging_Buckets_ID\nFK\nDim_Age_Category_ID\nFK\nDim_Insurance_ID\nFK\nService_Date\nFK\nDim_CPT_ID\nDim_aging_buckets\nPK\nDim_aging_buckets_id\nDim_Age_Category\nPK\nDim_age_caregory_id\nDim_Insurance\nPK\nDim_insurance_id\nDim_CPT\nPK\nDim_CPT_id\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAppointments data product\n6\nILLUSTRATIVE\nExcel based pivot table view of Appointments Data \nProduct providing provider level Appointments \ncount across different Line of Business (LOB)\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAppointments data product\n7\nILLUSTRATIVE\nExcel based pivot table view of Appointments Data \nProduct providing details of Fill Rate and Now \nShow Rate KPIs for individual offices (clinics)\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (183).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140509+05'30'",
+            "modDate": "D:20241114140509+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPayor claims data product\n8\nILLUSTRATIVE\nExcel based pivot table view of Payor Claims Data \nProduct providing details of Episode Count, Claim \nCount, Fund Exp and Rx Scripts KPIs for each \npatient\n"
+    }
+]

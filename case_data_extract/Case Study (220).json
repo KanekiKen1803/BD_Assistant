@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104317+05'30'",
+            "modDate": "D:20241115104317+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nData cubes - Design and Setup\n(PE-owned institutional pharmacy business)\nDeveloped a MS Access database to store customer contract details in order to provide \neasy visibility into the pricing details, contract compliance, expected revenues and \nprofitability.\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104317+05'30'",
+            "modDate": "D:20241115104317+05'30'",
+            "trapped": ""
+        },
+        "content": "CASE STUDY – ANALYTICAL TOOL FOR MANAGING CUSTOMER \nCONTRACTS FOR AN INDUSTRIAL PHARMACY CLIENT\nSITUATION\n▪The company did not have easy visibility in to the pricing details for various services and sub-services of its customers.\n▪Therefore, it was not possible to have an accurate picture of the contract compliance, expected revenues and profitability.\n▪Partnered with the PE firm and the portfolio company to develop an analytical tool in the form of a database for all the customer \ncontracts.\n▪Evaluated the raw data on pricing details for all customers and converted in to standardized metrics and segmented the \ninformation in to various categories\n▪Developed a MS Access database that allows user to seamlessly add, edit and delete contract information in a standardized \nformat.\n▪The tool also allows user to search, analyze and export pricing information of the contracts by any dimension.\nVALUE ADDITION\nIMPACT\n▪Ability to have a structured view of the contract details\n▪This allowed the company to identify gaps in information regarding the contracts\n▪Provided access to a reliable tool to analyze pricing information and potentially make business decisions\nABOUT THE CLIENT\nCompany is a PE-owned institutional pharmacy business.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104317+05'30'",
+            "modDate": "D:20241115104317+05'30'",
+            "trapped": ""
+        },
+        "content": "Can search existing \nrecords by facility or \ncustomer\nAll the basic \ninformation of the \ncontract is displayed\nThe applicable services \nfor the contract are \nenabled for deep-dive\nCan do advanced search using multiple \ncriteria and by services provided\nAllows user to add new customer, \ncontract or services\n3\nCONTRACTS DATABASE: HOME PAGE AND FACILITY INFORMATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104317+05'30'",
+            "modDate": "D:20241115104317+05'30'",
+            "trapped": ""
+        },
+        "content": "Advanced search can \nbe conducted by up to \n14 metrics\n4\nCONTRACTS DATABASE: ADVANCED SEARCH\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (220).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104317+05'30'",
+            "modDate": "D:20241115104317+05'30'",
+            "trapped": ""
+        },
+        "content": "All the pricing \ndetails for the \nservices are \nprovided for the \nuser\nIf sub-services exist, user \ncan see which of them \nare applicable to the \ncontract and click for \ndetails\n5\nCONTRACTS DATABASE: DETAILS OF SERVICES\n"
+    }
+]

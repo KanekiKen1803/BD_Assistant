@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125624+05'30'",
+            "modDate": "D:20241114125624+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nHeadcount Cost Modelling\nBehavioral Healthcare \nprovider specialized in \nAutism Spectrum \nDisorder (ASD) therapy\nDeveloped a forecasting model to predict major P&L \nline items using multiple layered historical inputs.\n•\nP&L forecasting\n•\nActuals vs Forecast variance \nanalysis\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125624+05'30'",
+            "modDate": "D:20241114125624+05'30'",
+            "trapped": ""
+        },
+        "content": "HEADCOUNT COST MODELLING\nSITUATION\n▪\nClient had limited visibility into how the high attrition and hiring of their clinicians and technicians was impacting productivity, revenue and \ncosts. They also wanted to gauge the impact of their hiring plan on site-wise contribution margin.\n▪\nMerilytics was brought on board to forecast the future profitability of each facility for various scenarios of headcount growth based on \nhistorical data.\n▪\nDeveloped an automated model that uses the current month actuals and historical trends of employee headcount, payroll data, training ramp \nup information and employee productivity to predict major P&L line items like site contribution margin, revenue and costs for the coming \nthree months.\n▪\nFurther broke down the change in employee headcount into changes in worked hours, scheduled/planned hours, billed hours, cancelled \n(patient therapy) hours and new employee training hours on a monthly basis, which resulted in granular visibility into headcount utilization \nand its impact on profitability.\n▪\nPerformed a sensitivity analysis to gauge the impact of various levels of hiring and attrition rate combinations on site contribution margin.\nVALUE ADDITION\nIMPACT\n▪\nThe forecasting tool aided the management in making critical decisions regarding hiring trend and headcount growth of the organization.\n▪\nGranular forecasts enabled the Management to identify the key sources of variances during their Monthly Operating Reviews.\n▪\nThe sensitivity analysis helped the client to understand the relationship between key growth drivers and P&L items such as costs, revenue \nand site contribution.\nABOUT THE CLIENT\nClient is a US based healthcare firm which provides behavioral therapy to children diagnosed with Autism Spectrum Disorder.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125624+05'30'",
+            "modDate": "D:20241114125624+05'30'",
+            "trapped": ""
+        },
+        "content": "Normalized inputs derived from \nprior month’s actuals and \nhistorical data used to forecast \n3 months forecast of major P&L \nline items such as revenue, cost \nof service and site contribution\nTab for one of the regions of \nservice\nILLUSTRATIVE\n3\nFORECASTING TOOL\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125624+05'30'",
+            "modDate": "D:20241114125624+05'30'",
+            "trapped": ""
+        },
+        "content": "Comparison of forecasted key \nmetrics to actuals fetched from \nMOR for all regions\nComparison of forecasted key \nmetrics to actuals fetched from \nMOR for one region of service\nILLUSTRATIVE\n4\nACTUAL VS FORECAST (AVF) VARIANCE ANALYSIS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (129).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125624+05'30'",
+            "modDate": "D:20241114125624+05'30'",
+            "trapped": ""
+        },
+        "content": "Sensitivity of site contribution in terms of $ value and as a \nshare of net revenue to attrition and hiring one and three \nmonths forward\nILLUSTRATIVE\n5\nSENSITIVITY ANALYSIS\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104711+05'30'",
+            "modDate": "D:20241115104711+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPropensity analysis\n1\nBuilt a Propensity Analysis model to identify opportunities within existing and new \nareas to achieve the growth targets, by leveraging data from external/market data \n(competitor, geographical and demographic) using web mining techniques\nResidential solar company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104711+05'30'",
+            "modDate": "D:20241115104711+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a tool leveraging Python and UiPath to extract competitive intelligence to identify demographic, weather and competitor related attributes which have \na major impact on the conversion rates across multi-stage sales processes\n•\nEvaluated geographic attractiveness by leveraging clustering algorithms such as k-means, DBScan, k-modes etc. on zip code level\n•\nDeveloped an optimized resource allocation model by leveraging advanced ML techniques such as Linear programming and stochastic gradient descent to \nidentify the optimal mix of deals and sales representatives across zip codes\n•\nDeveloped a dynamic tool leveraging Power BI and Power Apps to visualize the impact of various performance scenarios including new territories, upskilling \nof the sales consultants\nSituation\n•\nClient leverages various marketing and targeting strategies to improve its overall sales growth. However, there was an opportunity to refine and optimize \nthrough leveraging data and making more informed decisions\n•\nPartnered with the client to formulate a comprehensive propensity analysis approach based on internal and external data to identify new regions along \nwith ideal number of deals and sales consultants required to achieve installs and growth targets \nMarket entry roadmap using external data for solar \ninstallation firm\n2\nImpact\n•\nUncovered opportunities in 90+ new ZIP codes within Massachusetts, with a potential to generate additional annual revenue of ~$17 million\n•\nReduced manhours required to extract competitive information by ~80% by automating the data extraction process\nPROPENSITY ANALYSIS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104711+05'30'",
+            "modDate": "D:20241115104711+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nLeveraged external data sources for informed decision-making and \noptimize the marketing and targeting strategy\n3\n* Selected important attributes picked from universe of more than 120 attributes\nWeather Data\nDemographics Data\nCompetition Data\nData Sources\nWeather365 API\nUS Census\nSolarPowerOnline\n▪Temperature Range\n▪Cloud and Visibility\n▪Precipitation\n▪Weather \n▪Per capita Income(PCI)\n▪Population\n▪Age\n▪Unemployment rate\n▪Customer Reviews\n▪Ranking\n▪Presence\n▪Sales\n▪Employee headcount\nKey Attributes\nLeveraging external data sources such as weather, demographics, and competitor data empowers data-driven decision-making for a competitive edge and \nenhanced customer understanding\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (262).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104711+05'30'",
+            "modDate": "D:20241115104711+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTechnical infrastructure built to automate the propensity model\n4\nData Extraction from unstructured sources\nAPI\nWebsite Scraping\nWebsite Scraping\nRegion wise attributes\nUsing ML algorithms to \nestimate similarity\nRevenue and profitability \nestimation\nWeather data\nDemographics data\nCompetition data\nPropensity estimation\nAssigning propensity\n"
+    }
+]

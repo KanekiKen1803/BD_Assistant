@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nReconciliation of collections data\n1\nReconciled third-party collections data with the company’s internal collections \ndata to estimate the net overbillings in the amount claimed by third-party \ncollections agency.\nLTAC provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to reconcile third-party and internal collections data to identify variances in billings by collections agency. \nCurrently, employed a third-party collections agency to collect Account Receivables but did not have clear visibility into agency \nbilling v/s collections accounts and wanted to understand potential over/ under billing. \nLTAC provider company needs to reconcile its collections data\n2\nYour value is enhanced. \nYou have identified 5% of total claimed amount as net overbillings for transactions over a period of 18 months, leading to a \npotential reimbursement of 8% of the total fee from third-party collections\nRECONCILIATION OF COLLECTIONS \nDATA\nKEY RESULT   \n•\nIdentified 5% of total \nclaimed amount as net \noverbillings\n•\n~8% of the total fee \nfrom third-party \ncollections\nVALUE LEVERS PULLED\n•\n3rd party \nreconciliation\n•\nExcel and Power BI \nreporting\n2\nYou turn to Accordion. \nWe partner with your team to reconcile third-party collections data with the internal collections data to estimate the net \noverbillings in the amount claimed by third-party collections agency, including:\n1)\nCreating a unique identifier using different combinations of data fields (e.g., Bill # assigned using file number, assigned using \npayment date & amount, etc.)  to map the transactions amounting to additional 86% of total claimed amount as only 14% of the \ntotal claimed amount had a unique identifier that mapped  the third –party data with internal collections data. \n2) Identifying list of overbilled transactions/bills at each facility that could be claimed for reimbursement. \n3) Creating Excel & Power BI dashboards to facilitate reconciliation at multiple levels (district/facility/patient/transaction) that \ncould be refreshed  on a monthly basis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nOnly 14% of the total claimed amount had a unique identifier that mapped  the third –party data with internal collections data. Merilytics created a unique \nidentifier using different combinations of data fields (e.g., Bill # assigned using file number, assigned using payment date & amount, etc.)  to map the \ntransactions amounting to additional 86% of total claimed amount\n•\nIdentified list of overbilled transactions/bills at each facility that could be claimed by the client for reimbursement. \n•\nCreated Excel & Power BI dashboards to facilitate reconciliation at multiple levels (district/facility/patient/transaction) that could be refreshed  on a monthly \nbasis\nSituation\n•\nClient has employed a third-party collections agency to collect Account Receivables but did not have clear visibility into agency billing v/s collections \naccounts and wanted to understand potential over/ under billing. \n•\nPartnered with the Provider to reconcile third-party and internal collections data to identify variances in billings by collections agency\nReconciliation of collections data\n3\nImpact\n•\nIdentified 5% of total claimed amount as net overbillings for transactions over a period of 18 months, leading to a potential reimbursement of 8% of the total \nfee from third-party collections\nAR – Collections Forecasting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nApproach / methodology for project delivery\nData cleansing\nData mapping\nReconciliation \nDashboards\n•\nFiltered internal collections data to \nconsider data of relevant time period \nfor reconciliation\n•\nUsed patient ID and bill number \ncombination to map transactions \namounting to 14% of claim amount \n•\nCreated a unique identifier based \non different combinations of \navailable data fields (e.g., Bill # \nassigned using file number, \nassigned using payment date & \namount, etc.) to map transactions \namounting to additional 86% of \nclaim amount\n•\nReconciled the internal collections \ndata and third-party collections data \nand identified variation in claim \namount at each facility level\n•\nCreated a reconciliation report on excel with \nthe flexibility to drill down to \ndistrict/facility/patient/bill/transaction level\n•\nProvided reports in PowerBI dashboards for \nease of reconciliation\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nReconciliation dashboard (power BI)\nThird-party collections agency  has overbilled \nand underbilled patients below and above the \nline respectively\nUser can view the variation at a patient-bill \nlevel by clicking on the patient sequence \nnumber\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAppendix\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (136).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130533+05'30'",
+            "modDate": "D:20241114130533+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nMapping data between sources\n100%\nTransactions reconciled using \npatient number due to the lack of \nBill # mapping\nTransactions that are \nmapped to a Bill # in \nthird-party data\n87%\nTransactions with Bill \n# available in third-\nparty collections data\n61%\nTransactions for which \na Bill # is assigned\n26%\nPatient sequences \nwith unique Bill # in \nthird-party data\n5%\nBill # assigned using \nfile number\n4%\nBill # assigned using \npayment date & \namount\n10%\nBill # assigned \nmanually\n7%\nTransactions excluded \nfrom the analysis\n3%\n10%\n"
+    }
+]

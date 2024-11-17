@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFund finance\n1\nBuilt fund performance return report to track performance metrics such as IRR, \nMOIC at PE Fund and Portfolio company level\nPrivate equity firm\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCreated a master database of financial transactions of Funds and Portfolio firms along with mapping tables to associate attributes such as realization status, \npublic/private, control/non-control, fund type, etc. to Portfolio companies\n•\nAutomated the quarterly update of the Performance report by leveraging the master database and mapping files to improve the efficiency and remove \nmanual intervention\n•\nCreated standardized Balance Roll Forward reports for the interest and expenses associated with Subscription Line of Credit and leveraged these reports to \nunderstand the impact of Subline on the Performance Metrics\n•\nProvided the flexibility to input the time period to track the historical performance metrics such as Net IRR, MOIC etc. of Fund and Portfolio companies\nSituation\n•\nClient was facing delays in reporting of Fund Performance metrics such as IRR, MOIC etc. as the process to update the report was manual and time \nconsuming. Additionally, the client had separate files for each quarter to track the historical Fund Performance which resulted in inefficiencies\n•\nPartnered with the client to create an automated report and optimize data update process to help reduce execution time of Performance Report and track \nthe performance metrics historically in a single report\nPerformance metric reporting for private equity firm\n2\nImpact\n•\nAutomated Performance Returns Report resulted in improved efficiency by reducing the quarterly update time from 1-2 weeks to 2 days.\n•\nPerformance Report acted as a single source of truth for all the financial data management projects for the client\nFUND FINANCE\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\nFinancial Transaction \nData of Portfolio \nCompanies\nAttributes of Portfolio \nCompanies\nSubscription Line of \nCredit data at Fund \nLevel\nCreating Mapping for \nFund and Portfolio \nCompanies\nMaster Database with \ntransactions pertaining \nto investment, realization \nand current value of \nPortfolio Companies\nSummary of \nPerformance Metrics \nsuch as IRR, MOIC etc., \nof Portfolio Companies \nat various segments\nPreparation of Balance \nRoll-Forward files for \neach Fund\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFund performance summary – Composite view \n4\nILLUSTRATIVE\nCompany Name\nFund\nInvestment\nRealization\nEquity\nRealized\nUnrealized \nTotal\nGross\nGross\nNet\nNet\nName\nDate (a)\nDate (b)\nInvested\nValue (c)\nValue (d) \nValue\nCash Multiple\nIRR\nCash Multiple\nIRR\nRealized Investments\nR-1\nCompany A\nFund 1\n11/25/2017\n1/15/2019\n$2,131,002.00\n$47,122,373.27 $                        - \n$47,122,373.27\n6.00x\n17.3%\n5.50x\n13.3%\nCompany B\nFund 2\n11/15/2018\n7/4/2019\n$9,632,012.00\n$107,903,562.51 $                        - \n$107,903,562.51\n2.00x\n23.5%\n1.66x\n20.8%\nCompany C\nFund 6\n2/17/2019\n5/11/2020\n$9,854,236.00\n$9,854,236.00 $                        - \n$9,854,236.00\n1.20x\n-89.0%\n1.01x\n-90.5%\nCompany D\nFund 7\n3/25/2018\n12/31/2018\n$1,039,797.00\n$3,467,449.15 $                        - \n$3,467,449.15\n2.00x\n-21.1%\n1.78x\n-22.9%\nCompany E\nFund 2\n6/14/2012\n7/12/2013\n$5,951,370.00\n$81,524,499.51 $                        - \n$81,524,499.51\n2.50x\n35.1%\n2.13x\n32.1%\nCompany F\nFund 6\n10/27/2018\n12/27/2019\n$8,203,120.00\n$265,980,898.00 $                        - \n$265,980,898.00\n5.90x\n89.0%\n5.45x\n85.4%\nCompany G\nFund 6\n1/12/2013\n1/24/2014\n$1,827,758.00\n$158,535,967.06 $                        - \n$158,535,967.06\n2.70x\n55.2%\n2.23x\n51.4%\nCompany H\nFund 5\n5/2/2015\n5/18/2016\n$2,369,126.00\n$0.00 $                        - \n$0.00\n0.00x\n67.5%\n0.00x\n65.6%\nCompany I\nFund 2\n11/15/2015\n9/10/2016\n$1,187,237.00\n$1,043,115,619.77 $                        - \n$1,043,115,619.77\n4.60x\n54.8%\n4.35x\n52.8%\nCompany J\nFund 3\n5/2/2014\n11/4/2014\n$1,689,848.00\n$133,232,441.94 $                        - \n$133,232,441.94\n3.10x\n27.9%\n2.66x\n24.4%\nCompany K\nFund 5\n7/27/2017\n9/30/2018\n$2,121,899.00\n$131,621,899.00 $                        - \n$131,621,899.00\n5.30x\n13.4%\n5.10x\n11.8%\nCompany L\nFund 8\n10/9/2012\n9/19/2013\n$5,361,072.00\n$259,169,169.49 $                        - \n$259,169,169.49\n6.40x\n16.7%\n5.95x\n13.1%\nCompany M\nFund 1\n6/19/2016\n3/11/2017\n$9,716,497.00\n$1,090,586,458.00 $                        - \n$1,090,586,458.00\n5.40x\n71.0%\n5.21x\n69.5%\nCompany N\nFund 7\n8/18/2021\n6/29/2022\n$5,819,616.00\n$718,962,467.51 $                        - \n$718,962,467.51\n6.60x\n31.6%\n6.33x\n29.4%\nCompany O\nFund 7\n11/3/2021\n1/1/2022\n$2,373,672.00\n$306,173,672.00 $                        - \n$306,173,672.00\n7.30x\n40.4%\n6.88x\n37.0%\nCompany P\nFund 4\n1/22/2012\n11/16/2012\n$577,715.00\n$218,500,664.00 $                        - \n$218,500,664.00\n4.10x\n16.2%\n3.76x\n13.5%\nCompany Q\nFund 8\n9/16/2018\n7/30/2019\n$4,801,483.00\n$536,648,230.00 $                        - \n$536,648,230.00\n1.50x\n29.9%\n1.24x\n27.8%\nCompany R\nFund 1\n3/11/2015\n3/1/2016\n$855,961.00\n$126,460,095.00 $                        - \n$126,460,095.00\n6.00x\n58.0%\n5.55x\n54.4%\nCompany S\nFund 2\n4/17/2018\n2/8/2019\n$4,388,533.00\n$235,308,451.00 $                        - \n$235,308,451.00\n2.50x\n56.6%\n2.04x\n52.9%\nCompany T\nFund 3\n3/19/2019\n12/8/2019\n$8,768,646.00\n$378,587,328.00 $                        - \n$378,587,328.00\n3.40x\n34.8%\n2.90x\n30.8%\nCompany U\nFund 5\n5/27/2010\n7/18/2011\n$1,542,842.00\n$189,910,515.00 $                        - \n$189,910,515.00\n7.10x\n65.0%\n6.75x\n62.2%\nCompany V\nFund 8\n8/26/2014\n4/22/2015\n$2,628,632.00\n$23,115,369.43 $                        - \n$23,115,369.43\n7.00x\n141.3%\n6.70x\n138.9%\nCompany W\nFund 6\n4/4/2013\n3/24/2014\n$9,669,963.00\n$71,906,127.60 $                        - \n$71,906,127.60\n4.10x\n123.9%\n3.70x\n120.7%\nCompany X\nFund 7\n3/21/2013\n8/18/2013\n$7,586,233.00\n$197,662,978.24 $                        - \n$197,662,978.24\n3.10x\n83.3%\n2.66x\n79.8%\nCompany Y\nFund 6\n4/4/2016\n3/24/2017\n$8,150,480.00\n$70,432,725.63 $                        - \n$70,432,725.63\n1.30x\n11.7%\n1.01x\n9.4%\nCompany Z\nFund 6\n4/28/2010\n5/1/2011\n$4,307,959.00\n$394,706,352.00 $                        - \n$394,706,352.00\n6.00x\n110.8%\n5.58x\n107.4%\nMetrics such as \nNet/Gross IRR \nto track \nPortfolio / Fund \nperformance\nAttributes such \nas Funds, first \nInvestment \nDate etc., to \nclassify \nPortfolio \nCompanies\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFund performance summary – Single fund view\n5\nILLUSTRATIVE\nCompany Name\nInvestment\nRealization\nEquity \nRealized \nUnrealized \nTotal \nGross\nGross\nNet\nNet\nDate\nDate\nInvested \nValue \nValue \nValue \nMOIC\nIRR\nMOIC\nIRR\nRealized Investments\nR\nCompany A\n7/10/2014\n4/25/2016 $                             500,000 $              600,000 $                    - $           1,100,000 \n2.20x\n32.7%\n1.70x\n29.5%\nCompany B\n10/18/2014\n8/3/2016\n600,000 \n1,380,000 \n- \n1,980,000 \n3.30x\n66.7%\n2.80x\n60.1%\nCompany C\n1/26/2015\n11/11/2016\n700,000 \n3,150,000 \n- \n3,850,000 \n5.50x\n0.0%\n5.00x\n0.0%\nCompany D\n5/6/2015\n2/19/2017\n650,000 \n1,300,000 \n- \n1,950,000 \n3.00x\n41.1%\n2.50x\n37.0%\nCompany E\n8/14/2015\n5/30/2017\n75,000 \n157,500 \n- \n232,500 \n3.10x\n42.3%\n2.60x\n29.1%\nCompany F\n11/22/2015\n9/7/2017\n515,000 \n1,596,500 \n- \n2,111,500 \n4.10x\n32.3%\n3.60x\n29.1%\nCompany G\n3/1/2016 12/16/2017\n453,200 \n725,120 \n- \n1,178,320 \n2.60x\n19.0%\n2.10x\n17.1%\n- \nTotal Realized Investments\n$                           3,493,200 $           8,909,120 $                    - \n$         12,402,320 \n3.50x\n45.0%\n3.05x\n40.5%\nPartially Realized Investments\nP\nCompany H\n7/4/2018\n1/20/2019 $                             600,000 $           1,260,000 $         230,000 $           2,093,973 \n3.49x\n28.7%\n2.99x\n25.8%\nCompany I\n10/12/2018\n4/30/2019\n500,000 \n600,000 \n150,000 \n1,251,697 \n2.50x\n15.4%\n2.00x\n13.8%\nCompany J\n1/20/2019\n8/8/2019\n300,000 \n510,000 \n1,042,000 \n1,852,746 \n6.18x\n47.0%\n5.68x\n42.3%\nCompany K\n1/18/2018\n11/16/2019\n637,000 \n1,273,363 \n900,000 \n2,788,763 \n4.38x\n23.2%\n3.88x\n20.9%\n- \nTotal Partially Realized \nInvestments\n$                           2,037,000 \n$           3,643,363 $      2,322,000 $           7,987,179 \n3.90x\n30.0%\n3.42x\n27.0%\nUnrealized Investments\nU\nCompany L\n6/3/2020\n$                           1,000,000 $                        - \n$      1,500,000 $           2,500,000 \n2.50x\n6.3%\n2.00x\n5.7%\nCompany M\n7/3/2020\n300,000 \n- \n500,000 \n800,000 \n2.67x\n11.6%\n2.17x\n10.5%\nCompany N\n6/23/2020\n800,000 \n- \n1,400,000 \n2,200,000 \n2.75x\n8.9%\n2.25x\n8.0%\nCompany O\n7/23/2020\n4,550,000 \n- \n14,050,000 \n18,600,000 \n4.09x\n24.8%\n3.59x\n22.3%\nCompany P\n7/26/2020\n674,000 \n- \n1,061,100 \n1,735,100 \n2.57x\n24.3%\n2.07x\n21.9%\nCompany R\n8/5/2020\n639,000 \n- \n1,258,657 \n1,897,657 \n2.97x\n8.2%\n2.47x\n7.4%\nCompany S\n8/15/2020\n480,000 \n- \n1,836,300 \n2,316,300 \n4.83x\n34.1%\n4.33x\n30.7%\nCompany U\n8/25/2020\n429,000 \n- \n1,148,100 \n1,577,100 \n3.68x\n22.8%\n3.18x\n20.5%\nTotal Unrealized Investments\n8,872,000 \n- \n22,754,157 \n31,626,157 \n3.60x\n15.0%\n3.06x\n13.5%\nTotal Portfolio (Gross)\n$                         14,402,200 \n$         12,552,483 $     25,076,157 $         52,015,656 \n3.61x\n40.0%\nTotal Portfolio (Net of Fees, Expenses, and Carry)\n3.10x\n32.0%\nPerformance \nMetrics and \nAttributes for the \nPortCos in same \nfund bifurcated at \nRealization \nmarker level\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (272).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155936+05'30'",
+            "modDate": "D:20241114155936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBalance roll forward details of subscription line of credit\n6\nILLUSTRATIVE\nPrincipal \nDrawn, \nInterest and \nRepayment \nwere \ncombined to \ncreate Roll-\nForward \nBalance\nEffective\nTransaction\nPricing\nDescription\nAmount in USD \nAll-In-Rate\nCurrency\nOpening Balance \nDraw \nInterest \nPayment \nBalance \n10-Jul-2014 Draw\nPRIME\nCompany A\n$    701,050,804.54 \n4.25 USD\n$                           -   \n$    701,050,804.54 $                -   \n$                        -   \n$    701,050,804.54 \n18-Oct-2014 Payment\nPRIME\nCompany A\n701,050,804.54 \n4.25 USD\n701,050,804.54 \n-   \n785.65 \n(701,050,804.54)\n-   \n26-Jan-2015 Draw\nPRIME\nCompany A\n115,756,925.95 \n4.25 USD\n-   \n115,756,925.95 \n27,655.06 \n-   \n115,756,925.95 \n06-May-2015 Draw\nPRIME\nCompany A\n11,469,595.72 \n4.25 USD\n115,756,925.95 \n11,469,595.72 \n8,023.72 \n-   \n127,226,521.67 \n14-Aug-2015 Draw\nPRIME\nCompany A\n405,115,603.33 \n4.25 USD\n127,226,521.67 \n405,115,603.33 \n-   \n-   \n532,342,125.00 \n22-Nov-2015 Payment\nPRIME\nCompany A\n115,589,761.83 \n4.25 USD\n532,342,125.00 \n-   \n-   \n(115,589,761.83)\n416,752,363.17 \n01-Mar-2016 Payment\nPRIME\nCompany A\n10,403,368.77 \n4.25 USD\n416,752,363.17 \n-   \n-   \n(10,403,368.77)\n406,348,994.40 \n25-Apr-2016 Payment\nPRIME\nCompany A\n402,050,429.52 \n4.25 USD\n406,348,994.40 \n-   \n-   \n(402,050,429.52)\n4,298,564.88 \n03-Aug-2016 Payment\nPRIME\nCompany B\n167,164.12 \n4.25 USD\n4,298,564.88 \n-   \n-   \n(167,164.12)\n4,131,400.76 \n11-Nov-2016 Payment\nPRIME\nCompany B\n1,066,226.96 \n4.25 USD\n4,131,400.76 \n-   \n-   \n(1,066,226.96)\n3,065,173.81 \n19-Feb-2017 Payment\nPRIME\nCompany B\n3,065,173.81 \n4.25 USD\n3,065,173.81 \n-   \n-   \n(3,065,173.81)\n-   \n30-May-2017 Increase\nPRIME\nCompany B\n576,182,345.90 \n4.25 USD\n-   \n576,182,345.90 \n-   \n-   \n576,182,345.90 \n07-Sep-2017 Payment\nPRIME\nCompany B\n576,182,345.90 \n4.25 USD\n576,182,345.90 \n-   \n-   \n(576,182,345.90)\n-   \n16-Dec-2017 Increase\nPRIME\nCompany B\n576,182,345.90 \n4.25 USD\n-   \n576,182,345.90 \n-   \n-   \n576,182,345.90 \n04-Jul-2018 Payment\nPRIME\nCompany B\n571,811,217.35 \n4.25 USD\n576,182,345.90 \n-   \n-   \n(571,811,217.35)\n4,371,128.55 \n12-Oct-2018 Payment\nPRIME\nCompany B\n4,371,128.55 \n4.25 USD\n4,371,128.55 \n-   \n-   \n(4,371,128.55)\n-   \n20-Jan-2019 Increase\nPRIME\nCompany B\n17,297,425.26 \n4.25 USD\n-   \n17,297,425.26 \n-   \n-   \n17,297,425.26 \n18-Jan-2018 Payment\nPRIME\nCompany B\n17,108,732.79 \n4.25 USD\n17,297,425.26 \n-   \n-   \n(17,108,732.79)\n188,692.47 \n20-Jan-2019 Payment\nPRIME\nCompany C\n188,692.47 \n4.25 USD\n188,692.47 \n-   \n-   \n(188,692.47)\n-   \n30-Apr-2019 Increase\nPRIME\nCompany C\n1,326,250,353.00 \n4.25 USD\n-   \n1,326,250,353.00 \n-   \n-   \n1,326,250,353.00 \n08-Aug-2019 Payment\nPRIME\nCompany C\n1,326,250,353.00 \n4.25 USD\n1,326,250,353.00 \n-   \n-   \n(1,326,250,353.00)\n-   \n16-Nov-2019 Increase\nPRIME\nCompany C\n520,699,996.93 \n4.25 USD\n-   \n520,699,996.93 \n-   \n-   \n520,699,996.93 \n19-Mar-2019 Payment\nPRIME\nCompany C\n516,101,952.93 \n4.25 USD\n520,699,996.93 \n-   \n33,872.17 \n(516,101,952.93)\n4,598,044.00 \n03-Jun-2020Payment\nPRIME\nCompany C\n4,598,044.00 \n4.25 USD\n4,598,044.00 \n-   \n1,188,861.46 \n(4,598,044.00)\n(0.00)\n"
+    }
+]

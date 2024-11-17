@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145208+05'30'",
+            "modDate": "D:20241114145208+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nTrade Performance Management\nDairy Product Brand\nConsolidated the trade agreements to help the Finance \nteam track the trade expenses more efficiently and reconcile \nwith the bills received from the retailers to ensure there is no \ntrade spend leakage\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145208+05'30'",
+            "modDate": "D:20241114145208+05'30'",
+            "trapped": ""
+        },
+        "content": "TRADE PERFORMANCE MANAGEMENT FOR A DAIRY PRODUCT FIRM\nSITUATION\n▪\nThe company faced issues related to reconciliation of  the accrued trade spend and actual trade spend. The spend did not match every \nmonth and the process was very inefficient and consumed large number of resources.\n▪\nMerilytics partnered with the company to closely work with the Sales and Finance team to build tools to reconcile accrued trade expenses \nwith actual trade expenses and highlight major discrepancies\n▪\nCreated a tool to reconcile the accrued trade expenses with actual trade expenses at the most granular level (Customer-SKU-promotion \nevent level) \n▪\nThe tool estimated accrued trade expense based on the trade agreement (specific to each SKU-promotion and customer) and actual \nvolume sold during promotion (scan data)\n▪\nEstimated accrued trade expense is compared with actual trade expense (based on trade bills received from customer) and any major \ndeviations are highlighted\nVALUE ADDITION\nIMPACT\n▪\nHelped the company to automate and efficiently manage the trade spend reconciliation\n▪\nThe company was also able to track actual trade spend on a real-time basis and map the bills received from customers to promotions, \nensuring that there is no leakage of trade spend\nABOUT THE CLIENT\nClient is a large dairy product brand in the U.S. with a wide range of SKUs and categories\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (22).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145208+05'30'",
+            "modDate": "D:20241114145208+05'30'",
+            "trapped": ""
+        },
+        "content": "TRADE PERFORMANCE MANAGEMENT\n3\nCustomer\nALL\nProduct ID\nProd 1\nTrade Spend Type\nALL\nTrade Spend ($)\nUnique ID\nCustomer\nPromo Event Code\nTrade Spend \ntype\nProduct \nidentifier\nStart  week\nEnd week\nAccrued Trade\nActual Trade \n(Trade bills)\nAdditional P/L \nImpact\n$165,166\n$172,979\n$7,813\nCustomer 1-Promo type-1-3-3\nCustomer 1\nPromo type-1-3-3\nPromo type-1\nProd 1\n3\n3\n$8,754\n$13,121\n$4,367\nCustomer 1-Promo type-2-9-11\nCustomer 1\nPromo type-2-9-11\nPromo type-2\nProd 1\n9\n11\n$20,542\n$17,200\n-$3,342\nCustomer 1-Promo type-3-20-23\nCustomer 1\nPromo type-3-20-23 Promo type-3\nProd 1\n20\n23\n$20,131\n$18,873\n-$1,258\nCustomer 1-Promo type-1-33-39\nCustomer 1\nPromo type-1-33-39 Promo type-1\nProd 1\n33\n39\n$12,082\n$18,962\n$6,880\nCustomer 2-Promo type-1-3-5\nCustomer 2\nPromo type-1-3-5\nPromo type-1\nProd 1\n3\n5\n$10,746\n$8,176\n-$2,570\nCustomer 2-Promo type-3-32-38\nCustomer 2\nPromo type-3-32-38 Promo type-3\nProd 1\n32\n38\n$1,086\n$650\n-$436\nCustomer 3-Promo type-1-2-7\nCustomer 3\nPromo type-1-2-7\nPromo type-1\nProd 1\n2\n7\n$14,472\n$19,624\n$5,152\nCustomer 3-Promo type-2-10-16\nCustomer 3\nPromo type-2-10-16 Promo type-2\nProd 1\n10\n16\n$18,146\n$24,251\n$6,105\nCustomer 3-Promo type-2-22-26\nCustomer 3\nPromo type-2-22-26 Promo type-2\nProd 1\n22\n26\n$21,183\n$18,972\n-$2,211\nCustomer 4-Promo type-3-34-35\nCustomer 4\nPromo type-3-34-35 Promo type-3\nProd 1\n34\n35\n$8,599\n$8,338\n-$261\nCustomer 4-Promo type-1-44-44\nCustomer 4\nPromo type-1-44-44 Promo type-1\nProd 1\n44\n44\n$21,242\n$13,480\n-$7,762\nCustomer 5-Promo type-3-36-39\nCustomer 5\nPromo type-3-36-39 Promo type-3\nProd 1\n36\n39\n$8,183\n$11,332\n$3,149\nDrop-downs for \ncustomer, product \nand promo type \nselection\nAccrued Trade Spend \n(estimated) and \nActual Trade Spend \n(Trade bills)\nP&L \nImpact \ndue to\ndeviation\nILLUSTRATIVE\n• Company shared trade agreements with Merilytics which includes information about Customer, trade spend type, SKUs on \npromotion, promotion period (start and end week) and trade billing terms with the customer\n• Accrued trade expense on a SKU-promotion event is estimated based on the trade billing terms and volume sales during the \npromotion period\n• Trade bills received from the customer are mapped to individual SKU-promotion events and actual trade expense incurred on \na SKU-promotion event is determined\n• Accrued trade expense and actual trade expense are compared at a Customer-SKU-promotion event level and any significant \ndeviations are highlighted\n"
+    }
+]

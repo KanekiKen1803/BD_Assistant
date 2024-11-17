@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162448+05'30'",
+            "modDate": "D:20241114162448+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nImpact\n1\nSUCCESS STORIES - SUMMARY\nDiscounting Strategy\nHealth Supplement Company\nDeveloped discount strategy for clients' \ncustomers so that discount are provided based on \ncustomer persona and NPS scorecard for client’s \ncustomer\n▪Churn Score of Customer\n▪LTV of Customer\n▪# frequency of purchase\nIncreased sales margin \n(~2.5M USD per quarter) by \nproviding optimum discounts \nand not flat rates\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162448+05'30'",
+            "modDate": "D:20241114162448+05'30'",
+            "trapped": ""
+        },
+        "content": "DISCOUNT STRATEGY FOR CHURNING CUSTOMERS FOR HEALTH SUPPLEMENT COMPANY\nABOUT THE CLIENT\nClient is a producer of collagen-based health supplements and the category leader in the U.S.\nSITUATION\n▪The client was having high customer churn with almost 60% of the customer base under high churn probability. The flat “30% discount rate” strategy was not \nincreasing the retention rate and was decreasing the purchase margins.\n▪Merilytics partnered with client’s CRM team to design a discounting strategy that provides discounts on customer’s next purchase to targeted customers based \non their historical purchase characteristics such as churn probability, LTV, and type of customer. \n▪Merilytics also created a Customer 360 profile using the survey responses given by the customers in each platform and created an NPS dashboard\n▪Calculated churn probability for each customer, based on machine learning algorithm (randomforestclassifier) using LTV (Lifetime value), recency of order, \nfrequency of order, tenure of customer, discount, and subscription order as inputs\n▪Segmented customers based on Type, Churn score, and LTV into 27 segments; Subscriber-High Churn-High LTV being the highest priority segment and Try & \nBounce-Low Churn-Low LTV being the lowest priority segment. Personalized discount rates are assigned between 5-30% that are updated daily for each customer \nbased on their segmentation\n▪Consolidated the customer survey responses in a consumable format and stored in the data warehouse. Created a pipeline between the data warehouse and \nCRM tool to pass the customer survey responses in the form of ratings over the CRM tool.\n▪Calculated the Net Promoter Score (NPS) for each customer based on the ratings given on Bazaarvoice, Survey Monkey, and site pop-ups and built a dashboard \nthat shows the overall Brand NPS across all survey sources and an overall Product NPS score.\nVALUE ADDITION\nIMPACT\n▪Revised discount strategy improved client margins because now they don’t have to give “Flat 30%” discount to all customers\n▪Personalized discount rates helped the CRM team to customize their customer win back funnel emails and share the discount rates as per the customer’s \npurchasing behavior. Increased sales margin (~2.5M USD per quarter) by providing optimum discounts and not flat rates\n▪NPS Dashboard enabled the client team to take strategic decisions such as streamlining the product line-up by identifying low rated products and removing them \nfrom listing\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162448+05'30'",
+            "modDate": "D:20241114162448+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nThe view shows the number of review emails \nsent, opened and clicked\nThe view shows the NPS score by survey \nsource\nNPS DASHBOARD (1/2)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (292).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162448+05'30'",
+            "modDate": "D:20241114162448+05'30'",
+            "trapped": ""
+        },
+        "content": "Tracks the trend of the number of reviewers \nby source by month\nTracks the NPS trend and the overall \nperception of the brand by the reviewers by \nmonth\nILLUSTRATIVE\nNPS DASHBOARD (2/2)\n"
+    }
+]

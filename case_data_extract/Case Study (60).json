@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nEcoOnline – Revenue Leakage & ARR \nEnhancements\n1\nTo Identify Revenue Leakage by analyzing different datasets. \nEvaluate existing ARR models as per industry standard definitions. \nEcoOnline Limited\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou need to analyze the potential revenue leakage that may have occurred during the migrations resulting from multiple \nmergers and acquisitions in the past or due to the manual processes that are setup in the smaller entities. Additionally, the \ncurrent ARR model requires manual adjustments to reflect true ARR and hence you want suggestions for building a robust \nand automated ARR model which is more aligned with the industry standards.\nSoftware company needs to Analyze Revenue Leakage\n2\nYour value is enhanced.\n•\nYou were able to identify ~130k GBP revenue leakage cases while comparing operational and financial datasets, and \nadditional ~40k GBP revenue leakage from assessing the product usage data. \n•\nYou identified five broad categories of gaps that exists currently in the ARR model such as Under Reporting of ARR, Over \nReporting of ARR, dependance on invoice date, inconsistent logic to categorize contraction/expansion and data gaps i.e., \ninconsistency in the subscriptions data.\n•\nLeveraging the findings from revenue leakage analysis and evaluation of existing ARR models, you were able to bridge \nthe recognized revenue from GL to existing model’s reported ARR.\nEcoOnline – Revenue Leakage & ARR \nEnhancements\nKEY RESULT   \n•\n~ £170k confirmed \nleakage identified\n•\nHighlighted logical \nand data gaps in \nexisting ARR model to \nidentify ~ £2M of \ninaccurate ARR \nreporting \n•\nBridged Recognized \nRevenue to \nSubscriptions ARR for \n14 business entities\nVALUE LEVERS PULLED\n•\nDatasets \nreconciliation\n•\nExisting Dataset \nassessment\n•\nEvaluation of existing \nPower BI ARR model\n2\nYou turn to Accordion. \nWe partnered with the client to identify revenue leakage across different sources and evaluate the existing ARR models  \nincluding:\n1) Analyzing the operational and financial datasets to identify possible revenue leakage\n2) Examining the contracts to understand price update terms and verify if prices are updated on renewals/anniversary \naccordingly\n3) Assessing the product usage dataset for different products to recognize revenue leakage cases at customer level.\n4) Evaluating the existing ARR models and aligning on the industry standard approach.\n5) Bridging Recognized Revenue to reported ARR based on subscriptions.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n3\nAnalysis\nMethodology/ Approach Description\nRevenue Leakage \nCustomers with Login Activity after Churning\n•\nCompany had three main entity groups. The dataset structure and sources for these three entities varied \nwidely. Therefore, we decided to analyze each Entity group separately. \n•\nAs a first step in identifying potential revenue leakage, we wanted to ensure that all subscriptions are being \ninvoiced accurately. We then compared Subscriptions/Bookings data with Invoices data at each customer \nlevel to identify revenue leakage.\n•\nNext step was to ascertain that the price updates in the contracts were implemented appropriately. Since, \nthe pricing terms data available in the subscription dataset was not reliable, we examined the digital copies \nof Contracts to get correct pricing terms. We then checked if these terms were implemented as mentioned, \nat the time of renewals.\n•\nFinally, we leveraged product usage data to look for potential revenue leakage. While assessing product \nusage date we worked on two approaches \n•\nRevenue Upside – Cases where the usage metric (example- no. of licenses) exceeded the subscribed limit\n•\nActive Customer Check – Cases where the customer has churned but we observed evidence of software \nafter switch-off date.\nRevenue Upside\nActive Customers with Overutilization\n•\nWe aligned with client to focus on evaluating the data for Dec 2023 to achieve the true Closing ARR for FY23.\n•\nTo evaluate the existing ARR model, we calculated the ARR opening balance and closing balance at a \ncustomer level and compared it with the output from ARR model. Identified gaps after comparison were \nhighlighted.\n•\nWhile bridging the recognized revenue to reported ARR, we compared the data at customer and entity. \nMethodology/Approach\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nThis slide contains the following visuals: textbox ,textbox ,textbox ,textbox ,textbox ,textbox ,textbox ,image ,image ,image ,image ,image ,image ,image ,actionButton ,PBI_CV_9272D058_BEA0_476A_B090_A712545F92FA. Please refer to the notes on this slide for details\n4\nRevenue Leakage – Subscriptions vs Invoices\nIncludes cases of under-\ninvoicing as well as missing \ninvoices\nTotal amount of invoices sent \nduring the month\nAnnual amount of renewed / \nnew subscriptions\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n1,350\n1,214\n1,223\n1,216\n1,237\n1,255\n1,275\n1,284\n1,377\n1,298\n1,299\n1,500\n1,300\n1,110\n1,120\n1,130\n1,135\n1,176\n1,177\n1,206\n1,206\n1,313\n1,234\n1,234\n1,350\n1,100\n800\n900\n1,000\n1,100\n1,200\n1,300\n1,400\n1,500\n1,600\nJul-23\nAug-23\nSep-23\nOct-23\nNov-23\nDec-23\nJan-24\nFeb-24\nMar-24\nApr-24\nMay-24\nJun-24\nJul-24\nUsed Licenses\nSubscribed Licenses\nMonth\nUsed Licenses\nSubscribed licenses\n5\nProduct Usage - Revenue Upside\nWe calculated revenue \nleakage by prorating the per-\nlicense cost for extra licenses \nused each month.\nActual license count used by \ncustomers where additional \nusage was identified\nNumber of subscribed \nlicenses for customers where \nadditional usage was \nidentified\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nThis slide contains the following visuals: SimpleWaterfall. Please refer to the notes on this slide for details\n6\nRecognized Revenue to Reported ARR Bridge\nInflated ARR – ARR \nreported for Churned \ncustomers\nVariance due to \ndifferent FX rates used \nacross two sources\nInvoiced amount shifted \nto ARR balance of a \ndifferent entity\nDelay in capturing \nUpsells\nARR reported by \nFinancial ARR model\nRecognised revenue for \na month annualized to \ncompare with ARR\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (60).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193506+05'30'",
+            "modDate": "D:20241114193506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\n1) While identifying the revenue leakage, an exhaustive list of areas which could lead to revenue leakage should be considered (few \nexamples listed below)\n1) Bookings/Subscriptions vs Invoices – Reconciling bookings to the invoiced data\n2) Contract Details – Pricing, Usage terms, Product Downtime terms\n3) Product Usage – Monitoring usage metric vs thresholds, Login activity of customers\n2) It is essential to verify the credibility of the data and trace it back to its original source to ensure accuracy. In our case, we observed that \nsome of the fields related to contract information were not reliable and hence we connected with various stakeholders for respective \nentities to get the digital copies of the contracts.\n3) Product usage data and customer login data could be useful to track/monitor customer activities especially in cases of churned \ncustomers.\n4) Aligning with the industry standards while building/evaluating and ARR model is key to build a model which is more reliable. For our \nclient, we observed that ARR model is based on invoice dates in some cases instead of subscription period which led to delay in \nreflecting ARR movements in case of delayed invoicing.\n5) ARR movements for a given period should reconcile with the accrued and deferred income plan.\nLearnings\n"
+    }
+]

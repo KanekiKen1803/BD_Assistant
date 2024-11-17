@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM data visibility\n1\nImplemented a robust RCM reporting framework on Power BI to provide visibility \ninto RCM and facilitate informed decision-making to seal revenue leakages, \noptimize write-offs, and streamline AR\nEyecare provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEyecare provider company needs RCM data visibility\n2\nYour value is enhanced. \nYou have the robust RCM reporting suite significantly improved visibility into the client’s RCM operations and facilitated \nefficient decision-making, resulting in a reduction in initial denials from ~6.6% to ~5.7% and a reduction in final denial \nwrite-offs from ~1.6% to ~0.8%, yielding an annual savings of around $23 million. You have also enhanced management \nof Accounts Receivable, with the percentage of AR over 90 days dropping from ~27% to ~17%, which translates to a \nmonthly reduction of $22 million in AR > 90 days\nRCM DATA VISIBILITY\nKEY RESULT   \n•\n~6.6% to ~5.7% of \nreduced initial \ndenials\n•\n~1.6% to ~0.8% \nreduction in final \ndenial write-offs\n•\n$23 million of annual \nsavings\n•\n~27% to ~17% AR \ndropping\n \nVALUE LEVERS PULLED\n•\nPricing analysis\n•\nCustomer behavior \nanalysis\n•\nCustomer life-time \nvalue\n2\nYou turn to Accordion. \nWe partner with your team to implement a robust RCM reporting framework on Power BI to provide visibility into RCM and \nfacilitate informed decision-making to seal revenue leakages, optimize write-offs, and streamline AR, including:\n1)\nAssessing the existing data tables, created an exhaustive RCM metrics matrix, identified the data gaps, and finalized the \ndefinitions and calculations\n2) Standardizing the key attribute mappings – Insurance plans, Payer groups, Financial class, CARC adjustment codes, etc. to \nensure consistency and accuracy\n3) Consolidating all the RCM-related data, including charges, payments, AR and denials, into a unified semantic model which acts \na single source of truth\n4) Developing tailored self-serve automated dashboards for Optometry and Ophthalmology departments on Power BI to monitor \nRCM processes and key metrics such as Net Collection Rate, Bad Debt, AR, Initial Denials and Final Denials, with the ability to \ndelve into reasons for denials and revenue leakages\n5) Building a deep dive view to analyze Accounts Receivable (AR) trends to identify areas to focus the efforts and formulate \nenhanced collection strategies\nPicture this…\nYou’re looking for a robust RCM reporting framework that provides visibility into the entire revenue cycle and facilitates \ninformed decision-making to seal revenue leakages, optimize write-offs, and streamline AR—ultimately fortifying the \nclient’s financial health.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAssessed the existing data tables, created an exhaustive RCM metrics matrix, identified the data gaps, and finalized the definitions and calculations\n•\nStandardized the key attribute mappings – Insurance plans, Payer groups, Financial class, CARC adjustment codes, etc. to ensure consistency and accuracy\n•\nConsolidated all the RCM-related data, including charges, payments, AR and denials, into a unified semantic model which acts a single source of truth\n•\nDeveloped tailored self-serve automated dashboards for Optometry and Ophthalmology departments on Power BI to monitor RCM processes and key \nmetrics such as Net Collection Rate, Bad Debt, AR, Initial Denials and Final Denials, with the ability to delve into reasons for denials and revenue leakages\n•\nBuilt a deep dive view to analyze Accounts Receivable (AR) trends to identify areas to focus the efforts and formulate enhanced collection strategies\nSituation\n•\nClient was encountering revenue leakages due to increasing denial write-offs and its cash flow was impacted by the increasing AR and bad debt. The lack \nof a unified RCM reporting hindered its ability to effectively address these issues\n•\nPartnered with the client to implement a robust RCM reporting framework that provides visibility into the entire revenue cycle and facilitates informed \ndecision-making to seal revenue leakages, optimize write-offs, and streamline AR—ultimately fortifying the client’s financial health\nRCM data visibility for an eyecare provider network\n3\nImpact\n•\nThe robust RCM reporting suite significantly improved visibility into the client’s RCM operations and facilitated efficient decision-making, resulting in – \n•\nA reduction in initial denials from ~6.6% to ~5.7% and a reduction in final denial write-offs from ~1.6% to ~0.8%, yielding an annual savings of around $23 \nmillion\n•\nEnhanced management of Accounts Receivable, with the percentage of AR over 90 days dropping from ~27% to ~17%, which translates to a monthly \nreduction of $22 million in AR > 90 days\nRCM Data Visibility\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM Data Visibility Approach\n4\nClaims Data\nPayments Data\nAR Data\nPOS Data\nDenials Data\nIntegrated Data\nDenial Attribution \nMethodology\nMapping \nCleanup\nUnified \nData \nModel\nPower BI Dashboards\nAttribute Mapping Cleanup:\nCleaned and standardized the mapping of key attributes across all \npractices and EMR systems\n1.\nInsurance to Payer Group Mapping\n2.\nInsurance to Financial Class Mapping\n3.\nCPT Code to Category Mapping\n4.\nCARC (Claim Adjustment Reason Codes) Mapping\n5.\nRARC (Remittance Advice Remark Codes) Mapping\nDenial Attribution Methodology:\nDeveloped a methodology to assign a unique CARC to each \ndenied claim to avoid duplicates and identify the key reason for \ndenials\n▪\nAnalyzed the remittance data (835 data) to map the CARC \ncodes to each claim\n▪\nRanked all the CARC codes in the order of priority and \nsignificance\n▪\nAssigned the denied amount to the CARC of highest priority \nif multiple CARCs are associated with a denial, thereby \npreventing duplicate calculation of denied amount\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of Key RCM Metrics\n5\nBreakdown of how \nbilled charges are \ntranslating into \ncurrent open AR\nKey RCM metrics and \nratios\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCharges and Collection Trends\n6\nTrend of charges and \ncontractual \nadjustments\nTrend of expected \nallowable, net \npayments and net \ncollection rate %\nFunctionality to toggle \nbetween Service \nMonth and Post \nMonth\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of AR Health Metrics\n7\nDistribution of \ncurrent open AR \nbased on service \nmonth\nTop payers with \nopen AR\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAR Trends\n8\nAR trend across the \naging buckets\nTo analyze which \nbalance buckets are \ncausing most \nimpact on AR\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDenials & the Top-Reasons for Denials\n9\nDenial Trends \nby the reasons \nof denial\nTo understand \nthe top reasons \nof denials for \neach payer \ngroup\nTo understand \nthe top reasons \nof denials for \neach provider\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (61).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193628+05'30'",
+            "modDate": "D:20241114193628+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCharge Lag Summary\n10\nCharge Lag by \nProviders\nCharge Lag by \nPractices\nILLUSTRATIVE\n"
+    }
+]

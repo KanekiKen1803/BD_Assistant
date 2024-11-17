@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPortfolio Census Reporting\n1\nBuilt a census dashboard in Power BI to track employee metrics across the \nportfolio for a PE firm\nPrivate Equity Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for standardize and automate the portfolio companies’ census data and set up a reporting suite in Power BI to \nprovide visibility into the census performance on real-time basis.\nPrivate equity firm company needs portfolio census reporting \n2\nYour value is enhanced. \nYou have the self-serve BI census dashboard helped the client to rank the portfolio companies within the overall ecosystem or \nwithin the funds based on various dimensions. You also have dashboard which provided real-time visibility to the PE firm on the \nkey talent metrics of the PortCos allowing for preemptive measures.\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nLever 1\n•\nLever 2\n•\nLever 3\n2\nYou turn to Accordion. \nWe partner with your team to Built a census dashboard in Power BI to track employee metrics across the portfolio for a PE firm, \nincluding:\n1)\nStandardizing the census data across portfolio companies leveraging the automated workflows in Alteryx as different PortCos \nhad different nomenclatures for various metrics.\n2) Defining the use cases in collaboration with the client and finalized the required KPIs focused on attrition, growth, diversity, etc.\n3) Building an interactive dashboard in Power BI to provide visibility into key performance metrics such as headcount growth, \ndiversity and retention metrics with role-based access to PE firm management and portfolio companies.\n4) Developing and implementing a custom logic to anonymize the company’s data dynamically for the view of each portfolio \ncompany.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nStandardized the census data across portfolio companies leveraging the automated workflows in Alteryx as different PortCos had different nomenclatures \nfor various metrics\n•\nDefined the use cases in collaboration with the client and finalized the required KPIs focused on attrition, growth, diversity, etc.\n•\nBuilt an interactive dashboard in Power BI to provide visibility into key performance metrics such as headcount growth, diversity and retention metrics with \nrole-based access to PE firm management and portfolio companies\n•\nDeveloped and implemented a custom logic to anonymize the company’s data dynamically for the view of each portfolio company\nSituation\n•\nClient lacked visibility into the census performance of its portfolio companies due to unstructured data and lack of a single source of reporting\n•\nCollaborated with the client’s talent team to standardize and automate the portfolio companies’ census data and set up a reporting suite in Power BI to \nprovide visibility into the census performance on real-time basis\nCensus Data Management & BI Reporting for a Private Equity \nFirm\n3\nImpact\n•\nThe self-serve BI census dashboard helped the client to rank the portfolio companies within the overall ecosystem or within the funds based on various \ndimensions\n•\nDashboard also provided real-time visibility to the PE firm on the key talent metrics of the PortCos allowing for preemptive measures\nPortfolio Census Reporting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\nStart\nStandardized the Data\nAutomated workflows to \nstandardize the nomenclature \nusing\nEnd\nReceipt of HR files from all \nthe PortCos\nConsolidated the files \nreceived and created input \nfiles for Power BI\nCreated calculated columns for \nbuilding custom Visuals\nBuilt Power BI visuals for the \ndefined KPIs\nProvided interactive filters to \nmake the dashboard user \nfriendly\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #1 – Headcount Trends of Portco vs. Firm Level and \nFund Level Averages\nILLUSTRATIVE\nDifferent \ngranularity / \nsnapshot of \ndata at a PortCo \nand fund level\nPortCo headcount vs. overall \nprivate equity and fund level \naverages\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (273).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160043+05'30'",
+            "modDate": "D:20241114160043+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #2 – Voluntary and Involuntary Attrition Distribution across years\nILLUSTRATIVE\nVoluntary and involuntary attrition \nat a PortCo level in comparison \nwith fund or overall PE level\n6\n"
+    }
+]

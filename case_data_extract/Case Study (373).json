@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180912+05'30'",
+            "modDate": "D:20241114180912+05'30'",
+            "trapped": ""
+        },
+        "content": "BUNDLE PRICING ANALYSIS FOR A WELLNESS AND FITNESS SERVICES PROVIDER \nSITUATION\n▪Client lacked visibility into the competitive pricing landscape and market dynamics that was leading to sub-optimal revenue realization\n▪Merilytics partnered with the client to develop a pricing model that would recommend revised price points & product bundles to restrict undesirable \ncross-market user redemption i.e., users purchasing product in lower priced market and redeeming in higher priced market (‘reciprocity visit’)\n▪Enabled the client to detect undesirable reciprocity visits and validate the hypotheses to correlate cross-market redemption with pricing and distance \nbetween purchase & redemption point by analyzing the user visits and spending behavior\n▪Recommended a list of viable product bundles with constituents that included both enhancements and geo-restriction, complemented with pricing \nrecommendations and a list of test and control markets for pilot testing\n▪Executed sensitivity analysis after collaborative discussions with the client on the bases of new user addition, churn rate, discount and product uptake \nto help the client in assessing the revenue and Average Revenue Per User (ARPU) impact resulting from the implementation\nVALUE ADDITION\nIMPACT\n▪Based on the analyses, the client revised prices for multiple geographies and introduced geo-restricting product options that helped in restricting \nreciprocity visits by up to ~20% \n▪The model provided a bespoke template for recommending market specific price points by benchmarking with competitors\nABOUT THE CLIENT\nClient is a PE-owned yoga fitness chain in the U.S. with more than 200 studios across 25+ states in U.S.\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180912+05'30'",
+            "modDate": "D:20241114180912+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY\n2\n▪Sourced competitor product and revenue \ninformation by web-scraping the respective \nwebsites and the corresponding client data \nfrom the Data Warehouse\n▪Assessed revenue impact with respect to \ncross-market movement and product \nbundling\n▪Built a multivariate pricing and bundling \nmodel after utilizing competitor \nintelligence and comparing the price points \nof next best alternatives\n▪Executed sensitivity analysis on the basis of \nproduct uptake, discount, user addition, and \nchurn to assess the impact of product \nbundling and price changes on both \nRevenue and ARPU\n▪Identified test and control markets for each \nproduct bundles and recommended price-\npoints for both regular and bundled \nofferings\nData Inputs\nHypotheses \nTesting\nScenario \nModeling\nPricing Analytics \n& Product \nBundling\nTesting & \nRecommendation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180912+05'30'",
+            "modDate": "D:20241114180912+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: COMPETITOR BENCHMARKING\n3\nCompetitor pricing analysis to \nestimate margin between \nselling prices of the \nbenchmark product(s)\nILLUSTRATIVE\nBundle Type\nSingle Studio Access (Geo-restricted)\nClient Zone wise Markets\nPrice Points for Comparison\nComparison with respect to Client\nZone\nMarket\nClient\nCompetitor 1\nCompetitor 2\nCompetitor 3\nComp 1\nComp 2\nComp 3\nZone A\nMarket 1\n$152\n$205\n$154\n$187\n-34.9%\n-1.3%\n-23.0%\nZone B\nMarket 2\n$185\n$165\n$134\n$224\n-8.6%\n11.8%\n-47.4%\nZone B\nMarket 3\n$120\n$153\n$133\n$140\n-0.7%\n12.5%\n7.9%\nZone C\nMarket 4\n$189\n$133\n$150\n$236\n12.5%\n1.3%\n-55.3%\nZone D\nMarket 5\n$201\n$177\n$103\n$185\n-16.4%\n32.2%\n-21.7%\nZone D\nMarket 6\n$134\n$130\n$131\n$191\n14.5%\n13.8%\n-25.7%\nZone D\nMarket 7\n$232\n$121\n$158\n$131\n20.4%\n-3.9%\n13.8%\nZone E\nMarket 8\n$190\n$138\n$108\n$249\n9.2%\n28.9%\n-63.8%\nZone E\nMarket 9\n$208\n$194\n$142\n$225\n-27.6%\n6.6%\n-48.0%\nZone F\nMarket 10\n$178\n$148\n$95\n$148\n2.6%\n37.5%\n2.6%\nZone F\nMarket 11\n$179\n$134\n$136\n$138\n11.8%\n10.5%\n9.2%\nZone G\nMarket 12\n$151\n$129\n$128\n$244\n15.1%\n15.8%\n-60.5%\nZone G\nMarket 13\n$220\n$133\n$121\n$167\n12.5%\n20.4%\n-9.9%\nZone H\nMarket 14\n$178\n$116\n$117\n$201\n23.7%\n23.0%\n-32.2%\nZone H\nMarket 15\n$268\n$190\n$147\n$217\n-25.0%\n3.3%\n-42.8%\nZone H\nMarket 16\n$228\n$129\n$132\n$198\n15.1%\n13.2%\n-30.3%\nZone H\nMarket 17\n$237\n$168\n$152\n$249\n-10.5%\n0.0%\n-63.8%\nZone H\nMarket 18\n$206\n$168\n$133\n$146\n-10.5%\n12.5%\n3.9%\nZone H\nMarket 19\n$166\n$154\n$94\n$199\n-1.3%\n38.2%\n-30.9%\nZone H\nMarket 20\n$137\n$183\n$114\n$178\n-20.4%\n25.0%\n-17.1%\nZone I\nMarket 21\n$178\n$157\n$136\n$216\n-3.3%\n10.5%\n-42.1%\nZone I\nMarket 22\n$262\n$199\n$104\n$177\n-30.9%\n31.6%\n-16.4%\nZone I\nMarket 23\n$189\n$175\n$151\n$197\n-15.1%\n0.7%\n-29.6%\nZone I\nMarket 24\n$115\n$195\n$91\n$220\n-28.3%\n40.1%\n-44.7%\nZone I\nMarket 25\n$263\n$177\n$159\n$217\n-16.4%\n-4.6%\n-42.8%\nZone J\nMarket 26\n$209\n$106\n$97\n$186\n30.3%\n36.2%\n-22.4%\nZone J\nMarket 27\n$136\n$114\n$133\n$247\n25.0%\n12.5%\n-62.5%\nZone J\nMarket 28\n$210\n$172\n$152\n$130\n-13.2%\n0.0%\n14.5%\nZone J\nMarket 29\n$224\n$180\n$144\n$191\n-18.4%\n5.3%\n-25.7%\nZone J\nMarket 30\n$257\n$121\n$104\n$169\n20.4%\n31.6%\n-11.2%\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180912+05'30'",
+            "modDate": "D:20241114180912+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2: SCENARIO MODELING TO ASSESS REVENUE IMPACT\n4\nIdentify viable product bundles \nusing sensitivity analysis on the basis \nof ARPU and revenue impact\nILLUSTRATIVE\nUser selections:\nBundle Type\nAll Bundles\nMarket\nMarket 3\nBundle 1 Uptake\n4.2%\nBundle 2 Uptake\n4.7%\nBundle 3 Uptake\n2.2%\nAssumptions:\nNew User/Churn (%)\n7% / 1%\nDiscount/Uptake\n0% / 5%\nNew User Addition (%)\n7.0%\nChurn (%)\n1%\nDiscount\n0.0%\nUptake\n5.0%\nARPU Impact\nNew User Addition\n5%\n7%\n8%\n10%\n5%\n7%\n8%\n10%\n5%\n7%\n8%\n10%\nChurn Rate\n0%\n0%\n0%\n0%\n1%\n1%\n1%\n1%\n2%\n2%\n2%\n2%\nDiscount\nUptake\n0%\n0%\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0%\n5%\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0.8\n0%\n10%\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n1.6\n5%\n0%\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n5%\n5%\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n0.5\n5%\n10%\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n1.0\n10%\n0%\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n10%\n5%\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n0.2\n10%\n10%\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n0.4\n15%\n0%\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n15%\n5%\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n-0.1\n15%\n10%\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n-0.2\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (373).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180912+05'30'",
+            "modDate": "D:20241114180912+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n5\n▪For sourcing of competitor’s pricing and product information, the team used web scraping through a combination of Python (Selenium) and \nUiPath tools  \n▪For assessing potential impact of price revision and product bundling, the team used multi-factor sensitivity analysis on the bases of product \nupdate, discount, new user addition, and user churn\n"
+    }
+]

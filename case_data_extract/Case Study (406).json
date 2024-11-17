@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFill rate analysis\n1\n• Consolidated various data sources – JD Edwards, SharePoint into a data model \nusing ADF pipelines and analyzed Orders and Fulfilment data\n• Developed a Power BI dashboard  to support the Supply Chain team in \nanalyzing the performance of warehouses in fulfilling the orders, by focusing on \nkey Fill rate metrics\nNutritional health products manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDefined the logic for calculating fill rate at order, line, unit, value($) level using ‘First Shipment Date’ (minimum shipment date at which units were shipped \namong all the lines for an order)\n•\nBuilt the required pipelines on Azure Data factory & structured data models on Visual Studio \n•\nDeveloped a self serve robust Power BI dashboard focusing on weekly, quarterly and monthly comparison of different fill rate metrics at Brand, Channel and \nBusiness Unit levels to identify any concerning trends where action might be needed \n•\nPerformed YoY comparison of shipment and fill rate data to provide insights into the trends and variances \n•\nAnalyzed customer and supplier level data for different fill rates to identify the top customers that were getting impacted because of nonperformance\nSituation\n•\nClient lacked visibility to analyze the performance of warehouses in fulfilling the orders on an ongoing basis due to absence of standard reporting and lack \nof agreed definitions for calculating different fill rate metrics\n•\nPartnered with the client to evaluate the key drivers that impact fill rate, finalize the definitions of various fill rate metrics, and build Power BI dashboard \nthat is refreshed daily to track these metrics\nFill rate analysis for nutritional health products manufacturer\n2\nImpact\n•\nThe Customer & Item level drill-throughs provided across the report enabled client to easily filter down to individual customer level details to take specific \nactions based on the fill rate performance for the selected time period\n•\nThe automated dashboard was leveraged as the final source of reporting for the fill rate metric ensuring that the entire Supply Chain team is looking at same \ndata and metrics\n•\nThe report helped the warehousing team in managing their third-party logistics as they can easily pull the shipments by Warehouse\nFILL RATE ANALYSIS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n3\nAPPROACH\n# TOTAL\nSUB-TOPIC 02\nFILL RATE\n▪Calculated total # orders, # lines and # units based on first shipment date of an \norder\n▪First shipment date refers to the minimum shipment date at which units were \nshipped to the customers among all the lines in an order\n▪As the requested date keeps changing with time, this helped client in identifying \nthe total # orders, # lines and # units for the selected time period\n▪An order is considered shipped if all the lines got shipped together \nat first shipment date\n▪Shipped Line – # lines that got shipped together on first shipment \ndate for an order\n▪Shipped Units – # units in all the lines that got shipped together on \nfirst shipment date for an order\n▪$ Shipped Value – Sum of the invoice amount for all the lines that \ngot shipped on first shipment date for an order \n▪Order Fill Rate – Ratio of # Shipped Orders and # Total Orders \n▪Line Fill Rate – Ratio of # Shipped Lines and # Total Lines\n▪Unit Fill Rate – Ratio of # Shipped Units and # Total Units\n▪$ Value Fill Rate – Ratio of $ Shipped Value and $ Total Value\n# SHIPPED\nNote: Total Lines (or Units) contains the lines (or units) that got shipped after the first shipment date for an order in addition to the lines/units that got shipped on first \nshipment date\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFill rate methodology\n4\nWhether all the lines in an order got \nshipped together or not \nYES\nOrder Fill Rate\n(Ratio of #Shipped Orders and # \nTotal Orders)\nNO\n# Lines that got shipped together \non First Shipment Date for an order\n# Units in all the lines that got \nshipped together on First Shipment \nDate for an order\nDecision Box\nDecision Box\nDecision Box\n# Failed Orders\nNO\n# Failed Units\nNO\n# Failed Lines\n#Shipped Orders\nYES\n#Shipped Lines\nYES\n#Shipped Units\nLine Fill Rate\n(Ratio of #Shipped Lines and # \nTotal Lines)\nUnit Fill Rate\n(Ratio of #Shipped Units and # \nTotal Units)\nInput Data & Conditions\nCalculations\nOutputs\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExecutive summary of fill rate metrics\n5\nILLUSTRATIVE\nUser can select the view \n(Line/Unit/ $Value/Order), \nChannel, Brand, Supplier, \nLine of Business to analyze \nthe fill rate for the selected \nperiod\nUnit Fill Rate details for \ndifferent Suppliers\nUnit Fill Rate details for \ndifferent Line of \nBusinesses and Brands\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMonthly analysis of unit fill rate metric\n6\nILLUSTRATIVE\nLast 12-month analysis \nof the Unit Fill Rate for \nPerformance Tracking \n& Reporting\nDetailed analysis of Unit \nFill Rate metric at \ncustomer level for shipped \nand failed units for the \nmonth of September\nDrill-though of customer and \nitem details for September\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (406).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185131+05'30'",
+            "modDate": "D:20241114185131+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nYOY Comparison\n7\nILLUSTRATIVE\n"
+    }
+]

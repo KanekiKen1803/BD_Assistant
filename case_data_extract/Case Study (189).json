@@ -1,0 +1,322 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 0,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRCM dashboarding suite\n1\nProvided real-time visibility into the key metrics across the revenue cycle and \nprovided insights into the high priority action items for the Utilization Review, \nBilling and Finance teams to mitigate leakages in revenue\n(Behavioral health provider)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 1,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to provide real-time visibility into the key metrics across the revenue cycle and provide insights into the high \npriority action items for the utilization review, Billing and finance teams to mitigate leakages in revenue. Currently, you have \nlimited visibility into the RCM cycle in terms of identifying the key trends and high impact action items for the RCM & finance \nteams to prioritize. Also, you need to reduce people dependency in getting any visibility, due to exits.\nBehavioral health provider needs RCM dashboarding suite\n2\nYour value is enhanced. \n•\nReduction in rejected claims on a daily level by ~70% with improvement in clean claim rate by 2% through RCM dashboard suite\n•\nThe daily unbilled report helped prioritize the charges and helped reduce the unbilled charges post-discharge from ~$4.5M to \nunder a million USD \n•\nYou were able to single out the unused authorized days and act on unauthorized patient days to plug possible revenue leaks\nRCM DASHBOARDING SUITE\nKEY RESULT   \n•\nReduction in rejected \nclaims on a daily \nlevel by ~70% \n•\nReduce the unbilled \ncharges from ~$4.5M to \nunder a million USD \nVALUE LEVERS PULLED\n•\nAR aging\n•\nUtilization review\n2\nYou turn to Accordion. \nWe partner with your team to provide real-time visibility into the key metrics across the revenue cycle and to provide \ninsights into the high priority action items for the utilization review, billing and finance teams to mitigate leakages in \nrevenue, including:\n1) Building utilization review dashboard to track authorizations and denials related KPIs and help deep-dive into the \npatient-level UR details\n2) Providing visibility into total unbilled charges by patient discharge status and days since discharge to help the team \nprioritize the charges from billing perspective so that there are no delays in claims processing and collections.\n3) Tracking claims by statuses along with the corresponding trends and help prioritize the team’s efforts for handling \nrejected claims\n4) Providing visibility into the AR aging, AR Roll-forward aging trends, its drivers and into the collection efficiencies\n5) Tracking insurer and patient payments /refunds in the historic billing months and the previous day, their trends and \ndrivers\n6) Estimating Customer Financial Responsibility to identify the top admits/ discharges driving the outstanding ECFR for \naction\n7) Enabling the existing data warehouse to be a single source of truth by setting-up python-based data pipelines and \nautomating claims and billing data ingestion from third party sources via APIs and web scraping\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 2,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt Utilization review dashboard to track Authorizations and Denials related KPIs and help deep-dive into the patient-level UR details\n•\nProvided visibility into total unbilled charges by patient discharge status and days since discharge to help the team prioritize the charges from billing \nperspective so that there are no delays in claims processing and collections.\n•\nTracked claims by statuses along with the corresponding trends and help prioritize the team’s efforts for handling rejected claims\n•\nProvided visibility into the AR aging, AR Roll-forward aging trends, its drivers and into the collection efficiencies\n•\nTracked insurer and patient payments /refunds in the historic billing months and the previous day, their trends and drivers\n•\nEstimated Customer Financial Responsibility to identify the top admits/ discharges driving the outstanding ECFR for action\n•\nEnabled the existing data warehouse to be a single source of truth by setting-up python-based data pipelines and automated claims and billing data \ningestion from third party sources via APIs and web scraping\nSituation\n•\nClient had limited visibility into their RCM cycle in terms of identifying the key trends and high impact action items for the RCM & Finance teams to \nprioritize. Also, they needed to reduce people dependency in getting any visibility, due to exits.\n•\nPartnered with the client to provide real-time visibility into the key metrics across the revenue cycle and provide insights into the high priority action items \nfor the Utilization Review, Billing and Finance teams to mitigate leakages in revenue\nExecutive RCM dashboarding suite for behavioral \nhealth facilities\n3\nImpact\n•\nReduction in rejected claims on a daily level by ~70% with improvement in clean claim rate by 2% through RCM dashboard suite\n•\nThe daily unbilled report helped prioritize the charges and helped reduce the unbilled charges post-discharge from ~$4.5M to under a million USD \n•\nClient was able to single out the unused authorized days and act on unauthorized patient days to plug possible revenue leaks\nRCM DASHBOARDING SUITE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 3,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\n▪Calculate the AR days using the net \naverage daily collectibles made in the last \nthree months and use the values to \nestimate the number of days it would \nrequire to cover the remaining balance\n▪For the cash collection dashboard, \ncalculate the net payments(sum of \npayments and refunds) received either \nfrom insurer or patient\n▪For the UR dashboard, calculate the \nnumber of patient days, denied days, \nauthorized days, NAR days, pending days, \netc. Using authorization data \n▪For claims analysis, calculate the claims \nsubmitted, claims rejected, clean claim \nrate and other claims-related kpis\nAnalysis\n▪Claims data from the \nclaims management \nsystem\n▪Billing data such as \ncharges, payments, \npatient inflow, etc. From \nbilling system (s)\n▪Authorization details of \ninsurance claims \n(utilization review data)\n▪Admits data\nInput\n▪The RCM scorecard involves analysis of claims, billing \nand authorization data\n▪As a first step, an automated process is built to extract \nthe data from the MOL/Allscripts billing systems, \nsalesforce leads, and waystar claims management \nsystem\n▪This data is then cleaned and stored as various data \ntables in the database. Relevant fields from these \ntables are used in building automated dashboards for \nthe RCM scorecard.\n▪Data validation with the clients is done based on front-\nend reports from EHR systems\n▪Aligned the wireframes and the KPIs to be captured in \neach of the dashboards of the RCM and developed the \nsame using the respective tool\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 4,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUtilization review (UR) (1/3)\n5\nReview Authorization %’s for the latest completed week and compare with historical averages \nalong with the corresponding trends. Review trends in unused Authorized days\nUR Summary\nUR Denials\nUR Details\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 5,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUtilization review (UR) (2/3)\n6\nILLUSTRATIVE\nReview Authorization denials and their corresponding drivers. Identify the top reasons for \ndenials by facility to drive any process improvements.\nUR Summary\nUR Denials\nUR Details\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 6,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUtilization review (UR) (3/3)\nILLUSTRATIVE\nUR Summary\nUR Denials\nUR Details\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 7,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUnbilled charges (1/2)\n8\nTrack the charges/vouchers for \nwhich services have been \nrendered but are not billed in the \nsystem. It also helps in identifying \nthe key drivers for the client to \ntake action to help improve their \ncollectibles.\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 8,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUnbilled charges (2/2)\n9\nILLUSTRATIVE\nIdentify the top-10 Admits that \ncontribute to the highest Unbilled \nCharges for prioritization. Also \nidentify the oldest unbilled \ncharges in the system for action\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 9,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nClaims analysis\n10\nILLUSTRATIVE\nThe Claims Monitoring dashboard tracks \nthe # and $ value of claims that have \nbeen submitted by the client, accepted \nby the clearing house, rejected/denied \nor approved by the payor and their \nsubsequent details. Also helps track the \nclean claim rate to help the team for the \nexecutive leadership to track \noperational efficiency.\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 10,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccounts receivables (1/4)\n11\nILLUSTRATIVE\nAR Summary\nAR Days\nAR Roll-forward\nGet a quick snapshot of whether the AR aging meets the target/ performance requirements. \nIdentify whether the trends in high aging buckets is decreasing over time. Identify the top payors \nresponsible for the pending AR.\n"
+    },
+    {
+        "page": 12,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 11,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccounts receivables (2/4)\n12\nILLUSTRATIVE\nAR Summary\nAR Days\nAR Roll-forward\nTrends in AR Days to see operating/ collection efficiencies i.e., whether it is improving or deteriorating. \nReview the AR days for top 10 payors to get a representative metric for the entire business\n"
+    },
+    {
+        "page": 13,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 12,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccounts receivables (3/4)\n13\nILLUSTRATIVE\nAR Summary\nAR Days\nAR Roll-forward\nReview the AR that rolled over on a week over week basis or between any selected period along with \nthe drivers for the roll forward i.e., at a facility or payor level. Review the waterfall break up of AR \nchange\n"
+    },
+    {
+        "page": 14,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 13,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccounts receivables (4/4)\n14\nILLUSTRATIVE\nAR Summary\nAR Days\nAR Roll-forward\n"
+    },
+    {
+        "page": 15,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 14,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nEstimated customer financial responsibility (ECFR)\n15\nILLUSTRATIVE\nInsights into the collectibles from the \npatients that do not have a payment \nplan and track the percentage ECFR \noutstanding on a \ndaily/weekly/monthly cadence. \nIdentify the top 5 patients \ncontributing to the highest ECFR \noutstanding for action.\n"
+    },
+    {
+        "page": 16,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (189).pdf",
+            "page": 15,
+            "total_pages": 16,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104232+05'30'",
+            "modDate": "D:20241115104232+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCash collections\n16\nILLUSTRATIVE\nThe Cash collection dashboard helps \nthe team to track the distribution of \ntotal payments received by facilities, \npayors segregated by age buckets \non a daily cadence. Track the \ndistribution of payments by age to \nunderstand whether the payments \nreceived are for recent vs older \nservices by payor \n"
+    }
+]

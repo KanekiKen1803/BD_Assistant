@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135233+05'30'",
+            "modDate": "D:20241114135233+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nSpecialty Food Manufacturer\n(Inventory Management)\nCreated an inventory model to determine company’s optimal inventory levels \nbased on demand forecasts and variability, vendor lead times and variability, \nservice levels etc.\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135233+05'30'",
+            "modDate": "D:20241114135233+05'30'",
+            "trapped": ""
+        },
+        "content": "INVENTORY MANAGEMENT\nSITUATION\n▪Recently added new sales channels which had strictly defined service level requirements\n▪Merilytics partnered with the company to develop an inventory optimization model to evaluate current inventory situation and estimate \noptimal inventory level required for each SKU to meet sales forecasts and service level targets for its new channels\n▪Analyzed the sales forecasts, procurement and inventory data to estimate optimal inventory levels for all its SKUs\n▪Customized the calculations of inventory metrics to consider client specific constraints related to ordering frequency and minimum order \nquantity (MOQ) of suppliers\n▪Analyzed the current inventory situation and recommended the changes needed to minimize inventory level while meeting service level \ntargets for next four quarters\nVALUE ADDITION\nIMPACT\n▪Our in-depth analysis and customized inventory optimization model helped the company significantly reduce their inventory levels on a net \nbasis and allow them to meet the service level targets for the new sales channels\nABOUT THE CLIENT\nCompany was a PE-owned specialty food manufacturer\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135233+05'30'",
+            "modDate": "D:20241114135233+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nSafety stock\n1 Order quantity is adjusted so that it cannot fall below MOQ for any SKU\n2 Calculated as the time during which demand for the SKU equals OQadj \n3 Safety stock for non-Can SKUs is calculated as S = Z×√(LT× Febest\n2 + σLT\n2× Davg\n2)\nService level targets\nby channel and SKU\nZ-score of the weighted \naverage service level \ntarget for each SKU (Z)\nCalculate adjusted cycle time2 \n(CTadj) = OQad/Davg\nReplenishment time (RT) \n= Min (CTadj, Lead time)\nDetermine replenishment \ntime variability (σRT) = σLT \nX √(RT/LT)\nHistorical forecast error (FE)\nDetermine best case \nforecast error (FE) (Febest) \n= min (FE, σD)\nHistorical demand variability \n(σD)\nAvg. monthly demand \nforecast for the quarter \n(Davg)\nCompany’s \ncurrent cycle time \n(CT)\nMinimum Order \nQuantity (MOQ)\nLead time variability (σLT)\nAvg. monthly \ndemand forecast \nfor the quarter \n(Davg)\nAverage \ndemand during \nCT (OQ)\nCalculate adjusted order \nquantity1 (OQadj) = max \n(MOQ, OQ)\nX\n3\nMETHODOLOGY USED TO ESTIMATE SAFETY STOCK\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (173).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135233+05'30'",
+            "modDate": "D:20241114135233+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nMaximum inventory level\nRe-order point (ROP)\nAverage demand during \nRT (DRT) = Davg X RT\nAdjusted order quantity \n(OQadj)\nMinimum demand over RT = \n(Davg – Febest) X (RT – σRT)\nRecommended average \ninventory level\n+\n─\n+\nSafety Stock\nHalf of average demand \nduring CT (OQ)\n+\nSafety Stock\nMETHODOLOGY USED TO ESTIMATE SAFETY STOCK\n4\n"
+    }
+]

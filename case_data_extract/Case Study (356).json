@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nSales Reporting & Competitor Analysis\nElectrolyte Company\nCreated a monthly reporting deck to showcase sales and \ncomparison against competitors in the market\n▪Units per Store per Week\n▪New UPC analysis\n▪Comparison with competitors \n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "MONTHLY REPORTING AND COMPETITION ANALYSIS FOR AN \nELECTROLYTE COMPANY\nSITUATION\n▪\nBeing a new company, client needed to understand the performance of market and their standing against competitors of the industry\n▪\nMerilytics partnered with the client to develop a monthly reporting deck to consolidate the data every month and provide visibility into key \nsales metrics (such as Revenue, Units sold per store per week (USW) and Market Share etc.) that showcase their performance.\n▪\nConsolidated data from multiple sources including a FMCG Data Syndicate and an e-commerce admin platform, using VBA (macros) in Excel. \n▪\nBuilt an automated Excel model to calculate the key metrics (Revenue, Units sold per store per week (USW) and Market Share) using the \nconsolidated data. \n▪\nCreated a methodology to identify new products (UPCs – Unique Product Codes) introduced into the market every month that could be a \nthreat to the client.\n▪\nBuilt a monthly reporting deck showcasing all the performance metrics over all the last month along with key business insights\nVALUE ADDITION\nIMPACT\n▪\nThe monthly reporting deck helped the client to better understand their performance in the market.\n▪\nThe deck also helped the client comprehend their growth trends against the competitors in the field. The dynamic nature of the deck eased \nout the monthly update process that also enables the client to provide real time inputs to understand the actual performance of the company.\n▪\nThe automation of the deck saved the Sales team head of client 4 man-days of effort each month.\nABOUT THE CLIENT\nClient is an Electrolyte products company based in the U.S.,  who is observing rapid growth in the market.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE TRENDS\n3\nYAGO refers to “Year Ago”. \n835% growth indicates \ngrowth versus same period \nlast year \n4-week period trend of \nSales revenue\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE BY RETAILER\n4\nRetailer-wise \nrevenue \ncontribution from \nlast period  \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "UNITS/STORE/WEEK (USW) & RETAILER DISTRIBUTION\n5\nILLUSTRATIVE\nUSW by 4-week periods \ncalculated as =\n(# Units Sold / # Stores \nselling) / # of Weeks in \nconsideration\nDollar Sales share by \nRetailer for client SKUs\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "COMPARISON AGAINST COMPETITORS\n6\nILLUSTRATIVE\nComparison of Sales of the \nperiod in consideration \nagainst last year (YAGO – \nYear Ago)\nSales comparison of client \ncompany against various \ncompetitors across all \nretailers\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "TOP SKUs BY UNIT SALES\n7\nILLUSTRATIVE\nUPC – Unique Product Code\nMULO – Multi-Outlet\nView showing Top \nperforming SKUs of the \nclient and competing \nbrands with Units and \nDollar Sales\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (356).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174725+05'30'",
+            "modDate": "D:20241114174725+05'30'",
+            "trapped": ""
+        },
+        "content": "COMPARISON WITH COMPETITORS BY REGION\n8\nILLUSTRATIVE\nView showing sales per \nmillion population for \nbrands across multiple \noutlets (MULO)\n"
+    }
+]

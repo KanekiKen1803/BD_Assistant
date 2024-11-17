@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122530+05'30'",
+            "modDate": "D:20241114122530+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDetermined optimal pricing for Promotions based on historical volume and \nprice trends, to maximize gross margins at an apparel retailer\nApparel Brand\n(Optimal Pricing Analyses)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122530+05'30'",
+            "modDate": "D:20241114122530+05'30'",
+            "trapped": ""
+        },
+        "content": "SITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nCompany is a large U.S. based apparel and lifestyle brand, with ~100 stores across the U.S., along with e-commerce and catalog platforms\n2\nPROMOTION EFFECTIVENESS FOR AN APPAREL BRAND\n▪\nCompany had a wide range of departments and was offering significantly higher discounts across all departments on a regular basis leading to \nlower gross profits and margins\n▪\nMerilytics partnered with the Finance, Operations and Sales teams to evaluate the promotions strategy at a department and channel level, and \nrecommend an optimal promotion calendar for the Holiday season, Spring & Fall\n▪\nAggregated sales transaction data at a “item-day” level by department (e.g., Men’s Sweaters, Boys Pants, Women’s accessories etc.) and channel \n(e.g., Internet, Retail, Outlets etc.) using past 24 months data. Adjusted data for day of week  variance, Seasonality, YoY organic growth, and \nspecial discount days (Black Friday, Cyber Monday etc.)\n▪\nCalculated the promotion lift for each season (Summer, Spring, Fall, Holiday season etc.) to identify the impact on volumes from discounts\n▪\nRecommended optimal discounts to be offered on a daily basis for each department and season in order to maximize the gross profit\n▪\nApplied business constraints based on inventory availability, total promotion spend etc. to develop a promotion calendar for the season\n▪\nOur promotion calendar recommendations at a daily department-channel level could help the company potentially improve gross profit by \n~20%\n▪\nIdentified systematic way to track promotions and its impact on volumes, so that performance can be tracked real-time and mid-season \nadjustments to the calendar can be made if required\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122530+05'30'",
+            "modDate": "D:20241114122530+05'30'",
+            "trapped": ""
+        },
+        "content": "Plot absolute % change in discounts vs. % change \nin volumes for past 7 days, for each day\nRelationship between discounts and volumes \nwas determined\nProfit (𝝅) \n= [Revenues at optimal discount %] – [COGS dollars]\n= [Optimal vol.*MSRP*(1-Optimal disc.)] – [Optimal vol* unit Cost]\n= ….\n= ….\n= ….\n= 𝐷𝑂∗𝑎∗(𝑀𝑆𝑅𝑃−𝐶𝑃) + 𝑀𝑆𝑅𝑃∗𝑎∗𝐷𝑀𝐴 −𝑀𝑆𝑅𝑃∗𝑏−𝐷𝑂\n2 ∗𝑎∗𝑀𝑆𝑅𝑃\nDifferentiating above equation to maximize the Profit (𝝅) and solving for \noptimal discount (DO) we have optimal discount as\n𝑫𝑶= 𝑴𝑺𝑹𝑷−𝑪𝑷\n𝟐∗(𝑴𝑺𝑹𝑷) + 𝑫𝑴𝑨\n𝟐\n−𝟏+ 𝒃′\n𝟐𝒂′\nILLUSTRATIVE\nRELATIONSHIP BETWEEN CHANGE IN DISCOUNTS AND INCREMENTAL VOLUMES WAS \nDETERMINED AND INCORPORATED INTO THE PROFIT EQUATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (104).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122530+05'30'",
+            "modDate": "D:20241114122530+05'30'",
+            "trapped": ""
+        },
+        "content": "Date\nActual \nDiscount \n%\n7-day MA \ndiscount \n%\nOptimal \ndiscount \n%\nIncremental \ndiscount \noffered\nIncrementa\nl volumes\nActual \nVolumes\nOptimal \nvolumes\nOptimal \nGross \nrevenues $\nOptimal Net \nrevenues ($)\nOptimal \nGross \nmargin ($)\n1-Nov-15\n32%\n27%\n27%\n-5%\n-23%\n768\n591\n$29,530\n$21,557\n$11,812\n2-Nov-15\n29%\n28%\n31%\n2%\n29%\n967\n1,249\n$62,459\n$43,097\n$24,984\n3-Nov-15\n23%\n30%\n26%\n3%\n37%\n823\n1,125\n$56,258\n$41,631\n$22,503\n4-Nov-15\n30%\n28%\n32%\n2%\n29%\n316\n408\n$20,404\n$13,875\n$8,162\n5-Nov-15\n31%\n28%\n26%\n-5%\n-23%\n200\n154\n$7,693\n$5,693\n$3,077\n6-Nov-15\n25%\n28%\n26%\n1%\n22%\n514\n625\n$31,275\n$23,143\n$12,510\n7-Nov-15\n20%\n29%\n22%\n2%\n29%\n684\n884\n$44,205\n$34,480\n$17,682\n8-Nov-15\n30%\n27%\n33%\n3%\n37%\n925\n1,264\n$63,216\n$42,355\n$25,286\n9-Nov-15\n28%\n27%\n30%\n2%\n29%\n514\n664\n$33,223\n$23,256\n$13,289\n10-Nov-15\n24%\n27%\n26%\n2%\n29%\n307\n397\n$19,835\n$14,678\n$7,934\n11-Nov-15\n23%\n27%\n21%\n-2%\n-1%\n200\n199\n$9,933\n$7,847\n$3,973\n12-Nov-15\n25%\n26%\n21%\n-4%\n-16%\n495\n418\n$20,891\n$16,504\n$8,356\n13-Nov-15\n30%\n25%\n29%\n-1%\n7%\n279\n298\n$14,900\n$10,579\n$5,960\n14-Nov-15\n27%\n26%\n30%\n3%\n37%\n200\n273\n$13,667\n$9,567\n$5,467\n15-Nov-15\n24%\n27%\n25%\n1%\n22%\n877\n1,068\n$53,391\n$40,043\n$21,356\n16-Nov-15\n29%\n26%\n26%\n-3%\n-8%\n419\n385\n$19,266\n$14,257\n$7,706\n17-Nov-15\n23%\n26%\n25%\n2%\n29%\n890\n1,150\n$57,513\n$43,135\n$23,005\n18-Nov-15\n27%\n26%\n24%\n-3%\n-8%\n200\n184\n$9,187\n$6,982\n$3,675\n19-Nov-15\n29%\n26%\n26%\n-3%\n-8%\n200\n184\n$9,187\n$6,798\n$3,675\n20-Nov-15\n21%\n27%\n23%\n2%\n29%\n200\n258\n$12,921\n$9,949\n$5,168\n21-Nov-15\n31%\n26%\n33%\n2%\n29%\n824\n1,065\n$53,262\n$35,685\n$21,305\n22-Nov-15\n34%\n26%\n32%\n-2%\n-1%\n528\n524\n$26,204\n$17,819\n$10,482\n23-Nov-15\n31%\n28%\n33%\n2%\n29%\n345\n445\n$22,264\n$14,917\n$8,906\n24-Nov-15\n31%\n28%\n33%\n2%\n29%\n200\n258\n$12,921\n$8,657\n$5,168\n25-Nov-15\n24%\n29%\n25%\n1%\n22%\n271\n330\n$16,476\n$12,357\n$6,590\n26-Nov-15\n26%\n29%\n29%\n3%\n37%\n780\n1,066\n$53,298\n$37,841\n$21,319\n27-Nov-15\n23%\n28%\n25%\n2%\n29%\n200\n258\n$12,921\n$9,690\n$5,168\n28-Nov-15\n34%\n29%\n30%\n-4%\n-16%\n294\n248\n$12,398\n$8,679\n$4,959\n29-Nov-15\n23%\n29%\n25%\n2%\n29%\n804\n1,039\n$51,966\n$38,974\n$20,786\n30-Nov-15\n29%\n27%\n25%\n-4%\n-16%\n510\n430\n$21,504\n$16,128\n$8,602\nProduct Division\nKids Girls\nProduct Department\nDress/Skirt\nUser can select product division and \ndepartment to evaluate\nEstimated implied revenues and $ \ngross margin are calculated\n4\nILLUSTRATIVE\nOptimal discount is \ncalculated at daily level\nPROMOTION CALENDAR AT DAILY, DEPARTMENT LEVEL WAS DETERMINED WITH ESTIMATED \nIMPACT ON VOLUMES, REVENUES AND GROSS MARGIN\nDay 1\nDay 2\nDay 3\nDay 4\nDay 5\nDay 6\nDay 7\nDay 8\nDay 9\nDay 10\nDay 11\nDay 12\nDay 13\nDay 14\nDay 15\nDay 16\nDay 17\nDay 18\nDay 19\nDay 20\nDay 21\nDay 22\nDay 23\nDay 24\nDay 25\nDay 26\nDay 27\nDay 28\nDay 29\nDay 30\n"
+    }
+]

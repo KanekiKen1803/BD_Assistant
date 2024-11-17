@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nGeo-mapping model\n1\nDeveloped Retail Store expansion strategy to identify new regional opportunities \nfor opening additional brick-and-mortar locations based on sales potential\nPrestige beauty brand\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for sales performance using a Regression model which factored Household income, Population density, \nCompetitors store count & Affinity brands store count as independent variables\nPrestige beauty brand company needs geo-mapping model\n2\nYour value is enhanced. \nYou have £ 2.2 million annual sales increment expected from a total of 33 prime opportunity recommendations for opening \nnew stores across UK Region. You also have increased 19% in brand’s market share expected across UK region from prime \nopportunity recommendations.\nGEO-MAPPING MODEL\nKEY RESULT   \n•\n£ 2.2 Million Annual \nSales increment \nVALUE LEVERS PULLED\n•\nLocation mapping in \nPBI \n•\nRegression model\n•\nWeb Scraping\n2\nYou turn to Accordion. \nWe partner with your team to develop a  retail store expansion strategy to identify new regional opportunities for opening \nadditional brick-and-mortar locations based on sales potential, including:\n1)\nLeveraging UI path automation for collating latitude/longitude details of Competitor and Affinity brand stores from Google \nMaps for visual appreciation\n2) Collecting reliable data from UK Govt website to assess impact of income potential, area (sq. km) and population of the region \ntowards Sales of a store\n3) Developing Regression model in Power BI post segregating Client’s existing Stores data into training and testing datasets and \nevaluated performance of the model based on Coefficient of Determination and Root Mean Square Error\n4) Generating proposed opportunities for Stores expansion based on estimated Sales from Regression model by leveraging \nHousehold income, Population density, Competitors & Affinity brands store count \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nLeveraged UI path automation for collating latitude/longitude details of Competitor and Affinity brand stores from Google Maps for visual appreciation\n•\nCollected reliable data from UK Govt website to assess impact of income potential, area (sq. km) and population of the region towards Sales of a store\n•\nDeveloped Regression model in Power BI post segregating Client’s existing Stores data into training and testing datasets and evaluated performance of the \nmodel based on Coefficient of Determination and Root Mean Square Error\n•\nGenerated proposed opportunities for Stores expansion based on estimated Sales from Regression model by leveraging Household income, Population \ndensity, Competitors & Affinity brands store count \nSituation\n•\nClient faced a critical challenge for Store Expansion Strategy for their flagship Fragrance brand, as the strategy required to ascertain the presence of \nCompetitor stores and Affinity stores in regions and cities to maximize Sales potential\n•\nMerilytics partnered with Client to estimate Sales performance using a Regression model which factored Household income, Population density, \nCompetitors store count & Affinity brands store count as independent variables\nGeo-mapping model for Prestige beauty brand\n3\nImpact\n•\n£ 2.2 Million Annual Sales increment expected from a total of 33 Prime Opportunity recommendations for opening new stores across UK Region\n•\n19% increase in Brand’s market share expected across UK Region from Prime Opportunity recommendations\nGeo-mapping Model\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nCollation of Competitor and Affinity Brands Stores location details for London Boroughs and UK cities from \nofficial websites and open source using UI path automation \nMODEL APPROACH\nApply Regression model for whitespaces locations for identifying opportunities\nWhitespace \nOpportunities\nSplitting existing Client Stores dataset into training and testing sets to train and evaluate the model's \nperformance\nAnalyze Regression output using Root mean squared error and R squared values\nBuilding Regression \nModel \nOptimization of Regression model by removing outliers and tracking improvement in model accuracy\nCollation of Gross Disposable Household Income (per capita), Population and Area details for London Boroughs \nfrom UK Govt. ONS website\nData Extraction And \nExploratory Data \nAnalysis\nUnderstanding the collinearity amongst the independent variables and assessing the correlation of independent \nvariables with dependent variable \nCategorize the opportunities for whitespaces based on predetermined expected sales threshold\nMethodology/Approach\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nStore locations for client, competitors and affinity brands\n5\nBuilding Regression \nModel \nLocation count of \nexisting Stores \nClient’s Brand, \nAffinity Brands \n(brands part of \nClient’s market \nbasket) and \nCompetitor brands\n• Exact location of \neach store of \nClient’s brand, \nAffinity brands \nand competitor \nbrands plotted.\n• Zoom out view \nshows clustered \nstores & zoom in \nview shows \nindividual store \nlocation\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProposed opportunities for client’s new stores\n6\nBuilding Regression \nModel \n4 out of 17 \nwhitespace \nBoroughs are Prime \nOpportunities\nLondon Boroughs \ncustom map \nshowcasing \nopportunities \nclassified as \nPrime, Moderate \nand Limited\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (59).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193246+05'30'",
+            "modDate": "D:20241114193246+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\n1) The team has leveraged UI path automation to extract stores address \ninformation for Competitor and Affinity brands from respective websites \nand pulled latitude/ longitude details from Google maps.\n2) The team has explored multiple map visuals in Power BI with unique \nfeatures ranging from Azure Maps to Custom Maps to showcase the \npresence of existing and proposed stores across UK region.\n3) The team has built sufficient knowledge base while developing regression \nmodel in Power BI and has benefitted from internal discussions with DS \nteam to understand the data collinearity and steps to optimize the model.\n4) The team has undertaken extensive data exploration for collating \ninformation about competitor and affinity brands for Client’s  brand which \nwill be fruitful while scaling up the model.\nLearnings\n"
+    }
+]

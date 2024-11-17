@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWorking capital Management\n1\nCreated data models and automated the tracking of working capital metrics to \nstreamline the order to cash management, payables processing and inventory \nmanagement\nOriginal Equipment Manufacturer (OEM) for Electric Vehicles\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConceptualized and developed different methodologies of calculating DSO and DPO depending on the use case by exploring the general ledger data and \nidentifying the business rules related to the receivables, payables postings and cash clearing entries.\n•\nDevised a methodology to derive the historical snapshot of inventory aging and days inventory trends based on inbound/outbound data of inventory to \nprovide visibility into aging across different product lines and warehouses.\n•\nDesigned the data model to capture the order to cash funnel by linking the CRM (Salesforce) source to the ERP (SAP) system and cash collection data to \nprovide insights into the lead time between different stages\nSituation\n•\nClient lacked visibility into the cash management and working capital KPIs such as days sales, days inventory and days payables which would help them to \nidentify opportunities to enhance the cash conversion cycle.\n•\nPartnered with the client to create comprehensive dashboards, tracking working capital KPIs pertaining to accounts receivables, payables and inventory \nmanagement, which was leveraged to optimize credit management, payables processing and inventory management.\nWorking capital management for Original Equipment \nManufacturer (OEM)\n2\nImpact\n•\nProvided visibility into the business impact of ~70 inventory movement types which was utilized in smoothening the inventory planning process and reducing \nthe inventory days by ~20 days\n•\nTracking the days sales outstanding at various granularities enabled the client to take key decisions regarding treatment of delinquent accounts and cash \ncollection entities which resulted in the improvement of DSO by ~10 days\n•\n360-degree view of Order to cash funnel enabled the client to visualize the lead time and identify bottlenecks between different stages to enhance the cash \nconversion cycle by a month.\nWorking capital management \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n3\nDeep dived into the credit management process and implemented the business rules in the data to establish the link \nbetween the receivables posted in SAP and cash applied (clearing records) and calculated weighted average DSO \nacross various granularities such as customer, region, collection entity etc.\nSegregated and analyzed the invoiced and non-invoiced payables, calculated the processing efficiency across \ndifferent dimensions such as supplier, tier of supplier, cost center etc. and derived the days payable metric using \nweighted approach\nAnalyzed the impact of ~70 inventory movement types and leveraged the FIFO methodology to derive the inventory \naging and days inventory metric for any historical period across product lines, SKU and warehouses\nDesigned a data flow from the order data in CRM (Salesforce) source to the operations data in SAP, captured shipping \ninformation, tracked the AR and cash recognition by leveraging the financial data and calculated the lead time \nbetween all the stages in the funnel\nAR & DSO Analysis\nAP & DPO Analysis\nInventory Aging \nAnalysis\nOrder to Cash \nAnalysis\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAR aging and DSO analysis\nILLUSTRATIVE\n4\nDays Sales \noutstanding calculated \nbased on weighted \naverage and standard \naccounting method to \nenable visualization by \nvarious dimensions \nsuch as customer, \nsales region etc.\nInsights into aging of \nreceivables by days \noutstanding or days \noverdue \nFlexibility to view the \naging and days sales \nmetric for current \ndue and overdue AR\nNotes: DSO (Realised) is calculated by considering the weighted average cleared amounts by tracking the invoices from the posting period of AR.\nDSO (Standard) is calculated by following the regular accounting formulae of (AR/Sales )* No of days in a period\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccounts Payables and DPO Analysis\n5\nDays Payables \noutstanding calculated \nbased on realised \nmethod and standard \naccounting method to \nenable visualization by \nvarious dimensions \nsuch as vendor, \ncountry etc.\nInsights into \npayables by vendor\nILLUSTRATIVE\nFlexibility to view the \naging and days payable \nmetric for current due \nand overdue payables\nInsights into Non-\ninvoiced and Invoiced \nAP by category of \nexpenses\nNotes: DPO (Realised) is calculated by considering the weighted average paid amounts by tracking the invoices from the posting period of the invoice.\nDPO (Standard) is calculated by following the regular accounting formulae of (AP/Expenses )* No of days in a period\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nInventory aging analysis\n6\nDays inventory \noutstanding calculated \nbased on weighted \naverage method to \nenable visualization by \nvarious dimensions \nsuch as warehouse, \nSKU etc.\nAge of inventory for \ncurrent and historical \nperiods.\nILLUSTRATIVE\nFlexibility to view the \naging and days \ninventory metric \nbased on any  end \ndate of past.\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (85).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200557+05'30'",
+            "modDate": "D:20241114200557+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOrder To Cash Funnel\n7\nOrder life cycle tracking of CRM \norders to the operational and \nfinancial data in the ERP system\nILLUSTRATIVE\nFunctionality to view order item \nlines and order life cycle by \nleveraging the Sales order \nnumber as an input\n"
+    }
+]

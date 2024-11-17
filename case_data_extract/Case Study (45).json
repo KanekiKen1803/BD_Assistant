@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191540+05'30'",
+            "modDate": "D:20241114191540+05'30'",
+            "trapped": ""
+        },
+        "content": "EXECUTIVE DASHBOARD FOR MARKETING\nSITUATION\n▪\nThe client did not have visibility into the performance of the practices or impact of marketing efforts as the data was sourced from \nmultiple systems and the process of creating the reports/dashboards was manual\n▪\nMerilytics partnered with the client to setup a robust reporting environment and build advanced analytical models so that the client can \nmake strategic data driven decisions. \n▪\nDesigned and setup a robust data warehouse consolidating the data from various sources such as Pronto, Sikka, UltiPro etc. and that would \nserve as the single source of truth\n▪\nDefined key performance indicators to define patient behavior to support Marketing analytics to understand and track the performance of \nthe practices\n▪\nBuilt robust Tableau and Excel based Business Intelligence interface to provide real-time visibility into performance and so that the team \ncan track and take decisions immediately\n▪\nBuilt analytical models to understand the leads, patient's behavior and procurement requirements of the practices so that the client’s \nMarketing team is equipped to make strategic data backed decisions faster\nVALUE ADDITION\nIMPACT\n▪\nProvided real-time visibility into the business and equipped the Marketing team with access to critical data helping them make decisions \nfaster. Reduced the team’s effort in preparing for the monthly review board meetings from around 2 weeks to 2 days\n▪\nProvided insights into the patient behavior to the Marketing team to help them make decisions on marketing budgets and support them \nduring the monthly executive meetings\nABOUT THE CLIENT\nClient is a rapidly expanding network of dental clinics in Canada managing around 400 practices\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191540+05'30'",
+            "modDate": "D:20241114191540+05'30'",
+            "trapped": ""
+        },
+        "content": "EXECUTIVE DASHBOARD – REVENUE MIX ANALYSIS\n2\nNovember\nYTD\n%\n$\n%\n$\nTotal Revenue\nRevenue\n1.9% \n$587 \n2.0% \n$6,091\nVisits\n(0.0%)\n($5)\n0.0% \n$124\nRev per visit\n1.9% \n$591 \n1.9% \n$5,967\nABC Revenue\nRevenue\n2.2% \n$480 \n2.0% \n$4,151\nVisits\n(0.3%)\n($67)\n(0.5%)\n($978)\nRev per visit\n2.5% \n$547 \n2.4% \n$5,130\nXYZ Revenue\nRevenue\n1.1% \n$107 \n2.1% \n$1,940\nVisits\n0.4% \n$38 \n0.8% \n$723\nRev per visit\n0.7% \n$68 \n1.3% \n$1,217\nBase\nUnique Patients\n0.9%\n$294 \n0.3%\n$1,044 \nNew Patients\n(0.1%)\n($5)\n(1.8%)\n($970)\nReturning Patients\n0.9%\n$299 \n0.7%\n$2,014 \nPatients type A\n1.1%\n$321 \n1.0%\n$2,146 \nPatients type B\n(3.5%)\n($44)\n(3.0%)\n($687)\nPatients type C\n2.3%\n$22 \n1.8%\n$555 \nFrequency\nPatient Frequency\nN/A\n(0.3%)\n($920)\nRev / visit bridge\nPrice - % change\n2.6%\n$823 \n2.7%\n$8,285 \nMix - % change\n(0.7%)\n($232)\n(0.9%)\n($2,318)\nOther key metrics\nPQR gap %\n(42.7%)\n($177)\n(10.5%)\n($2)\nDue late %\n(6.9%)\n(7.7%)\nRevenue bridge and key metrics\n$000s and % impact vs. prior year\nRevenue bridge \nYTD $000s impact vs. prior year\n2,858\n12,428\nNew Patients\n2018 Revenue\nReturning Patients\nFrequency\nRev per visit\nPrice\n339,424\nRev per visit\nMix\n2019 Revenue\n(2,318)\n333,333\n(970)\n(920)\n+2.0%\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191540+05'30'",
+            "modDate": "D:20241114191540+05'30'",
+            "trapped": ""
+        },
+        "content": "EXECUTIVE DASHBOARD – MARKETING REVIEW\n3\n$0.0\n$10.0\n$20.0\n$30.0\n$40.0\n$50.0\n$60.0\n$70.0\n$80.0\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nCost Per Acquisition vs Prior Year\n2018 Cost / Acq.\n2019 Cost / Acq.\n62%\n1%\n1%\n1%\n9%\n3%\n2%\n20%\n1%\nMarketing Expenses\nAd, Promos & S & M Expense Other\nBrand Development\nCommunity\nInternal Marketing\nLicense & Subscriptions\nMarketing - Other\nMarketing - Year End\nWebsite Expenses\nYellow Pages & Sensis\nProvided the flexibility \nto view the charts at an \noverall, province, \nmarketing manager and \npractice level\nILLUSTRATIVE\n$0K\n$100K\n$200K\n$300K\n$400K\n$500K\n$600K\n$700K\n$800K\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nExpenses Actuals vs Prior Year\n2018\n2019\n$0K\n$1,000K\n$2,000K\n$3,000K\n$4,000K\n$5,000K\n$6,000K\n$7,000K\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nCumulative Expenses vs Prior Year\n2018 Expenses\n2019 Expenses\nTarget\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191540+05'30'",
+            "modDate": "D:20241114191540+05'30'",
+            "trapped": ""
+        },
+        "content": "ADDITIONAL ANALYSES LEADING TO ACTIONABLE INSIGHTS (1/2)\n4\nILLUSTRATIVE\nProblem Statement\nMerilytics value-add\nKey findings/Potential use-case\nPatient re-attachment analysis: What \nare they key drivers for patients to \nswitch practices? What is true network \nlevel New Patients? \n• Performed a de-duplication exercise and uniquely \nidentified patients across client practices\n• Identified behavior patterns for patients who visited 2 or \nmore client practices in their lifetime based on their \ntransactions, dental procedures, same practice group \nreferrals, etc.\n• Supported the Marketing team to compare the insights and validate the \nsame from a market survey conducted through a vendor\n• Marketing team leveraged this analysis in their discussions with the \nLeadership team\nPatient LTV analysis: What is the \naverage lifetime value of a patient? \nWhat drives high revenue/frequency?\n• Analyzed patient behavior to compare patient LTV across \nsegments and understand key drivers for high revenue/visit \nfrequency\n• Enhanced visibility into the estimated revenue from a patient based on the \nhistorical behaviour to drive the marketing team’s discussions with the \npractices\nPatient cohort analysis: To provide a \nquick overview on the patient traffic \nover past couple of years\n• Analyzed patient traffic to identify the unique number of \npatients that are visiting the practices on a monthly basis\n• Provided a breakdown for Active Patient Base based on the \nlast visit date \n• Marketing team leveraged this analysis during their discussions with Senior \nLeadership\n• Visibility into the unique patients that are visiting client practices in a year\nRevenue attrition analysis: What share \nof revenue is retained through existing \npatient base? What is the gap in \nrevenue that could be filled by acquiring \nnew patients?\n• Created practice cohorts based on their association with \nclient’s practice and analyzed revenue retained over \nsubsequent years\n• Analyzed the revenue attrition from patients that visited a \npractice for the first time for an emergency treatment \n• Marketing team leveraged the results to revise the New Patients targets for \n2019\nANALYZED AND PROVIDED INSIGHTS INTO THE PATIENT BEHAVIOR TO HELP THE MARKETING TEAM PLAN MARKETING ACTIVITIES\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (45).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191540+05'30'",
+            "modDate": "D:20241114191540+05'30'",
+            "trapped": ""
+        },
+        "content": "ADDITIONAL ANALYSES LEADING TO ACTIONABLE INSIGHTS (2/2)\n5\nILLUSTRATIVE\nProblem Statement\nMerilytics value-add\nKey findings/Potential use-case\nLeads & Conversions analysis: What is the \nconversion rate for calls and form \nsubmissions on the website?\n•\nEstimated conversions from calls (leads) to new patients based \non call tracking data\n•\nUnderstanding of the average call durations, patient source and trend over time, \nand the impact on lead conversion\nNew patient referral source analysis: \nIdentify prominent sources of new patients \n(referral, online etc.)\n•\nExtracted and cleaned up referral sources entered into the PMS \nsystem\n•\nProvided a breakdown of new patients acquired since 2018 by \nreferral source\n•\nHelped the Marketing team to identify the impact of each referral source in \nconverting a lead into New Patients\nANALYZED THE CONVERSION OF LEADS AND THE PERFORMANCE OF VARIOUS REFERRAL SOURCES TO ATTRACT NEW PATIENTS \nProblem Statement\nMerilytics value-add\nKey findings/Potential use-case\nSpend optimization model: Suggest best \nsupplier/alternates for a product to reduce \noverall spend\n•\nIdentified the best supplier for a given product based on \nmanufacturer part identifier and product mapping between \nsuppliers\n•\nEstimated savings that can be realized when switched to best \nsupplier for both branded or private label products\n•\nProvided supplier level savings that can realized when a practice \nre-routes their spend through only one supplier\n•\nIncorporated the model into Procurement Dashboard\n•\nRecommended best supplier to go with based on any procurement requirements \nto the client practices\n•\nAlso, provided recommendations for any suitable alternate product \nHygiene pricing analysis: What is the mix of \nhygiene procedure prices?\n•\nAnalyzed procedure amounts from patient transactions and \ncompared with Fee Guide pricing\n•\nIdentified price variance for procedures by each practice and estimated \nopportunity from unbilled procedures\nOTHER ANALYSIS PERFORMED TO SUPPORT THE PROCUREMENT AND MARKETING TEAMS\n"
+    }
+]

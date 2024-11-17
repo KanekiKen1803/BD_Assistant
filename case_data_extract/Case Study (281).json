@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161103+05'30'",
+            "modDate": "D:20241114161103+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nPricing and Sales force Analysis\nEquipment rental\nEvaluated the pricing structure & salesforce performance in \norder to identify the potential opportunities to improve \nrevenue yields.\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161103+05'30'",
+            "modDate": "D:20241114161103+05'30'",
+            "trapped": ""
+        },
+        "content": "SALESFORCE PERFORMANCE ANALYSIS\nABOUT THE CLIENT\nDummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its \nwidespread use as filler text for layouts, non-readability is of great importance\nSITUATION\n▪\nClient is one of the largest equipment rental companies in the U.S. who were evaluating a revamp of their pricing structure. \n▪\nExisting business practices did not have strict pricing guidelines, hence giving the flexibility to the sales force to define pricing terms based on \nindividual discretion, leading to excessive discounting and lower revenue yield.\n▪\nMerilytics partnered with the client and evaluated their pricing structure & salesforce performance to identify potential opportunities to \nimprove revenue yields.\n▪\nBased on the portfolio’s operational processes, transactions were segmented into clusters based on product types, lease duration, end customer \ntype, overall order size etc.\n▪\nFor similar clusters, we identified the average price for a particular product to be used as a benchmark to evaluate sales force performance\n▪\nDefined a metric ‘Mix Adjusted Yield Deficit (MAYD)’ to evaluate the sales force performance, which allows for normalization of the pricing for \nvarious factors that differ across transactions before comparing with benchmark pricing\n▪\nBased on the analysis, we helped the client identify weaker performers and estimate opportunity in addressing the anomalies\nVALUE ADDITION\nIMPACT\n▪\nThrough an updated pricing structure, pricing guidelines and salesforce training, the client was able to increase the revenue yield by ~5 \npercentage points over a 03-year period while the top-line increased ~10% annually.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (281).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161103+05'30'",
+            "modDate": "D:20241114161103+05'30'",
+            "trapped": ""
+        },
+        "content": "Calculate the average rate for each sales \nagent in a cluster \nCalculate the Mix Adjusted Yield Deficit \n(MAYD) for each sales agent\nGroup the transactions in to clusters based on \ntransaction properties\nCluster\nRental \nAgent\nAgent Avg. \nRate\nCluster Avg. \nRate\nRate \nDifference\n$ Impact\n1\nA\n$1.85 \n$2.90 \n(36.2%)\n($172,685)\n1\nB\n$2.14 \n$2.90 \n(11.0%)\n($63,852)\n1\nC\n$3.67 \n$2.90 \n26.6% \n$16,879 \n1\nD\n$3.71 \n$2.90 \n27.9% \n$219,658 \n2\nA\n$2.26 \n$1.72 \n31.4% \n$354,977 \n2\nB\n$1.76 \n$1.72 \n2.3% \n$244,816 \n2\nC\n$1.20 \n$1.72 \n(30.2%)\n($274,663)\n2\nD\n$1.41 \n$1.72 \n(18.0%)\n($325,130)\n3\nA\n$2.74 \n$2.38 \n15.1% \n$17,249 \n3\nB\n$2.17 \n$2.38 \n(8.8%)\n($29,548)\n3\nC\n$6.28 \n$2.38 \n163.9% \n$81,365 \n3\nD\n$1.85 \n$2.38 \n(22.3%)\n($69,066)\nRental Agent\nActual Revenue\nTheoretical \nRevenue\n$ Impact\nMAYS\nA\n$595,229 \n$712,509 \n$199,541 \n11.6% \nB\n$25,532,164 \n$25,063,927 \n$151,416 \n1.3% \nC\n$845,305 \n$1,021,724 \n($176,419)\n(17.3%)\nD\n$2,725,984 \n$2,900,522 \n($174,538)\n(6.0%)\nRevenue Shortfall ($)\n($350,957)\nRevenue Shortfall (%)\n(2.1%)\nMAYD\n3\n▪Transactions were segmented in to clusters \nbased on product types, lease duration, end \ncustomer type, overall order size etc.\n▪Calculate average price for each product in a \ncluster\n▪Calculate the agent average rate \n(price/unit/day) for each sales agent in the \ncluster and the cluster average rate \n▪Calculate the $ impact for each agent by \ncomparing the actual revenue generated by \nthe agent in the cluster with the theoretical \nrevenue earned at the cluster average price (if \nhigher)\n▪Mix adjusted yield deficit (MAYD) is defined as \n“total $ impact as a % of total theoretical \nrevenue” of the agent\n▪Use MAYD to identify poor performers and \nopportunities to improve revenue yield\n▪Calculate revenue shortfall ($) as “the sum of \nthe negative $ impact” across agents and the \nrevenue shortfall (%) as a % of total \ntheoretical revenue\nCALCULATION OF MIX ADJUSTED REVENUE DEFICIT TO RANK ORDER SALES AGENT \nPERFORMANCE AND IDENTIFY REVENUE OPPORTUNITY\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133522+05'30'",
+            "modDate": "D:20241114133522+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nLocation Pricing tier analysis\nRestaurant Chain\nIdentified segments/tiers of restaurants with similar characteristics by considering \nmetrics such as costs, competitor influence, demographics, customer satisfaction etc. to \narrive at an appropriate tier level pricing to ensure maximum impact\nPricing tiers analysis\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133522+05'30'",
+            "modDate": "D:20241114133522+05'30'",
+            "trapped": ""
+        },
+        "content": "CASE STUDY : LOCATION PRICING TIER ANALYSIS\nSITUATION\n▪\nCompany wanted to segment all its restaurant locations into various tiers for Pricing action purposes\n▪\nMerilytics partnered with the client to identify the tiers for each location based on various factors\n▪\nIdentified segments/tiers of restaurants with similar characteristics by considering the factors  such as, input costs, competitor \ninfluence, customer demographics, customer satisfaction (Net Promoter scores)\n▪\nBuilt a model to modify the tiers based on user-input weights to the factors\n▪\nIdentified five pricing tiers, with consistent average scores for all the factors, i.e., higher tiers have higher scores on average\nVALUE ADDITION\nIMPACT\n▪\nRestaurant locations were segmented into five pricing tiers\n▪\nAll pricing decisions were made at a tier level to ensure maximum impact\nABOUT THE CLIENT\nClient is a family-friendly chain serving American made-from-scratch food\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133522+05'30'",
+            "modDate": "D:20241114133522+05'30'",
+            "trapped": ""
+        },
+        "content": "Problem Statement: Identify segments/tiers of restaurants with similar characteristics for execution of price changes\nOn considering company costs and NPS scores to competitor pricing factor, the restaurant locations can be segmented into 5 pricing tiers, with consistent average scores \nfor all the factors, i.e., higher tiers have higher scores on average\n•\nThe average company costs scores are consistent with the overall scores for various tiers\n•\nThe competitor pricing scores show an upward trend from Tier 1 to Tier 4, however there is a slight decline in the score for Tier 5\n•\nThe NPS scores show increasing trends as we move to higher tiers with a slight dip in Tier 4\n3\nEXECUTIVE SUMMARY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133522+05'30'",
+            "modDate": "D:20241114133522+05'30'",
+            "trapped": ""
+        },
+        "content": "Company costs – Food and \nlabor costs\nConsumer profiles\n•Demographic factors2\n- Age, Income, Ethnicity, \nHH income etc.\n•Psychographic factors\nGuest satisfaction3\nNet Promoter Score\nCompetitor influence1\nCompetitor\nprice premium\nWillingness to pay (WTP) factors\nInput Factors\nCalculated Performance \nmetric – Dollar normalized \nrevenues4/ sq.ft. for \nClient's locations\nRejected the \nfactors\nHigh Selected/ \nshortlisted \nthe factors \nLow\nSelection of key WTP factors\nWeights for each \nfactor\nOverall weighted \naverage index for \neach restaurant\n# of tiers\nIndexed factors w.r.t. the \nbenchmarked5 location\nIndexed all Cost and \nCompetitive factors\nBenchmarked location5\nIndexed all Willingness to \npay (WTP) factors\nIndexing of Factors\nCalculated \ncorrelation b/w \nWTP factors & \nlocation \nperformance\nPricing tiers \ncreated based on \nthe range of \noverall weighted \naverage indices \n1 Competitors considered are C1, C2 and C3\n2 50 demographic factors defined by custom trade area and five mile radius are considered\n3 Data for all metrics for the past 6 months (Dec’14 – May’15)\n4 2014 Revenues normalized to discount the impact of tiered pricing and adj. for 12 months for locations which started 2014 onwards\n5 Benchmark location used is Bedford, TX\nUser input\n4\nMETHODOLOGY FOR SEGMENTING LOCATIONS IN TO PRICING TIERS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (16).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133522+05'30'",
+            "modDate": "D:20241114133522+05'30'",
+            "trapped": ""
+        },
+        "content": "# of \nlocations\n9\n20\n41\n11\n12\nScenario considers Company costs (Food costs: 20% and Labor costs: 20% weight), Competitor pricing3 (40% weight), and NPS scores \n(20% weight) only (excluded demographics)\n1 Number of tiers selected in the analysis are 5\n2 Overall score is a weighted average of costs (Food costs: 20%, Labor costs: 20%), Competitor price (40%) and NPS (20%) factors \n3 Equal weightage has been assigned to all the 3 competitors (C1, C2, C3)\n109\n106\n101\n98\n94\n0\n20\n40\n60\n80\n100\n120\nAverage\nMin\nMax\nAverage, minimum and maximum overall scores2 by new price tiers1\n5\nILLUSTRATIVE\nLOCATIONS CAN BE SEGMENTED IN TO FIVE PRICING TIERS BASED ON SCORE BASED ON \nCOMPANY COSTS, COMPETITOR PRICING PREMIUM AND NPS SCORES\n"
+    }
+]

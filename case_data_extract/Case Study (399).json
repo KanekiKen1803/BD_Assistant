@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData management and analytics\n1\nTook ownership of the on-premise Funds Admin Data Warehouse, and drove the \ntransition of SSRS Reporting to Power BI, enhancing automation and collaboration\nPrivate equity firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to manage their current on-premise Data Warehouse (on SSMS) and associated SSRS reporting as well as \ndrive the gradual transition of the reporting to Power BI, aiming to enhance automation and foster improved collaboration. \nCurrently, lacking in the the resources to adequately maintain their Fund Admin Data Warehouse and manage incoming requests \nfrom end users.\nPrivate equity firm needs data management and analytics\n2\nYour value is enhanced. \n•\nYou have improved the data accuracy of fund performance and Portfolio Company financial performance reports to about 80%\n•\nWorkflow automation enabled real-time visibility into data field changes for relevant users, enabling them to take prompt action \nas necessary\nDATA MANAGEMENT AND ANALYTICS\nKEY RESULT   \n•\nImproved the data \naccuracy of the fund \nand Portfolio Company \nperformance reports to \nabout 80%\nVALUE LEVERS PULLED\n•\nData warehouse \nmaintenance\n•\nBI reporting on power \nBI\n2\nYou turn to Accordion. \nWe partner with your team to take ownership of the on-premise Funds Admin Data Warehouse, and drove the transition of SSRS \nReporting to Power BI, enhancing automation and collaboration, including:\n1) Developing comprehensive documentation for the existing data infrastructure including detailed data dictionaries, \ndimensional models and data lineage for all key SSRS reports\n2) Configuring the Power BI environment, established guidelines for the report development process (from requirements \ngathering to final deployment), and developed appropriate templates to gather/record information at each stage of the \nprocess\n3) Implementing a workflow automation system using Jira and Teams to streamline communication and ticket creation for \nchanges in slowing-changing fields relevant to investments in the Investran system\n4) Enhancing multiple reports (such as NAV disclosure for Portfolio companies, Carried Interest/Co-investment Report to \ntrack Fund Performance) catering to the Funds Admin team and other business functions to enable the team to track the \nbusiness’ performance more effectively and with improved accuracy\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped comprehensive documentation for the existing data infrastructure including detailed data dictionaries, dimensional models and data lineage for \nall key SSRS reports\n•\nConfigured the Power BI environment, established guidelines for the report development process (from requirements gathering to final deployment), and \ndeveloped appropriate templates to gather/record information at each stage of the process\n•\nImplemented a workflow automation system using Jira and Teams to streamline communication and ticket creation for changes in slowing-changing fields \nrelevant to investments in the Investran system\n•\nEnhanced multiple reports (such as NAV disclosure for Portfolio companies, Carried Interest/Co-investment Report to track Fund Performance) catering to \nthe Funds Admin team and other business functions to enable the team to track the business’ performance more effectively and with improved accuracy\nSituation\n•\nClient lacked the resources to adequately maintain their Fund Admin Data Warehouse and manage incoming requests from end users\n•\nPartnered with the client to manage their current on-premise Data Warehouse (on SSMS) and associated SSRS reporting as well as drive the gradual \ntransition of the reporting to Power BI, aiming to enhance automation and foster improved collaboration\nData Management & Analytics for PE Firm\n3\nImpact\n•\nImproved the data accuracy of fund performance and Portfolio Company financial performance reports to about 80%\n•\nWorkflow automation enabled real-time visibility into data field changes for relevant users, enabling them to take prompt action as necessary\nData Management and Analytics\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPower BI configuration\n4\n4\nTenant settings configuration\nPower BI lifecycle management\nContent management & collaboration\nSecurity management and adoption\n1\n2\n3\n4\nReviewed and configured the Tenant Settings for Power BI to ensure appropriate resource management, security, compliance, customization, thus enabling a positive user experience \nwithin the organization’s Power BI environment\nEstablished thorough guidelines and supporting documentation outlining the entire lifecycle of Power BI reports. This encompasses the process from initial report creation, publishing, \nversioning, through to archiving and retirement. Additionally, crafted custom Power BI templates that adhere to brand guidelines, ensuring consistency in design. Developed templates \nfor requirements gathering and KPI documentation to provide users with structured support in developing BI assets\nCreated a structured framework in Power BI for seamless resource collaboration, employing workspaces, folders, and organized content for enhanced accessibility. Established clear \nguidelines for workspace naming conventions and defined user roles across development, testing, and production environments. Implemented a streamlined process for managing \nchange requests from users to ensure efficient adaptation to evolving needs.\nEstablished guidelines for consumer-level security planning in Power BI reports. Also, outlined guidelines for content creators, emphasizing methods to enhance content discoverability \namong end-users through certification and promotion for organization-wide usage\n1\n2\n3\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWorkflow automation to track data changes\n5\nRaw data\nData warehouse\nTicket creation logic\nRun logs\nStorage\nOrchestration\nOutcome\nRun history dashboard\n•\nImplemented a workflow automation system using Jira and \nTeams to streamline communication and ticket creation for \nchanges in slowly changing fields relevant to investments in the \nInvestran system\n•\nEnsured that relevant teams are promptly notified and that \nnecessary actions are taken in response to these changes\nUser notification\nRun Logs Dashboard\nTriggers board\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCarried interest – Co-Investment report\n6\nEnhanced the Carried Interest – Co-investment report and verified data \naccuracy, empowering the team to evaluate the financial success and \neffectiveness of carried interest and co-investment strategies within the \nfirm\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nNAV disclosure – Portfolio summary report\n7\nProvided enhanced portfolio reporting with inclusion \nof liabilities, transitioning from Gross to Net Asset \nValue, resolving discrepancies and providing a \ncomprehensive understanding of investment returns \nfor the firm and investors\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (399).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184117+05'30'",
+            "modDate": "D:20241114184117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nQA summary report\n8\n•\nProvided a centralized \nhub for monitoring and \ntracking ticket volume, \nenabling efficient \noversight of issue \nmanagement\n•\nEnabled access to \nhistorical trends of \nreported bugs and \nimplemented resolutions, \nsupport post-release \nanalysis, facilitation of \naudits, and enhancement \nof future planning \ncapabilities\n20xx\n"
+    }
+]

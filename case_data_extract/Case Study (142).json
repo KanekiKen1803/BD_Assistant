@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales Diagnostics\n1\n• Built and analyzed detailed 4-wall P&L to identify drivers of profitability decline \n• Further analyzed impact of strategic initiatives such as introduction of new \ndelivery channels, store refurbishment and marketing to evaluate ROI of these \ninvestments\nFast Food Chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConsolidated the expenses and transactions data from various sources to build a 4-wall cash-based P&L with detailed line items\n•\nAnalyzed the 4-wall P&L and identified that significant increase on labor costs and drop in sales as the primary drivers for decline in profitability \n•\nCreated statistical models to estimate the sales forecast had there been no initiatives and compared it with actual performance to evaluate the impact of \nsales initiatives\n•\nIdentified and shared the list of stores with low performance for consecutive years even after multiple initiatives, that could be considered for closure\nSituation\n•\nTo drive growth, client undertook strategic initiatives such as store refurbishment, introduction of delivery channels, promotions etc. However, the client \ndid not have visibility into impact of these initiatives on revenues and profitability\n•\nPartnered with the client to evaluate the drivers of decline in profitability and analyze the $ impact of strategic initiatives\nSales diagnostics for a fast-food chain\n2\nImpact\n•\nThe recommendations from 4-wall P&L analysis could result in potential savings of SAR 1 Mn\n•\nBased on the payback period and incremental sales from refurbishment analysis, the client decided to invest further in refurbishing stores that could result in \n10% incremental store sales\n•\nThe recommendations on delivery partners and delivery charges led to an estimated 5% increase in Store Level EBITDA\nSales Diagnostics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n3\nILLUSTRATIVE\n•\nData mismatch across individual expense \nsources and location level P&L\n•\nUnavailability of critical data such as Payroll \ndetails by channel (inhouse vs. delivery), \ndelivery fulfillment cost (fuel, car rent) etc.\n•\nAllocating location level expenses such as \nrecruitment costs across stores\n•\nImpact of government regulations on some \nstores\n•\nMultiple initiatives were launched during the \nsame period\n•\nReconciled multiple data sources\n•\nEstimated delivery labor costs and delivery \nfulfilment cost based on # delivery agents, # \ncars rented, fuel cost etc.\n•\nIdentified stores that have been loss-making \nafter normalizing for government regulations\n•\nIdentified ‘control’ stores to estimate the \nimpact of each initiative separately \n•\nLocation level P&Ls – Excel\n•\nDelivery orders – Excel\n•\nRefurbished store details – Excel\n•\nTransactional data – SQL Server\n•\nStore level expenses data – Tableau\n•\nEmployee details – Tableau\nDiscrete data sources\nChallenges\nValue-add\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\n4-wall P&L analysis to identify EBITDA drivers\n4\nILLUSTRATIVE\nCohort\n(by EBITDA, in \nM SAR)\n# of \nStores\n2018 Sales\n2018 Cost (% of net sales)\nEBITDA (in M \nSAR)\nEBITDA (%)\nPer Store (2018)\nPer day \nsales\nAnnual (in \nM SAR)\nF&P cost \n(%)\nLabor cost \n(%)\nOther cost \n(%) \nRent (%)\nDelivery cost \n(%)\nPer day \nsales\nAnnual \n(in ‘000 \nSAR)\nEBITDA (in ‘000 \nSAR)\n<0\n15\n23,963\n9\n35%\n29%\n15%\n25%\n5%\n(0.8)\n(9%)\n705\n257\n(24)\n0 to 50K\n25\n37,328\n13\n34%\n25%\n12%\n16%\n3%\n1.4\n11%\n704\n257\n27\n50K to 100K\n35\n65,986\n24\n33%\n20%\n10%\n12%\n5%\n4.6\n19%\n1,047\n382\n73\n100K to 150K\n30\n84,757\n31\n33%\n17%\n9%\n10%\n6%\n7.6\n25%\n1,389\n507\n124\n150K to 200K\n15\n49,490\n18\n33%\n15%\n7%\n11%\n5%\n5.2\n29%\n1,650\n602\n174\n>200K\n15\n59,745\n22\n33%\n14%\n7%\n5%\n5%\n7.7\n36%\n2,213\n808\n287\nTotal\n135\n322,482\n116\n33%\n19%\n9%\n11%\n5%\n25.7\n22%\n1,202\n433\n96\n1\n2\n3\n4\n5\n6\nVariation of sales \nand cost drivers \nacross sales \ncohorts to identify \ndisproportionate \nshare of costs, if \nany\nIdentified the \ndrivers for decline \nin EBITDA over the \nyears\nDelivery \nFulfilment \nCost\n2018 EBITDA\nF&P Cost\nF&P Cost\nNet Sales\n2016 EBITDA\nSAR 26 M\nSAR 12 M\nSAR 3 M\nStore Cost\nSAR 1 M\nDelivery \nFulfilment \nCost\n2017 EBITDA\nSAR 42 M\nSAR 3 M\nSAR 5 M\nNet Sales\nSAR 28 M\nSAR 1 M\nSAR 4 M\nStore Cost\nSAR 1 M\n-SAR 17 M\n(-40%)\nEBITDA bridge over years\nDespite an increase in net sales in 2018, \nthere is a decline in F&P cost\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImpact of sales initiative - Introduction of delivery channels\n5\nILLUSTRATIVE\n2.0K\n8.0K\n6.0K\n0.0K\n4.0K\n10.0K\nApr-17\nNov-16\nJun-16\nMay-16\nApr-16\nApr-18\nAug-15\nJul-18\nJul-15\nJun-17\nSep-15\nOct-15\nDec-16\nNov-15\nDec-15\nJan-16\nSep-17\nFeb-16\nMar-16\nMay-18\nJul-16\nAug-16\nSep-16\nOct-16\nJan-17\nFeb-17\nMar-17\nDec-18\nMay-17\nSep-18\nJul-17\nMar-18\nAug-17\nOct-17\nNov-17\nDec-17\nJan-18\nFeb-18\nNov-18\nOct-18\nJun-18\nAug-18\nJan-19\nFeb-19\nMar-19\nSales mix by channels (in SAR)\nAggregator 2\nOther aggregators\nIn-house delivery\nDine-in\nAggregator 1\nDrive Through\nTake Out\nShare of sales by channels and introduction of different delivery channels over time\nVariation in sales mix \nacross channels due to \nintroduction of \ndifferent aggregator \nplatforms\nIntroduction of ‘Aggregator 1’ across \nstores happened in Jul’17\nInhouse delivery introduction\nAggregator 1\nAggregator 2\nOther aggregators\nOverall sales uplift\nCannibalization\nTake out\nDine-in\nDrive through\nIn-house delivery\nAggregator 1\nAggregator 2\nNA\nNA\nNA\n-20%\n-20%\n0%\n20%\nNA\nNA\n3%\n2%\n-9%\n7%\n10%\nNA\n-26%\n-30%\n18%\n9%\n11%\n22%\n-15%\n-25%\n-7%\n-9%\n16%\n0%\n-2%\nNet impact on the \noverall restaurant \nsales and \ncannibalization \nimpact on the \nexisting channel \nsales on introducing \na new delivery \nchannel\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (142).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131335+05'30'",
+            "modDate": "D:20241114131335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImpact of sales initiative – Refurbishment\n6\nILLUSTRATIVE\nSample YoY Plots for Sales for store S1\n-50%\n-40%\n-30%\n-20%\n-10%\n0%\n10%\n20%\n30%\n40%\n50%\nMar-17\nOct-16\nSep-16\nAug-16\nJul-16\nJul-17\nFeb-17\nAug-17\nSep-17\nNov-17\nJun-16\nDec-17\nJan-18\nMay-17\nFeb-18\nMar-18\nMay-16\nApr-16\nDec-16\nJun-17\nJan-17\nApr-17\nNov-16\nOct-17\nYoY Growth in per day Sales (%)\nS1 (Actual)\nComparable Stores1\nS1 (Expected)2\nMonth of \nRefurbishment\n1For a store to be considered as comparable store to the refurbished store, following criteria are to be satisfied:\n• Same Store type as that of the refurbished store\n• YoY growth rates in sales from the store should be correlated (R2>0.7) with the YoY growth rates of the refurbished store, during 12 months prior to the month of refurbishment\n2Upon finalizing the comparable set for each refurbished store, expected YoY growth for the refurbished store is estimated leveraging the correlation between the YoY growth rates of comparable stores and \nrefurbished store\nVisual representation of \nincremental YoY \ngrowth in sales \nobserved post \nrefurbishment in the \nstore\nThe difference in expected sales \nhad there been no refurbishment \nand actual sales is considered as \nsales uplift for a store.\n"
+    }
+]

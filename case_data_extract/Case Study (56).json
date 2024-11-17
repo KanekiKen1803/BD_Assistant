@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExpense Accounting Automation\n1\nAutomated the existing manual reconciliation process using Alteryx and improve \ndata accuracy\nMultichannel Video Streaming & Satellite Service Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIdentified customized identifiers for effective data linkage from multiple accounting reports such as Oracle Fusion (such as Journal Entries, subledgers), \nOneStream, bank statements etc.\n•\nFormulated a comprehensive business logic that encompasses existing reconciliation processes and addresses potential edge cases\n•\nDeveloped a Python code to harmonize and merge data from multiple input files, ensuring seamless integration\n•\nConducted thorough reconciliation at multiple levels—Account, Sub Account, and Cost Center—to pinpoint the sources of discrepancies and variances\n•\nCreated an Alteryx App to automate the reconciliation process, and identified transactions contributing to variances\nSituation\n•\nThe client's financial bookkeeping system lacks inherent controls for ensuring data consistency between GL data and various sources such as bank \nstatements, Workday reports etc. Multiple manual reconciliation processes are performed to validate data and prepare accruals.\n•\nPartnered with the client to understand and document the existing processes, and create Alteryx workflows to automate the manual processes\nAutomation of accounting reconciliation process using alteryx\n2\nImpact\n•\nReduced man hours spent on monthly account balance reconciliation, accrual calculations and financial reports by ~90 FTE hours per month\n•\nAutomated reports reduced the TAT for the audit processes from days to within an hour\n•\nEmpowered the team to handle intricate data sets with millions of rows and perform multi-level reconciliation, a capability absent in the manual process\nExpense Accounting \nAutomation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nStart\nData from \nSource System\nFinancial \nReport from \nOracle System\nHarmonize and Merge \nthe Data\nCreate Account Level \nIdentifier\nReconcile the Data to \nIdentify the Variance\nClean the Data and \nUpdate Data Types\nCreate Error logs\nCreate Unique \nIdentifier (Key)\nSummarize Values for \nEach Key \nUser Input of the \nReconciliation Period\nFormat the report using \nVBA\nPrepare Non-\nReconciled Data\nPrepare Reconciled \nData\nCreate Output Excel \nFiles\nEnd\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSample reconciliation output\n4\nReconciliation\nCompany Code\nMain Account Code\nSub Account Code\nCost Center Code\nContact ID (Unique Key)\nGL Amount Source Amount\nDifference\nResult\n1001\n55001\n7891\nABA012\n1001550017891ABA012\n6\n4\n2\nMismatch\n1002\n55001\n7891\nABA012\n1002550017891ABA012\n5\n7\n-2\nMismatch\n1003\n55002\n7892\nCDC024\n1003550027892CDC024\n6\n3\n3\nMismatch\n1004\n55003\n7892\nCDC024\n1004550037892CDC024\n7\n1\n6\nMismatch\n1001\n55001\n7892\nEFE056\n1001550017892EFE056\n4\n8\n-4\nMismatch\n1002\n55002\n7893\nEFE056\n1002550027893EFE056\n3\n3\n0\nReconciled\n1003\n55004\n7894\nGHG078\n1003550047894GHG078\n8\nGL Only Record\n1004\n55004\n7893\nCDC024\n1004550047893CDC024\n9\nSource System Only\nCustom unique identifier \ncommon between the two \nsystems\nRecon summary highlighting the \ndifferences\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSample sub-account level reconciliation output\n5\nNon reconciled items from \nprevious reconciliation \n(from Exhibit #1)\nReconciliation for subtotals at \nsub-account level\nSubaccount Level Reconciliation\nCompany Code\nMain Account Code Sub Account Code Cost Center Code\nConact ID (Unique Key)\nSub Acc Key GL_Amount Source Amount Difference\nResult\n1001\n55001\n7891\nABA012\n1001550017891ABA012\n1002\n55001\n7891\nABA012\n1002550017891ABA012 7891ABA012\n11\n11\n0\nReconciled\n1003\n55002\n7892\nCDC024\n1003550027892CDC024\n1004\n55003\n7892\nCDC024\n1004550037892CDC024 7892CDC024\n13\n4\n9\nMismatch\n1001\n55001\n7892\nEFE056\n1001550017892EFE056\n7892EFE056\n4\n8\n-4\nMismatch\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (56).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192919+05'30'",
+            "modDate": "D:20241114192919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n6\n▪Acquired knowledge about diverse financial reports and the essential controls necessary from an audit standpoint\n▪Gained proficiency in utilizing Python and VBA to optimize input and output procedures within Alteryx\n"
+    }
+]

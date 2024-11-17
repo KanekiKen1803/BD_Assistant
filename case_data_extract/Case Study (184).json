@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nHEDIS immunization measures compliance & \ngaps reporting\n1\nUnlocked visibility into various incentive linked-HEDIS measures to help the \nClinical Care Management Team to plug patient care related quality gaps, improve \ncompliance and increase the bonus payments from payors\nHealthcare services provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to develop enterprise-wide Power BI dashboards reporting the compliance to the HEDIS combo and vaccine \nlevel measures. Partnered to implement the Immunization Calculation Engine (ICE) which provided insights into care gaps \nrelated to vaccinations and recommendations on the next vaccine which is due/overdue for the respective patients. Clinical \nCare Management Leadership teams did not have enterprise-wide visibility into the child and adolescent immunization measures \nat an individual vaccine and combo level to comply with HEDIS guidelines and on the due and overdue vaccines for the active \npatients.\nHealthcare services provider needs HEDIS immunization \nmeasures compliance & gaps reporting\n2\nYour value is enhanced. \n•\nYou were able to achieve  4 – 5 percentage points improvement in the IMA measures and 0.1 – 0.4 percentage points \nimprovement in the CIS measures to improve the HEDIS compliance by identifying the practices/clinics which are lagging on \ntheir HEDIS compliance and undertake corrective actions to create a potential opportunity for the improved bonus payouts from \nthe payors.\n•\nClinical Care Management team was able to identify the patients with overdue and due vaccine and reach out to patients in \nadvance (6 – 9 months in advance) to ensure the timely immunization of the patients, improving the overall patient outcomes \nwith comprehensive care.\nHEDIS IMMUNIZATION MEASURES \nCOMPLIANCE & GAPS REPORTING\nKEY RESULT   \n•\n4 – 5 percentage \npoints improvement in \nthe IMA \n•\n0.1 – 0.4 percentage \npoints improvement in \nthe CIS measures \nVALUE LEVERS PULLED\n•\nBI Reporting\n•\nValue Based Care \nCompliance \n•\nImmunization \nRecommendations\n•\nEnterprise Data \nArchitecture\n2\nYou turn to Accordion. \nWe partner with your team to enhance, automate and streamline the forecasting process that would enhance the accuracy \nof the forecast within a short period of time, including:\n1) Incorporating historical payment behavior of the customers in the forecast by using DBT (days beyond terms) trends.\n2) Centralizing the process to consolidate customer level payment information and incorporating an additional layer into \nthe model.\n3) Enabling easy tracking of each adjustment layer and its impact on forecast with revised template resulting in reduced \ninstances of manual adjustments while making the process faster, simpler and intuitive.\n4) Tracking of Actuals vs. forecasted collections at the end of the week and in between the week to track accuracy and \nanalysis of the WoW change in future week’s forecast to identify key change levers.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up the automated ingestion of the Immunization and Disease data from EMRs (eCW, TriMed and OP) using Azure Data Factory to Azure Data Lake\n•\nDeveloped analytical models in Data Lake using Databricks and DLT pipelines to encode the HEDIS measures of CIS (Child Immunization Status) and IMA \n(Immunization for Adolescents) at an individual vaccine and combo level \n•\nSet up the Immunization Calculation Engine to intake the request payload of patient gender, date of birth, immunization and disease details and generate the \nappropriate vaccine recommendations for the patients \n•\nIntegrated the recommendations output from the Immunization Engine with the HEDIS analytical model to develop a consolidated enterprise level view of all \nthe measures across patients and practices\n•\nDeveloped automated Power BI dashboards highlighting the enterprise level summary of the care gaps and detailed breakdown with patient details and \nrecommendations for HEDIS Immunization measures. \nSituation\n•\nThe client’s Clinical Care Management Leadership teams did not have enterprise-wide visibility into the Child and Adolescent immunization measures at an \nindividual vaccine and combo level to comply with HEDIS guidelines and on the due and overdue vaccines for the active patients\n•\nPartnered with the client’s Clinical Care Management team to develop enterprise-wide Power BI dashboards reporting the compliance to the HEDIS combo \nand vaccine level measures. Partnered to implement the Immunization Calculation Engine (ICE) which provided insights into care gaps related to \nvaccinations and recommendations on the next vaccine which is due/overdue for the respective patients.\nCare management KPIs – HEDIS and HEDIS gaps KPIs\n3\nImpact\n•\nThe client was able to achieve  4 – 5 percentage points improvement in the IMA measures and 0.1 – 0.4 percentage points improvement in the CIS measures \nto improve the HEDIS compliance by identifying the practices/clinics which are lagging on their HEDIS compliance and undertake corrective actions to create \na potential opportunity for the improved bonus payouts from the payors.\n•\nClinical Care Management team was able to identify the patients with overdue and due vaccine and reach out to patients in advance (6 – 9 months in \nadvance) to ensure the timely immunization of the patients, improving the overall patient outcomes with comprehensive care.\nAR – Collections Forecasting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology – Low level architecture diagram\n4\nLinked Servers\nAzure data factory\nStorage account\nLookup activity \n(control file)\nExecute COPY DATA \nactivity from source to \nlanding\nFor each loop\nControl file \n(list of table names)\nB\nADF - 1\nA\nADF - 2\nLanding zone \n(parquet files)\nC\nD\nWeb activity – \nKicks-off DLT \npipeline on \ndatabricks\nRaw zone\nClean zone\nAggregate zone\nDLT pipeline – Ingests \ndata from landing zone, \ncreates DLT in raw & \nclean zones\nPower BI \ndashboard\nI\nPartitioned\nF\nG\nJ\nE\n(flat/encrypted files)\nSummary\n tables\nDim\nFact\nDatabricks notebook - \ncreate dim/ fact tables \nand final views\nH\necw\nTrimed\nOffice practicum \n(op)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology – Data flows for ice integration \n5\nICE Engine \nImplementation\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCare management KPIs – HEDIS compliance scorecard\n6\nILLUSTRATIVE\nSummary view providing \nenterprise level summary \nof the CIS and IMA combo \nmeasures for HEDIS \ncompliance, outlining the \neligible and compliant \npatients for each combo \nmeasures\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCare management KPIs – Detailed breakdown of compliance \nviews\n7\nILLUSTRATIVE\nDistribution of the \ncompliant and eligible \npatients and compliance \nrate for the selected \ncombo measure across \nage group, practice \ngroup, department, \npayors, etc.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCare management KPIs – Vaccine level scorecard\n8\nILLUSTRATIVE\nHEDIS Gaps Scorecard \nfor the compliance for all \nthe vaccine level CIS \nmeasures, outlining the \neligible and compliant \npatients\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (184).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140618+05'30'",
+            "modDate": "D:20241114140618+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCare management KPIs – Vaccination recommendation \nsummary\n9\nILLUSTRATIVE\nImmunization \nrecommendations from \nthe ICE engine for \nindividual patients based \non the immunization and \ndisease history\n"
+    }
+]

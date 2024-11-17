@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nVolume, Rate & Mix analysis \nDairy company\nIdentified factors (volume produced, manufacturing cost of \nSKUs & the relative volume/mix of SKUs) driving the variance in \nproduction cost vs. annual operations plan and YTD benchmarks \nand quantified their impact on cost and profitability.\nProvided a visibility into factors driving \nvariance in production cost vs. annual \noperations plan and YTD benchmarks. \n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "VOLUME, RATE & MIX ANALYSIS \nSITUATION\n▪\nClient was tracking SKU level costing estimates based on production data and P&L each month. However, the were unable to identify the drivers for \nvariance in cost vs. annual operations plan and YTD benchmarks. \n▪\nMerilytics partnered with the client to identify the cost drivers and quantify their impact on profitability\n▪\nChanges in total volume produced, manufacturing cost of SKUs and the relative volume/mix of SKUs produced were identified as the key drivers \nimpacting production cost and the overall profits.\n▪\nThe variance in actual cost vs. the base (annual plan/YTD trend) was attributed to each driver by calculating expected cost for the evaluation \nperiod, assuming no changes were made to the other identified cost drivers.\n▪\nThe analysis was built to quantify the impact of each cost driver at a SKU, sub-category, category, Plant and region level\n▪\nImpact of cost driver was provided for each of the cost accounts captured in the monthly P&L. This ensured variable, fixed and sunk costs were \ntreated differently and a precise impact of the drivers on each account was calculated. \nVALUE ADDITION\nIMPACT\n▪\nOur analysis enabled the client to identify situations where an increase in cost was in line with the expectation and a decrease in cost might not have \nbeen beneficial.\n▪\nThe analysis helped the client to track operational efficiency at different levels, by isolating the impact of changes on manufacturing cost.\n▪\nOur analysis also quantified the impact of changes in sales plan on profitability. This helped the client identify new pricing and marketing \nopportunities.  \nABOUT THE CLIENT\nThe client is an American dairy company with over a $1 Billion in annual revenue\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nApproach / Methodology For Project Delivery\n3\nBase period\nEvaluation period\nTotal volume produced (Vol)\n% share of SKUs (Mix)\n$/lb. mfg. cost of SKU (Rate)\nTotal volume produced (Vol)\n% share of SKUs (Mix)\n$/lb. mfg. cost of SKU (Rate)\nBase Cost & Net sales \n(YTD or Plan)\nVolume impact \nProjected the incremental \ncost & incremental net sales \nonly due to change in \nvolume (assuming base Rate \n& Mix to be constant)\nMix impact \nProjected incremental cost & \nincremental net sales due to \nchange in Product Mix for \nthe evaluation period\nUnit cost impact \nProjected incremental actual \ncost & incremental net sales \ndue to change in mfg. cost \nof SKU (Rate) vs. evaluation \nperiod Rate \nActual incremental costs & net sales in evaluation period vs. Base period (Net Vol. rate and Mix  impact)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nDollar Impact Of Changes In Volume, Unit Costs & Mix\n4\nImpact of changes in volume, unit costs \nand mix can be viewed as per the \nfollowing user selections:\n•\nTime period for comparison\n•\nProduct Category\n•\nManufacturing facility\nOutput: Variance in costs in during \nevaluation period vs. base is attributed to \nvolume, rate and mix impact (Base cost \n+Vol impact + Rate Impact + Mix Impact \n= Evaluation period cost)\nAccount specific impact methodology: \nCost account specific methodology was \ndeveloped to identify  volume, rate and \nmix impact \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nIsolated Impact Of Product Mix, Unit Costs & Net Price\n5\nILLUSTRATIVE\nOutput:\nUnit cost, Mix and Net price impact is tracked at \na cost per lbs. & as a  percentage of net price \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (20).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142655+05'30'",
+            "modDate": "D:20241114142655+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nLearnings\n6\nILLUSTRATIVE\n▪Allocating Fixed costs and variable costs impact to factors that drive the same.\n▪Types of Mix impacts – such as product mix impact, ingredient mix impact \n▪New tools/techniques learnt \n▪We use Excel Macro to automatically generate separate outputs tabs for different inputs selections based on time periods (months, YTD, quarterly, half-\nyearly, FY) and volume categories (previous year, current and AOP (Annual operations plan)).  \n"
+    }
+]

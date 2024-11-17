@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182834+05'30'",
+            "modDate": "D:20241114182834+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMarket analysis & sales \nrepresentative effectiveness\n1\nDeveloped an opportunity score metric for practitioners to identify high value \npractitioners that can be targeted by the sales representatives and created a \npractitioner - facility - representative  mapping to track the effectiveness of the \nsales representatives\n(Medical equipment company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182834+05'30'",
+            "modDate": "D:20241114182834+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped an Opportunity score metric for each practitioner/facility by combining the overall volume of the patients being referred by the \npractitioner/facility and current share of the Client business to identify high value targets\n•\nBuild Tableau based dashboards of the prioritized list of Regions, Facilities and Practitioners by their Opportunity score for the Sales Representatives to \ntarget.\n•\nScrubbed data from client’s CRM and billing tools and created a mapping of Practitioner - Facility - Representative to better track the efficiency of each \nSales Representative and represented this on Tableau dashboards \nSituation\n•\nClient had an opportunity to identify high-value practitioners that can be targeted by Sales Representatives based on market data and the practitioner’s \nexposure to the client\n•\nPartnered with the client to create a prioritized list of potential practitioners  that can be targeted and helped them in tracking the effectiveness of the \nsales representatives which was difficult due to gaps in the data and a high turnover environment.\nMarket analysis and sales representative effectiveness \n2\nImpact\n•\nTableau based dashboards enabled the sales team to plan and prioritize their meetings with the high-value practitioners based on their opportunity score \n•\nOur analyses and dashboards provided the sales team a clear visibility on Sales Representatives performance enabling them to better allocate appropriate \ncommissions based on their contribution to sales\nMARKET ANALYSIS & SALES \nREPRESENTATIVE EFFECTIVENESS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182834+05'30'",
+            "modDate": "D:20241114182834+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMarketing analysis\n3\nProduct \nCategories\nReferral share \nby Product \ncategories\nOption to toggle \nbetween the \nactual ratings \nand Opportunity \nscore (adjusted \nfor referral \nshare)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (389).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182834+05'30'",
+            "modDate": "D:20241114182834+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSales representative effectiveness\n4\nILLUSTRATIVE\nNumber of \norders\nPrimary \nFacility for \neach doctor\nPrimary Sales \nRepresentativ\ne for each \nFacility\n"
+    }
+]

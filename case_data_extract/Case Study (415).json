@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190256+05'30'",
+            "modDate": "D:20241114190256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDigital Marketing Performance Dashboard\n1\n• Partnered with the client to provide a consolidated overview of marketing \nperformance of digital campaigns on an ongoing basis by integrating the data \nfrom various marketing sources into a central Data Warehouse. \n• Enabled the team to drill-down the performance at a keyword and campaign \nlevel to guide the marketing strategy with the help of an automated Power BI \ndashboard.\nHair Extensions Company\nGo to Summary Page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190256+05'30'",
+            "modDate": "D:20241114190256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a consolidated overview of marketing performance of digital campaigns by integrating the data from \nvarious marketing sources into a central Data Warehouse, due to expanded their footprint through brand acquisition . \nAdditionally, you need to drill-down the performance at a keyword and campaign level to guide the marketing strategy with \nthe help of an automated Power BI dashboard.\nHair extensions company needs to reflect on its \nmarketing performance\n2\nYour value is enhanced. \nYou have optimized allocation of marketing spend into promotions with high ROI and targeted efforts to improve marketing \nefficiency resulting in 5% YoY decrease in CPM (cost per thousand impressions) and 20 bps increase in conversion rate. You have \na single snapshot of marketing performance, across the 13 brands on an ongoing basis, enabling the marketing team to optimize \nthe marketing performance across brands, thereby eliminating the effort to track the spend/performance across 13 platforms\nDIGITAL MARKETING PERFORMANCE \nDASHBOARD\nKEY RESULT   \n•\n~20 bps increase in \nconversion rate\n•\nBuilt revenue forecast \nmodel with a mere ~2% \nerror rate\nVALUE LEVERS PULLED\n•\nMarketing Spend \nModeling\n2\nYou turn to Accordion. \nWe partner with your team to provide a centralized Data Warehouse and a drill-down into the performance at a keyword and \ncampaign level to guide the marketing strategy, including:\n1)\nConducting interviews with individual brand growth leaders to understand the short-term/long-term marketing objectives and \ndefining strategic marketing KPIs to track the performance of these initiatives\n2) Building a centralized Azure-based Data Warehouse (DW) which consolidates data from ERP (NetSuite), eCommerce (Shopify, \nMagento), Marketing (Facebook Ads, Google Ads, Instagram, Influencer platforms), CRM (Salesforce) systems across the 13 \nbrands. This DW could serve as a single source of truth for analytics and reporting\n3) Analyzing the marketing performance by channel, campaign, and keyword level with the help of a near real-time automated \nmarketing dashboard on Power BI. Additionally, benchmarking these metrics against budget and previous period to understand \nthe performance trends. \n4) Analyzing the digital journey of customers, across the websites, to understand the customer behavior before making a \npurchase and understand the key drop-off points in the website journey by tracking the cart funnel with the help of metrics \nsuch as Sessions, Product Page Views, Added to Cart, etc.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190256+05'30'",
+            "modDate": "D:20241114190256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMarketing performance overview\n3\nFlexibility to drill-down \nby time, brand, sales, \nmarketing channel etc.\nKey marketing metrics \nand YoY performance\nBenchmarked \nperformance against \nBudget and Last Year\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190256+05'30'",
+            "modDate": "D:20241114190256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMarketing channel performance deep-dive\n4\nKey metrics across \nmarketing channel \ncategories\nDistribution trends of \ntraffic across marketing \nchannels and category\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (415).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190256+05'30'",
+            "modDate": "D:20241114190256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWebsite performance tracking\n5\nTrack the user journey \nfrom session to purchase \nTrack and assess the \nperformance of  \nkeywords with the help \nof key metrics\nToggle to monitor the \nperformance across \nmarketing channels by \nbrand\nILLUSTRATIVE\n"
+    }
+]

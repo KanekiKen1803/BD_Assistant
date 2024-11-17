@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123330+05'30'",
+            "modDate": "D:20241114123330+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWorkforce spend optimization model\n1\nBuilt an Excel model to analyze the workforce spend of a company and identify \npotential cost saving opportunities\nPrivate Equity Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123330+05'30'",
+            "modDate": "D:20241114123330+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to analyze historical data and external databases in order to derive benchmarks and compare the portco's existing \ndata to identify cost savings. Currently, you observe that portfolio companies have significant workforce spending but lack a \ndefined method to assess the efficiency of this expenditure.\nPrivate equity firm company needs workforce spend \noptimization model \n2\nYour value is enhanced. \n•\nYou have identified potential savings of approximately 35% on workforce spend for the analysis of the company. You have \nreduced the turnaround time in the due diligence process for evaluating potential investments and provided clear visibility into \nthe company's performance.\nWORKFORCE SPEND OPTIMIZATION \nMODEL\nKEY RESULT   \n•\n~35%  of potential \nsavings\nVALUE LEVERS PULLED\n•\nWorkforce Analytics\n•\nCompensation \nOptimization\n2\nYou turn to Accordion. \nWe partner with your team to build an Excel model to analyze the workforce spend of a company and identify potential cost \nsaving opportunities, including:\n1)\nExploring external databases such as Radford and SEC filings, as well as internal databases, to create benchmarks based on \nselected cohort companies within the same industry\n2) Designing a business logic that calculates the opportunities for workforce optimization at the function and country level\n3) Developing an Excel model that estimates the potential opportunities for optimizing workforce headcount, span of control, \ngeographical footprint, and compensation, using provided employee data\n4) To apply company specific adjustments, provided flexibility to manually override benchmarks based on business judgement\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123330+05'30'",
+            "modDate": "D:20241114123330+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nExplored external databases such as Radford and SEC filings, as well as internal databases, to create benchmarks based on selected cohort companies \nwithin the same industry\n•\nDesigned a business logic that calculates the opportunities for workforce optimization at the function and country level\n•\nDeveloped an Excel model that estimates the potential opportunities for optimizing workforce headcount, span of control, geographical footprint, and \ncompensation, using provided employee data\n•\nTo apply company specific adjustments, provided flexibility to manually override benchmarks based on business judgement\nSituation\n•\nThe client observed that portfolio companies had a significant workforce spend, but did not have a  defined method to assess the efficiency of the spend\n•\nPartnered with the client to analyze historical data and external databases in order to derive benchmarks and compare the portco's existing data to identify \ncost savings\nWork force optimization toolkit\n3\nImpact\n•\nIdentified potential savings of approximately 35% on workforce spend for the analyzed company\n•\nReduced the turnaround time in the due diligence process for evaluating potential investments and provided clear visibility into the company's performance\nWorkforce Spend Optimization Model\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123330+05'30'",
+            "modDate": "D:20241114123330+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology & approach\nFormat and Normalize the \ndata\n#FTE Optimization\nSpan Opportunity\nSGF Opportunity\nEnd\nStart\nCompany \nCensus Data, \nFinancials\nValidate \nAchievability\nBusiness Judgement\nCalculate Opportunity\nFinalize Opportunity\nManual Overrides\nSelect Cohort\nFinalize Benchmarks\nIndustry Benchmarks\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (110).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123330+05'30'",
+            "modDate": "D:20241114123330+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWaterfall chart presenting the summary output\n       \n       \n      \n      \n       \n      \n   eline      o t \n    o ti i  tion\n   n o ti i  tion\n   \n o  en  tion\n  e li e  en   t te\n      \n      \n      \n      \n      \n       \n       \nTotal \nOpportunity \n(+ve Only)\n $35M\nOpportunity %\n10%\n2%\n3%\n20%\n-35%\nInitial spend on \nheadcount\nOptimal spend on \nheadcount\n5\nILLUSTRATIVE\n"
+    }
+]

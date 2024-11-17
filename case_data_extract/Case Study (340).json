@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172642+05'30'",
+            "modDate": "D:20241114172642+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAttrition Analysis\n1\nBuilt a dynamic data dashboard backed with analytics that helps track the \nattrition rates and determine the drivers of attrition across the company (by \nvarious departments, roles, and regions)\nAssisted Living Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172642+05'30'",
+            "modDate": "D:20241114172642+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a dynamic data-driven dashboard that helps track employee attrition rates and identify reasons for turnover\n•\nIncorporated automated data cleansing capabilities into the data model with a user-friendly module to refresh and upload data on a monthly \nbasis\n•\nIncorporated capabilities for drill down analysis and for context driven insights, by department, tenure, role, location etc. \nSituation\n•\nPartnered with the client to help define the appropriate attrition metrics, tradefine the appropriate attrition metricsck the attrition rates and \ndetermine the drivers of attrition across the company\n2\nImpact\n•\nSingle analytically robust definition of attrition helped tracked true turnover performance\n•\nDrill down analysis helped with deeper insights by multiple cuts, such as by region, community, reason for termination, role,  and tenure.\n•\nIncorporation of context driven insights helped to track and develop a comprehensive understanding of the attrition trends at various regions on \na dynamic basis\nAttrition Analysis\nAttrition Analysis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (340).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172642+05'30'",
+            "modDate": "D:20241114172642+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTurnover Analysis Data Dashboard – Track and Determine the \nKey Factors Driving Attrition in the Company\n3\nAutomated Data Cleansing\n•\nHas a user-friendly module to refresh and \nupload data on an ongoing basis\n•\nCleanses raw data, removes duplicates and \nautomatically updates the data in desired \nformat, for further analyses\nDrill Down Analysis – Dynamic \nData Dashboards \n•\nHas various functionalities, which enable \nflexibility to drill down by multiple cuts, such \nas by region, community, reason for \ntermination, and tenure.\n•\nHelps track and develop a comprehensive \nunderstanding of the attrition trends, at \nvarious regions, on a dynamic basis.\nContext Driven Insights\nCapabilities of the data model to track attrition rates of employees\nObjective: To build a dynamic data dashboard that helps track employee attrition rates and identify reasons for turnover\nILLUSTRATIVE\n"
+    }
+]

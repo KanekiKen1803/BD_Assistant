@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRedesigning subscriber analytics \n1\nRedesign and optimize subscriber analytics and activations data for simplisafe\nHome security company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to diagnose, redesign, and rebuild the architecture to better support the reporting requirements of its cross -\nfunctional teams and improve customer journey tracking. Currently, you are encountering significant challenges with its \ncurrent Data Architecture and Design for storage and data analysis. It employs a complex concepts, hampers the accurate tracking \nand logging of changes in subscriber records. These issues not only impact the effectiveness of analytics and reporting but also \nimpedes the ability to monitor critical customer journey aspects such as application dropouts and customer drop points in \nsubscriptions.\nHome security company needs redesigning subscriber \nanalytics \n2\nYour value is enhanced. \nYou were able to make data-driven decisions based on accurate and up-to-date information, improving strategic planning and \noperational efficiency with incorporating additional ~30% metrics. By accurately tracking customer journeys, application dropouts, \nand subscription drop points, addressed issues proactively, leading to improved customer satisfaction. Standardized processes and \ncomprehensive documentation enabled client to adapt quickly to future changes and requirements. This agility helped the company \nrespond to plan changes and monitoring requests more effectively, reducing response times by ~20% in near term. The reduction in \nmanual intervention and the improvement in process efficiency led to cost savings in terms of time and resources. The robust \ndesign minimized the need for frequent overhauls, reducing long-term maintenance costs by ~25%.\nREDESIGNING SUBSCRIBER ANALYTICS \nKEY RESULT   \n•\nAdditional ~30% \nmetrics\n•\nReducing response \ntimes by ~20% \n•\nReducing long-term \nmaintenance costs by \n~25%\nVALUE LEVERS PULLED\n•\nAssessment and \ndiagnostic\n•\nDesign and \nrecommendation\n•\nChange management and \ndocumentation\n2\nYou turn to Accordion. \nWe partner with your team to Redesign and optimize Subscriber Analytics and Activations data for SimpliSafe, including:\n1) Redesigning the SA and Activations tables enabled client to accurately track the entire customer journey, including \napplication dropouts and subscription drop points, allowing for effective issue mitigation. The redesigned tables \nensured accurate capturing and logging of subscriber changes, facilitating reliable analytics and deeper insights into \ncustomer behaviors and preferences.\n2) Simplified data extraction and the creation of useful features for analytics empowered cross-functional teams with \ntimely and accurate information, enhancing their ability to produce comprehensive reports and make informed \ndecisions.\n3) A normalized structure and new schema made the solution robust and scalable, capable of handling increased data \nvolumes and complexity without sacrificing performance. Automation of table updates reduced manual intervention, \nsaving time and reducing errors.\n4) The creation of mapping tables between source systems and the new schema standardized data across the \norganization, facilitating seamless tracking and reporting, and making it easier to analyze subscriber data.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nRedesigning the SA and Activations tables enabled client to accurately track the entire customer journey, including application dropouts and subscription \ndrop points, allowing for effective issue mitigation. The redesigned tables ensured accurate capturing and logging of subscriber changes, facilitating reliable \nanalytics and deeper insights into customer behaviors and preferences.\n•\nSimplified data extraction and the creation of useful features for analytics empowered cross-functional teams with timely and accurate information, \nenhancing their ability to produce comprehensive reports and make informed decisions.\n•\nA normalized structure and new schema made the solution robust and scalable, capable of handling increased data volumes and complexity without \nsacrificing performance. Automation of table updates reduced manual intervention, saving time and reducing errors.\n•\nThe creation of mapping tables between source systems and the new schema standardized data across the organization, facilitating seamless tracking and \nreporting, and making it easier to analyze subscriber data.\nSituation\n•\nClient is encountering significant challenges with its current Data Architecture and Design for storage and data analysis. It employs a complex concepts, \nhampers the accurate tracking and logging of changes in subscriber records. \n•\nThese issues not only impact the effectiveness of analytics and reporting but also impedes the ability to monitor critical customer journey aspects such as \napplication dropouts and customer drop points in subscriptions.\n•\nClient is considering partnering again to diagnose, redesign, and rebuild the architecture to better support the reporting requirements of its cross-\nfunctional teams and improve customer journey tracking.\nData modeling for home security company\n3\nImpact\n•\nClient was able to make data-driven decisions based on accurate and up-to-date information, improving strategic planning and operational efficiency with \nincorporating additional ~30% metrics.\n•\n By accurately tracking customer journeys, application dropouts, and subscription drop points, client addressed issues proactively, leading to improved \ncustomer satisfaction. Standardized processes and comprehensive documentation enabled client to adapt quickly to future changes and requirements. This \nagility helped the company respond to plan changes and monitoring requests more effectively, reducing response times by ~20% in near term.\n•\nThe reduction in manual intervention and the improvement in process efficiency led to cost savings in terms of time and resources. The robust design \nminimized the need for frequent overhauls, reducing long-term maintenance costs by ~25%.\nRedesigning Subscriber \nAnalytics \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\nSTABILIZE\n•\nCollaborated with multiple stakeholders \nfrom different departments to \nunderstand the requirements of the data \nthat should be present in SA tables\n•\nScreened through all reports and the \ndownstream dependencies to separate \nthe required fields from redundant fields\n•\nConsolidated all the requirements from \nall the business users\nOPTIMIZE\n•\nBased on the requirements designed the \ntables in few steps with optimal solution\n•\nPerformed cleansing activity on the \ntables for deduplication, avoiding data \nleakage after finalizing the definitions of \ncolumns and auditing the columns \n•\nMigrated one of the Python  to SQL \ncode and formatted to run the queries \non dagster instead of legacy scheduler \nfor periodic refresh of table as per the \nbusiness requirements\nSTANDARDIZE\n•\nUtilized the existing SDL processes and \nfollowed the same standards across all \nthe tables\n•\nCreated an extensive documentation \nexplaining high level data flow, existing \nvs redesigned changes and data \ndictionaries\n•\nParameterized certain scripts to enable \nthe same to run across different \nenvironments like Production/ QA\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\n<Exhibit heading>\nHigh level data flow diagram \nshowcasing the flow of data \nfrom source to reporting \nlayer\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (237).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151354+05'30'",
+            "modDate": "D:20241114151354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\n<Exhibit heading>\nData dictionary of a redesigned service \ntable highlighting the key information \nand published over Confluence as part \nof the documentation\n"
+    }
+]

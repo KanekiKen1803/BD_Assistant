@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "FRAUD ANALYTICS FOR A MULTICHANNEL VIDEO PROGRAMMING DISTRIBUTOR \nSITUATION\n▪\nClient suspected that a significant number of fraudulent work orders were created on vendor’s end given inconsistency in their financials. So, they \nwanted to identify the quantum of these fraudulent work orders and the associated commission total amount paid to the vendor.\n▪\nMerilytics partnered with the client to identify the fraudulent work orders and associated commissions which will be used as evidence to summarize \nthe fraud issue to the Auditors and get the fraudulent commission paid reverted back from the vendors.\n▪\nFinalized the methodology for identifying fraudulent work orders (WO) based on the TAT for the WO (same day closure) and the time duration gap \nbetween the previous WO \n▪\nCombined data from multiple data sources including Work orders, Commissions, Technician details, sub-contractor, Insurance plans, WO location and \nbuilt a data model for Power BI dashboard.\n▪\nBuilt a dashboard providing visibility into the # fraudulent WOs and commissions paid along with the functionality to adjust the criteria for fraudulent \nwork orders if required. Also, allowing the users to deep dive into these work orders based on technician, location, sub-contractor etc.\nVALUE ADDITION\nIMPACT\n▪\nIdentified evidence of fraudulent work orders allowing the client to charge back ~12M USD to the vendor \n▪\nProvided visibility into ~40K fraudulent work orders allowing the client to act on specific technician, location or sub-contractor related to WOs. The \ndashboard also provided insights into the process gaps behind these fraudulent WOs, thus helping the client avoid similar frauds in future.  \nABOUT THE CLIENT\nClient is a multichannel video programming distributor in the U.S with 15M+ subscriber base\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n2\nSales DB\nData Flow Diagram\nExcel/Flat files\nExcel Model\nContains tables with Work orders level \ndetails, commissions data and \nInsurance sales data\nExcel files containing the data for \nVendor to Technician and sub-\ncontractor mapping\nUsing the database table capturing WOs, \nwe filtered out the WOs satisfying \nfollowing conditions - \n▪Created within 3 days of closure of \nprevious WO for same account\n▪Created and closed on same day\n▪Closed installation or equipment \nupgrade Work order  \nFor ~40K WOs identified in step-1 mapped \nthe commissions from a different source. \nThere are 2 types of commissions.\n▪\nFulfilment commission: Referring to \ncommission paid to vendor for \ninstallation and upgrade (~12M USD)\n▪\nInsurance commission: Referring to \ncommission paid to vendor for sale of \nProtection plans. (~20K USD)\nAdditional deep dive into the attributes \ncontributing to the Fraudulent WOs \nincluding -\n▪Technician ID\n▪Sub contractor name\n▪Zip code (location)\n▪If Protection plan was purchased\nBuilt a Power BI dashboard for visualizing \nthe data related to the Fraudulent WOs for -\n▪\nTotal # Fraud WOs and $ commissions\n▪\nTracking Fraud WOs and commissions \nby day and month\n▪\nDeep dive into different attributes \nallowing the client to act on specific \ntechnician, location or sub-contractor\n1. Identified the \nFraudulent WOs\n4. Built a Power BI dashboard \nfor Fraudulent WOs\n2. Mapped the \ncommissions for the WOs\n3. Mapped other attributed to \nthe WOs\nPower BI dashboard\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "200\n190\n300\n400\n450\n600\n550\n620\n530\n230\n210\n180\n300\n400\n430\n560\n510\n610\n490\n210\n0\n100\n200\n300\n400\n500\n600\n700\n0\n100\n200\n300\n400\n500\n600\n700\nY1M1\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9\nY1M10\nCommissions (in $10,000) \nWork Orders\nWork Orders and Commissions by Month\nWork Orders\nCommissions ($)\nVendor\nAll\nTech ID\nAll\nTime since prior WO\nAll\nVendor Sub-Contractor\nAll\nProtection Plan sold?\nAll\nState\nAll\nEXHIBIT #1 – SUMMARY OF FRAUDULENT WORK ORDERS AND ASSOCIATED COMMISSIONS\nILLUSTRATIVE\n1. This tab allowed the \nusers to view exact \nquantum of WOs \nand related \ncommissions in the \nselected period \nfitting the criteria \nfor fraudulent WOs.\n2. Also, provided \nvisibility into the \ntrend of fraudulent \nWOs over time.\n4,070\nTotal Work Orders\n$3,900,000\nFF Commissions ($)\n$1,980,000\nPrior WO FF Com. ($)\n$11,000\nInsurance Comm. ($)\n$35,000\nPrior Ins. Comm. ($)\nInsurance comm. Refers \nto commission paid to \nvendor for sale of \nProtection plan to \ncustomer\nFulfilment (FF) comm. \nrefers to commission \npaid to vendor for \nequipment install, \nupgrade or repair\nPrior WO refers to \nprevious WO created on \nsame account number\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "12\n15\n14\n19\n27\n26\n45\n30\n23\n19\n4\n7\n5\n9\n15\n8\n10\n9\n7\n6\n2\n3\n2\n3\n3\n5\n2\n1\n2\n2\n1\n2\n1\n3\n1\n2\n1\n1\n2\n1\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\nY1M1\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9 Y1M10\nWork Orders\nWork Orders by Month based on days since the closure of the \nprior work order\n0\n1\n2\n3\nVendor\nAll\nTech ID\nAll\nTime since prior WO\n0, 1, 2, 3\nVendor Sub-Contractor\nAll\nProtection Plan sold?\nAll\nState\nAll\nSlicers to deep dive \ninto Technician, \nVendors, vendor sub-\ncontractors, state etc. \nEXHIBIT #2a – DEEP DIVING INTO WORK ORDERS FOR SELECTED TECHNICIAN (1/3)\nILLUSTRATIVE\n350\nTotal Work Orders\nTechnician \nID\nWork Orders\n%Work \nOrders\nCommissions \n(in $)\nTech-8\n350\n22.43%\n$320,000\nTech-5\n320\n20.51%\n$290,000\nTech-6\n220\n14.10%\n$250,000\nTech-4\n200\n12.82%\n$210,000\nTech-3\n160\n10.26%\n$170,000\nTech-1\n130\n8.33%\n$120,000\nTech-2\n100\n6.41%\n$105,000\nTech-5\n80\n5.14%\n$90,000\n1. Tracking the work \norders for \nselected \nTechnician (Tech-8 \nin this case), to \nidentify the \nsuspicious activity\n2. There was a \nsudden spike in \nWork orders \nmeeting the fraud \ncriteria from \nY1M4\nSelected Technician \n(Tech-8)\n$320,000\nFF Commissions ($)\n$102,000\nPrior WO FF Com. ($)\n$200\nInsurance Comm. ($)\n$500\nPrior Ins. Comm. ($)\nFiltered the WOs that \nwere created within 3 \ndays of closure of \nprevious WO on same \naccount\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "11\n13.7\n11.9\n18\n24.69\n23.77\n41.11\n27.43\n21.03\n17.37\n3.66\n6.6\n4.69\n8.23\n13.71\n7.31\n9.14\n8.23\n6.4\n5.49\n1.9\n2.74\n1.8\n2.7\n2.74\n4.57\n1.82\n0.97\n1.78\n1.83\n0.91\n1.81\n0.93\n2.74\n0.95\n1.79\n0.91\n0.96\n1.78\n0.91\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\nY1M1\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9 Y1M10\nCommissions (in $1,000)\nCommissions by Month based on days since the closure of the \nprior work order\n0\n1\n2\n3\nVendor\nAll\nTech ID\nAll\nTime since prior WO\n0, 1, 2, 3\nVendor Sub-Contractor\nAll\nProtection Plan sold?\nAll\nState\nAll\nSlicers to deep dive \ninto Technician, \nVendors, vendor sub-\ncontractors, state etc. \nEXHIBIT #2b – DEEP DIVING INTO WORK ORDERS FOR SELECTED TECHNICIAN (2/3)\nILLUSTRATIVE\n350\nTotal Work Orders\n$320,000\nFF Commissions ($)\n$102,000\nPrior WO FF Com. ($)\n$200\nInsurance Comm. ($)\n$500\nPrior Ins. Comm. ($)\nTechnician \nID\nWork Orders\n%Work \nOrders\nCommissions \n(in $)\nTech-8\n350\n22.43%\n$320,000\nTech-5\n320\n20.51%\n$290,000\nTech-6\n220\n14.10%\n$250,000\nTech-4\n200\n12.82%\n$210,000\nTech-3\n160\n10.26%\n$170,000\nTech-1\n130\n8.33%\n$120,000\nTech-2\n100\n6.41%\n$105,000\nTech-5\n80\n5.14%\n$90,000\nSelected Technician \n(Tech-8)\n1. Tracking the work \norders \ncommissions for \nselected \nTechnician (Tech-8 \nin this case), to \nidentify the \nsuspicious activity\n2. There was a \nsudden spike in \ncommissions for \nWork orders \nmeeting the fraud \ncriteria from \nY1M4\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "Vendor\nAll\nTech ID\nAll\nTime since prior WO\n0, 1, 2, 3\nVendor Sub-Contractor\nAll\nProtection Plan sold?\nAll\nState\nAll\nSlicers to deep dive \ninto Technician, \nVendors, vendor sub-\ncontractors, state etc. \nEXHIBIT #2c – DEEP DIVING INTO WORK ORDERS FOR SELECTED TECHNICIAN (3/3)\nILLUSTRATIVE\nTechnician \nID\nWork Orders\n%Work \nOrders\nCommissions \n(in $)\nTech-8\n350\n22.43%\n$320,000\nTech-5\n320\n20.51%\n$290,000\nTech-6\n220\n14.10%\n$250,000\nTech-4\n200\n12.82%\n$210,000\nTech-3\n160\n10.26%\n$170,000\nTech-1\n130\n8.33%\n$120,000\nTech-2\n100\n6.41%\n$105,000\nTech-5\n80\n5.14%\n$90,000\nWork Order ID\nCity\nBAN\nCommissions (in $)\nWO 1\nCity 1\nAccount 1\n$2,500\nWO 2\nCity 1\nAccount 2\n$2,100\nWO 3\nCity 1\nAccount 3\n$1,950\nWO 4\nCity 1\nAccount 4\n$1,900\nWO 5\nCity 1\nAccount 5\n$1,800\nWO 6\nCity 1\nAccount 6\n$1,680\nWO 7\nCity 1\nAccount 7\n$1,620\nWO 8\nCity 1\nAccount 8\n$1,570\nWO 9\nCity 1\nAccount 9\n$1,500\nWO 10\nCity 1\nAccount 10\n$1,480\nSelected Technician \n(Tech-8)\n1. Referring to \nExhibit – 2 and 3 \nwe were able to \nidentify a sudden \nspike in work \norders meeting \nthe fraud criteria \nfor Tech-8\n2. Provided client \nvisibility into \nexact work orders \nfor a technician, \nallowing them to \ntake required \naction against the \nfraud\n350\nTotal Work Orders\n$320,000\nFF Commissions ($)\n$102,000\nPrior WO FF Com. ($)\n$200\nInsurance Comm. ($)\n$500\nPrior Ins. Comm. ($)\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (375).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Krushnakant Bhakre",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181128+05'30'",
+            "modDate": "D:20241114181128+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n▪\nAble to improve our understanding on different type of frauds possible on the vendor end and different methods in which we can identify these frauds\n▪\nBetter understanding of the Vendor management processes used by client including the way in which the work orders and metrics associated with it are tracked in \nthe databases \n7\n"
+    }
+]

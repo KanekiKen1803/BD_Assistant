@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173009+05'30'",
+            "modDate": "D:20241114173009+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRoyalty Payments and Consumption Analytics\n1\nHomogenized and consolidated the royalty statements across multiple music \npublishing companies by extracting and storing the royalty statements in a \ncentralized data warehouse, to enable further analysis of trends and forecast \nfuture royalty payments during the diligence phase of acquiring new music \ncatalogs\nIndependent Record Label and Music Publisher\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173009+05'30'",
+            "modDate": "D:20241114173009+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a custom consolidator to homogenize and structure data accounting for various royalty statement structures across publishing houses (such as \nSony Music Entertainment, ASCAP, etc.).\n•\nIntegrated APIs to extract relevant metadata (release dates, albums names, artists involved, etc.) and streaming consumption data for songs and artists, to \nbuild a holistic database for the portfolio and enable benchmarking based on song details.\n•\nCreated a data warehouse to act as a single repository to store structured historical data and facilitate reporting data models for Power BI dashboards, to \nprovide visibility into the royalty performance of songs.\n•\nBuilt a dashboard to identify attractive opportunities for portfolio expansion based on the royalty trends and streaming consumption of artists / songs.\nSituation\n•\nClient lacked visibility into the holistic royalty performance of songs due to different royalty statement structures across publishing houses. This impacted \nthe turnaround time to evaluate opportunities during the diligence phase.\n•\nPartnered with the client to automate the processes, that significantly reduced the turnaround for the evaluation of historical royalties of record labels that \nwere being considered for acquisition. Additionally, provided visibility into the holistic performance of the existing catalogs and helped evaluate potential \nopportunities for acquiring new music catalogs.\nRoyalty payments analytics for an independent record label \nand music publisher\n2\nImpact\n•\nCustom consolidator resulted in ~80% reduction in FTE-hours required to consolidate royalty statements and extract streaming consumption data from APIs.\n•\n~50% more likely to identify and act upon potential artists / songs, due to a faster turnaround time.\n•\n~10% improvement in portfolio performance due to better artist / song selection based on historical statement and current streaming consumption trends.\nROYALTY PAYMENTS AND \nCONSUMPTION ANALYTICS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173009+05'30'",
+            "modDate": "D:20241114173009+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach - high level architecture diagram\nData Visualization\nData Storage & Processing\nAzure MySQL \nData \nWarehouse\nAzure Data \nLake \nStorage\n1\nAzure Data \nFactory \nPipeline\n3\n2\nPython Script \n(Integration of APIs)\n4\nAzure Analysis \nServices\nData Source\nRoyalty Statements\nMapping Between \nRoyalty Statements\n5\nMetadata from Spotify and \nGenius\n(release dates, albums \nnames, artists involved, etc.)\nInge\nst\n3\n2\nIntegration of metadata from various APIs for additional details on songs / artists\n1\nIngest data from SharePoint into Azure Data Lake Storage\n4\nCollate data from fact tables and push it to ‘Azure Analysis Services’ for data modeling, this component improves the latency of dashboards\n5\nBuild operational reports and analytical dashboards on top of Azure Analysis Services or SQL Database to derive insights from the data\nUse Azure Data Factory pipeline to structure the data set and store in MySQL Data Warehouse as the “single data repository”\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (343).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173009+05'30'",
+            "modDate": "D:20241114173009+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEvaluation of opportunities by benchmarking market share decay\n4\nILLUSTRATIVE\nExisting \nsongs \nselected to \nact as \nbenchmark \nfor evaluating \nopportunities\nSelected group \nof songs to be  \nevaluated as \npossible \nopportunities\n"
+    }
+]

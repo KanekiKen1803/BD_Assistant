@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103426+05'30'",
+            "modDate": "D:20241115103426+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nData Clean-up and BI Reporting \n(PERFUME PRODUCTS DATA FROM VARIOUS \nSYSTEMS WAS REPORTED USING CLOUD-\nHOSTED EXECUTIVE DASHBOARDS)\nLuxury Cosmetics Company\nSanitized and consolidated product master data from \ndiscrete sources and developed integrated interactive Sales \nreporting through executive dishoards\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103426+05'30'",
+            "modDate": "D:20241115103426+05'30'",
+            "trapped": ""
+        },
+        "content": "PRODUCT DATA FROM VARIOUS SYSTEMS WAS SANITIZED AND SALES WERE \nREPORTED USING CLOUD-HOSTED EXECUTIVE DASHBOARDS\nSITUATION\n▪\nHigh effort required to track the product level sales across the company due to the lack of a consolidated sales database\n▪\nMerilytics closely partnered with the Finance team of the brand to harmonize the product information across systems and create accurate sales \nreporting dashboards for the management\n▪\nHarmonized the product information data across discrete systems and helped the brand transition to the new standardized product hierarchy \nbased on universal product code (UPC)\n▪\nConsolidated the FY16 and FY17 sales data from various systems (Revel, ICAT/Magento, QuickBooks) using the standardized product mapping \nand helped with the clean-up of SKUs\n▪\nSetting up a cloud-based data hosting platform to enable real-time update of the sales data from discrete systems\n▪\nCreating dynamic and interactive cloud based BI reporting dashboard for consumption by the management\nVALUE ADDITION\nIMPACT\n▪\nThe harmonized product mapping information enabled the brand to transition to the new standardized product hierarchy\n▪\nThe cloud-based platform streamlines the sales consolidation process from different sources for the brand\n▪\nThe BI dashboard will enable management to track the accurate product level sales information and devise accurate product strategies\nABOUT THE CLIENT\nClient is a US based luxury cosmetics company. They had different systems to capture sales from Wholesale, Retail and Online channels with non-\nstandardized product naming conventions across systems\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (69).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103426+05'30'",
+            "modDate": "D:20241115103426+05'30'",
+            "trapped": ""
+        },
+        "content": "Source\nOld SKU\nRaw data description\nOld SKU-Description\nLL New SKU\nProduct Description (from UPC list)\nProduct type\nProduct Category\nProduct Sub Category\nUS QB\n050PA44100\nALDEHYDE 44 - EAU DE PARFUM 50ML\n050PA44100-ALDEHYDE 44 - EAU DE PARFUM 50ML\n050PA44100\nALDEHYDE 44 - EAU DE PARFUM 50ML\nPRODUCT\nALDEHYDE 44\nEAU DE PARFUM 50ML\nUS QB\n050PB22100\nBERGAMOTE 22 - EAU DE PARFUM 50ML\n050PB22100-BERGAMOTE 22 - EAU DE PARFUM 50ML\n050PB22100\nBERGAMOTE 22 - EAU DE PARFUM 50ML\nPRODUCT\nBERGAMOTE 22\nEAU DE PARFUM 50ML\nUS QB\n050PF27100\nFLEUR D'ORANGER 27 - EAU DE PARFUM 50ML\n050PF27100-FLEUR D'ORANGER 27 - EAU DE PARFUM 50ML\n050PF27100\nFLEUR D'ORANGER 27 - EAU DE PARFUM 50ML\nPRODUCT\nFLEUR D'ORANGER 27\nEAU DE PARFUM 50ML\nUS QB\n050PI39100\nIRIS 39 - EAU DE PARFUM 50ML\n050PI39100-IRIS 39 - EAU DE PARFUM 50ML\n050PI39100\nIRIS 39 - EAU DE PARFUM 50ML\nPRODUCT\nIRIS 39\nEAU DE PARFUM 50ML\nUS QB\n050PL41100\nLYS 41 - EAU DE PARFUM 50ML\n050PL41100-LYS 41 - EAU DE PARFUM 50ML\n050PL41100\nLYS 41 - EAU DE PARFUM 50ML\nPRODUCT\nLYS 41\nEAU DE PARFUM 50ML\nUS QB\n050PR31100\nROSE 31 - EAU DE PARFUM 50ML\n050PR31100-ROSE 31 - EAU DE PARFUM 50ML\n050PR31100\nROSE 31 - EAU DE PARFUM 50ML\nPRODUCT\nROSE 31\nEAU DE PARFUM 50ML\nUS QB\n050PR31200\nROSE 31 - EAU DE PARFUM 50ML REFILL\n050PR31200-ROSE 31 - EAU DE PARFUM 50ML REFILL\n050PR31200\nROSE 31 - EAU DE PARFUM 50ML REFILL\nPRODUCT\nROSE 31\nEAU DE PARFUM 50ML REFILL\nUS QB\n050PS33100\nSANTAL 33 - EAU DE PARFUM 50ML\n050PS33100-SANTAL 33 - EAU DE PARFUM 50ML\n050PS33100\nSANTAL 33 - EAU DE PARFUM 50ML\nPRODUCT\nSANTAL 33\nEAU DE PARFUM 50ML\nUS QB\n050PT29100\nTHÉ NOIR 29 - EAU DE PARFUM 50ML\n050PT29100-THÉ NOIR 29 - EAU DE PARFUM 50ML\n050PT29100\nTHÉ NOIR 29 - EAU DE PARFUM 50ML\nPRODUCT\nTHÉ NOIR 29\nEAU DE PARFUM 50ML\nUS QB\n050PV46100\nVETIVER 46 - EAU DE PARFUM 50ML\n050PV46100-VETIVER 46 - EAU DE PARFUM 50ML\n050PV46100\nVETIVER 46 - EAU DE PARFUM 50ML\nPRODUCT\nVETIVER 46\nEAU DE PARFUM 50ML\nUS QB\n050PV46200\nVETIVER 46 - EAU DE PARFUM 50ML REFILL\n050PV46200-VETIVER 46 - EAU DE PARFUM 50ML REFILL\n050PV46200\nVETIVER 46 - EAU DE PARFUM 50ML REFILL\nPRODUCT\nVETIVER 46\nEAU DE PARFUM 50ML REFILL\nUS QB\n100mlBNY\nOslo 100 ml bottles\n100mlBNY-Oslo 100 ml bottles\n100P000BTL\n100ML - GLASS BOTTLE\nINGREDIENT\nFRAGRANCE MATERIALS FINE/CE \nPRIMARY PACKAGING\nUS QB\n100PB22100\nBERGAMOTE 22 - EAU DE PARFUM 100ML\n100PB22100-BERGAMOTE 22 - EAU DE PARFUM 100ML\n100PB22100\nBERGAMOTE 22 - EAU DE PARFUM 100ML\nPRODUCT\nBERGAMOTE 22\nEAU DE PARFUM 100ML\nUS QB\n100PB22200\nBERGAMOTE 22 - EAU DE PARFUM 100ML REFILL\n100PB22200-BERGAMOTE 22 - EAU DE PARFUM 100ML REFILL\n100PB22200\nBERGAMOTE 22 - EAU DE PARFUM 100ML REFILL\nPRODUCT\nBERGAMOTE 22\nEAU DE PARFUM 100ML REFILL\nUS QB\n100PC28200\nCUIR 28 - CE Dubai - EAU DE PARFUM 100ML REFILL\n100PC28200-CUIR 28 - CE Dubai - EAU DE PARFUM 100ML REFILL\n100PC28200\nCUIR 28 - EAU DE PARFUM 100ML REFILL\nPRODUCT\nCUIR 28\nEAU DE PARFUM 100ML REFILL\nUS QB\n100PJ17100\nJASMIN 17 - EAU DE PARFUM 100ML\n100PJ17100-JASMIN 17 - EAU DE PARFUM 100ML\n100PJ17100\nJASMIN 17 - EAU DE PARFUM 100ML\nPRODUCT\nJASMIN 17\nEAU DE PARFUM 100ML\nUS QB\n100PL41100\nLYS 41 - EAU DE PARFUM 100ML\n100PL41100-LYS 41 - EAU DE PARFUM 100ML\n100PL41100\nLYS 41 - EAU DE PARFUM 100ML\nPRODUCT\nLYS 41\nEAU DE PARFUM 100ML\nUS QB\n100PP24100\nPATCHOULI 24 - EAU DE PARFUM 100ML\n100PP24100-PATCHOULI 24 - EAU DE PARFUM 100ML\n100PP24100\nPATCHOULI 24 - EAU DE PARFUM 100ML\nPRODUCT\nPATCHOULI 24\nEAU DE PARFUM 100ML\nUS QB\n100PR31100\nROSE 31 - EAU DE PARFUM 100ML\n100PR31100-ROSE 31 - EAU DE PARFUM 100ML\n100PR31100\nROSE 31 - EAU DE PARFUM 100ML\nPRODUCT\nROSE 31\nEAU DE PARFUM 100ML\nUS QB\n100PS33100\nSANTAL 33 - EAU DE PARFUM 100ML\n100PS33100-SANTAL 33 - EAU DE PARFUM 100ML\n100PS33100\nSANTAL 33 - EAU DE PARFUM 100ML\nPRODUCT\nSANTAL 33\nEAU DE PARFUM 100ML\nUS QB\n100PS33100ELC\nSANTAL 33 - EAU DE PARFUM 100ML\n100PS33100ELC-SANTAL 33 - EAU DE PARFUM 100ML\n100PS33100\nSANTAL 33 - EAU DE PARFUM 100ML\nPRODUCT\nSANTAL 33\nEAU DE PARFUM 100ML\nUS QB\n100PS33200\nSANTAL 33 - EAU DE PARFUM 100ML REFILL\n100PS33200-SANTAL 33 - EAU DE PARFUM 100ML REFILL\n100PS33200\nSANTAL 33 - EAU DE PARFUM 100ML REFILL\nPRODUCT\nSANTAL 33\nEAU DE PARFUM 100ML REFILL\nUS QB\n100PT29100\nTHÉ NOIR 29 - EAU DE PARFUM 100ML\n100PT29100-THÉ NOIR 29 - EAU DE PARFUM 100ML\n100PT29100\nTHÉ NOIR 29 - EAU DE PARFUM 100ML\nPRODUCT\nTHÉ NOIR 29\nEAU DE PARFUM 100ML\nUS QB\n100PY49100\nYLANG 49 - EAU DE PARFUM 100ML\n100PY49100-YLANG 49 - EAU DE PARFUM 100ML\n100PY49100\nYLANG 49 - EAU DE PARFUM 100ML\nPRODUCT\nYLANG 49\nEAU DE PARFUM 100ML\nUS QB\n12upLabelNY\nVintage Candle Label 12 up per label\n12upLabelNY-Vintage Candle Label 12 up per label\nV12S000000\nVINTAGE LABEL 12-UP (SHEETS)\nINGREDIENT\nVINTAGE CANDLE MATERIALS\nPRIMARY PACKAGING\nUS QB\n15mlBNY\n15 ml Bottles\n15mlBNY-15 ml Bottles\n015P000BTL\n15ML - GLASS BOTTLE\nINGREDIENT\nFRAGRANCE MATERIALS FINE/CE \nPRIMARY PACKAGING\nUS QB\n3x3NY\nCorrugated 3 x 3 paper E-Kraft Single Faced Custom Cut Squares for 10 ml refill and Samples packaging\n3x3NY-Corrugated 3 x 3 paper E-Kraft Single Faced Custom Cut Squares for 10 ml refill and Samples packaging\nTRTU0003x3\n3 X 3 CORRUGATE\nINGREDIENT\nSAMPLE PROGRAM\nSECONDARY PACKAGING\nUS QB\n7mlDropNY\n7ml Amulet bottle dropper\n7mlDropNY-7ml Amulet bottle dropper\nAMUL000TOP\nAMULET - BOTTLE DROPPER\nINGREDIENT\nAMULET MATERIALS\nPRIMARY PACKAGING\nUS QB\nA13P100ML\nANOTHER 13 - EAU DE PARFUM 100ML\nA13P100ML-ANOTHER 13 - EAU DE PARFUM 100ML\n100PA13100\nANOTHER 13 - EAU DE PARFUM 100ML\nPRODUCT\nANOTHER 13\nEAU DE PARFUM 100ML\nUS QB\nA13P100MLELC\nAnother 13 EDP 100ml\nA13P100MLELC-Another 13 EDP 100ml\n100PA13100\nANOTHER 13 - EAU DE PARFUM 100ML\nPRODUCT\nANOTHER 13\nEAU DE PARFUM 100ML\nUS QB\nA13P50ML\nANOTHER 13 - EAU DE PARFUM 50ML\nA13P50ML-ANOTHER 13 - EAU DE PARFUM 50ML\n050PA13100\nANOTHER 13 - EAU DE PARFUM 50ML\nPRODUCT\nANOTHER 13\nEAU DE PARFUM 50ML\nUS QB\nA13R100ML\nANOTHER 13 - EAU DE PARFUM 100ML REFILL\nA13R100ML-ANOTHER 13 - EAU DE PARFUM 100ML REFILL\n100PA13200\nANOTHER 13 - EAU DE PARFUM 100ML REFILL\nPRODUCT\nANOTHER 13\nEAU DE PARFUM 100ML REFILL\nOnline BI dashboard \ncreated on Microsoft \nPowerBI platform with \npowerful cross-filtering \nvizualizations \nCreated the harmonized \nproduct master \nmapping file \nstandardizing the SKUs \nacross systems\nDATA CLEAN-UP AND ONLINE BI REPORTING DASHBOARD\n3\n"
+    }
+]

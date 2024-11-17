@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133305+05'30'",
+            "modDate": "D:20241114133305+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nAnalyzed the key purchase trends of customers in each region to identify the \ncustomer segments with low acquisition rates and sentiment that the company \nshould focus on with customized marketing programs\nLuxury Makeup Cosmetics Brand\n(Customer Analytics)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133305+05'30'",
+            "modDate": "D:20241114133305+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER ANALYTICS\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a US-based luxury cosmetics manufacturer. Company observed a decline in sales in some key markets and wanted to understand the key trends driving the change\n2\n▪Each market has a dedicated CRM team that works with the Marketing team to design customized marketing initiatives based on customer behavior and \ndemographics\n▪Merilytics closely partnered with the CRM and Marketing teams of the client to deep dive into the purchasing trends of the customers over the past three \nyears and identify key customer groups that the company should focus on\n▪Harmonized the customer data collected from different markets by channel and combined it with the customer level sales data to create a consolidated \ndataset\n▪Identified key customer parameters such as age, ethnicity, geography etc. and looked at sales growth for past three years within each segment\n▪Compared the revenue per customer, acquisition rate, retention rate, cross-channel purchases, replenishment rate for each segment for the past three-year \nperiod to identify the segments that experienced a decline\n▪Set up an automated process to repeat the analysis on a regular basis in order to highlight the focus areas and related metrics\n▪Created a dynamic and interactive cloud based BI reporting dashboard for consumption by the Management\n▪The analysis helped the CRM team to understand the customer purchase behavior at a granular level and the impact of attrition on the overall growth\n▪Client was able to identify the customer segments with low acquisition rates and sentiment, and design customized marketing programs to attract those \nsegments\n▪The BI dashboard provided an executive view of all the markets and key trends, with the ability to drill down on specific markets\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133305+05'30'",
+            "modDate": "D:20241114133305+05'30'",
+            "trapped": ""
+        },
+        "content": "This view displays the trends of various metrics in the last three years that enables the marketing \nteam to decide area/s of focus (Pricing / Customer Lifetime value / No. of customers / Customer \nloyalty) to improve the sales.\n3\nCUSTOMER ANALYTICS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (158).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133305+05'30'",
+            "modDate": "D:20241114133305+05'30'",
+            "trapped": ""
+        },
+        "content": "The view displays the YoY% of the sales of each ‘Age-\nEthnicity’ sub-group. \n4\nCUSTOMER ANALYTICS\n"
+    }
+]

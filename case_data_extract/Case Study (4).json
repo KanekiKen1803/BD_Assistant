@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCare giver performance monitoring\n1\nUnlocked visibility into Care Giver’s operational performance for the leadership \nteam to track schedule fulfillment, lost revenue opportunities and efficiency at \nmultiple cuts by automating data ingestion using Alteryx and building Tableau \nbased dashboards\nIn-Home care service provider \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to provide visibility into operational performance of the Care Givers which were on eRSP (EMR) reports.  Currently, \nthese reports are manual, subject to ad hoc changes, available at a weekly/monthly level in a fixed format and are missing \nhistorical trends.  \nIn-home care service provider needs to monitor care giver’s \nperformance \n2\nYour value is enhanced. \nYou have automated the extraction and enabled granular reporting that eliminated~ 2 hours of daily manual effort and improved \nthe precision of reporting. You also have improved the tracking on operational performance of the Care Givers to enable the \nleadership to improve the efficiency. Improved tracking of the reasons for zero-claim hours unlocked insights to take relevant \nmeasures to improve patient experience and prevent revenue loss.\nCARE GIVER PERFORMANCE \nMONITORING \nKEY RESULT   \n•\n2 hours/day of manual \neffort saved\n•\nCost savings of $20K \nper month\nVALUE LEVERS PULLED\n•\nAlteryx Workflows\n•\nTableau Dashboards\n2\nYou turn to Accordion. \nWe partner with your team to provide visibility into Care Giver’s operational performance for the leadership team to track \nschedule fulfillment, lost revenue opportunities and efficiency at multiple cuts by automating data ingestion using Alteryx and \nbuilding Tableau based dashboards, including:\n1)\nSetting up automated ingestion of EMR data from eRSP using Alteryx workflows to clean , transform and harmonize the data to \na reportable form.\n2) Providing visibility into Fulfilment Rate by tracking the percentage of the actual hours served against the scheduled hours and \nimproved granularity across multiple attributes like Payor, Region, Branch, Visit Type etc.\n3) Tracking zero claim hours with associated reasons highlighting the missed revenue opportunity due to scheduled but unserved \nhours due to cancellations, no-shows etc.\n4) Calculating the ‘Gross Margin %’ for Care Givers and other attributes by comparing the revenue generated against the wages \nand providing insights into seasonality and profitability across various data cuts.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up automated ingestion of EMR data from eRSP using Alteryx workflows to clean , transform and harmonize the data to a reportable form\n•\nProvided visibility into Fulfilment Rate by tracking the percentage of the actual hours served against the scheduled hours \n•\nTracked Zero Claim Hours with associated reasons highlighting the missed revenue opportunity due to scheduled but unserved hours due to cancellations, \nno-shows etc.\n•\nCalculated the ‘Gross Margin %’ for Care Givers and other attributes by comparing the revenue generated against the wages and providing insights into \nseasonality and profitability across various data cuts\nSituation\n•\nClient had limited visibility into operational performance of the Care Givers and they relied on eRSP (EMR) reports for the same. However, the reports were \nmanual, subject to ad hoc changes, available at a weekly/monthly level in a fixed format and were missing historical trends. \n•\nPartnered with the client to develop the comprehensive logic to provide enhanced visibility the operational health by automating Alteryx workflows and \nbuilding tableau-based dashboards. The refresh cadence was enhanced to a daily level and improved the granularity across multiple attributes like Payor, \nRegion, Branch, Visit Type etc. \nCare giver performance monitoring for an in-home care service \nprovider \n3\nImpact\n•\nAutomated the extraction and enabled granular reporting eliminated~ 2 hours of daily manual effort and improved the precision of reporting\n•\nImproved the tracking on operational performance of the Care Givers to enable the leadership to improve the efficiency. Improved tracking of the reasons for \nzero-claim hours unlocked insights to take relevant measures to improve patient experience, and prevent revenue loss\nCare giver performance \nmonitoring \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach - High level data flow\n4\nSource systems\nData Prep, Transformation, Validation\nData Storage\nFlat Files (Mapping \nFiles) \nData Visualization\nData Extraction \nData \nCleansing\nTransform\nBusiness \nRules\nConsolidation\nDirect data extraction from eRSP (EMR system) and Flat files\nExtracted data is stored within Azure SQL server\nRaw data stored in Azure SQL server are cleaned and transformed as per business specific rules discussed with client Team\nThe cleaned and transformed data are stored in Clean and Reporting tables within Azure SQL server\nData stored in Azure SQL server is used for creating dashboards in Tableau\n1\n2\n3\n4\n5\n1\n2\n3\n4\n5\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMargin report by Caregiver (1/2)\n5\nILLUSTRATIVE\nFlexibility to toggle to more attributes like Payor, Region etc. in \naddition to Care Giver\nShows the major \nOperational KPIs for \nthe selected date \nrange\nShows the Revenue \nand Wages along \nwith Spread % by \nCaregivers based on \nthe selected date \nrange\nAvailable Attributes\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMargin report by Caregiver (2/2)\n6\nILLUSTRATIVE\nShows the overall \nand Hourly \nRevenue, Wages \nand Spread by \nCaregivers on daily \nbasis based on \nselected date range\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSchedule fulfillment performance by caregiver \n7\nILLUSTRATIVE\nShows the \nScheduled Hours, \nActual Hours and \nFulfillment by \nCaregivers based \non the selected \ndate range\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSchedule fulfillment performance details by caregiver \n8\nILLUSTRATIVE\nShows the Daily \nActual Hours, \nScheduled Hours \nand Fulfillment by \nCaregiver based on \nselected date range\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (4).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184222+05'30'",
+            "modDate": "D:20241114184222+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nZero claim hours by caregiver\n9\nILLUSTRATIVE\nShows the Zero \nClaim Hours by \nReason and \nCaregiver based on \nselected date range\nShows the Zero \nClaim Hours by \nCaregivers based \non selected date \nrange\n"
+    }
+]

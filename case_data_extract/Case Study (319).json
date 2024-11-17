@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nAnalyzed customer churn behavior by product and performed a further deep-dive to \nevaluate the impact of customers migrating from copper technology to fiber \ntechnology on churn. Additionally, analyzed the conversion journey of customers \nupgrading to fiber through customer care platform.\nCustomer Churn Analysis and Impact of Technology \nMigration (Copper to Fiber)\n(Telecommunication Company focused on the U.S. Rural market)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER CHURN AND CONVERSION RATES FOR TECHNOLOGY MIGRATION\nSITUATION\n▪Client had limited visibility into customer churn behavior leading to uncertainty in evaluating the impact of key strategic initiative of migrating customers from copper \ntechnology to fiber technology\n▪There was an opportunity to provide enhanced visibility into the churn behavior of customers at a product level along with the key drivers of churn\n▪Partnered with client to identify the various drivers of churn to identify the business impact of the technology migration and evaluated the efficacy of customer care \nin enabling copper customers to upgrade customers to fiber technology\n▪Analyzed churn behavior of customers by segmenting churn by various drivers such as disconnect reasons (non-pay, competitive, financial etc.), product type (single \nproduct, multiple), tenure, etc.\n▪Evaluated the incremental retention rate of a fiber customer to quantity the business impact of technology migration and layered the key driving factors of better \nretention in fiber\n▪Identified the key driving factors that enhance conversion rates of customers through customer care\n▪Developed a Tableau-based dashboard to monitor and track the product level churn performance on a real-time basis\nVALUE ADDITION\nIMPACT\n▪Identified potential opportunity to reduce churn rate by 13% by migrating customers from copper technology to fiber technology\n▪Estimated 5% potential revenue uplift due to enhanced customer retention rate in fiber compared to copper technology\nABOUT THE CLIENT\nClient is a leading provider of advanced network communications and technology solutions focused on the U.S. rural market\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n3\nCustomer Churn Behavior \nby Product \nChurn Monitoring & \nTrends \nCopper to Fiber \nMigration \n▪Analyzed the churn behavior of customers by \nproducts across tenure group, acquisition \nchannel, technology type, disconnect \nreason, etc.\n▪Benchmarked the churn rate for products on \ncopper technology against the fiber \ntechnology products to evaluate the impact \nof technology type on churn rate\n▪Analyzed various customer service metrics \nsuch as network downtime, repair tickets, \nlarge outages, etc., to evaluate their impact \non product churn \n▪Developed a Tableau-based dashboarding \nsuite to monitor churn rate for products and \nproduct combinations on an ongoing basis\n▪Identified the factors driving high churn rate \namong copper customers compared to fiber \ncustomers and validated the trend across \ntime periods\n▪Highlighted the opportunity to migrate \ncustomers currently on copper technology to \nfiber \n▪To track the ongoing migration efforts of \ncustomers along with analyzing conversion \nrates, developed a Tableau-based automated \ndashboard with customer migration journey\n▪Identified customers reaching out to \ncustomer care with eligibility to migrate to \nfiber to fast-track migration efforts\n▪Analyzed various metrics to enhance the \nefficiency of customer care to increase the \nfiber migrations  \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1 – PRODUCT PERFORMANCE DASHBOARD TO TRACK MONTHLY HEALTH\nILLUSTRATIVE\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2 – CHURN TRENDS BY DISCONNECT REASON AND CUSTOMER TENURE\nILLUSTRATIVE\n5\nProvides visibility \ninto churn for \ncustomers across \nvarious tenure \ngroups and reasons \nfor disconnects\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 3 – COPPER TO FIBER CUSTOMER MIGRATIONS\nILLUSTRATIVE\n6\nProvides \nvisibility into \nthe upgrade \nrequests and \nconversion \nrates for \ncopper to fiber \nmigrations \nProvides \nflexibility to get \ngranular \ninsights on \nconversion \nrates based on \nother customer \nattributes\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (319).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165921+05'30'",
+            "modDate": "D:20241114165921+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 4 – PRODUCT CHURN BY TENURE (FOR CUSTOMERS WITH MULTIPLE PRODUCTS)\n7\nProvides \nvisibility into \ncalls to \ncustomer care \nfor client to \npro-actively \nreach out to \nthese \ncustomers for \nupgrades from \ncopper to fiber\n"
+    }
+]

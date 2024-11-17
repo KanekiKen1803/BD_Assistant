@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131117+05'30'",
+            "modDate": "D:20241114131117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCost Card Analysis\n1\nPartnered with the client to analyze the quarterly cost cards, shared by the co-\nmanufacturers, to identify revenue leakages by tracking the variance in BOM (bill \nof materials) and associated COGS at the SKU level, flagging any potential \ndiscrepancies with respect to contract terms\nFood Manufacturer Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131117+05'30'",
+            "modDate": "D:20241114131117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for centralized reporting  for quarterly cost cards, shared by the co-manufacturers, to identify revenue \nleakages by tracking the variance in BOM and associated COGS at an SKU-level to flag any potential discrepancies with \nrespect to contract terms\nFood manufacturer company needs to stir-up cost card \nanalysis\n2\nYour value is enhanced. \nYou have centralized company-level cost card reporting providing visibility into revenue leakages to take real-time \ncorrective actions with the help of triggers set up. You have also automated consolidation and analysis of cost cards translated \nto ~75% reduction in person-hours that otherwise collate data manually on a quarterly basis.\nCOST CARD ANALYSIS\nKEY RESULT   \n•\n~2% cost reduction by \ncontract reinforcement\n•\n~75% reduction in \nperson-hours \nVALUE LEVERS PULLED\n•\nCost Card Analysis\n2\nYou turn to Accordion. \nWe partner with your team to analyze and identify revenue leakages by tracking the variance in BOM (bill of materials) and \nassociated COGS at the SKU level, including:\n1)\nCreating a consolidated BOM by aggregating the cost cards, received from various co-manufacturers, through customized \nVBA-based automation by applying necessary transformations. Also, aggregating the contracts data (‘Ingredients’, ‘Tolling’, \nand ‘Packaging’) to create a single repository for reporting\n2) Creating business rules to identify variance in BOM and associated COGS at an SKU-level, beyond the defined threshold limit. \nAdditionally, comparing the cost charged for ingredients, tolling, and packaging with the contract tracker to flag any potential \ndiscrepancies\n3) Building an Excel-based centralized cost card tracker across co-manufacturers to track QoQ trends, ingredients wastage, \ncontract compliance and flagging any potential discrepancies so that the client can take necessary corrective actions\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131117+05'30'",
+            "modDate": "D:20241114131117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCreated a consolidated BOM by aggregating the cost cards, received from various co-manufacturers, through customized VBA-based automation by \napplying necessary transformations. Also, aggregated the contracts data (‘Ingredients’, ‘Tolling’, and ‘Packaging’) to create a single repository for reporting\n•\nCreated business rules to identify variance in BOM and associated COGS at an SKU-level, beyond the defined threshold limit. Additionally, compared the \ncost charged for ingredients, tolling, and packaging with the contract tracker to flag any potential discrepancies\n•\nBuilt an Excel-based centralized cost card tracker across co-manufacturers to track QoQ trends, ingredients wastage, contract compliance and flag any \npotential discrepancies so that the client can take necessary corrective actions\nSituation\n•\nClient outsources its manufacturing to multiple co-manufacturers and had limited visibility into SKU-level BOM, ingredients pricing, etc. There was an \nopportunity to create a centralized reporting and analysis of cost cards\n•\nPartnered with the client to analyze the quarterly cost cards, shared by the co-manufacturers, to identify revenue leakages by tracking the variance in BOM \nand associated COGS at an SKU-level and flag any potential discrepancies with respect to contract terms\nCost card analytics for a breakfast products provider\n3\nImpact\n•\nCentralized Company-level cost card reporting provided visibility into revenue leakages and enabled the team to take real-time corrective actions with the \nhelp of Centralized Company-level cost card reporting provided visibility into revenue leakages and enabled the team to take real-time corrective actions \nwith the help of triggers set up\n•\nReconciliation of contracts with the cost cards highlighted inconsistencies in ingredient costs and wastage (~2%) due to mismatch in contract price vs. the \ncost considered in the cost cards\n•\nAutomated consolidation and analysis of cost cards translated to ~75% reduction in person-hours that went into collating the data manually on a quarterly \nbasis\nCost Card Analysis\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131117+05'30'",
+            "modDate": "D:20241114131117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\nCustomized VBA-based automation to transform the \ncost card data by co-manufacturer to a standardized \ntemplate\nConsolidation of transformed cost cards to create a BOM \nas a single repository  \nIntegrated contract details and defined cost threshold \nfor each ingredient\nCreated an analytical report between BOM and \ncontract to identify cost reduction opportunities\nStep 1: Transformation of Cost Cards\nStep 2: Consolidation of BOM\nStep 3: Analyze contracts to track compliance\nStep 4: Analyzing the trends\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (140).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131117+05'30'",
+            "modDate": "D:20241114131117+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBom consolidation – Single repository for reporting\n5\nSKU#1\nCase Weight\n2.80\nNet Case Weight (lbs.)\n2.80\nIngredients\nItem ID\nDescription\n% of formula\nqty\num\n$/um\nFinal cost $\nID1\nIngredient 1\n19.86%\n0.5556 lbs.\n$1.95 \n$1.08 \nID2\nIngredient 2\n68.82%\n1.9247 lbs.\n$1.88 \n$3.61 \nID3\nIngredient 3\n11.32%\n0.3165 lbs.\n$42.65 \n$13.49\nPackaging\nItem ID\nDescription\nqty\num\nloss %\n$/um\nFinal Cost $\nID4\nBottle\n1\nea\n0%\n$1.66 \n$1.66 \nID5\nLids\n1\nea\n0%\n$0.14 \n$0.14 \nID6\nLabel\n1\nea\n0%\n$0.13 \n$0.13 \nItem ID Description\n% of formula\nqty\num\nloss (%)\n$/um\nFinal cost $\nIngredient type\nCase weight (lbs.)\nSKU ID\nID1\nIngredient 1\n19.86%\n0.5556\nlbs.\n$1.95\n$1.08 Ingredients\n2.80 SKU#1\nID2\nIngredient 2\n68.82%\n1.9247\nlbs.\n$1.88\n$3.62 Ingredients\n2.80 SKU#1\nID3\nIngredient 3\n11.32%\n0.3165\nlbs.\n$42.65\n$13.50 Ingredients\n2.80 SKU#1\nID4\nBottle\n1\nea\n0%\n$1.66\n$1.66 Packaging\n2.80 SKU#1\nID5\nLids\n1\nea\n0%\n$0.14\n$0.14 Packaging\n2.80 SKU#1\nID6\nLabel\n1\nea\n0%\n$0.13\n$0.13 Packaging\n2.80 SKU#1\nCost card for individual SKUs and \nIngredients\nConsolidated cost cards into BOM\nILLUSTRATIVE\n"
+    }
+]

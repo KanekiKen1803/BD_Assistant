@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nImpact\nFinancial Planning and Analysis\nMedical Equipment \nCompany \nBuilt dashboards on Tableau to track the \nmonthly revenue generated and identify \naccounts receivable trends. Also, created a \nreconciliation report to ensure reports’ data \nmatches financial close data.\n▪Revenue Report\n▪AR Aging Report\n▪Financial Reconciliation \nReport\n▪Automated dashboards \nsaved 4 FTE bandwidth \nevery month\n1\nSUCCESS STORIES - SUMMARY\nIndustry\nSub-Industry\nDomain\nFunctional Area\nB2B/B2C\nHealthcare\nMedical Equipment\nFP&A\nFinancial Performance \nAnalysis\nB2C\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "Medical Equipment Company \n(Financial Planning and Analysis)\n▪Built dashboards on Tableau to track the monthly revenue generated and identify \naccounts receivable trends. Also, created a reconciliation report to ensure reports’ data \nmatches financial close data.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "FINANCIAL PLANNING AND ANALYSIS FOR A MEDICAL EQUIPMENT COMPANY\nSITUATION\n▪Client was facing issues with creating a YoY comparison of revenue by region and product category due to multiple acquisitions done by client which led \nto constant change in patient branches mapping, product categories, and operations regions. Also, client was facing issues in having an automated \nsystem to calculate their Account Receivables reports by Invoice Age for each payor every month\n▪Merilytics partnered with the client to develop a data pipeline for over 20 different branches. The branches get consolidated into one single database at \nthe end of every month, using snapshots. This mitigates the issue of changing branches.\n▪Consolidated data across 20 different business units using custom built SSIS models. The business units had different data sources and different \nmethodologies to recognize revenue, including multiple manual adjustments and calculate account receivables\n▪Designed a methodology to identify changes to the branch-region mapping at the end of every month to help reconcile the numbers against the \nBusiness entity level Financial statements.\n▪Built automated self-service financial dashboards on Tableau to track the Accounts Receivable (by age, region, entity  etc.) and to track the monthly \nrevenues by product categories and regions\nVALUE ADDITION\nIMPACT\n▪The Revenue by Region report helped the client to have real time reporting of revenue at a region and product category level. \n▪The single source of truth built for the monthly data helped the client identify poor performing regions and products. It also helped in establishing \nstrong data governance and driving higher accuracy across organization’s reports by identifying data gaps in automated database refreshes.\n▪The AR Aging report helped the client to have visibility into overall balance amounts across months and identify high risk regions/insurance in terms of \noutstanding amount. \n▪These automated dashboards saved 4 FTE bandwidth (that was going to create these reports manually) every month.\nABOUT THE CLIENT\nClient is a Durable Medical Equipment (DME) company based in the U.S. and operating in almost all the states\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE BY REGION\n4\nILLUSTRATIVE\nYoY trend and region-wise \nsplit for revenue. \nThe view helped the client \ntrack the YoY changes in \nrevenue share by region \nand identify high growth \nmarkets\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE BY PRODUCT\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "FINANCE STATUS SPLIT OF REVENUE\n6\nILLUSTRATIVE\nBreakdown of revenue by \nfinancial status and \nproduct category.\nThe view helps identify the \nproducts with high traction \nand the risk on non-\npayment or financial non-\ncompliance\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (364).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175744+05'30'",
+            "modDate": "D:20241114175744+05'30'",
+            "trapped": ""
+        },
+        "content": "FP&A REPORTING \n7\nILLUSTRATIVE\nAccounts Receivable by \ntheir age and payer type.\nThe report helps identify \nthe AR Aging for different \ntypes of Payers including \nPatients and Insurance \nagencies\n"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nUpdating PMS records using RPA\n1\nCreated customizable RPA bots to update transactional details and \npatient/insurance details of over 550K records through a browser-based Practice \nManagement System\nBehavioral healthcare company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBehavioral healthcare company needs to update PMS Records \nusing RPA\n2\nYour value is enhanced. \nYou have identified written-off receivables for ~450k records with ~95% success rate by deploying 10 robots running in \nparallel. You have updated patient and insurance details for ~350k records utilizing RPA processes running in 16 \nsystems in parallel. You have also helped in transferring over $45 million worth of pending payments to collections \nagency and saved ~35,000 FTE-hours annually. \nUPDATING PMS RECORDS USING RPA\nKEY RESULT   \n•\n~$45M worth of \nreceivables captured\n•\nSaved 35,000+ manhours\n•\n~95% success rate \nVALUE LEVERS PULLED\n•\nRobotic Process \nAutomation using \nUiPath\n2\nYou turn to Accordion. \nWe partner with your team to create customizable RPA bots to update transactional details and patient/insurance details of over \n550K records through a browser-based Practice Management System, including:\n1)\nIdentifying long overdue (over 120 days) outstanding patient balances for active and inactive buckets. \n2) Developing an RPA process using UiPath to write-off the records automatically on the PMS system so that the accounts \ncan be transferred to the collections agency.\n3) Creating an update log in the RPA process to track the progress and success rate of the write-offs.\n4) Developing an RPA process using UiPath to update patient and insurance details on the PMS system so that accurate \ninformation could be shared and utilized by the collection agency.\nPicture this…\nYou’re looking to update the Practice Management System (PMS) to write-off payments and update patient/insurance \ndetails for over 500K patients before sending to the collections agency.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIdentified long overdue (over 120 days) outstanding patient balances for active and inactive buckets \n•\nDeveloped an RPA process using UiPath to write-off the records automatically on the PMS system so that the accounts can be transferred to the collections \nagency\n•\nCreated an update log in the RPA process to track the progress and success rate of the write-offs\n•\nDeveloped an RPA process using UiPath to update patient and insurance details on the PMS system so that accurate information could be shared and \nutilized by the collection agency\nSituation\n•\nClient leverages a collections agency to follow-up on pending payments. However, the client needed to update its Practice Management System (PMS) to \nwrite-off payments and update patient/insurance details for over 500K patients before sending to the collections agency\n•\nPartnered with the client to build an automated process leveraging Robotic Process Automation (“RPA”) tools to write off long-standing overdue payments \nand update patient & insurance details on the PMS system \nUpdating PMS records using RPA for behavioral healthcare \nprovider\n3\nImpact\n•\nWritten-off receivables for ~450k records with ~95% success rate by deploying 10 robots running in parallel\n•\nUpdated patient and insurance details for ~350k records utilizing RPA processes running in 16 systems in parallel\n•\nHelped in transferring over $45 million worth of pending payments to collections agency and saved ~35,000 FTE-hours annually \nUpdating PMS Records using \nRPA\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOverview of solution approach\n4\nMajor Challenges\nTo update write-off payments and insurance details for a patient record on client’s Practice Management System, the team \nneeded to:\n• Navigate the website, read data, update data, and update a success log in the shortest possible time\n• Handle uncertain pop-up windows after clicking on patient name\n• Navigate to the patient information from a drop-down list\n• Click on the relevant row in website tabular data based on the values in other columns\n• Handle the errors for some patients with amounts different from input sheet\nSolution\n• Created an RPA code in UiPath and deployed 20 bots to run the workflow 24*7 with utilization of greater than 90%\n• Handled pop-up windows by deploying logic to close the pop-ups on case-to-case basis after every click\n• Changed logic to search for patient with a unique ID, resulting in only one name in drop-down list\n• Deployed dynamic variable selectors to navigate to the required row in website tabular data based on column values. \n• Deployed “try-catch” logic for error handling in case of mismatched amounts\n• Configured SharePoint connection to regularly track the process status. \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProcess infrastructure to update PMS records\n5\nData Source\nProcess Infrastructure\nExcel Files stored at SharePoint\n•\nContains Patient & Insurance Balance Data\nn times\nUiPath \nProcess\nUiPath \nProcess\nUiPath \nProcess\nMethodology\nProcess Flow\n•\nMultiple UiPath VMs were configured to run RPA \nprocess parallelly. They were triggered \nautomatically using cloud-based Orchestrator to \nupdate AMD portal.\n•\nEach VM would use a UiPath enterprise version \nlicense and would run a UiPath process upon \ntriggered\n•\nEach RPA process would update AMD based on \ninput coming from excel file stored at SharePoint \ncontaining patient and insurance balance data\nTools Required\n•\nAzure VMs was required to run RPA process to \noperate ~20K records per week\n•\nUiPath Enterprise license was used to run the \nprocesses\nAutomatic \nOrchestration\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPayment write-off workflow in PMS \n6\nLogin into PMS \nPortal\nClick OK and repeat \nthe process from \nstep-3\n4\n5\n7\n8\n9\n10\nCopy patient chart number \nfrom Excel worklist\nPaste chart number in \npatient search box\nCopy Visit number from \nexcel sheet and paste in visit \nsearch box\nEnter Write-off code\nSelect patient/insurance \nwrite-off from dropdown\nRead the data table to get \ndetails like required write-off \namounts for each service\nClick and enter the required \namount in write-off column \nfor all charges under that \nvisit\n2\nStart a new batch by \nclicking batch entry icon\nClick on \nTransactional Entry \nicon from menu bar\n3\n6\nClick on Write-off button\n11\nWorkflow>>\nWorkflow>>\n1\n12\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (154).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132828+05'30'",
+            "modDate": "D:20241114132828+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDaily process status emails\n7\nDaily status email generated \nthrough automated process\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "WEEKLY CASHFLOW FORECAST MODELLING FOR MEDICAL EQUIPMENT COMPANY\nSITUATION\n▪Client lacked timely visibility into the cash flows of the company due to lack of common and organized reporting and data systems. With businesses \nacross several countries, the client wanted consistency in reporting of actual and forecasted cash flows\n▪Merilytics partnered with the client to build a Cash flow model by restructuring and organizing the reporting across its entities. Also, created Excel \ndashboards that can be refreshed weekly to report and track actuals and forecast the cash flows across the company\n▪\nThe cash flow model provides a 78-week weekly and monthly cash outlook for each individual entity as well as a consolidated view for the entire \ncompany\n▪\nCreated bank activity helper files which consolidates actual bank transactions from multiple banks for each entity and provides output of actuals in the \nrequired format by automatically mapping all the bank transactions to the line items in the cash flow (by using keywords and descriptions)\n▪\nDeveloped a mechanism to track and compare Actuals vs. Forecast and Forecast vs. Forecast for different periods\n▪\nPrepared a model to analyze forecast accuracy by identifying consistently under or over forecasted line items which would help the client to improve \nthe accuracy of the forecasts by changing the methodology/forecast assumptions if needed\n▪\nModelled an analysis of Intercompany flow variance to reconcile intercompany outflows and inflows\nVALUE ADDITION\nIMPACT\n▪The Cash Flow model helped the client to closely track and assess the cash position of its different entities which in turn helped them in managing their \nshort-term liquidity planning\n▪The standardized reporting in the model enhanced the ability of the client to identify inaccuracies in reporting and providing valuable insights to improve \nthe future forecasts over a period of time. \n▪The model improved reporting consistency which reduced intercompany flow variance by ~ $ 6 M. It is also estimated that the model reduced time and \neffort required for consolidation by ~50-60%\nABOUT THE CLIENT\nA global medical device company that develops, manufactures, and sells orthopedic implant equipment and related surgical instruments for joint replacement\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA SOURCES\nCHALLENGES\nVALUE-ADD\n▪Bank Statements provide actual \nweekly cash activities for US\n▪Weekly Cash Projections provide \nforecast figures for current year for US\n▪Transmission files provide actual cash \nactivities and forecasts for the current \nyear for global entities\n▪International Exchange Rates file to \nuse the same conversion rates that are \nbeing used for other financial reporting\n▪Inconsistency in Financial Reporting \nprocess across the entities\n▪Global entities dealing in multiple \ncurrencies owing to company’s global \npresence\n▪Multiplicity in data sources acting as a \nbarrier in pulling data into the model\n▪Format of bank activity transactions \nwere inconsistent across entities\n▪Categorizing bank activity transactions \nas per the model by looking for various \nkeywords and descriptions\n▪Standardization of mapping in bank \nactivity helper file impacts the derived \ncash flow actuals in the model\n▪Streamlined the reporting process by \nproducing common cashflow lines for all \nthe entities\n▪Created a Currency Conversion Matrix to \ntransform all currencies in operations into \nUSD for consolidation and ease of \ninterpretation\n▪Build Bank Activity Helper Files to \nautomate the mapping of bank \ntransactions into cashflow lines\n▪Created Manual Adjustment section to \nadjust for the standardization of mapping \nin bank activity\n▪Build analysis of Actuals Vs Forecasts, \nForecasts Vs Forecasts, Forecasting \nAccuracy to improve forecasts\n▪Intercompany Flow Variance to reconcile \nintercompany inflows and outflows\n▪Provided added flexibility into the model \nby including dummy line items for the \nfuture \nMETHODOLOGY/ APPROACH\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "Select Week's Starting Date\nWeek 1\nActual\nActual\nActual\nActual\nActual\nActual\nESP\nBeginning Cash\n$1,099,535\n$991,766\n$1,049,554\n$711,023\n$120,456\n$529,390\nESP\nESP\nReceivables - Domestic\n-\n-\n-\n-\n-\n-\nESP\nReceivables - International\n$ 222,123\n$ 254,158\n$ 239,248\n$ 283,549\n$ 216,011\n$ 417,017\nESP\nOther Receipts\n-\n-\n-\n-\n$ 150,000\n-\nESP\nTotal Cash Receipts -   \n$ 222,123\n$ 254,158\n$ 239,248\n$ 283,549\n$ 366,011\n$ 417,017\nESP\nESP\nEntity - Deutschland\n-\n-\n-\n-\n-\n-\nESP\nEntity - Austria\n-\n-\n-\n-\n-\n-\nESP\nEntity - Italy\n-\n-\n-\n-\n-\n-\nESP\nTotal Cash Receipts -   \n-\n-\n-\n-\n$ 150,000\n-\nESP\nESP\nCheck Registers\n$ 256,754\n$ 116,253\n$ 466,868\n$ 107,891\n$ 50,838\n$ 430,281\nESP\nPcard Funding\n-\n-\n-\n-\n-\n-\nESP\nPayroll & Taxes\n-\n-\n$ 1,047\n$ 482,574\n-\n$ 92,613\nESP\nComm/Royalty\n$ 73,138\n$ 58,487\n$ 31,528\n$ 179,087\n$ 56,239\n$ 37,332\nESP\nEIO Payments\n-\n-\n-\n-\n-\n-\nESP\nTotal Cash Disbursements -  \n$ 329,892\n$ 174,740\n$ 577,780\n$ 871,240\n$ 107,077\n$ 560,226\nESP\nESP\nOther - Korea\n-\n-\n-\n-\n-\n-\nESP\nOther Intercompany Disbursements\n-\n-\n-\n-\n-\n-\nESP\nTotal Cash Disbursements -  \n-\n-\n-\n-\n-\n-\nESP\nESP\nLoan Interest/Principal\n-\n$ 21,630\n-\n$ 2,876\n-\n-\nESP\nPrincipal Payments In\n-\n-\n-\n-\n-\n-\nESP\nPrincipal Payments Out\n-\n-\n-\n-\n-\n-\nESP\nOther Financing\n-\n-\n-\n-\n-\n-\nESP\nTotal Change in Financing Activity\n-\n$(21,630)\n-\n$(2,876)\n-\n-\nESP\nNet Change in Cash\n$(107,769)\n$ 57,788\n$(338,532)\n$(590,567)\n$ 408,934\n$(143,209)\nBeginning Cash\nInflows\nCash Receipts -   \nIntercom\npany\nCash Receipts -   \nOutflows\nCash Disbursements -  \nIntercompany\nCash Disbursements -  \nFinancing\nNet Cash\nEXHIBIT #1 : CASH FLOW SUMARRY AT ENTITY LEVEL\n52-week Forecast and Actuals till \nprevious week\nAll major line items impacting \nBeginning and Ending Cash Balances\nILLUSTRATIVE\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "Select Week's Starting Date\nWeek 1\nActual\nActual\nActual\nForecast\nForecast\nForecast\nUS\n$ 15,336,037\n$ 10,549,663\n$ 24,668,114\n$ 20,985,234\n$ 5,132,288\n$ 3,715,878\nGlobal\n$ 789,544\n$ 2,075,285\n$ 179,059\n$ 2,277,221\n$ 1,633,409\n$ 6,878,232\nConsolidated\n$ 16,125,581\n$ 12,624,948\n$ 24,847,172\n$ 23,262,456\n$ 6,765,697\n$ 10,594,110\nCash Receipts\nReceivables - Domestic\n$ 3,066,025\n$ 4,040,783\n$ 3,689,419\n$ 3,588,257\n$ 3,457,283\n$ 2,639,721\nReceivables - International\n$ 20,824\n$ 4,820\n-\n$ 101,506\n$ 72,766\n$ 19,909\nOther Receipts\n$ 32,275\n$ 308\n$ 3,456,325\n-\n-\n-\nTotal Cash Receipts\n$ 3,119,123\n$ 4,045,911\n$ 7,145,744\n$ 3,689,763\n$ 3,530,050\n$ 2,659,629\nCash Receipts\nReceivables - Domestic\n$ 3,660\n$ 35,135\n$ 18,638\n$ 11,292\n$ 7,565\n$ 75,835\nReceivables - International\n$ 588,692\n$ 1,444,857\n$ 1,003,572\n$ 781,134\n$ 533,628\n$ 582,510\nOther Receipts\n$ 36,867\n-\n$ 15,871\n-\n-\n$ 3,745\nTotal Cash Receipts\n$ 629,219\n$ 1,479,993\n$ 1,038,080\n$ 792,426\n$ 541,194\n$ 662,091\nConsolidated\nInflows\nCash Receipts\nTotal Cash Receipts (US+Global)\n$ 3,748,342\n$ 5,525,904\n$ 8,183,824\n$ 4,482,189\n$ 4,071,243\n$ 3,321,720\nCash Receipts \nEntity - Deutschland\n$ 3,296,457\n$ 1,607,299\n$ 2,894,328\n$ 3,226,321\n$ 429,946\n$ 2,420,159\nEntity - Austria\n$ 33,494\n$ 6,271\n$ 173,421\n$ 19,968\n$ 943\n$ 15,798\nEntity - Italy\n-\n-\n-\n$ 149\n-\n-\nTotal Cash Receipts\n$ 3,329,952\n$ 1,613,570\n$ 3,067,750\n$ 3,246,437\n$ 430,889\n$ 2,435,957\nCash Receipts \nEntity - Deutschland\n-\n$ 297,901\n-\n-\n-\n$ 228,295\nEntity - Austria\n$ 2,038,376\n$ 1,250,061\n$ 207,945\n$ 915,892\n$ 913,522\n$ 2,655,189\nEntity - Italy\n$ 4,985\n$ 21\n$ 11,180\n-\n$ 71,484\n$ 29\nTotal Cash Receipts\n$ 2,043,361\n$ 1,547,983\n$ 219,125\n$ 915,892\n$ 985,005\n$ 2,883,513\nConsolidated\nInflows\nCash Receipts \nTotal Cash Receipts (US+Global)\n$ 5,373,312\n$ 3,161,552\n$ 3,286,874\n$ 4,162,329\n$ 1,415,894\n$ 5,319,470\nUS\nIntercom\npany\nCash Receipts \nGlobal\nBeginning Cash\nBeginning Cash\nUS\nInflows\nCash Receipts\nGlobal\nEXHIBIT #2 : CASHFLOW SUMMARY AT COMPANY LEVEL\nConsolidated 78-week Forecast \nand Actuals till previous week\nILLUSTRATIVE\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "Week 1\nForecast as of Week 2 >>\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n Week 1 \n Week 2 \n Week 3 \n Week 4 \n Week 5 \nActuals/New Forecast\n24,898,342\n$            \n20,663,577\n$            \n21,228,304\n$            \n22,897,720\n$            \n24,582,107\n$            \nOld Forecast\n24,898,342\n$            \n19,587,969\n$            \n18,230,048\n$            \n18,553,997\n$            \n19,703,151\n$            \nVariance\n-\n$                       \n1,075,608\n$             \n2,998,256\n$             \n4,343,723\n$             \n4,878,956\n$             \nCash Receipts - PNC\nActuals/New Forecast\n2,287,652\n$             \n3,293,975\n$             \n17,934,768\n$            \n16,115,539\n$            \n31,672,314\n$            \nOld Forecast\n2,307,477\n$             \n3,293,975\n$             \n17,934,768\n$            \n16,115,539\n$            \n31,672,314\n$            \nVariance\n(19,825)\n$                 \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n6,235\n$                    \n80,000\n$                  \n80,000\n$                  \n80,000\n$                  \n80,000\n$                  \nOld Forecast\n4,570\n$                    \n80,000\n$                  \n80,000\n$                  \n80,000\n$                  \n80,000\n$                  \nVariance\n1,665\n$                    \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n9,856\n$                    \n16,785\n$                  \n23,799\n$                  \n21,185\n$                  \n23,334\n$                  \nOld Forecast\n7,800\n$                    \n16,785\n$                  \n23,799\n$                  \n21,185\n$                  \n23,334\n$                  \nVariance\n2,056\n$                    \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n2,303,743\n$             \n3,390,760\n$             \n18,038,567\n$            \n16,216,724\n$            \n31,775,648\n$            \nOld Forecast\n2,319,847\n$             \n3,390,760\n$             \n18,038,567\n$            \n16,216,724\n$            \n31,775,648\n$            \nVariance\n(16,104)\n$                 \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nCash Receipts - PNC\nActuals/New Forecast\n200,000\n$                \n-\n$                       \n-\n$                       \n-\n$                       \nOld Forecast\n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nVariance\n200,000\n$                \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n-\n$                       \n300,000\n$                \n-\n$                       \n250,000\n$                \n-\n$                       \nOld Forecast\n-\n$                       \n300,000\n$                \n-\n$                       \n250,000\n$                \n-\n$                       \nVariance\n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n-\n$                       \n265,000\n$                \n-\n$                       \n-\n$                       \nOld Forecast\n300,000\n$                \n-\n$                       \n265,000\n$                \n-\n$                       \n-\n$                       \nVariance\n(300,000)\n$               \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nActuals/New Forecast\n200,000\n$                \n300,000\n$                \n265,000\n$                \n250,000\n$                \n-\n$                       \nOld Forecast\n300,000\n$                \n300,000\n$                \n265,000\n$                \n250,000\n$                \n-\n$                       \nVariance\n(100,000)\n$               \n-\n$                       \n-\n$                       \n-\n$                       \n-\n$                       \nSelect Week's Starting Date\nTotal Cash Receipts - PNC\nEntity Japan\nEntity Australia\nExactech Korea\nTotal Cash Receipts - PNC\nIntercompany\nCash Receipts - PNC\nReceivables - International\nOther Receipts\nActuals as of Week 2 >>\nForecast as of Week 1 >>\nBeginning Cash\nBeginning Cash\nInflows\nCash Receipts - PNC\nReceivables - Domestic\nEXHIBIT #3: ACTUAL VS FORECAST WoW COMPARISON\nConsolidated 78-week old Forecast \nand Actuals/New Forecast\nILLUSTRATIVE\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #4: CASH FLOW FORECAST ACCURACY MODEL\nTracking Signal over 4 Weeks of \nperiod (Actuals Vs Forecast)\nNote :-\n•Tracking Signal - It indicates the degree and direction of forecasting . Positive value indicates under forecasting and Negative value indicates over forecasting . The higher the value,higher is the degree of under or over fo\n•Mean Absolute Percentage Error (MAPE) - It indicates the extent of the forecasting error with respect to actuals in % terms and is calculated as the mean of the % errors for a given period.\n•Mean Absolute Deviation (MAD) - It indicates the average absolute deviation of actuals and forecast for a given period .\n•Absolute Deviation - It Indicates the magnitude of the deviation between actuals and forecast in absolute terms and is an indicator of the importance that can be assigned to the deviation for a given line item .\n•This sheet provides summary level view of Actuals Vs Forecast for different metrices- Absolute Deviation,MAD,MAPE & Tracking Signal for 4-week, 8 week and 12 week period.It is calculated for one selection of forecast \nWeek 1\n0\nAbsolute Deviation\nMAD\nTracking Signal\nForecast Direction\nMAPE\nTracking Signal\nInflows\nCash Receipts - PNC\nTotal Cash Receipts - PNC\n3,272,029\n$                   \n903,007\n$       \n3.21 Under Forecasting\n16%\n7.23\nIntercompany\nCash Receipts - PNC\nTotal Cash Receipts - PNC\n1,005,000\n$                   \n168,750\n$       \n-1.76 Over Forecasting\n76%\n0.32\nOutflows\nCash Disbursements - BBVA\nTotal Cash Disbursements - BBVA\n6,417,733\n$                   \n1,104,433\n$     \n0.86 Under Forecasting\n38%\n-1.36\nIntercompany\nCash Disbursements - BBVA\nTotal Cash Disbursements - BBVA\n200,000\n$                      \n45,000\n$         \n-3.80 Over Forecasting\n31%\n-7.45\nTotal Change in Financing Activity\n449,195\n$                      \n84,299\n$         \n-0.76 Over Forecasting\n49%\n2.32\nWeek start date \nForecast Accuracy across Time Periods\nFinancing\nNext 4 Weeks from Week 1\nNext 8 Weeks from Week 1\nForecast date as of T-0 week\nClick to drill \nClick to see top line items\nILLUSTRATIVE\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (371).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180654+05'30'",
+            "modDate": "D:20241114180654+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n7\n▪Understood the processes of building a Cash Flow model by Direct Method, the complexities it has when dealing with a client with global presence and \nthe various line items that goes into such a model\n▪Learned on consolidating bank transactions for different countries and mapping these transactions to the line items in the cash flow model\n▪Expanded the knowledge of Storage model in excel by building variance analysis of Forecast Vs Forecast view from the stored data\n"
+    }
+]

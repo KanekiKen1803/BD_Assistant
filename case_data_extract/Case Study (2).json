@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142548+05'30'",
+            "modDate": "D:20241114142548+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped a Supply Planning model by evaluating the manufacturing \nprocesses, accounting for production capacity and bottlenecks, and \nrecommend the production/supply schedule to meet future demand with \ngreater accuracy\nPet Food Manufacturer\n(Supply Planning )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142548+05'30'",
+            "modDate": "D:20241114142548+05'30'",
+            "trapped": ""
+        },
+        "content": "SUPPLY PLANNING FOR PE-OWNED PET FOOD MANUFACTURER\nSITUATION\n▪\nRecently implemented ERP system was not a good fit for the company’s business processes. Hence, the purchase orders generated from the system \nwere not optimal, leading to frequent stock outs and low service levels\n▪\nMerilytics  partnered with the company to develop a supply planning model by evaluating the manufacturing processes, accounting for production \ncapacity and bottlenecks, and recommend the production/supply schedule to meet future demand with greater accuracy.\n▪\nAnalyzed in-house manufacturing processes (grinding, bagging and extrusion) and identified production bottlenecks to estimate required production \nhours and plan production at manufacturers effectively\n▪\nEstimated optimum order quantity to meet forecasted demand taking into account minimum order quantity (MOQ) constraints, vendor delivery lead \ntimes, safety stock inputs and plant efficiencies\n▪\nProvided flexibility to overlay production and order quantity by week based on in-house and vendor capacity constraints and inventory levels\nVALUE ADDITION\nIMPACT\n▪Our comprehensive Supply model positively impacted their supply planning performance in allowing the planner to factor in the constraints during the \nplanning process and identifying key drivers of variation in inventory and production, to generate POs for optimum inventory and service levels\nABOUT THE CLIENT\nCompany is a PE-owned pet food manufacturer based in the U.S.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142548+05'30'",
+            "modDate": "D:20241114142548+05'30'",
+            "trapped": ""
+        },
+        "content": "OVERVIEW OF THE SUPPLY PLANNING CYCLE\nInput Data\nCalculations\nOutputs\nEnding Inventory by \nWeek\nForecasted demand by \nweek\nBeginning Inventory\nSafety Stock Input (in \nWOS)\nQuantity Needed by \nweek\nInitial Order Quantity \nby week\nDelivery Lead Time \nInput by Manufacturer\nMinimum Order \nQuantity (MOQ) Input\nOverlay Production \ntime/capacity constraints\nProduction Parameters \nand Plant Efficiency\nFinal Order Quantity by \nweek\nOrder Receipts by \nWeek\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142548+05'30'",
+            "modDate": "D:20241114142548+05'30'",
+            "trapped": ""
+        },
+        "content": "INPUT PRODUCTION PARAMETERS AND OVERLAY PRODUCTION\nSummarize Production hours by \nweek and flexibility to overlay \nproduction based on plant capacity \nfor in-house production\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (2).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142548+05'30'",
+            "modDate": "D:20241114142548+05'30'",
+            "trapped": ""
+        },
+        "content": "MANAGE ORDER QUANTITY FOR CO-PACK MANUFACTURERS\nSummarize Inventory position at \nvarious stages and overlay order \nquantity at a SKU level for co-pack \nmanufacturers based on capacity \nconstraints\n5\n"
+    }
+]

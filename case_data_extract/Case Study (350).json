@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevenue Cycle Management\n1\nIntegrated and analyzed data, including 835 data across various systems at \ndifferent stages of the Revenue Cycle to provide transparency to identify potential \nrevenue leakage, leading to an efficient RCM process\nBehavioural Healthcare Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated data across various systems which includes remittance data (835 data), billing data from claim management software such as \nEdgeMED and Allscripts, concurrent review/authorization data from Salesforce and EMR systems, Billing logs (Excel files with patient stay \ndetails)\n•\nAnalyzed the 835 data along with authorization and patient stay details to identify systemic issues in the claim's submissions and key drivers \nfor claim denials. Proposed suitable actions to bridge the process gaps at various stages of the revenue cycle management process\n•\nDeveloped and automated reporting infrastructure using Power BI to track Revenue Cycle (e.g., census, billings, authorizations, collections, \ndenials & AR) on near real-time basis\nSituation\n•\nClient lacked transparency into various processes in the Revenue Cycle leading to inefficiencies and potential revenue leakages\n•\nMerilytics partnered with the client to integrate data across various sources and provide real-time visibility into all aspects of the revenue \ncycle leading to an efficient RCM process\n2\nImpact\n•\nImprovement in Collections rate from both patients and insurers due to real-time visibility into top payers with pending balance. This helped the \nteam to follow-up with the insurers on the outstanding collections\n•\nAuthorization rate increased by 20% and Resubmission rate decreased by 15%\n•\nIn addition, the increased transparency enabled the client to better identify risks such as claims approaching timely filing limits leading to a more \nproactive approach to Revenue Cycle Management\nStreamlining Revenue Cycle Management (RCM) Processes\nRevenue Cycle Management\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nValue Addition Across the Revenue Cycle\n3\nPatient Admission\nAt the admissions stage, \nthere is a need to ascertain \npayment and collect \npatient responsibility\n•\nVerification of insurance \ncoverage / benefits / \ncopay\n•\nPatient credit check and \npre-admission payment\n•\nPatient financial \nresponsibility tracking \nanalysis to ensure that the \nfacilities were collecting \nthe required amounts from \npatients\n•\nCensus trend analysis to \ntrack census, length of \nstay and other KPIs\nAuthorization\nAuthorization is essential to \navoid claim denial during \nbilling stages from payors\n•\nObtain authorization at \nregular intervals from \npayor for treatment plan\n•\nPrepare documentation as \nproof of medical necessity\n•\nBuilt a daily authorization \ntracker to identify \nauthorization status for \nall patients by facility and \npayor. This enabled the \nUtilization Review (UR) \nteam to identify and fix \npending authorizations.\n•\nAnalyzed Electronic \nMedical Records (EMR) \nto identify the correlation \nbetween EMR text and \nauthorization denials. A \ntraining program is using \nour findings to better \ntrain clinicians to \ndecrease denials.\nClaims Submission\nSubmit claims to payors \nwith all required details\n•\nTimely submission of \nclaims to payor\n•\nFollow up and provide \nadditional \ndocumentation as \nneeded\n•\nReconciled claims \nsubmissions data from \nclient’s third-party billing \nvendor to identify claims \nwhich have not been \nsubmitted\n•\nPrioritized claims based \non timely submission \nlimits to minimize revenue \nloss\nClaims Management\nTrack and action upon claim \nrejections\n•\nAnalyze the reasons \nbehind the rejection\n•\nResubmit rejected claims \nafter fixing issues\n•\nAnalyze and mitigate \nprocess gaps in claim \ndocumentation \n•\nAnalyzed the 835 data to \nidentify the claims with \nthe pending balance and \nprovided visibility into \ntop payers with \noutstanding collections\n•\nTracked the denied \nclaims (using 835 data) \nto make the claims \nmanagement process \nmore efficient\n•\nTracked Medical Record \nRequests (MRR) and \nAppeals by facility, \npayor, etc.\nAccounts Receivables \nManagement\nCollect pending claims\n•\nFollow-up with insurer for \nreimbursement for claims\n•\nFollow-up with patient for \noutstanding payment \ncollections\n•\nTracked payments \nreceived from payor and \nbenchmark them with the \nbaseline rates to track \ncollection efficiency\n•\nTrack performance of \ncollection process and \nidentify the key systemic \nissues in claim \n \nreimbursements of the bills \nsubmitted to payor\n•\nClassified the claims in \naging segments (based on \nthe number of days the bill \nhas been pending) to \nfollow-up with insurers for \nreimbursement\nMERILYTICS VALUE ADDITION \nRCM PROCESS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProcess Flow\n4\n• Set up database links to various \ndata sources\n–\nCollections software \n(Edgemed) used by 3rd party \ncollection agency, with status \nof all the pending claims\n–\nSalesforce with all patient \ndetails including copay/self-\npay payments\n–\nIn Network insurance \ncontractual rates to estimate \nNet Revenue\n–\nBilling logs from facilities\nSetting up Raw data\nNotes mapping\n• Classification of claims based \non the status notes written by \nthird party collection agency\n• Based on the above mapping, \ncreated an automated \nworkflow to classify claims \nusing denial codes\nCashflow forecasting \n• Forecast expected Net \nRevenue by calculating ‘Gross \nto Net%’ at a payor, facility \nand level of care combination\n• Included timeline impact of \ncash flow because of claim \ndelays based on classification \n• Estimated Bad Debt % based \non settled bills at a payor, \nfacility and level of care \ncombination and included the \nresults in cash flow \nforecasting\nWorkflow management\nPower BI Dashboard\n• Provided a snapshot of the \ncollection process with the help \nof KPIs such as #Avg days to \npayment, etc.\n• Provided visibility into the top \nsystemic issues by \nfacility/payor level that needs \nimmediate attention\n• Created a process workflow to \nidentify the denied claims using \nthe 835 data for re-submitting \nclaims and following up on the \npending claims with \noutstanding collections\n• Also, automated the process to \nidentify the systemic issues at \nthe facility/payor level in claim \nreimbursement and key drivers \nfor claim denials\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM Power BI Dashboards (1/2)\n5\n•\nThis dashboard provides much needed transparency into the revenue collection \nprocess for the leadership team which accounts for every dollar of gross charges and \nbreaks out the gross revenue at various stages of revenue cycle\n•\nThis dashboard summarizes the collection details and breaks out the systemic issues \nin the collection process\n•\nProvides visibility into the top collection issues as a share of the total expected \namount for the leadership team\nRevenue recovery cycle\nCollection process efficiency\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (350).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174029+05'30'",
+            "modDate": "D:20241114174029+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM Power BI Dashboards (2/2)\n6\n•\nCollection Efficiency is the actual amount collected as a share of the \ncontractual/baseline rate\n•\nThis dashboard provides the visibility into the Collection Efficiency by Payor/Insurer \ntype, authorization status, facility and financial class\n•\nCompares the patient collections for the patients discharged in the latest week with \nthe previous week\n•\nThis share of patient collections as a ratio of total outstanding amount is \nbenchmarked against the company standards\nCollection efficiency\nWeekly patient collections\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134322+05'30'",
+            "modDate": "D:20241114134322+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMaster Data Management\n1\nLuxury Jewelry Firm \nAnalyzed the current ERP system (Microsoft Navision) and data fields across \nmultiple instances to identify the redundancies & inconsistencies and created a \ncentralized data architecture (Master Data design) in alignment with all business \nprocesses \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134322+05'30'",
+            "modDate": "D:20241114134322+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nMerilytics accessed and analyzed the current ERP system (Microsoft Navision) and data fields across multiple instances, to understand business processes and \ninter-dependencies of various modules\n•\nDeveloped a “from-to” map of the ERP data modules and fields based on the business processes, current product portfolio and reporting requirements of the \ncompany\n•\nCleansed the data values in the fields to account for redundancies, obsolete values and errors\n•\nDetailed the current and future state of the Master data in various ERP instances and developed migration documents for IT implementation\nSituation\n•\nCompany has multiple ERP instances across geographies to handle operational, marketing and sales processes\n•\nData captured in the ERP was redundant and inconsistent due to lack of data governance framework and incorrect data fields \n•\nMerilytics defined a centralized data architecture (Master Data design) in alignment with all business processes and future growth of the company\nMaster Data Redesign a PE-owned Leading Luxury \nJewelry Company\n2\nImpact\n•\nRevised Master Data design across all ERP instances in the company led to accurate data capture and reporting\n•\nStreamlined business processes due to clean linkages of data across various departments with clear ownership of the fields\nMaster Data Management\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134322+05'30'",
+            "modDate": "D:20241114134322+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nReviewed Data Design, Hierarchies and Values Across \nMaster Data Modules\n3\nCustomer\nAttributes\nProduct\nAttributes\nVendor/BOM\nAttributes\nManufacturin\ng\nAttributes\nMerchandizi\nng\nAttributes\nMaster Data \nModules\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134322+05'30'",
+            "modDate": "D:20241114134322+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAssessed Fields in Each Master Data Module to Retain, \nModify, Delete or Add\n4\nField Name\nDescription\nComments/ Issues\nRecommendation\nProduct Classification\nCode for metal type\nDrop down list is not \nMECE\nDelete (replace with \nhierarchical fields)\nProduct ID\nProminent material \ncombinations to \nchoose from\nDrop down list is not \nexhaustive\nDelete (replace with \nhierarchical fields)\nSub Product ID\nType of product and \nmaterial used\nDrop down list has no \ntheme\nDelete (replace with \nhierarchical fields)\nProduct Material\nCode for prominent \nmaterial type\nDrop down list is large\nDelete (replace with \nhierarchical fields)\nProduct metal\nMetal with the \nhighest share in the \ncomposition\nDrop down list should \nhave more detail\nModify – drop down \nlist of additional detail \nin material\nProduct color\nColor of the item\nDrop down list \ncontains options that \nare not required\nModify – drop down \nlist should contain list \nof relevant values\nOther material 1\nAny other material \nthat is present\nNew\nAdd\nOther material 2\nAny other material \nthat is present in \naddition\nNew\nAdd\nSolution\n•\nMove to a hierarchical structure \n•\nEnsure all values are captured\n•\nMake the drop-downs comprehensive\n•\nRemove redundant fields which can be \nobtained as a combination of individual fields\nDeleted\nModified\nRetained\nNew\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (166).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134322+05'30'",
+            "modDate": "D:20241114134322+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCreated “Before” and “After” Comparisons and \nUpdated Hierarchies\n5\nMetal \nClassification ID\nSilver\nGold & Silver\nGold\nBronze\nNon-metal\nMaterial Category ID\nSilver & Diamond\nGold & Silver\nBatu\n<total 7 items>\nPLine ID\nSilvergold\nRosecut\n<total18 items>\nPrimary material ID\n925/18K/DI\nTitanium\n<total 420 items>\nColor of leather ID\nBrown\nOrange\n<total ~25 items>\nPredominant Metal\nNon-metal\nSilver\nGold\nBronze\nPredominant Material \nCategory \n(Metal/Non-Metal?)\nOther Material 1(2,3)\nGold\n18K gold\nLeather\nRosewood\n<total 40 items>\nFinishing ID\nEnamel Coating\n<total 6 items>\nPredominant \nMetal\nPredominant \nNon-metal\nSilver \nplated\n<total 30 \nitems>\nLeather\nCeramic \npolymer\n<total  ~15 \nitems>\nMaterial Category\n<Auto populated from above>\n18K White Gold & Sterling Silver\n<total 25 items>\nCurrent state – Fields and dropdown values\nFuture state – Fields and dropdown values\nItem color\nRed\nDiamond\n<total 25 items>\nItem color\nRed\nPink\n<total ~30 items>\n18K rose gold\nSterling silver\n12K white gold\n<total 12 items>\nDarkened silver\n"
+    }
+]

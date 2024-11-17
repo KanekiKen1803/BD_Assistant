@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEDW Implementation\n1\nDeveloped an Azure Data Warehouse to collectively strategize and execute with \nthe integration of all revenue streams\nAmerican Media Company for Video Distribution, Development, and Production\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a data warehouse to collectively strategize and execute with the integration of all revenue streams from various LoBs and platforms\n•\nDeveloped holistic reporting to elevate business strategies based on comprehensive visibility into revenue and profitability across platforms at an asset level\n•\nAutomation of data models to transform sales reports from various distributor\nSituation\n•\nThe client lacked one-stop visibility into the financial performance and profitability of their assets, as it was challenging to consolidate their diversified \nrevenue stream across various Lines of Business (LoBs), such as physical sales, Video-On-Demand (VOD), theatricals, etc. Additionally, the client’s \npresence across multiple platforms further complicated the reporting suite.\n•\nPartnered with the client to develop a scalable data warehouse that integrates revenue and acts as a centralized source of truth for holistic reporting.\nData warehouse (DW) implementation for an American \nmedia company\n2\nImpact\n•\nReduced the turnaround time by ~60% to evaluate the current performance, revenue & profitability, for individual assets and deals\n•\nReduced the turnaround time by ~50% for benchmarking the performance of deals against their pre-deal evaluation. \n•\nReduced ~75% FTE and addressed the possibility of manual errors by automating the processing of sales statements for the Physical sales channel\nEDW Implementation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse – High level diagram\n3\nProject Level\nRevenue\nData Visualization\nProject Level \nProfitability\nData Warehouse\nData Zones\nData Marts\nFinance\nStrategy & Digital\n      (Operations)\nDeals\nRAW\nCLEAN\nAGGREGAT\nE\nAs-is copy \nof source \ndata\nCleanse \nand \ntransform\nHarmonize \nand \naggregate\nTracking and storage of \nhistoric data and changes\nData Sources\nPartner Platforms\nKey Mapping\nFiles\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData lineage\n4\nILLUSTRATIVE\nData Storage / Processing   \nData Storage / Processing   \nOutput\nCore KPIs\nEST/VOD\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProject performance vs. Deal evaluation\n5\nMovie 1\nProjected deal \nevaluations\nActual \nperformance\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (236).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151245+05'30'",
+            "modDate": "D:20241114151245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHolistic reporting across revenue streams\n6\nConsolidated \nacross all \nrevenue streams\nILLUSTRATIVE\n"
+    }
+]

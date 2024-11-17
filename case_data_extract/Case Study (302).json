@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shashi Kamalapuram",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163834+05'30'",
+            "modDate": "D:20241114163834+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nImpact\nProperty Management System \n(PMS) Integration\nHospitality Company\nBuilt Data Lake and Data \nWarehouse infrastructure to \ninclude data from a Property \nManagement System into the \nexisting reporting suite\nData Management\n• Enabled revenue & business \non the books (BOTB) \nreporting for the new \nproperties being \nacquired/partnered by the \nclient\n• The client charges reporting \nfee from their partner \nproperties for having enabled \nthem with PowerBI reporting \nof their respective properties, \nthus generating additional \nrevenue\nSUCCESS STORIES - SUMMARY\nIndustry\nSub-Industry\nDomain\nFunctional Area\nB2B/B2C\nOthers\nOthers\nData Management\nData Infrastructure - \nDevelopment\nB2B & B2C\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shashi Kamalapuram",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163834+05'30'",
+            "modDate": "D:20241114163834+05'30'",
+            "trapped": ""
+        },
+        "content": "PMS DATA INTEGRATION FOR HOSPITALITY COMPANY\nSITUATION\n▪Client licensed a new PMS system for the upcoming set of properties being hosted by them. Existing Power BI reports were to be updated with the \ndata from the new PMS system to ensure undeterred visualization experience for the end-users\n▪Merilytics partnered with the client to build cloud ETL pipelines using Microsoft Azure and Power BI to facilitate data integration and reporting \nrespectively\n▪Designed and built a solution on Microsoft Azure to serve as a single platform that holds all the bookings related financial information\n▪PMS system posts data as messages through Webhook and these messages were intercepted by Azure Functions. The message (JSON file) was \nflattened and ingested into database.\n▪Developed a methodology to combine data from HotelKey (PMS System) with the pre-existing data from SkyTouch (PMS system) and consolidate \ninto a single structure to be shared for benchmarking. Benchmarking data was reloaded into the database for further processing and sharing with a \nthird-party aggregator\n▪Calculated key metrics such as revenue, length of stay, occupancy for current and future bookings and competitor occupancy, and deployed through \nPower BI reports, for easier tracking and monitoring\nVALUE ADDITION\nIMPACT\n▪Removed the manual step of sharing and receiving benchmarking data by automating the end-to-end process\n▪Setup of Power BI dashboards eliminated the need to export reports from POS portals and manually copy data daily across Excel files for building \nreports\n▪Provided insightful reports by merging the data from the new PMS systems with the existing systems thus enabling a unified reporting experience \nfor the end-users\nABOUT THE CLIENT\nClient is a hospitality company that provides short and long-term stays across multiple properties in the U.S.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shashi Kamalapuram",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163834+05'30'",
+            "modDate": "D:20241114163834+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\nStep-1: Retrieve data\nStep-2: Transform Data\nStep-3: Provide Reporting\n▪Ingested point in time reservation data \ninto the database as a one-time activity\n▪Captured live additions or modifications \nto the reservations on PMS from \nWebhook API\n▪Created history of changes to a \nreservation capturing the change and the \ntime of change\n▪Maintained the latest status of the \nreservation and provided information at \na point in time\n▪Retrieved reservation information for \neach point in time\n▪Calculated metrics such as Length of Stay \n(LOS), occupancy and revenue from \nbooking information\n▪Captures live data from bookings for the pre-\nexisting properties.\n▪Exported via a Webhook which pushes data to the \npipeline based on booking activity\n▪Ingested using Azure functions\nPMS 1\n▪Captures live data from bookings for the upcoming \nproperties.\n▪Exported via a Webhook which pushes data to the \npipeline based on booking activity\n▪Ingested using Azure functions\nPMS 2\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (302).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shashi Kamalapuram",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163834+05'30'",
+            "modDate": "D:20241114163834+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nData Sources\nData Storage & Processing\nData \nVisualization\n1\nUse Azure Function to capture data from \nwebhook API of PMS1\nStaging SQL \ndatabase\nAzure Functions\nPMS1 webhook API\nPower BI\nPMS1 historic \ndata\nAzure Data Factory\nAzure Functions\nAzure Data Lake \nStorage\n1\n3\n2\n7\n4\n5\n6\n2\nIngest historic PMS1 data in SFTP to Azure DB \nand data lake using ADF\n3\nUse Azure Function to capture data from \nwebhook API of PMS2\n4\nStore data from PMS1 in data lake, parse the \nJSONs and store the tabular data in Azure DB\n5\nStore historic data in SQL Server and the CSV \nfile in data lake\n6\nStore data from PMS2 in data lake, parse the \nJSONs and store the tabular data in Azure DB\n7\nTransform data on SQL Server and use on \nPower BI for reporting\n4\nAPPLICATION ARCHITECTURE\nA\nA\nData from both POS systems is cleansed, \ntransformed, mapped and standardized for \nfurther processing.\nPMS2 webhook API\n(Historic & Live Data)\n"
+    }
+]

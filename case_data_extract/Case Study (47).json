@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nProcurement Analysis\nDental care chain\n›\nBuilt search functionality on top of procurement system \nto identify best supplier and alternate products to \noptimize procurement spend\n›\nProvided visibility into purchase behavior by practice, \nand insights into potential cost savings\nProcurement Optimization, \nrecommendation Engine\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "PROCUREMENT OPTIMIZATION FOR A DENTAL CARE CHAIN\nSITUATION\n▪\nThe third-party procurement platform used by the client did not provide appropriate visibility into product suppliers leading to more \nexpensive procurement options being selected\n▪\nMerilytics partnered with the client to build an overlay on the procurement tool to clearly identify the best supplier and provide visibility \ninto product purchases\n▪\nBuilt a high-level procurement spend tracker to facilitate regular monitoring and tracking of spend by practices\n▪\nEstimated cost savings by switching supplier of suggested products to preferred supplier (or best supplier based on the list price)\n▪\nBuilt a handy and easy to use search platform for Products to enable the procurement team to identify the best supplier/product, with the \nfollowing features:\no\nDisplays best supplier for a product\no\nDisplays list of compatible products for searched product\no\nProvides an option to choose between branded and private label products\nVALUE ADDITION\nIMPACT\n▪\nEnabled the client to identify the best supplier based on product requirements\n▪\nEnabled the client to generate automated reports for cost savings at various cuts to provide visibility to the regional teams\n▪\nProjected annual savings of CAD $2.6M on a total spend of CAD $29.5M ( ~ 9% ) based on historical purchases\nABOUT THE CLIENT\nClient is a rapidly expanding network of dental clinics in North America\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH / METHODOLOGY FOR PROJECT DELIVERY\n3\nData clean-up\n▪\nCheck Product spend information\n▪\nIdentify and resolve data issues\n▪\nMap products across suppliers using combination of \nvarious product parameters\n▪\nSet-up database for future mappings\n▪\nOrganize spend at high-level across product categories\n▪\nCalculate product level spend at practice level\nMap products across suppliers\nAnalyze spend\n01\n02\n03\nBuild Product Search Platform on Tableau\n3.1\nEstimate Cost Savings\n3.2\n▪\nSearch Engine that shows the best supplier corresponding to \na product\n▪\nProvides options for alternate products for optimizing spend\n▪\nProjected savings based on best supplier for each product by \ncategory and clinic level\n▪\nProjecting savings by switching all purchases to a single \nsupplier\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "PRODUCT SEARCH OVERLAY BUILT ON TABLEAU\n4\nCompatible Products\nBest Supplier for \nselected Product\nProduct search box\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "EFFECTIVE SUPPLIER COMPARISON FOR SIMILAR PRODUCTS\n5\nILLUSTRATIVE\nSupplier Selection\nFive different suppliers can \nbe selected to show \nestimated savings\nProduct Information\nClinic Filters\nOptional Product Filter\nOption is provided to filter list of \nproducts as per requirement\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (47).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191757+05'30'",
+            "modDate": "D:20241114191757+05'30'",
+            "trapped": ""
+        },
+        "content": "PROVIDED SAVINGS ESTIMATES BASED ON NEW SUPPLIER CHOICE\n6\nILLUSTRATIVE\nProduct Information\nClinic Filters\nTime Period selection\nSupplier with Best Savings\nSupplier with Best savings is \nselected for each product where \nsavings are possible \n"
+    }
+]

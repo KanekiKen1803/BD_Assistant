@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nBI reporting and infrastructure projects for PE \nclients\nFinancial services company\nLinked the customer data across various BUs based on \ndifferent technology and databases, and de-duped the \ncustomer information through a combination of data \nmanagement and advanced algorithmic techniques to define \ncustomer journey and identify opportunities for further \npenetration\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER MATCHING AND DE-DUPING ACROSS DATABASES\nSITUATION\n▪\nThere were multiple business units that operated in silos and were based on different technology platforms/systems\n▪\nThis inhibited the ability to take a customer-centric view of the business and identify opportunities for further penetration through cross-selling or \nup-selling\n▪\nMerilytics partnered with the company to link the customer data across various BUs and databases, and de-dupe the customer information \nthrough a combination of tactical data management and advanced algorithmic techniques\n▪\nConducted a keyword matching search of customer names with existing master customer list \n▪\nWithin and across databases, conducted a fuzzy match of names and addresses using string distance algorithms such as Soundex, Levenshtein \ndistance and cosine similarity, that is based the degree of similarity between the names in the sources\n▪\nFurther enhanced the results using common n-gram tuples\n▪\nDeveloped the customer journey and assessed the cross-sell penetration and opportunity based on the de-duped and matched customer \ninformation\nVALUE ADDITION\nIMPACT\n▪\nHelped the company better understand its customer behaviour, life time journey and segments\n▪\nSales force (brokers) had better information about customers for targeted conversations\nABOUT THE CLIENT\nClient is a global commercial real estate company based out of the U.S.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER ENTITY DE-DUPING FUNNEL \n3\nILLUSTRATIVE\n69,035 client \nentities\n30,948 \nclient \nentities \n28,380 \nclient \nentities\n27,706 \nclient \nentities\n26,757 \nclient \nentities\n26,587 \nclient \nentities\nExcluded clients that \nwere not a part of a \ntransaction over the \npast 24 months\nLinked client entities in \ndatabase A and \ndatabase B by matching \ntransactions\nGrouped entities, \nusing exact matching \nafter pre-processing to \nremove punctuations \nand legal terms\nLinked client entities \nto existing client \nmaster by key word \nsearch\nMatched clients by using \nSoundex encoding \nalgorithm where similarity \nof phonetics is used as \nmatching criteria\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER ENTITY DE-DUPING METHODOLOGY\n4\nMethodology of linking/mapping clients across data sources (example)\nCLIENT MAPPING\nKeyword matching on various \ndatabases to existing list of global \nparent names mapping\nClient matching using fuzzy match1 of \nname and address\nClient matching by matching \ntransactions\nOutput from \nmatching\nGlobal Parent \nName\nDatabase A\nABC Corp\nGOOGLE, INC.\nDEF INC.\nGOOGLE INC\nDEF INC.\nGHI INC..\nGOOGLE UK LTD\nJKL INC..\nMNO INC.\nGOOGLE FRANCE\nGOOGLE SPAIN SL\nGOOGLE FRANCE\nGoogle \nInc.\nDatabase A\nClient name – \nmaster list\nClient address \nDatabase A\nClient address \nDatabase B\nAddress \nmatch list\nName match \nlist\nClient match \nlist\nTransaction \ndetails from \nDatabase A1\nTransaction \ndetails from \ndatabase A2\nMatched \ntransaction in \nthe two data \nsources\nClient Master \nClient ID \nClient name\n….\n….\nClient Address\nClient City\nClient State\nClient Country\nClient Zip\nGlobal Parent ID\nGlobal Parent Name\n1\nFuzzy matching algorithm run in R programming language matches client names based on the degree of similarity between the names in the two lists.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "Call - outs\nEXHIBITS #1\n5\nILLUSTRATIVE\nKindly follow the same \ncall - outs format across\nKindly follow t\nILLUSTRATIVE\nacross {Font sty\nFont Size-\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "Call - outs\nEXHIBITS #2\n6\nILLUSTRATIVE\nKindly follow the same \ncall - outs format across\nKindly follow t\nILLUSTRATIVE\nacross {Font sty\nFont Size-\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "ndly follow the given colors \ny, You can also refer to brand \nbook for color \ndelines(Hyperlinked below in \nthe slide)\nBrand Book Guidelines\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (6).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103130+05'30'",
+            "modDate": "D:20241115103130+05'30'",
+            "trapped": ""
+        },
+        "content": "Brand Book Guidelines\n"
+    }
+]

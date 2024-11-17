@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOperations reporting on DOMO\n1\nDesigned and built a centralized data repository on DOMO to provide \ncomprehensive reporting solution and leveraged the data repository to provide \nvisibility into key operations KPIs and enable performance benchmarking across \ndifferent locations.\nCar wash services provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for integration of multiple data sources into a centralized data repository, create a single source of truth for \nreporting, identify key metrics with standardized definitions and deploy a visualization layer on DOMO to provide real-time visibility \ninto its business performance. Lack of a centralized repository connecting all data sources resulted in inaccuracies and mismatch \nacross different reports. \nCar wash services provider company needs to gain real-time \nvisibility in operations on DOMO\n2\nYour value is enhanced. \nYou have optimized and streamlined data consolidation and reporting processes on DOMO reducing the execution time by \n30% compared. You have also analyzed the labor hours (regular and overtime) data and identified an opportunity to save ~ $70K \nper month by optimizing staffing at key locations during rush hours.\nOPERATIONS REPORTING ON DOMO\nKEY RESULT   \n•\n~30% ETL time reduced\n•\n~$70K saved per month\nVALUE LEVERS PULLED\n•\nData warehousing, \nperformance tracking \nand BI reporting \n•\nOperations analysis\n2\nYou turn to Accordion. \nWe partner with your team to design and build a centralized data repository on DOMO to provide comprehensive reporting \nsolution and leveraged the data repository to provide visibility into key operations KPIs and enable performance benchmarking \nacross different locations, including:\n1)\nDesigning and implementing a scalable data architecture on DOMO integrating all the data sources and having a single source \nof truth through reliable and standardized data ingestion/transformation processes and robust data quality measures  \n2) Designing and developing Operations Scorecards (Daily, Weekly and Monthly) across all locations to track key metrics such as \nsales, volumes, memberships (ARMs), membership gains/losses, Customer churn, labor, chemical costs, and other productivity \nmetrics, for key business decisions\n3) Creating Data Cubes to address the challenges related to the inaccessibility of POS transactions data, existing report \nmaintenance and ad-hoc data pull requests. This enabled seamless access to pertinent data and aided in performing ad-hoc \nanalytics.\n4) Setting up formalized access control management process to onboard users and assign personalized data permissions to \nmaintain data security and compliance \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned and implemented a scalable data architecture on DOMO integrating all the data sources and having a single source of truth through reliable and \nstandardized data ingestion/transformation processes and robust data quality measures  \n•\nDesigned and developed Operations Scorecards (Daily, Weekly and Monthly) across all locations to track key metrics such as sales, volumes, memberships \n(ARMs), membership gains/losses, Customer churn, labor, chemical costs, and other productivity metrics, for key business decisions\n•\nCreated Data Cubes to address the challenges related to the inaccessibility of POS transactions data, existing report maintenance and ad-hoc data pull \nrequests. This enabled seamless access to pertinent data and aided in performing ad-hoc analytics.\n•\nSetup formalized access control management process to onboard users and assign personalized data permissions to maintain data security and compliance \nSituation\n•\nClient leveraged sales, transactions, financial and labor data from multiple data sources such as DRB POS system, ADP, Dynamics 365, etc., for its \nreporting/analytics requirements. However, lack of a centralized repository connecting all data sources resulted in inaccuracies and mismatch across \ndifferent reports. Also, there was an opportunity to standardize operational and financial metrics and to enable consistent benchmarking across various \nreporting needs.\n•\nPartnered with the client to integrate multiple data sources into a centralized data repository, create a single source of truth for reporting, identify key \nmetrics with standardized definitions and deploy a visualization layer on DOMO to provide real-time visibility into its business performance\nOperations reporting on DOMO for car wash \nservices provider\n3\nImpact\n•\nOptimized and streamlined data consolidation and reporting processes on DOMO reducing the execution time by 30% compared to previous processes, \nenabling near real-time tracking and benchmarking of memberships, customer behavior, and operational performance for each location\n•\nAnalyzed the labor hours (regular and overtime) data and identified an opportunity to save ~ $70K per month by optimizing staffing at key locations during \nrush hours\nOperations reporting on domo\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach\n4\n1\n2\n1\nCollated and ingest data from multiple sources by leveraging DOMO connectors to Data lake automated at a recurring cadence \nData Sources\nData Storage & Processing\nData Visualization\nModel & Storage\nInject\n3\nDesigned and implemented visualizations, dynamic calculations using Beast modes in DOMO to automate analysis and reporting. \n2\nBuilt analytical datasets by transforming the raw data directly from data lake using Magic transformations tools\nPOS System\nAccounting System\nHR & Payroll System\nMystery Shopper \nCustomer Surveys\nAd-hoc Files\nODBC via Workbench Connector\nJSON No Code OAuth Connector\nADP Connector\nJSON No Code OAuth Connector\nSharePoint Online Connector\nData Lake\nData Transformation\nMagic \nTransformation\nSales Dataset\nLabor Dataset\nFinancial \nDataset\nSurveys \nDataset\n1\nOperations Scorecards\nExecutive Dashboard\nCohort Analysis\nSalesperson Commissions \nDashboard\n2\n3\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDaily operations trends dashboard\n5\nILLUSTRATIVE\nInsights \ndriven by \nlatest trends\nDaily Sales \nbreakdown by \nwash/item \ntypes\nTrend of \nrecurring \nplans, \nmemberships \nsales and \nvolumes\nLabor hours \ncomparison \nwith targets to \ntrack \nproductivity\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (247).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152730+05'30'",
+            "modDate": "D:20241114152730+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDaily operations scorecard\n6\nILLUSTRATIVE\nKey \nperformance \nindicators with \nflexibility to \nbenchmark \nusing historical \ndata or targets\nLocation level \noperational \ninformation and \nperformance \nmetrics\n"
+    }
+]

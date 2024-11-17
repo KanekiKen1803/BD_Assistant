@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProfit Cube Augmentation\n1\nAutomated and re-designed the process inefficiencies in the existing profit cube \nreporting, enabling a repeatable and refreshable process with minimal manual \ninterventions\nCardiovascular Device Manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nRe-designed the existing framework and methodology to build a single-click refresh process by revamping ~15 cost allocation processes\n•\nTemplatized and automated ~20 Excel files using Power Query and simplified 37 Alteryx workflows to ensure dynamicity and scalability for future. \n•\nStructured and streamlined the profit cube update process by templatizing and standardizing the ~ 15 input sources such as ledger data, labor cost, \noperating expenses etc. to reduce the turnaround time as well as eliminate any manual errors\n•\nPerformed a comparative analysis of the current technology stack of the profit cube and evaluated other technologies to recommend the quick-wins as well \nas long-term outlook of the future state\nSituation\n•\nClient lacked visibility into profitability at SKU and geography level, due to varied cost allocation strategies followed across countries and functions. \nAdditionally, the existing profit cube was set up for one-time use without the flexibility to refresh on a periodic basis.\n•\nPartnered with the client to revamp the existing profitability reporting by templatizing and automating multiple manual processes to enable a repeatable \nand refreshable process\nProfit cube augmentation for cardiovascular \ndevice manufacturer\n2\nImpact\n•\nAutomation of the intermediate calculations and workflow scheduling resulted in saving of ~80 FTE-hours per update. \n•\nEnabled the client with scenario analysis of profitability and cost impact of various business decisions, by enabling flexibility and dynamicity with respect to \nuser inputs in the model \n•\nProvided visibility into SKU & Geography level profitability analysis to support the leadership team and finance function with key strategic decisions of \nproduct expansion, geography expansion, OPEX control etc.\nProfit Cube Augmentation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nScheduled run of Alteryx workflows\nTemplatized user inputs including GL \ndata, P&L, cost allocation assumptions, \nmappings\nAutomated the  Intermediate calculations \nthrough single click refreshes \n▪\nConsolidated the source to \nupdate input transaction data, \nmappings, assumptions in a \nstructured format\n▪\nDeveloped Process document \nand guidelines to carry out \nstructural updates in future\n▪\nIncorporated error checks of \ncritical points to maintain \nstructural integrity of the inputs\n▪\nAutomated manual processes \nand hard-coded /value pasted \ncalculations from the input to the \ncalculation sheets\n▪\nRevamped all manual \nintermediate calculations into a \nsingle click process through \nmacros and power query\n▪\nRe-designed Alteryx workflows to \nderive the outputs based on \ndynamic files generated from \nearlier steps\n▪\nScheduled the workflows through \nAnalytic app in Alteryx to remove \nany manual interventions in \nrunning all the workflows \nsequentially\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTemplatized user inputs with in-built data validation\n4\nILLUSTRATIVE\nHeadcount cost allocation \nstrategy\nInventory On-hand\nOther Cost - Spend\nProduct Revenue & COGS\nPlant Level Variance\nConsolidated P&L\nBusiness Hierarchy\nCodified the assignment of fixed and semi-variable costs based on \nemployee levels\nTemplatized the user input of cost split for employee job titles \nAutomated the cost split into multiple countries for employee job titles\nAutomated cost scaling calculations based on Global  P&L and \nHeadcount data\nAutomated product hierarchy creation from GL data\nAutomated the flow from  GL data and calculated the fixed and \nvariable cost allocation across plants\nAutomated cost element & country wise ratio calculation from GL data\nAutomated expense allocation to countries & Supply /Mfg. segments  \nSupply cost inputs\nCountry, Legal Entity, Cost Type\nAutomated Refresh \nfrom templatized \ninputs to intermediate \ncalculations\nAutomation of current state processes\nUser Inputs \nTemplatized user \ninputs to \naccommodate cost \nallocation strategies \nand global decisions\nError checks on the \ndata\nUser input\nEnter the split of cost allocation \nfrom Global HQ to Regional HQ\nRegion\nRatio\nRegion 1\n0.48\nRegion 2\n0.04\nRegion 3\n0.31\nRegion 4\n0.09\nRegion 5\n0.08\nTRUE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAutomated refresh processes through macros and analytic app\n5\nSingle click refresh \nbutton to run \ndifferent cost \nallocation \nprocesses\nRefresh status of \nthe cost allocation \nprocesses \nAutomated triggering of \nAlteryx workflows \nthrough Analytic App\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (30).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163506+05'30'",
+            "modDate": "D:20241114163506+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFuture state architecture for profit cube reporting\n6\nODI\nExtract & \nTransform \n3\n1\nCollate and ingest data from different source systems via Oracle Data Integrator\nRevamp the existing data transformations and reporting processes by setting up automated and self-serve dashboards on Oracle Analytics Cloud\n2\nLeverage Autonomous Data Warehouse for consolidation and aggregation of raw data\nData Sources\nIngest\nStore, Prepare and Publish\nVisualization\nRaw\nClean\nData \nmodelling\nAggreg\nate\nReporti\nng \nSchema\n2\nData Zones\n(Data Storage Layer)\n1\nData \nWareh\nouse\nCode Development & Development\nHRMS \nSystem\nCRM System\nManual Inputs\nOther systems\nOracle Autonomous\nData Warehouse\nData Lake\nData Safe\nDevOps\nOCI Process\nAutomation\nFinancial \nSystem\nLogging\nAnalytics\nMonitoring\nSelf-serve \ndashboards on \nOracle Analytics \nCloud\n3\nCustom Excel \nReporting\nEPM tool\nILLUSTRATIVE\n"
+    }
+]

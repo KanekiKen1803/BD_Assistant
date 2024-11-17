@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143347+05'30'",
+            "modDate": "D:20241114143347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSSS performance modeling \n1\nBuilt a comprehensive model to analyze the growth of the business using same \nstore sales which included key traffic and revenue related metrics\nFranchisee based fitness chain\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143347+05'30'",
+            "modDate": "D:20241114143347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSame store sales (SSS) growth model for a fitness chain\n2\nAccordion Value Add \n•\nBuilt a comprehensive and dynamic reporting tool to evaluate the growth of the business on SSS basis for various periods such as by \nmonth, Last 3 Months (L3M), Quarter, Year till Date (YTD), Last Twelve Months (LTM) and Full year\n•\nIncluded key traffic and revenue metrics (such as New, Active customers, Visit frequency, Revenue per customer etc.) by studio to provide \nvisibility for the corporate team to identify specific actions required to be taken in each studio\n•\nIncorporated outputs to analyze the performance during 12-month and 24-month ramp up period of studios to enable the corporate team \nto track the performance of a new studio with similar studios’ historical ramp up\nSituation\n•\nCompany did not have a streamlined tool to view the growth of the business on SSS (Same Store Sales) basis\n•\nCreated a sustainable Excel model to determine the SSS growth of various traffic and revenue metrics by region, DMA, market type and \nvintage (year of opening)\nFRANCHISEE BASED FITNESS CHAIN\nImpact\n•\nThe model helped the client build franchise scorecards to evaluate the performance of each franchise studio on a weekly and monthly \nbasis\n•\nThe model provided the visibility to compare the performance with the targeted performance for each studio\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143347+05'30'",
+            "modDate": "D:20241114143347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSSS growth model for a fitness chain\n3\nA timeline view of traffic & \nrevenue metrics by vintage\nUser-selection to select stores of \nmarket class, DMA, Class, Region \nand Vintage\nConsolidated view \nof traffic & \nrevenue\nmetrics’ growth for \na user-selection of\nstore attributes\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (205).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143347+05'30'",
+            "modDate": "D:20241114143347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSSS growth model for a fitness chain\n4\nUser-selection of traffic & revenue \nmetric\nConsolidated view of the selected metric \nby store attributes (Market class, DMA \netc.) for various periods – MTD, L3M, \nLTM etc.\nILLUSTRATIVE\n"
+    }
+]

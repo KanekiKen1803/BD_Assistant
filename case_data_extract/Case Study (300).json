@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRevenue estimation for online marketplace \nproducts\n1\nBuilt prediction model to estimate the sales of products on online marketplace \nusing azure Databricks.\nTechnology & SaaS business of law firm \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build a prediction model for ecommerce sales by leveraging their ecommerce sales database for \nthousands of products across multiple categories and the corresponding product and seller attributes. You have utilized a \nthird-party service to understand the estimated Amazon ecommerce sales for the products of interest of their prospective and \ncurrent clients. The third-party sourced data is prone to data accuracy/ quality issues and has an associated recurring cost.\nTechnology & SaaS business of law firm needs revenue \nestimation for online marketplace products\n2\nYour value is enhanced. \n•\nAs the 3rd party relationship is essential for the client, leveraging the in-house prediction tool instead of the 3rd party paid \nservice for 20% of the products helps client save ~USD 140K annually.\n•\nLeveraged the model to predict product sales for prospective leads to identify the dollar opportunity accurately and improve the \nlead conversion rate.\nREVENUE ESTIMATION FOR ONLINE \nMARKETPLACE PRODUCTS\nKEY RESULT   \n•\n20% of the products \nhelps client save ~USD \n140K annually.\nVALUE LEVERS PULLED\nDay level product sales \nestimation using product \nfeatures based on \nregression models \n(xgboost)\n2\nYou turn to Accordion. \nWe partner with your team to build prediction model to estimate the sales of products on online marketplace using azure \nDatabricks, including:\n1)\nIncreasing visibility into the revenue captured by unauthorized sellers, helped brands identify the dollar opportunity \nassociated that can be recaptured by initiating/ setting up a legal framework for managing eCommerce channels.\n2) Helping in prioritizing the products/ un-authorized sellers that should be targeted from legal standpoint and achieve \nquick wins.\n3) Understanding the impact of holiday events on the product sales by the un-authorized sellers and take preventive \nactions.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIncreased visibility into the revenue captured by unauthorized sellers, helped brands identify the dollar opportunity associated that can be recaptured by \ninitiating/ setting up a legal framework for managing eCommerce channels.\n•\nHelped prioritize the products/ un-authorized sellers that should be targeted from legal standpoint and achieve quick wins.\n•\nUnderstood the impact of holiday events on the product sales by the un-authorized sellers and take preventive actions.\nSituation\n•\nThe client utilized a third-party service to understand the estimated Amazon ecommerce sales for the products of interest of their prospective and current \nclients. The third-party sourced data is prone to data accuracy/ quality issues and has an associated recurring cost.\n•\nPartnered with the client to build a prediction model for ecommerce sales by leveraging their ecommerce sales database for thousands of products across \nmultiple categories and the corresponding product and seller attributes.\nE-commerce product sales estimation for a law firm\n3\nImpact\n•\nAs the 3rd party relationship is essential for the client, leveraging the in-house prediction tool instead of the 3rd party paid service for 20% of the products \nhelps client save ~USD 140K annually.\n•\nLeveraged the model to predict product sales for prospective leads to identify the dollar opportunity accurately and improve the lead conversion rate.\nRevenue estimation for online \nmarketplace products\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach - Overall architecture (1/4)\n4\nOUTPUTS\nRPA\nWEBSCRAPE \n•\n48 scrapes/product/day\n•\nProduct related Attributes\no Rank\no Ratings\no # Sellers\no # Variants\n•\nMean Absolute % Error\n•\nMedian Absolute % Error\nPERFORMANCE METRICS\n•\nRevenue Bucket wise\no > $1000/day\no $100/day - $1000/day\no <$100/day\nBENCHMARK COMPARISON \nAGGEGATED \nDATA\nDaily Sales reports\n•\nSeller level data\nPREDICTION MODEL\n•\nSeller level Product Sales is \naggregated across all \nsellers & extrapolated to \nday level.\n•\nData from both the sources \nis aggregated and \nprocessed to extract \nrelevant features.\no Rank in category\no Avg. List Price \no Avg. Rating etc.\nModels are built at product \ncategory level to predict \ndaily product sales based on \nits features.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach – Development process flow (2/4)\n5\nAmazon data \nmodel\nModel dataset\n•\nFormulate business goals and \nsuccess criteria\n•\nIdentify relevant data sources\n•\nIdentify the relevant data \nfeatures from Amazon Data\n•\nDevelop pipeline wireframe \n•\nSet up pipeline in Azure \nplatform to load data\n•\nFilter high quality clean dataset \n•\nExplore the relationships between \ndata to understand data behavior\n•\nFinalize the data predictors for model\n•\nEngineered the data to remove \nempty values and use strategies \nfor data imputation if required\n•\nSelect the prediction period\n•\nSelect the optimal model and \nfine tune the performance \nbased on error analysis and \ntuning approaches\n•\nSetup data ingestion and output \npipeline\n•\nIntegrate the results in \nDashboards \nProduct sales \nestimates\n•\nRe-evaluate selected estimation period\n•\nExplore approaches like stacked or \nsequence models\n•\nEvaluate model data granularity & volume\nStage 3 : Model development\nStage 4 : Model deployment\nAchieved \nSuccess \nCriteria\nStage 1 : Business understanding\nStage 2 : Data preparation\nNo\nYes\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach - Model iterations (3/4)\n•\nEstablished utility of product \nfeatures to estimate its daily sales\n•\nFeatures – Product Rank, List Price \n& Buybox percentage\nPOC – Third party data\n•\nSet up pipelines to combine \nproduct features & sales reports\n•\nIngested additional product \nfeatures - #reviews, ratings etc.,\nData pipelines\n•\nBuild cross-sectional day level \nmodels to estimate daily sales\n•\nObserved feature set overlap \nacross products\nChild ASIN level model\n•\nAggregated data for products \nsharing feature set\n•\nParent level features - Agg. \nSales, Avg. List price etc., were \ncreated\nParent ASIN level model\n•\nAbnormal peaks were observed \nin the extrapolated sales\n•\nLogic refined to incorporate \nproduct unavailability\nUpdated extrapolation logic\n•\nOutliers identified based on \nlinear relation of units sold & log \ntransformed rank.\n•\n3 std was used to flag outliers\nOutlier handling\n•\nAdd. features created based on \nProduct Rank (most imp. \nfeature)\n•\nAverage lead & lag ranks were \nconsidered over 7day window.\nFeature engineering\n•\nTo increase trainset, data for all \navailable days was used at once\n•\nPerformance improved over \ncross-sectional models\nLongitudinal model\n•\nTo incorporate patterns, \ntemporal features were added\n•\nDay of week, Month of year etc.,\nTemporal feature addition\n•\nIdentified scope of improvement \nby inclusion of special events\n•\nHolidays, Sale events were \nincluded as exogenous factors\nHoliday features\n1.\nASIN: Amazon Standard Identification Number - 10-digit alphanumeric product identifier code issued by Amazon to every unique item offered in its catalog and housed in its \nwarehouses\n2.\nChild ASIN: Represents a product available in amazon’s catalog at the most granular level \n3.\nParent ASIN: Product representative of all the related variants that share feature set like ratings, reviews etc., \n4.\nBuy-Box: A section on the right side of an Amazon product detail page where customers can add a product to their cart directly and the sale is captured by the default \nseller.\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach – Model development milestones (4/4)\n7\n1\n2\n3\n4\nFinal\nChild ASIN model: MAPE 254%\nModel granularity - Day level individual models\nBest model - Extra trees regressor\nFeatures - List price, Rank in category, Number of \nreviews, Average rating, Number of variants, \nProduct unavailability ratio\nParent ASIN model: MAPE 197%\nModel granularity - Day level individual models\nBest model - Random forest regressor\nApproach - Aggregated data to parent hierarchy \nAdditional features - Avg. Category rank of product  \nfor preceding & succeeding 7 days.\nOutliers' treatment: MAPE 163%\nModel granularity - Day level individual models\nBest model - Random Forest Regressor\nApproach - Dropped the outliers based on log  \ntransformed Rank for the product for Parent ASIN \nlevel data. \nRevenue extrapolation update: MAPE 63%\nBest model - Random forest regressor\nApproach - Updated the logic to incorporate \nproduct unavailability during the day.\nHistorical Data model: MAPE 56%\n  Model granularity - Single model with complete historical data\n  Best model – XG boost regressor\n  Approach - Train a single model with the historical data\n  Additional features - Holiday and discount days to incorporate\n  days with larger sales for better learning in addition to existing\n  features.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (300).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163615+05'30'",
+            "modDate": "D:20241114163615+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nComparison with third party service\n8\nILLUSTRATIVE\nThe model has outperformed the third-party performance benchmark for the revenue segment of interest (>$1000/day)\n0\n10\n20\n30\n40\n50\n60\n70\n80\n12/18\n12/25\n1/1\nPattern Prediction\nSRE Model Prediction\n"
+    }
+]

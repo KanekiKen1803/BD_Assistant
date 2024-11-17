@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped various sales dashboards on Tableau to identify cross-selling and up-\nselling opportunities and track key business performance metrics across product and \ncustomer categories by integrating data from discrete sources and reconciling with \nFinancial reports\nIndustrial Parts Manufacturer\n(Sales opportunity analysis and customer dashboard)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "SALES OPPORTUNTIY ANALYSIS AND CUSTOMER DASHBOARD\nSITUATION\n▪\nClient was unable to estimate the current level of bundling or identify cross-sell/up-sell opportunities due to discrete and scattered data systems \nwhich made it difficult for the sales teams to analyze the data\n▪\nMerilytics partnered with the client to analyze invoice level internal data, mine industry level external data and calculate relevant KPIs to provide \nvisibility into sales opportunities and create a customer dashboard\n▪\nIdentified cross-sell/up-sell opportunities for each customer by analyzing the mix of product categories purchased by the customer and comparing it to \nthe industry standards as well as other customers\n▪\nEstimated the current level of bundling by entity, region and customer by analyzing the invoice level data and categorizing SKUs into relevant \ncategories\n▪\nEvaluated the impact of historical price changes on each customer by reviewing the SKU mix of the customer and company level price changes\n▪\nDeveloped a historical view of the relationship with the customer to visualize historical sales and associated trends by category, SKU and region\nVALUE ADDITION\nIMPACT\n▪\nEnabled the sales team to be targeted during its customer meetings due to the added ability to access data in a clean and analyzable format with \nopportunities and historical tendencies highlighted\n▪\nProvided the management a view on the current level of bundling and associated trends which enabled the management team to set targets for the \nupcoming year\nABOUT THE CLIENT\nClient is one of the largest industrial parts manufacturer for a niche category, in North America and has specialized manufacturing and distribution entities spread across \nthe continent\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "This chart shows the distribution of \nsales of any customer across the \nproduct categories which when \ncompared with the industry standard \ndistribution gives us the opportunity \navailable in upselling\nThis chart shows the industry \nstandard distribution of sales across \ndifferent categories, which is used as \na comparison point to identify \nupselling opportunities \nThe percentage shares shown in \ngreen are above the industry \nstandard share and those highlighted \nin red are potential upselling \nopportunities\n3\nIDENTIFICATION OF UP-SELLING OPORTUNITIES WITH EACH CUSTOMER \nACROSS PRODUCT CATEGORIES\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "This chart provides a clear picture of \nbundling across the product categories \nand helps in identifying the \nopportunities  for cross-selling\nThis chart gives the trend in the share of \norders that are bundled across the years\n4\nPRODUCT BUNDLING TRENDS AND DISTRIBUTION ACROSS CATEGORIES\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "This chart provides the category-\nwise realized impact of price changes \nby the customers. This was \nevaluated by considering the SKU \nmix purchased by customers in each \ncategory.\nILLUSTRATIVE\nThis chart provides the list of top \ncustomers along with the realized \nimpact of price changes. This was \nevaluated by considering the SKU \nmix purchased by each customer.\n5\nEVALUATED IMPACT OF PRICE CHANGES ACROSS CUSTOMERS AND PRODUCT CATEGORIES\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (100).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103655+05'30'",
+            "modDate": "D:20241115103655+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nThese charts provide the historical \nrelationships with any customer \nacross different parameters\n6\nHISTORICAL VIEW OF CUSTOMER RELATONSHIPS\n"
+    }
+]

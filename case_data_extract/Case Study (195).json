@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nChurn propensity modeling\n1\nDeveloped and deployed a churn propensity model to identify at-risk customers at \nvarious stages of customer life cycle on a weekly basis through an automated \nreport to enable retention efforts on an ongoing basis\nNutritional supplement Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to reduce the high customer churn with more than 60% of the customers discontinuing subscriptions within 3 \nmonths of acquisition, by using tailored marketing efforts.\nNutrition supplements company needs “food for thought” for \ncustomer retention\n2\nYour value is enhanced. \nYou have predicted high-risk customers after 2nd order and 3rd order with more than 90 percent accuracy. You have \nimproved 2nd order and 3rd order retention rate by 8 pps and 5 pps respectively, which could lead to a potential revenue \nuplift of ~$2.5 million through an ~7 pps uplift in reorders\nCHURN PROPENSITY MODELING\nKEY RESULT   \n•\n>90% accuracy in \nprediction\n•\n~$2.5 Mn increase in \npotential revenue\nVALUE LEVERS PULLED\n•\nChurn propensity model\n2\nYou turn to Accordion. \nWe partner with your team to deploy the predictive model to identify customers with highest probability of churn on a weekly \nbasis through an automated report to enable retention efforts on an ongoing basis. \nWe partner with you team to - \n1) Developing a customized advanced analytics model to identify customers at high risk of churn at 2nd order, 3rd order, \nand 4th order\n2) Leveraging transactional behavior along with demographic characteristics of customers to further improve the accuracy \nand effectiveness of the churn propensity model\n3) Automating the model output along with its reporting layer to adapt based on new patterns emerging from customer \nbehavior. This would drive retention efforts such as Outbound calling, email campaigns etc. on an ongoing basis based \non latest customer data\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\n01 \n02 \n03 \n04 \n05 \nModel selection – Select the best-performing model based on iterative modelling across different techniques such as Random \nforests, XGBoost, Cat-boost, Decision tree etc. Identify the key features that drive customer churn. Create separate models for \n2nd order churn, 3rd order churn and 3+ order churn. \nFeature engineering (Shortlisting of appropriate variables) – Correlation analysis for the above variables with customer churn to \nensure appropriate variables are selected and create combined variables to ensure appropriate features for modelling\nData Acquisition – Transformed the transactional level dataset at customer level for each order (1,2,3,3+). Utilized additional \nfactors in the analysis that could potentially impact the churn rates like Questionnaire responses (during acquisition), order \ndelay, discount etc., controlled by the company and external factors like covid cases.\nModel iteration – Iterate the model to further fine tune to enhance overall accuracy (balance between precision and recall metrics)\nModel deployment – The best performing model was deployed in Azure Databricks notebook and was scheduled to run on a \nweekly cadence using Azure Data Factory. The Databricks notebook interacts with the Azure database to extract relevant data \nand stores the results which is leveraged by the future iterations of the model as a learning. Additionally, an automated reporting \nlayer was built to provide the list of customers having high risk of churn on a weekly basis which was leveraged by the Marketing \nteam on retention initiatives.\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel evaluation\n4\nAccuracy = (True Positive + True Negative)/Total \nnumber of examples ) \nMonth 1 – 95% Month 2 – 97%\n18,000\n5,547\n5,293\n4,981\n25,000\n7,410\n7,940\n7,280\nActual Churned\nNew Customers\nActual Churned \ncustomers of \nPredicted to churn\nPredicted Churned\nMonth 1\nMonth 2\nPrecision = (True Positive / (True Positive + False \nPositive))  \nMonth 1 – 94% Month 2 – 92%\nRecall = (True Positive / (True Positive + False Negative) \nMonth 1 – 90% Month 2 – 98% \nF1 Score = ( 2 *(Precision * Recall))/ (Precision + Recall)\nMonth 1 – 0.92 Month 2 – 0.95\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel evaluation\n5\nChurned\nRetained\nChurned\n4,981 \n(True Positive)\n312\n(False Positive)\nRetained\n566\n(False Negative)\n12,141\n(True Negative)\nActual Class\nPredicted Class\nChurned\nRetained\nChurned\n7,280 \n(True Positive)\n660\n(False Positive)\nRetained\n130\n(False Negative)\n16,930\n(True Negative)\nActual Class\nPredicted Class\nMonth-1 Prediction Confusion Matrix\n1\nMonth-2 Prediction Confusion Matrix\n2\nTotal Customers in month-1: 18,000\nTotal Customers in month-2: 25,000\nMetric \nFormulae\nMonth-1\nMonth-2\nAccuracy\n(True Positive + True Negative)/Total number of examples )\n95%\n97%\nPrecision\n(True Positive / (True Positive + False Positive))\n94%\n92%\nRecall\n(True Positive / (True Positive + False Negative)\n90%\n98%\nF1-score\n( 2 *(Precision * Recall))/ (Precision + Recall)\n0.92\n0.95\nModel Evaluation Metrics \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (195).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142002+05'30'",
+            "modDate": "D:20241114142002+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDeployment architecture in azure ecosystem\n6\nStart\nWeekly model \nrefresh\nModel \nMaintenance\n1\n2\n4\n5\nWeekly Automated trigger using Azure data factory\n1\nExtract demographics and transactional data till 3rd order for active \ncustomers with less than 3 orders\n2\nRead trained models stored in Databricks File System\n3\nPredict the probability to churn for these customers before order 2,3 \nand 4 respectively\n4\n6\n7\n8\nGenerate model performance report for customers with actuals \nmonthly\n6\nStore the re-trained model in Data bricks file system\n8\n3\nRetrain the model if significant decrease in accuracy is observed\n7\nStore the final output in database for future reference and \ngenerate an excel based report \n5\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Sanjana Nekkalapudi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142913+05'30'",
+            "modDate": "D:20241114142913+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt Marketing reports, Accounting reports and Customer reports and various other \nreports that enabled daily tracking of KPIs by integrating data from internal and external \nsources\nReporting Suite\n(Health & Wellness)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Sanjana Nekkalapudi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142913+05'30'",
+            "modDate": "D:20241114142913+05'30'",
+            "trapped": ""
+        },
+        "content": "REPORTING SUITE TO ENABLE REAL-TIME VISIBILITY\nSITUATION\n▪\nClient wanted to track the performance of the business on a real-time basis to take business decisions such as marketing spend and understand \nthe cohort level performance based on a set of reports\n▪\nKey stakeholders required the key business metrics readily available over email and accessible over phone on a daily basis\n▪\nSetup an ETL process to load required data from various sources into a single database after necessary transformation using python queries and \nAPI calls\n▪\nConceptualized and built Customer Cohort Analysis Report, Accounting reconciliation report, Daily Marketing spend report, Customer care \ndashboards, Production and shipping reports to support the business strategy and track the business performance metrics on Excel and Power BI\n▪\nAutomated the generation and distribution of all the reports by setting up API connections to third party tools where necessary\nVALUE ADDITION\nIMPACT\n▪\nWeekly and monthly cohort reports built by Merilytics were used to track retention behavior of customers\n▪\nProvided daily visibility into customer acquisitions from various social media channels which enabled the business to redistribute the marketing \nspend across channels effectively\n▪\nProvided visibility on the performance of customer care team as well as production and shipping efficiency on a weekly basis that enabled \nappropriate resource planning \nABOUT THE CLIENT\nClient is a direct-to-consumer health and wellness brand with presence in U.S. and multiple countries across the world\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Sanjana Nekkalapudi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142913+05'30'",
+            "modDate": "D:20241114142913+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nILLUSTRATIVE\nDaily Report to track \nmarketing spend by \nchannel\nCohort analysis report to \ntrack customer retention \nbehavior by weekly \ncohorts\nCOHORT ANALYIS REPORT AND DAILY MARKETING SPEND REPORT\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (201).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Sanjana Nekkalapudi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142913+05'30'",
+            "modDate": "D:20241114142913+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nILLUSTRATIVE\nCohort Start \nDate\nCohort End \nDate\nNew Customers\nRe-Orders\nCancellations \nwithin 1 Week\n% of \nCancellations \nwithin 1 Week\nCancellations \nwithin 2 Weeks\n% of \nCancellations \nwithin 2 Weeks\nCancellations \nwithin 3 Weeks\n% of \nCancellations \nwithin 3 Weeks\nCancellations \nwithin 4 Weeks\n% of \nCancellations \nwithin 4 Weeks\n20-May-19\n26-May-19\n495\n625\n46\n9.3%\n61\n12.3%\n138\n27.9%\n166\n33.5%\n27-May-19\n2-Jun-19\n264\n343\n19\n7.2%\n27\n10.2%\n65\n24.6%\n79\n29.9%\n3-Jun-19\n9-Jun-19\n280\n337\n32\n11.4%\n47\n16.8%\n75\n26.8%\n87\n31.1%\n10-Jun-19\n16-Jun-19\n272\n298\n22\n8.1%\n33\n12.1%\n68\n25.0%\n83\n30.5%\n17-Jun-19\n23-Jun-19\n359\n331\n42\n11.7%\n64\n17.8%\n114\n31.8%\n136\n37.9%\n24-Jun-19\n30-Jun-19\n397\n377\n33\n8.3%\n52\n13.1%\n87\n21.9%\n122\n30.7%\n1-Jul-19\n7-Jul-19\n278\n183\n24\n8.6%\n43\n15.5%\n73\n26.3%\n88\n31.7%\n8-Jul-19\n14-Jul-19\n517\n358\n51\n9.9%\n70\n13.5%\n120\n23.2%\n161\n31.1%\n15-Jul-19\n21-Jul-19\n715\n399\n70\n9.8%\n107\n15.0%\n171\n23.9%\n208\n29.1%\n22-Jul-19\n28-Jul-19\n662\n28\n49\n7.4%\n87\n13.1%\n120\n18.1%\n120\n18.1%\n29-Jul-19\n4-Aug-19\n597\n5\n58\n9.7%\n71\n11.9%\n71\n11.9%\n5-Aug-19\n11-Aug-19\n593\n5\n32\n5.4%\n32\n5.4%\nCustomer Churn report \nlooking at the subscription \ncancellation rate \nCustomer acquisition cost \ntrend report to measure \nthe improvement of \nmarketing campaigns\nCUSTOMER CHURN REPORT AND CAC TREND REPORT\n"
+    }
+]

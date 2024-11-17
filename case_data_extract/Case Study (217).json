@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDefined and developed key business performance indicators to track manufacturing \nprocesses and benchmark operational performance across plants and functions \nthrough a robust BI dashboarding suite\nManufacturing Operations Analytics\n(Automotive Accessories Manufacturer)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "PRODUCTION PERFORMANCE VISIBILITY FOR AUTOMOTIVE ACCESSORIES MANUFACTURER \nSITUATION\n▪The client had limited operational performance visibility for their manufacturing plants due to inconsistent reporting, legacy data systems, and wide \ngeographical footprint.\n▪Partnered with the client to provide detailed visibility into complex manufacturing processes and benchmarked operational performance of plants across \nfunctions through real-time reporting in a BI dashboard suite.\n▪Built centralized data repository with automated data flows and developed processes to consolidate/integrate operational, sales, and financial data from \nmultiple ERPs (Microsoft Dynamics GP, Infor Visual, Traverse, Sage 500, etc.), legacy databases, and manual excel files.\n▪Standardized and automated reporting of 30+ KPIs including to establish a  single source of truth for all plants and benchmarked performance against \nbudget/forecast to provide leadership real-time visibility into the business performance\n▪Enhanced visibility into plant operations and manufacturing productivity to improve sales and inventory planning. Tracked metrics across functions \nincluding safety, sales, HR, logistics, manufacturing and inventory.\nVALUE ADDITION\nIMPACT\n▪Provided executive and plant leadership better visibility into daily operations allowing them optimize plant performance.\n▪Dashboard suite enabled the client to significantly reduce past due AR by 78%, improve on-time deliveries by 7%, increase labor productivity and \nstreamline inventory.\nABOUT THE CLIENT\nClient is an automotive accessories company that manufactures and sells accessories and spare parts for trucks, jeeps and cars with 18 plants across U.S. and Canada \n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH\n3\n1\n2\n1\nCollate and ingest data from multiple data sources using SQL Server Integration Services (SSIS) to SQL Server to create a central data repository\nData Sources\nData Storage & Processing\nData Visualization\nExcel Spreadsheets\n(Share Point)\nERP Systems\n(Great Plains, IFS, Visual Infor, \nSage 100, Sage 50, Sage \n500)\nModel & Storage\nInject\nCentral Data Repository\nSQL Server Database\nSQL Server Analysis Services \n3\nBuild analytical data models by leveraging Analysis Services (SSAS) to calculate KPIs and aggregate them at multiple levels\nOperations RX Cloud portal\n4\n1\nSQL Server \nIntegration \nServices \n1\n2\nPython \nScripts\n2\n3\n2\nCollate and ingest data from multiple SharePoint source files using Python script to central data repository on SQL Server \n4\nDesign and implement Power BI dashboards to automate reporting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "SAMPLE OUTPUT: SALES DASHBOARD\nILLUSTRATIVE\n4\nSales distribution \nby channel (weekly)\nSales by plant, \nproduct type and \nproduct line \nbenchmarked \nagainst budget\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "SAMPLE OUTPUT: ON-TIME DELIVERY DASHBOARD\nILLUSTRATIVE\n5\nChannel, piece and \norder level fill-rates \nbenchmarked \nagainst targets \n(weekly, daily)\nOn-time delivery \ntrend for the \nmanufacturing \nplant capable of \nanalysing \nunshipped orders \n(daily)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (217).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144843+05'30'",
+            "modDate": "D:20241114144843+05'30'",
+            "trapped": ""
+        },
+        "content": "SAMPLE OUTPUT: FG INVENTORY DASHBOARD\nILLUSTRATIVE\n6\nTop-10 SKUs by \ndemand and status\nBreakdown of \nunallocated \ninventory available \nfor shipping by \nactive/discontinued \nSKUs and by \ndemand\n"
+    }
+]

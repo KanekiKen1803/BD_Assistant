@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt Dedicated SQL Pool in Azure Synapse Analytics and transitioned the existing \nData Warehouse in Azure SQL database to Synapse Analytics\nSynapse Migration\n(Healthcare Provider)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA WAREHOUSE MIGRATION TO AZURE SYNAPSE ANALYTICS\nSITUATION\n▪The client was expanding business rapidly by adding new facilities and integrating new systems/applications into the existing technical environment \nwhich posed challenges & limitations when processing the workloads. Also, it was cost prohibitive to improve the configuration of technical components \nto accommodate for the increasing workloads.\n▪Merilytics partnered with the client to design and deploy a new robust and scalable architecture that can handle heavy workloads and ensure zero \ndowntime of the systems while transitioning from current to the new architecture\n▪Analyzed the current state architecture and the workloads that the architecture can sustain in the near/short term. Conducted a thorough capacity \nplanning exercise and accounted for current growth rate and further projections of the workloads. \n▪Based on the inputs, proposed a new technical architecture and implemented it which included Azure Synapse Analytics, Data Lake and PolyBase which \nare designed to heavy workloads and faster processing.\n▪Performed Data Migration in phases to the new environment with zero downtime and without any business disruption. Reconfigured the dashboards to \npoint to the new environment and shared a detailed metric-wise validation tracker with client for smooth transition\nVALUE ADDITION\nIMPACT\n▪Reduced overall monthly costs by ~40% due to the improved technical architecture\n▪Improved performance of the ETL process which reduced the run time by ~33% to 2 hours daily.\n▪Efficient pipeline development (~90% reduction in pipelines to 30 from 400) by leveraging the “Data-Driven Pipeline approach” which make the \npipelines more adaptive and capable of handling varying data sources, transformations and destinations.\nABOUT THE CLIENT\nClient is a U.S. based Healthcare provider specializing in high quality post-acute nursing care and rehabilitation services\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "Create Data Tables\nData Validation\nRebuild dynamic \npipelines\nRedesign the \nstored \nprocedures\nData modelling \nand dashboarding\n▪Migrated the existing \ndata tables to the SQL \nDedicated Pool of Azure \nSynapse Analytics \nthrough bulk load for \nfirst time\n▪Improvised the \nnomenclature of older \ntables as per new \ndecided standards.\n▪Build the Data \nWarehouse blueprint \nwith separate schemas \nfor staging, production, \nreporting, auditing and \nmapping tables.\n▪Redesigned the existing \nstored procedures with \nPolyBase code for faster \ntransfer rate in Azure \nSynapse Analytics\n▪Re-engineered the \nStored Procedures with \nupdated functions which \nare compatible in Azure \nSynapse Analytics\n▪Maintained a transition \ndocument and table name \nmapping for the changes \nmade in the infrastructure.\n▪Performed the validation of \ndata across the current \ndashboards and new \ndashboards on a daily level \nand maintained a \nmetrics/KPIs wise \nvalidation tracker.\nData warehousing\nData Pipelines\nModel and Serve\n▪Transitioned the current \nAnalysis Services data models \nfor different line of businesses \nto data fetch data from new \nData Warehouse.\n▪Built new Power BI \ndashboards and Paginated \nreports with source from new \nData Warehouse\n▪Handled the measures in the \nPower BI dashboards and data \nmodels with the new updated \ntable names.\nSupport\n▪Rebuilt all the data \npipelines to load data into \ndedicated SQL pool in \nAzure Synapse\n▪New pipelines were \ndeveloped based on “Data-\nDriven Pipelines” approach \nmaking them more \nefficient, adaptive and \nresilient\nTRANSITION METHODOLOGY\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA FLOW COMPARISON BETWEEN TWO INFRASTRUCTURE\n▪In the earlier infrastructure, the staging was carried out directly at the production SQL database.\n▪After transition, the staging layer was designed in the Data Lake in the form of parquet files.\n▪Using Poly base, the data tables were imported to the Synapse Dedicated SQL Pool in form of external tables.\nAzure SQL Server\nAzure  Data Factory \nData Sources\nAzure Functions\nData Sources\nSynapse\nData Lake Gen 2\nDedicated SQL \nPool\nAzure Functions\nParquet Files\n(as external files)\nExisting Infrastructure\nNew Infrastructure\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "COMPARISON BETWEEN TWO INFRASTRUCTURE\nPOINTS OF COMPARISON\nEXISTING INFRASTRUCTURE\nNEW INFRASTRUCTURE\nPipelines\n~400 data pipelines per table for 14 sources\n~30 dynamic data pipelines for 14 sources\nSchemas\nOnly default [dbo] schema\nSeparate schemas for staging, production, reporting, \nauditing and mapping tables\nStaging\nVarchar staging tables in database from pipelines\nFrom Data Lake as external tables\nStorage Size\n1TB Maximum limit at 2 vCores\nAuto scale and no limit as per DWU consumption\nETL Time\n~3hrs\n~2hrs (33% reduction)\nNomenclature\n[dbo].[tbl_tabletype_Tablename]\n[schema].[Source_LOB_Tablename]\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "DYNAMIC PIPELINES & CONTROL TABLE\n1. CONTROL TABLE\n3. DYNAMIC PARAMETERS\n5. AUTO SCALING\n2. ONE MASTER PIPELINE\n4. POLYBASE\n6. FLEXIBILITY\nOne pipeline for each source which serves \nas a Master pipeline, and ’Foreach’ activity \nwhich executes all sub-pipelines to fetch data \nfrom various data elements from a single \nsource location.\nPolybase technology is leveraged to access and \nload the staging data stored in Data \nLake storage to the SQL pool in the form \nof External Table.\nAny changes in the location of the \nsource directory or the file name of a pipeline \ncan be updated quickly in the control table to \nreflect change across ETL process\nControl Table was designed to contain all the \ndetails related to pipelines such as \nPipeline Name, Source Directory, Columns, Stagin\ng Table Name, Stored Procedure Name, etc.\nInputs from the Control Table are passed as \ndynamic parameters to the pipelines. This \nwould ensure minimal maintenance post \ndevelopment.\nETL process can be extended to any new data \nobject from the existing/new source by just \nadding the respective details in the Control \nTable\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA MODELLING & BI REPORTING SUITE\nModel \nDevelopment  & \nValidation\nModel \nDeployment\nDashboard \nDevelopment\nDashboard \nValidation\n▪Switched data source in data models to Dedicated \nSQL pool.\n▪Table properties were updated with new table \nnames.\n▪Relationships were validated and ensured to be in \nline with existing model.\n▪Few DAX measures (such as \nSUMMARIZE) need to be updated \nmanually.\n▪Updated data models were \ndeployed as new data models to \nAzure Analysis Service (AAS).\n▪All dashboards and paginated reports were re-\ndeveloped by establishing live connection to \nthese new data models.\n▪All the visuals and measures which were built \nlocally in the dashboard need to be re-created.\n▪The KPI and Metric values were compared across new \nand existing production dashboards\n▪All the filters were validated to be in \nline with the existing dashboard.\n▪The navigation and bookmarks were \nrebuilt and validated before publishing.\nDashboard \nPublishing\nBI REPORTING SUITE\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "Dedicated SQL Pool\nAzure Synapse Pipeline\nData Lake Gen 2\nAzure Analysis \nServices\nPower BI \nDashboard\nIngest and Store\nAzure Functions\nData copy from different sources into Synapse Analytics environment using pipelines.\nData modelling and deployment using Azure Analysis Services\nData visualization using Power BI dashboards\nExternal Data Sources\n3\nModel and Serve\nPrep and Train \nPaginated \nReports\n1. GreatPlains\n2. Point Click Care\nSQL\nServer\n1. PPHP\n2. Net Health\n3. Paycom\n4. ClaimZone\n5. ShoesForCrews\n6. Wellsky\n1. OIG Federal\n2. Relias\n3. TeamTSI\n4. CMS Public\n5. Salesforce\nAPI\nSFTP \nFolder\nAzure Logic Apps\nProduction & Reporting tables\nSPs to \nCleanse\nSPs to \nTransform\n1\nc\n2\nEXHIBITS #1 : HIGH LEVEL DIAGRAM OF DATAWAREHOUSE ARCHITECTURE\n8\n1\n2\n3\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBITS #2: DATA MODELLING UPDATES\nUpdating the data model to add new data source from Dedicated SQL Pool\nUpdating the table properties as per new source and updated nomenclature\nOld table property\nNew table property\n9\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (367).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180116+05'30'",
+            "modDate": "D:20241114180116+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n10\nSr. No.\nSection\nLearning Description\n1\nPolyBase\nCOPY INTO function can be used to import huge amounts of data in a very less time. For an instance this can import ~600M records in 10 min \nwhile the scale pool was scaled to 500 DWU.\n2\nDistribution\nChanged the distribution of production tables that were using SCD to HASH distributed as MERGE statement works only with HASH distributed \ntables in Synapse.\n3\nSynapse\nRecursive CTE is not supported in Synapse, and we must come up with an alternate logic based on the use case.​\n4\nSynapse\nTransactions support only DML operations inside the block but not DDL. Transactions names had also been removed as they are not supported.​\n5\nSynapse\nCASE statement was used as an alternative approach of IIF() as IIF() function is not supported in Polybase.​\n6\nSynapse\nERROR_LINE() function is not supported, and we had removed it from everywhere as there was no alternative.​\n7\nSynapse\nIdentity(1,1) generates a surrogate key for a table, but it does not start with 1 and increment by 1. We had used ROW_NUMBER function in case \na key was needed where it starts with 1 and increments by 1.\n8\nParquet Files\nManual mapping had to be used while copying data to parquet file if there are special characters or spaces in the column names from source. In \ncase the source is a database, we can give an alias to the column name in the control table and no manual mapping is needed in such cases.\n9\nModelling\nDuring transition of data model, updated the name of the data model to build a new data model. Added a new data source and updated it for all \ndata tables. Also ensured that none of the existing relationships and measure formulas are disturbed during transition.\n10\nModelling\nSome of the DAX functions such as Summarize() don’t update the name of underlying data table automatically after transition and had to be \nmanually updated.\n11\nDashboard\nWhile replacing the data source of an existing dashboard with the new one, for the visuals that give error, all the related measures need to be \nupdated and the visuals needs to be updated to point to the new measures.\n"
+    }
+]

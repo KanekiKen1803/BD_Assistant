@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProcurement Analytics\n1\nPartnered with the client to identify opportunities for savings and informed \nprocurement decision making with the help of an automated dashboarding suite. \nAs part of this, streamlined the process to centrally track the procurement \ncontracts and spend across plants, analyze the spend, payment terms, POs, etc.\nAutomotive Accessories Manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt automated data flows to consolidate and integrate purchase orders, supplier invoices and payments data from multiple ERP systems (Microsoft \nDynamics GP, Infor Visual, Traverse, Sage 500, etc.) and legacy databases into a central data repository for further analysis\n•\nCreated a central contracts repository to streamline the process of tracking new contracts and setup automated reminders with respective contract owners \nfor contract negotiation, renewals and pricing updates on a monthly basis using ‘Power Automate’\n•\nBuilt the spend cube to provide visibility into the spend by commodity, vendor, and plant. Analyzed the Purchase Price Variance (PPV) to quantify the \nimpact of pricing changes and benchmarked the same against the commodity pricing trends to help the team identify savings opportunities, manage vendor \nperformance and risks\n•\nAnalyzed the vendor payment terms to identify payment trends, gaps in leveraging current credit days or discount terms, and identified the potential saving \nopportunities by rationalizing payment terms across plants and suppliers\nSituation\n•\nGiven the widespread manufacturing footprint and plant-level sourcing, corporate procurement team had limited visibility into procurement processes. \nThere was an opportunity at a company level to analyze the spend better, track pricing trends, and identify savings opportunities\n•\nPartnered with the client to identify opportunities for savings in procurement spend and enable informed decision making with the help of an automated \ndashboarding suite. As part of this, process was streamlined to centrally track procurement contracts, spend across plants, analyze the spend, payment \nterms, etc.\nProcurement Analytics for an Automotive Accessories \nManufacturer \n2\nImpact\n•\nAnalyzing the spend cube highlighted that top 8% of the suppliers accounted for 80% of the total spend highlighting an opportunity to diversify the supplier \nbase and have centralized contracts across plants enabling better negotiating power\n•\nReconciliation of contracts with the supplier invoices highlighted inconsistencies in the invoices of $500K either due to mismatch with contract price or \npayment terms agreed in the contract\n•\nSized a savings opportunity of $400K by rationalizing the payment terms by vendor and commodity by timely payments to vendors (against paying early)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAnalytical Solutions – Procurement Analytics\nSPEND CUBE\n▪Analyzed procurement \nspend by Plant, \nCommodity, and Vendor \nhighlighting \ndiversification \n▪Data driven commodity \nmanagement\n▪Sustainable Procurement \nsavings through strategic \nsourcing and optimization \nof supply base\nPURCHASE PRICE \nVARIANCE\n▪Analyzed the purchase \nprice trends at a \ncommodity level and \nquantified the financial \nimpact\n▪Benchmarked the pricing \ntrends with the \ncommodity indexes to \nvalidate the pricing \nchanges\nCONTRACTS PRICE \nAUDITS\n▪Audited the compliance \nbetween PO prices, \ninvoiced prices, and \ncontracted prices for \naccurate spend\n▪Ensured consistency \nacross purchase \nmanagers, commodities, \nand suppliers \nPAYMENT TERMS \nRATIONALIZATION\n▪Analyzed latest payment \nterms and identified \nopportunity for \nrationalization\n▪Provided visibility into \nbest payment terms \nacross vendors of same \ncommodity or for same \nvendor across various \nplants to size the savings \nopportunity\nPAID TRANSACTIONS \nANALYSIS\n▪Analyzed payment trends \nto identify under-\nutilization of credit across \nplants, commodities, and \nsuppliers as per payment \nterms\n▪Identified opportunities to \nmaximize savings\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach – Procurement Data Flow\nDATA SOURCES\nDATA STORAGE & PROCESSING\nDATA VISUALIZATION\n•\nIngested Purchase contracts/Price agreements from the Procurement team to the central contracts repository through a Microsoft form hosted on SharePoint\n•\nSetup automated reminders with respective contract owners for contract negotiation, renewals, and price revisions\n•\nCollated and ingested contracts, Purchase orders, Invoices, Payments, Commodity pricing data from multiple sources using SSIS and Python to SQL Server data repository\n•\nBuilt data models by leveraging Analysis Services (SSAS) to build Procurement metrics. Designed dashboards to automate and homogenize reporting, data analysis\nSQL Server \nAnalysis Services \nSQL Server \nDatabase\n•\nSpend Cube\n•\nPurchase Price Variance\n•\nContracts Price Audits\n•\nPayment Term Rationalization\n•\nPaid Transactions Analysis\nERP Systems\nCommodity Index Repository\nProcurement Team\nContract Submission Form\nCentral Contracts \nRepository\n1\n2\n3\n4\n1\n2\n3\n4\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #1 – Spend Cube Dashboard\nILLUSTRATIVE\nIdentified top \nsuppliers and \ntheir spend \ndistribution\nSpend \ndistribution by \nPlant\nKey suppliers \nfor each \nCommodity \nand the level of \nconsolidation \nin supplier \nbase\nAnalysis of historical spend across 3 dimensions – Commodity, Supplier and Plant. Spend Cube provides insights into category-level spend management, \nsupplier relationship management, tail-end management and contracted spend-coverage.\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #2 – Purchase Price Variance\nILLUSTRATIVE\nPPV by Plant\nPPV by \ncommodity \nand its key \ndriver – \nΔPrice, \nQuantity\nPurchase price variance (PPV), calculated as the difference between the current cost on an \nitem and the baseline cost (previous period actual amount paid to procure item). Provides \nvisibility into the impact of price change on overall procurement spend.\nPurchase Price Variance = σ𝐴𝑙𝑙 𝐼𝑡𝑒𝑚𝑠𝑃𝑟𝑖𝑐𝑒𝑡 −𝑃𝑟𝑖𝑐𝑒𝑡−1 . 𝑄𝑢𝑎𝑛𝑡𝑖𝑡𝑦𝑡\n𝑇𝑜𝑡𝑎𝑙 𝑆𝑝𝑒𝑛𝑑𝑡\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #3 – Contracts Price Audits\nILLUSTRATIVE\nInvoice vs. PO price \ncomparison to \nidentify \ninconsistencies in \ntransactions\nPO vs Contract price \ncomparison to check \nif purchase managers \nare leveraging the \nnegotiated prices \nInvoice vs. contract \nprice comparison to \ncheck if suppliers are \nhonouring the \nnegotiated prices \n3-step price compliance check to identify any price variances between negotiated contracts, purchase orders raised by plants and invoices created by \nvendors. Price audits help identify transactions that are not in compliance with the expected item costs and benchmarks compliance among plants, \ncontract owners and suppliers to identify trends.\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (333).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171737+05'30'",
+            "modDate": "D:20241114171737+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibit #4 – Payment Term Rationalization\nILLUSTRATIVE\nSpread of \npayment terms \nwithin each \ncommodity and \nthe financial \nimpact of \nrationalizing to \nthe best term\nAnalysis of latest payment terms to identify opportunities to streamline and harmonize the terms among suppliers. This provides visibility into best term \nacross vendors of same commodity or for same vendor across plants to identify suppliers where negotiating better terms would have the largest impact.\nIdentifying \ngaps in terms \noffered by \nthe suppliers \nto the \nsourcing \nunits\n8\n"
+    }
+]

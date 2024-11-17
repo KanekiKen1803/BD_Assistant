@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData and reporting infrastructure setup\n1\n• Diagnosed existing data and reporting infrastructure to identify the gaps and \npain points, and recommended a potential future state \n• Developed data infrastructure based on recommendations from the diagnostic, \nand created a centrally managed reporting suite that is accessible, reliable and \nautomated\nTrading software solutions provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTrading software company needs to hedge its data \narchitecture\n2\nYour value is enhanced. \nYou have revised architecture that enables access to reliable reporting that is automatically refreshed on a real-time basis, thereby \nhelp in making informed decisions quickly. You have also enhanced data consistency between multiple systems, such as Customer \nID, Invoice ID etc. \nDATA AND REPORTING \nINFRASTRUCTURE SETUP\nKEY RESULT   \n•\n100% automation of \ndata integration \nVALUE LEVERS PULLED\n•\nData Warehouse \nMaintenance \n•\nBI Reporting such as \nTime Reporting, Sales \nPipeline and Customer \nHealth reports\n2\nYou turn to Accordion. \nWe partner with your team to diagnose existing data and reporting infrastructure to identify the gaps and pain points and \nrecommend a potential future state. Also, would develop data infrastructure based on recommendations from the diagnostic, and \ncreate a centrally managed reporting suite that is accessible, reliable and automated, including:\n1)\nAssessing existing source systems and data infrastructure to understand the current state, data flows, and potential gaps in \nthe architecture\n2) Collaborating with the business teams to review existing metrics and reporting infrastructure and identified the pain points and \ndesigned the optimal data warehouse and business intelligence infrastructure to enhance the current reporting capabilities\n3) Integrating data sources from different source systems such as NetSuite, JIRA, Salesforce, BambooHR, Access Dimensions etc. \ninto the data warehouse, and transforming and consolidating data from the data sources into the data warehouse to set up the \ndata marts and metrics for creating a single data repository\n4) Building analytics models and developing automated dashboards on Power BI for the reports/analyses identified in the \ndiagnostic phase\nPicture this…\nYou’re looking for an optimal architecture for data and reporting to be centrally available on a real-time basis. But the \ncurrent data from third-party applications such as NetSuite, Salesforce, Jira, BambooHR is not fully integrated and the historical \nfinancial data and time entry data, resides in legacy systems (Access Dimensions and Focal Point).\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAssessed existing source systems and data infrastructure to understand the current state, data flows, and potential gaps in the \narchitecture\n•\nCollaborated with the business teams to review existing metrics and reporting infrastructure and identified the pain points, and designed \nthe optimal data warehouse and business intelligence infrastructure to enhance the current reporting capabilities\n•\nIntegrated data sources from different source systems such as NetSuite, JIRA, Salesforce, BambooHR, Access Dimensions etc. into the \ndata warehouse, and transformed and consolidated data from the data sources into the data warehouse to set up the data marts and \nmetrics, and create a single data repository\n•\nBuilt analytics models and developed and transitioned automated dashboards on Power BI for 12 reports/analyses identified in the \nDiagnostic phase\nSituation\n•\nThe client’s data from third-party applications such as NetSuite, Salesforce, Jira, BambooHR was not fully integrated and the historical \nfinancial data (prior to 2020) and time entry data, resided in legacy systems (Access Dimensions and Focal Point)\n•\nCritical need to evaluate the existing data and reporting infrastructure and recommend an optimal architecture for data and reporting to \nbe centrally available on a real-time basis\n•\nPartnered with the client to conduct the diagnostic, provide recommendations on the potential future state, and set up the data and \nreporting infrastructure accordingly\nData and reporting infrastructure setup for trading \nsoftware firm\n3\nImpact\n•\nRevised architecture enabled the client to have access to reliable reporting that is automatically refreshed on a real-time basis, helping the \nclient make more informed decisions quickly\n•\nEnhanced data consistency between multiple systems, such as Customer ID, Invoice ID etc. \nEDW AND BI REPORTING\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExisting data architecture\n4\nA\nFinance Users\n3rd Party Payroll \nProvider\nHR Team / Users\nProduct Team & \nSupport Team\nC\nSales Team\nD\nB\nH\nK\nI\nJ\nA\nNew Project and associated tasks \n(billable/non-billable) are created in \nNetSuite by users based on SOW\nB\nThe Project information from NetSuite is \nparsed into Jira via Boomi\nC\nThe Product Delivery Team clocks hours \nspent on the project in JIRA\nD\nThe time entry records for projects are \nparsed back to NetSuite from Jira\nE\nData from GitHub is integrated with Jira\nF\nEmployee details are captured in \nBambooHR\nG\nEmployee time-off data from BambooHR \nis integrated with NetSuite\nH\nPayroll data from 3rd party providers is \nfed manually into NetSuite each month\nHistorical Financial \nand Time entry data\nE\nF\nG\nI\nSalesforce is used for lead tracking, \nconversion and account management\nJ\nProspect Booster is used for new lead \ngeneration\nK\nOffline spreadsheets capture customer \ndetails, customer engagement, etc.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nImplemented cloud-based architecture – Azure stack\n5\nAzure Data Factory\nAzure Data Lake\nAzure SQL Database\nAzure Analysis Services\n1\n2\n3\n4\n5\n7\nData Sources\nData Storage & Processing\nData Visualization \n1\nData is extracted from sources using Azure Data Factory and ingested into Azure Data \nLake and Azure SQL Database\n2\nData is saved in Azure Data Lake in a flat file format adhering to best practices of Data \nLake \n3\nData is ingested in Azure SQL Database for transformations and subsequent data \nmodelling\n5\nUsing the Fact and Dimension tables, final data models are generated for \nvisualization\n6\nPeriodic data backups and data archiving is done for the dimensional models from \nAzure Analysis Services in the Azure Data Lake\n7\nKey information such as Customer ID, Employee ID etc. is pushed back into source \nsystems for data standardization\n1\n3\nData is extracted from source systems using Azure Data Factory and ingested into Azure \nData Lake and Azure SQL Database\nRaw data is saved in Azure Data Lake as flat files which serves as “Single Source” of raw \ndata across the company\n4\nData is prepared for creating Fact and Dimension tables and relevant KPIs and metrics\n6\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (420).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190949+05'30'",
+            "modDate": "D:20241114190949+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nList of reports deployed\n6\nLeveraged the integrated data warehouse to enable comprehensive reporting across key functions. The below reports have been developed and automated to \nprovide the real-time and improved visibility into the performance\nSales & Marketing\n▪Sales Pipeline Tracker – Provides visibility into the sales pipeline, conversion rates and detailed information on the opportunities in \npipeline\n▪Salesforce Opportunities – Provides detailed information on the inflight and closed opportunities\nFinance\nCustomer Success\nProduct\n▪Time Reporting – Provides visibility into the approved or unapproved time booked (in hours or days), utilization % and instances of time \nbooked < contracted hours\n▪Services Utilization – Provides visibility into utilization by employee and product for services department\n▪JIRA time reconciliation – Provides a summary of all time records that are required to be revalidated\n▪Customer Health Report – Provides visibility into the customer health status by tracking key metrics across functions including \nfinance (ARR/NRR), sales (opportunity pipeline), Product (inflight development projects) and Support tickets being raised\n▪Product Development Tracker – Provides visibility into the sprint performance (historical and ongoing)\n▪Services Report – Provides visibility into the inflight Service projects and the time booked against each\n▪Support Report – Provides visibility into the Support tickets by status, priority and the backlog by customer\n"
+    }
+]

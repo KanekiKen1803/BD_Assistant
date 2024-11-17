@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150010+05'30'",
+            "modDate": "D:20241114150010+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nSITUATION\n▪Client lacked visibility into the company’s terminal (service centers) operations performance due to lack of structured timely reporting and legacy data systems. This made it \nvery difficult to identify poorly performing terminals and to incentivize better performing terminals.\n▪Merilytics partnered with the client to build a TV dashboard with a leaderboard of terminals based on key operations performance metrics\n▪Identified the key operations metrics (such as Dimming%, Reweigh%, Margin%, Utilization, Service%, Scanning Compliance%, Cost Per Mile (CPM), P&D (Pickup & Delivery) \nCost/Shipment, etc.) and their data sources. Finalized goals for each of the metrics for all terminals based on historical performance. \n▪Connected all data sources into a robust data warehouse and built a tabular data model on SSAS with all the KPIs defined\n▪Built a dashboard on Power BI with a leaderboard for terminals (ranking is based on number of goals hit; and in case of tie, %goal attainment score is considered) to track their \nperformance on a daily, weekly and monthly basis. \n▪Integrated this Power BI dashboard with ScreenCloud application and created different screens for each terminal (using a dynamic filter based on terminal name) that refresh \nevery 10 minutes. Setup TV screens across offices of all terminals taking the live feed from ScreenCloud application. \nVALUE ADDITION\nIMPACT\n▪The TV Dashboard helped client reward the top 3 terminals every month with incentives and identify the terminals with poor performance to take necessary actions. Gamification \nthrough this league increased competition among the terminals leading to an overall performance improvement.\n▪Within 3 months after the launch of TV dashboard – \nABOUT THE CLIENT\nClient is an LTL (Less-than-Truckload) shipping services company based in the U.S. serving lanes across ~30 major cities in the country.\nOperations TV Dashboard for an LTL Logistics Company  \n1\n─Shipment Dimming (Measuring Dimensions) compliance increased by ~20% \n(from ~73% to ~93%); equivalent to ~$100K/month savings from Dimming \nerrors\n─Reweigh compliance increased by ~3% (from ~95% to 98%); equivalent to \n~$30K/month savings from Weighing errors \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150010+05'30'",
+            "modDate": "D:20241114150010+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nMethodology/ Approach\n2\nData Sources \nStaging Database\nIngest\nPrep & Train\nServe\nData Warehouse\n(Operations, Sales, Cost Data)\n(Pick-up Data)\n(Labor Hours Data)\nQlik Replicate\nSSAS Models\nOperations Targets Data\nOne-Time \nLoad\nTV Screen Display\nRefresh every \n10 mins\nReplicated the data from various data sources (such as Operations, Sales, Cost, Pick-up, Labor data etc.) into a staging database in SQL server using ‘Qlik Replicate’ \nLoaded the targets for key operations KPIs defined the business team for each terminal into the staging database. This was a one-time load as the targets are static\nBuilt a robust data warehouse with a reporting database connecting data sources from the staging database and transformed raw data as per business requirements\nDeveloped a ready-to-serve Tabular data model on SSAS for analytical and reporting purposes defining all key KPIs and their targets for all terminals\nDeveloped Power BI dashboard above the data model to track operations performance of terminals against their goals along with a leaderboard based on terminal scores\nConnected this Power BI dashboard to ScreenCloud and setup an automated refresh of the screens for every 10 minutes to reflect the latest data\nCreated different screens for all terminals using dynamic filters based on terminal name. Setup TV Monitors across all terminals with the live feed from ScreenCloud\nReporting Database\nTerminal\n01\nTerminal\n02\nTerminal\n03\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150010+05'30'",
+            "modDate": "D:20241114150010+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nILLUSTRATIVE\nExhibit #1 – Terminal Leaderboard\n3\nTop 3 terminals are \nrewarded every month\nRanking is based on \nnumber of goals hit by \nthe terminal.\nIn case of tie (#goals \nhit is same), %goal \nattainment score is \ncalculated for all \nmetrics and this score is \nused to rank the \nterminals\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150010+05'30'",
+            "modDate": "D:20241114150010+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nILLUSTRATIVE\nExhibit #2 – KPI Summary \n4\nTerminal can be \nselected here to see its \nperformance metrics.\n% Goal Attained is \ncalculated by \ncomparing Actuals with \nthe goal defined for \neach metric\nThe background color \nindicates whether the \ngoal is hit or not. \nGreen if it hits the goal, \nYellow if it hits 95% of \ngoal, else Red\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (226).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150010+05'30'",
+            "modDate": "D:20241114150010+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nILLUSTRATIVE\nExhibit #3 – Dashboard Displayed On Tv Screens In Terminal Offices\n5\nPower BI dashboard is \ndisplayed on the TV screens \nof terminal offices and \nwarehouses using \nScreenCloud application\n"
+    }
+]

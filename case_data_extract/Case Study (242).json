@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOptimizing dental practice consolidation with \nGenerative AI-driven data classification\n1\nChain of Healthcare providers specializing in Orthodontics\nDeveloped a Generative AI -based multidimensional data classification solution \nthat efficiently categorizes a transaction based on multiple attributes to reduce \nthe manual processing time. Solution significantly accelerated the M&A processes \nby reducing the data acquisition and integration turn-around time. \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for an Open AI based Generative AI solution with functionality to generate mappings for transaction description \ninto various pre-defined categories. You have adopted a profit-sharing model with the acquired Practices, that lacked the \ncapability to automatically harmonize the transaction data of all practices for business reporting. Significant amount of manual \nmapping efforts was required to align new transaction descriptions with the pre-defined categories for consistent reporting, which \nled to increase in the onboarding time for new acquisitions\nOrthodontics company needs “Gen AI” driven classification\n2\nYour value is enhanced. \nYou have integrated practices into a reporting suite ~2 weeks faster, resulting in a notable acceleration (~ 25%) of the acquisition \nprocess. You have streamlined new transaction description mappings saving ~60 analyst hours per month. You have also \nstandardized and corrected existing data that led to an accurate categorization of ~ $10 million in the reporting suite.\nOPTIMIZING DENTAL PRACTICE \nCONSOLIDATION WITH GENERATIVE \nAI-DRIVEN DATA CLASSIFICATION\nKEY RESULT   \n•\n~2 weeks faster \nacceleration of (25%) \nacquisitions\n•\n~60 manhours saved per \nmonth\n•\n~$10 million accuracy \nin the reporting\nVALUE LEVERS PULLED\n•\nGenerative AI \nframework utilizing \nAzure OpenAI GPT \nmodels\n•\nML-based clustering \nalgorithm\n•\nDeveloped a confidence \nscore metric \n2\nYou turn to Accordion. \nWe partner with your team to develop a Generative AI -based multidimensional data classification solution that efficiently categorizes \na transaction based on multiple attributes to reduce the manual processing time. Solution significantly accelerated the M&A processes \nby reducing the data acquisition and integration turn-around time, including:\n1)\nDeveloping a Generative AI framework utilizing Azure OpenAI GPT models, achieving data processing and categorization with \nan accuracy exceeding 95%\n2) Curating an optimal dataset for the LLM's contextual analysis through a ML-based clustering algorithm, significantly increasing \nthe accuracy of mappings\n3) Integrating specialized orthodontic knowledge into the LLM’s prompts across various categories, enabling the generation of \ntailor-made mappings\n4) Implementing a confidence scoring system, using semantic similarity with related records to ensure a high degree of \nconfidence in automated categorizations\n5) Enabling users to review and manually override model responses via Excel reports, providing a human feedback loop to \nvalidate data before integration into the reporting suite\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a Generative AI framework utilizing Azure OpenAI GPT models, achieving data processing and categorization with an accuracy exceeding 95%\n•\nCurated an optimal dataset for the LLM's contextual analysis through a ML-based clustering algorithm, significantly increasing the accuracy of mappings\n•\nIntegrated specialized orthodontic knowledge into the LLM’s prompts across various categories, enabling the generation of tailor-made mappings\n•\nImplemented a confidence scoring system, using semantic similarity with related records to ensure a high degree of confidence in automated categorizations\n•\nEnabled users to review and manually override model responses via Excel reports, providing a human feedback loop to validate data before integration into the \nreporting suite\nSituation\n•\nClient has adopted a profit-sharing model with the acquired Practices, and they lacked capability to automatically harmonize the transaction data of all \npractices for business reporting. Significant amount of manual mapping efforts was required to align new transaction descriptions with the pre-defined \ncategories for consistent reporting, which led to increase in the onboarding time for new acquisitions\n•\nPartnered with the client to develop an Open AI based Generative AI solution with functionality to generate mappings for transaction description into various \npre-defined categories\nOptimizing dental practice consolidation driven by Gen AI\n3\nImpact\n•\nPractices were integrated into the reporting suite ~2 weeks faster, resulting in a notable acceleration (~ 25%) of the client's acquisition process\n•\nStreamlining new transaction description mappings saved ~60 analyst hours per month\n•\nStandardization and corrections in existing data led to an accurate categorization of ~ $10 million in the reporting suite\nDATA CLASSIFICATION MODEL\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nInformation flow framework to map new transactions to \nstandard format \n4\n2\nAzure Data\nLake \nStorage\nSharePoint\nVector \nStore\nHuman Review\nAzure SQL \nDB\nExcel File\n3\n4\n1\n6\n7\n8\n5\n2\n9\n1\nAzure Logic Apps triggers API endpoint of Gen \nAI based mapping model to identify accurate \nmappings for new transactions\n2\nHistorical transaction data hosted in Azure \nSQL DB would be passed through ML \nalgorithms to identify optimal dataset for LLM’s \nprompt\n3\nML based clustering algorithms leveraged to \nbuild data clusters for each transaction \ncategory and identify relevant records\n4\nData points nearest to centroid of each \nclusters would be identified for LLM training to \nidentify patterns in data for each category\n5\nNew transactions along with identified optimal \ndataset would be passed to Open AI GPT \nmodel to generate mappings for new \ntransactions\n6\nConfidence score will be evaluated for model \noutputs using clustering algorithm by \nestimating proximity to the tagged category\n7\nOutput excel shared for human review through \nSharePoint to check output accuracy for low \nconfidence results\n8\nResults after vetting is stored in Azure DB for \nreinforcement feedback mechanism essential \nfor model re-learning\n9\nFinal consolidated and reviewed transaction \nmapping excel is pushed to Azure Data Lake \nfor downstream process and DW ingestion\nAzure SQL \nDB\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology: Confidence score\n5\nAzure OpenAI\nGPT Model Output\nConfidence Score\nScore Estimation\nVector \nStore\nHistorical \nTransactions\n1\n2\n3\n4\n1\nHistorical transaction data was separated into groups based \non category and were embedded using Azure OpenAI \nembedding model and stored in a vector database\n2\nK-means clustering algorithm was used to cluster historical \ntransaction data. Centroid information along with distance of \neach data point from center were stored in vector database\n3\nModel outputs containing new transaction description along \nwith mapped category was embedded using Azure Open AI \nembedding model\n4\nDistance of new transaction from centroid of mapped \ncategory was leveraged to estimate percentile for each new \ndata point for confidence score calculation\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel output\n6\nModel Input\nLLM Input\nManual Override\nFinal Output\nUser input to enter a \ntransaction category from drop \ndown in case of override\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (242).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152047+05'30'",
+            "modDate": "D:20241114152047+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nConfidence score clusters \n7\nDimensions of data \nrepresented in vectorized form \nwere significantly reduced to \nvisualize in 3D\nDescriptions for transactions \nwhich are similar in semantic \nmeaning, were clustered \ntogether in vector space\nILLUSTRATIVE\n"
+    }
+]

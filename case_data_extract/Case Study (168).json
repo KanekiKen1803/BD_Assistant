@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nChannel partner performance analytics\n1\nDeveloped a comprehensive reporting suite for channel operations to derive real-\ntime insights into the performance of channel partners and take decisive actions\n(Telecommunications company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build structured data models, set up automated reporting, and create dashboards on Tableau refreshed \ndaily to track the performance of all channel partners. Currently, you have no visibility into the performance of its 6,500+ \nchannel partners, which hindered their ability to reward high-performing partners and address the issues with underperformers \ndue to the absence of structured data and timely reporting.\nTelecommunications company needs channel partner \nperformance analytics\n2\nYour value is enhanced. \n•\nThe increased reporting frequency of channel operations data from a monthly to a daily cadence empowered the channel \noperation managers and partners with real-time insights generation and decision-making\n•\nYou  have reduced 4 FTE days per month through consolidation of data and automation of modeling \n•\nYou have also provided a competitive advantage by improving the ease of doing business for channel partners by providing \nthem with visibility into their performance measurement, leading to better insights on incentives\nCHANNEL PARTNER PERFORMANCE \nANALYTICS\nKEY RESULT   \n•\nReduction of 4 FTE \ndays\nVALUE LEVERS PULLED\n•\nChannel analytics\n•\nAutomation & \nconsolidation of \nchannel operations \ndata\n2\nYou turn to Accordion. \nWe partner with your team to develop a comprehensive reporting suite for channel operations to derive real-time insights into the \nperformance of channel partners and take decisive actions, including:\n1) Designing a comprehensive channel partner performance assessment framework that evaluates channel partners based \non their revenue generation and compliance with the client’s global partner program\n2) Ingesting data from multiple sources such as Salesforce, SAP, Microsoft SQL Server, Zuora, Cost Guard, Marketo, and \nOneDrive using Fivetran into a Snowflake-based data warehouse\n3) Consolidating the data from all data sources and built the fact/dimension tables within Snowflake to create ready-to-\nserve data marts for reporting\n4) Developing and deploying a reporting suite of automated Tableau dashboards, including partner performance, partner \nleveling, and partner scorecards, which are refreshed daily to provide visibility into the performance of over 6,500 \npartners distributed across over 100 countries\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned a comprehensive Channel Partner Performance Assessment Framework that evaluates channel partners based on their revenue generation and \ncompliance with the client’s global partner program\n•\nIngested data from multiple sources such as Salesforce, SAP, Microsoft SQL Server, Zuora, Cost Guard, Marketo, and OneDrive using Fivetran into a \nSnowflake-based data warehouse\n•\nConsolidated the data from all data sources and built the fact/dimension tables within Snowflake to create ready-to-serve data marts for reporting\n•\nDeveloped and deployed a reporting suite of automated Tableau dashboards, including Partner Performance, Partner Leveling, and Partner Scorecards, \nwhich are refreshed daily to provide visibility into the performance of over 6,500 partners distributed across over 100 countries\nSituation\n•\nThe client lacked visibility into the performance of its 6,500+ channel partners, which hindered their ability to reward high-performing partners and address \nthe issues with underperformers due to the absence of structured data and timely reporting\n•\nPartnered with the client to build structured data models, set up automated reporting, and create dashboards on Tableau refreshed daily to track the \nperformance of all channel partners\nChannel partner performance tracking for \ntelecommunications company\n3\nImpact\n•\nThe increased reporting frequency of channel operations data from a monthly to a daily cadence empowered the channel operation managers and partners \nwith real-time insights generation and decision-making\n•\nReduced 4 FTE days per month through consolidation of data and automation of modeling \n•\nProvided a competitive advantage to the client by improving the ease of doing business for channel partners by providing them with visibility into their \nperformance measurement, leading to better insights on incentives\nCHANNEL PARTNER PERFORMANCE \nANALYTICS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\n▪Analyzed existing reports and finalized key metrics to indicate Partner’s performance, and identified dimensions to stratify the data \n▪Gathered and documented requirements of the end users for appropriate dashboard design\n▪Determined the necessary datasets for establishing KPIs and integrated them with Snowflake using Fivetran\n▪Generated historical data snapshots, aggregated data, and developed a cohesive data model leveraging data build tool (dbt)\n▪Built ready-to-serve reporting tables with calculated fields for specific KPIs\n▪Validated the values for test cases and implemented modifications in logic for exceptions\n▪Developed the Partner Performance, Partner Leveling, and Partner Scorecard Dashboards to provide visibility of the global partner program at the \nexecutive level, channel operation manager level, and individual partner level, respectively\n▪Deployed the dashboards with row-level security on an internal server for executives & managers, and on an external server for partners\nRequirements \nGathering\nArchitectural \nDesign\nBusiness Logic \nImplementation\nDashboard \nDevelopment\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData architecture\n5\n•\nData from various sources integrated with Snowflake using Fivetran\n•\nPipeline to create reporting tables was set up using dbt following CI/CD process to reduce the development time\nData visualization\nData storage & transformation\nSnowflake \ndatabase\nDevelopment snowflake database\nSchema: \nClean\nSchema: \nAggregate\nSchema: \nUDM\nSchema: \nDDI\nUAT snowflake database\nSchema: \nClean\nSchema: \nAggregate\nSchema: \nUDM\nSchema: \nDDI\nProduction snowflake database\nSchema: \nClean\nSchema: \nAggregate\nSchema: \nUDM\nSchema: \nDDI\nDevelopment\nTableau desktop \ndashboards\nUAT\nTableau dashboards\nProduction\nTableau dashboards\nData sources\nLicense servers\n(Amc, sls)\nExtract + load\nInstance-1\nIngestion \ndatabase\nInstance-2\n*UDM: Unified Data Model; DDI: Data Delivery & Interaction\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPartner performance dashboard\n6\nCloud Migrations\nQ1\nQ2\nQ3\nQ4\nQ1\nQ2\nQ3\nQ4\nQuarter Ending:      \nQ1, Year 1\nOverall Partner Compliance\nQ1                        Q2                            Q3                       Q4\nPartner Points Mix\nProvides visibility into the \ncertifications achieved by \nthe partners against the \nrequirements\n•\nProvides visibility into \nKPIs to assess partners’ \nperformance\n•\nKPIs include total \nrevenue, revenue from \nnew sources, revenue \nfrom cloud products, \nmigration of customers \nto specific cloud \nproducts and no. of \ntrainings completed\nDistribution of points \nindicating partners’ \nperformance across \nvarious offerings\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPartner leveling dashboard\n7\nProvides visibility into \nchange in performance of a \npartner as compared to \nprevious year\nButton to select a partner \nand view detailed \nscorecard for the selected \nperiod\nSummarizes the \nperformance of partners for \neach Channel Operation \nManager/Account Owner\nFunctionality to download \nthe data in an Excel file\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (168).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134541+05'30'",
+            "modDate": "D:20241114134541+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPartner scorecard\n8\nProvides visibility into points calculation for a \nspecific partner in the selected time frame\nEnables partner to track completion status of \ntrainings under various categories\nProvides visibility \ninto compliance \nstatus of training \nrequirements\n"
+    }
+]

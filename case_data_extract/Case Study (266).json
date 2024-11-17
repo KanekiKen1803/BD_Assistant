@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nLoyalty program analytics\nRESTAURANT CHAIN\nEvaluated the performance of the loyalty program and the \ncustomer behaviour pre and post loyalty registration.\nCustomer de-duplication, customer \ndata consolidation, customer \nfrequency by key timeframes\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "2\nEvaluated the performance of the loyalty program and the customer behaviour pre \nand post loyalty registration.\nLoyalty program analytics\n(Restaurant Chain)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "LOYALTY PROGRAM ANALYTICS FOR AN F&B COMPANY\nSITUATION\n▪\nClient had an opportunity to improvise their loyalty program by assessing its  effectiveness and evaluate if there is a significant benefit to \npromote the Loyalty Program\n▪\nMerilytics partnered with the client to evaluate  the Loyalty program sign-ups & sales along with the customer journey to help client understand \nthe effectiveness of their Loyalty program\n▪\nDe-duplicated the customer data to accurately identify unique customers and track their journey\n▪\nConsolidated data from various sources into a single platform to estimate loyalty sales by each customer \n▪\nCompared the purchase behavior of loyalty and non-loyalty customers by analyzing the key metrics such as # spend per check, visit frequency, \netc. \n▪\nEvaluated the purchase behavior pre and post loyalty registration to understand the effectiveness of the program and if customer behavior was \ndriving the registration\nVALUE ADDITION\nIMPACT\n▪\nOur analyses enabled the client to identify that the high frequency customer are opting for Loyalty program and their frequency remained \nunchanged post the loyalty registration.\n▪\nThe insights form the analyses helped the client to revise the existing loyalty program and target the right customers in order to increase \nregistrations  based on their visit number and number of guests.\nABOUT THE CLIENT\nClient is a Mexican restaurant chain with presence across the United States\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER\nDE-DUPLICATION\nDATA   \nCONSOLIDATION\nPERFORMANCE \nANALYSIS\n• Credit card payments data was considered\n• Identified unique customer by de-duplicating customer accounts based on name and store details\n• Identified and removed noise in the data generated by gift cards, coupons etc. which were registered as customer \naccounts\n• Consolidated the ‘Loyalty Accounts’ payments data with ‘De-duplicated Customer details’ and ‘Item sales’ data to \nidentify the transactions of unique customers with loyalty account\n• Identified customer journey and their item preferences before and after loyalty registration\n• Identified and estimated metrics such as Loyalty share, Spend per guest, Check size and Guests per check to understand \nthe loyalty performance\n• To understand if frequent customers opted for loyalty, we analyzed the gap between initial 03 visits of customers who \nlater opted for loyalty vs. who did not\n• Further, to evaluate the impact of Loyalty program on frequency, we analyzed the gap between visits before loyalty \nenrolment vs. visits after enrolment\n4\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "Visit Frequency\nThe average time gap between any two visits of \nloyal customers is compared with other customers \nto understand if visit frequency is significantly \ndifferent \n01\nCustomer Behavior\nEvaluated the frequency of purchase before and \nafter the loyalty registration to understand if high \npurchase frequency causes loyalty registration or \ncustomers tend to have higher frequency after \nsigning up for loyalty program\n02\nTiming of loyalty registrations\nEvaluated the registration details of the customers \nto identify the appropriate customer and their visit \nfor introducing the loyalty program\n03\nLoyalty customer item preferences\nAnalyzed item purchase behavior across loyal and \nother customer to understand the items that could \nbe potentially introduced in the loyalty program & \nimprove conversion\n04\n5\nESTIMATED LOYALTY PROGRAM EFFECTIVENESS BASED ON MULTIPLE METRICS\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "8%\n13%\n20%\n29%\n32%\n32%\n26%\n19%\n14%\n8%\nNon-Loyal\nLoyal\n181 - 270 days\n91-180 days\n31-90 days\n8-30 days\n1-7 days\nShare of customers by gap between two visits, %\nHigher share of loyal customers come back \nwithin a month compared to Non-Loyal \ncustomers indicating customers registered for \nloyalty program visit frequently\n17%\n23%\n34%\n31%\n29%\n27%\n17%\n14%\n3%\n5%\n1-7 days\n8-30 days\n91-180 days\n181-270 days\n31-90 days\nShare of customers by gap before they registered for Loyalty program\nCustomers who eventually registered for loyalty \nprogram had higher visit frequency before the \nregistration compared to customers who did not \nsign up indicating their frequency might have \ncaused the loyalty registration\nILLUSTRATIVE\n6\nFREQUENCY OF THE VISITS WERE COMPARED ACROSS LOYAL AND OTHER CUSTOMERS\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "7\n5%\n23%\n17%\n31%\n34%\n27%\n29%\n14%\n17%\nLoyal\n3%\nNon-loyal\nTime between customer visits1 in 2017 for \nNon-Loyal and Loyal account users before they registered for Loyalty\n1-7 days\n8-30 days\n31-90 days\n91-180 days\n181-270 days\nUser who eventually registered for \nloyalty program, 28% of the customer \nvisits were within a month of the \nprevious visit, which was higher compared \nto 20% of the customer visits with-in a \nmonth for customers who did not sign \nup for loyalty program\nUSERS WHO EVENTUALLY REGISTERED FOR LOYALTY HAD SLIGHTLY HIGHER VISIT FREQ. PRE-\nREGISTRATION, INDICATING FREQ. MIGHT HAVE CAUSED LOYALTY REGISTRATION\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "5%\n4%\n23%\n21%\n37%\n39%\n25%\n20%\n10%\n16%\nBefore Registration\nAfter Registration\nTime between customer visits before and after1 Loyalty account registration2 in 20173\nSAME STORES\n2017\n1-7 days\n31-90 days\n91-180 days\n8-30 days\n181-270 days\nAfter registering, 25% of the customer \nvisits were with-in a month, which was \nlower compared to 28% of the \ncustomer visits with-in a month \nbefore registering\n1.\n The gaps between visits for 2 visits before enrollment and 2 visits after enrollment were considered for this analysis\n2.\n The visit in which customers registered to loyalty program or the first visit after customer registered online were considered as registered visits\n8\nHOWEVER, CUSTOMER FREQUENCY SLIGHTLY REDUCED AFTER LOYALTY PROGRAM \nREGISTRATION INDICATES LOYALTY PROGRAM DID NOT EFFECT CUSTOMER FREQUENCY\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "50%\n70%\n80%\nShare of loyalty registrations\n1\nVisit #\n2\n3\nSAME STORES1\n2017\n8%\n8%\n10%\n10%\n19%\n26%\n19%\nSaturday\nShare of customers\nThursday\nMonday\nTuesday\nWednesday\nSunday\nFriday\nShare of Loyalty registrations across days of week\nCumulative Loyalty \nconversion rate by visit #, %\n9\n80% OF LOYALTY REGISTRATIONS HAPPEN WITHIN THE FIRST 3 VISITS AND THE \nREGISTRATIONS WERE CONCENTRATED IN THE WEEKEND\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "97%\n42%\n13%\n3%\n93%\n43%\n16%\n2%\nLiquor\nFood\nBeer\nWine\nShare of checks across item categories\n48%\n52%\n47%\n36%\n16%\n20%\n17%\n8%\n6%\n44%\n41%\n35%\n35%\n16%\n14%\n11%\n7%\n5%\nAppetizers\nFajitas\nLunch\nNA Beverage\nTex-Mex\nOther\nDessert\nKids\nSalad\nNon-Loyal\nLoyal\nShare of checks across item classes1 of Food\nSAME STORES\n1 Top 9 item classes by share of checks in Food category are considered. Excludes items that were given as complementary.\n2018\nThe higher share in Non-Alcoholic drinks and Kids suggest that the loyalty program could be primarily registered by a family which is supported \nhigher #guests per check as well\n10\nTHE ITEM PREFERENCE IN LOYALTY CHECKS AND NON-LOYALTY CHECKS WAS LARGELY \nDIFFERENT FOR FAJITAS, NON-ALCOHOLIC BEVERAGES & KIDS\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (266).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155136+05'30'",
+            "modDate": "D:20241114155136+05'30'",
+            "trapped": ""
+        },
+        "content": "▪\nMethodology to estimate the effectiveness of loyalty program. \n▪\nWe cannot consider all the customers who have signed up for loyalty program for the analysis.\n▪\nFilter the customers with equal # of visits pre and post registration and estimate the visit gap. \n11\nLEARNINGS - INSIGHTS\n"
+    }
+]

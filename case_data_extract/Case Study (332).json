@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171623+05'30'",
+            "modDate": "D:20241114171623+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWorkforce Attrition Analysis\n1\nAnalyzed the staffed workforce hiring and attrition trends by customer, region, \nchannel, pay rates, working hours, etc. to derive deep insights and potential action \nitems to address the issues\nSales and Marketing Services Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171623+05'30'",
+            "modDate": "D:20241114171623+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed attrition rates for the staffed customer on-site workforce by customer, region, role, payrate, hours, etc. to understand drivers of workforce turnover\n•\nAssessed impact of pay rate (vs. minimum wage, vs. market/midpoint, vs. other incumbents), actual hours worked vs. promised “standard hours”, full time \nvs. part time, job title/type of work, leadership/management (e.g., tenure, location, performance, level), etc.\n•\nAnalyzed the recruitment data to understand cost per hire (broken down by fixed and variable costs), time to fill open requisitions for hiring, funnel ratios \nfrom number of applications to number of hires based on channels, open current requisitions, efficiency of internal recruitment process vs. recruitment \nprocess outsourcing, etc.\n•\nDetermined key actions to address attrition, and estimated potential savings based on cost of re-hiring, lost customer revenues, etc.\nSituation\n•\nClient was facing very high turnover of staffed sales and marketing resources at their customer sites, and wanted to better evaluate the workforce turnover \nrates, recruitment processes, staffing, etc. to better understand the workforce attrition trends, and impact on overall profitability of the company\n•\nPartnered with the client to analyze the S&M workforce attrition rates, recruitment processes, staffing processes, etc. to derive deep insights and potential \naction items \nWorkforce Attrition Analysis for a Sales & Marketing \nServices Provider\n2\nImpact\n•\nIdentified critical drivers and underlying reasons for high staffed resource attrition, along with suggested actions\n•\nIdentified data quality issues and helped manually cleanse the data to enable accurate reporting and analyses\n•\nEstimated potential savings and supported Management to communicate to the Board on implementation of the solutions identified\nWorkforce Attrition Analysis \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171623+05'30'",
+            "modDate": "D:20241114171623+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Consolidation and Cleansing\n3\n▪Recruitment Data\n−Channel\n−Funnel status and timelines\n−Source\n−…\n▪Census (Headcount) Data\n−Employee ID\n−Start date\n−Payrates, working hours\n−…\n▪Termination Data\n−Date\n−Reason\n−Termination status\n−…\n▪Master data set encompassing end-to-end view of an employee from recruitment sourcing, hiring process, census status, and payroll trends \nleading up to termination (and rehire, if applicable)\n▪Developed analytics models to enable easy identification of various trends by region, customer, demographics, pay bands, working hours, etc. \n▪Integrated monthly census files to create consolidated master census data set\n▪Mapped census data with recruitment data\n▪Mapped census data with termination data\n▪Identified data anomalies and excluded outliers\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (332).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171623+05'30'",
+            "modDate": "D:20241114171623+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAnalyses Approach\nILLUSTRATIVE\nAssociates that work ≥ 80% of promised hours vs. < 80% of promised hours\nAssociates with pay ≥ top-20 percentile vs. < top-20 percentile \nPart-time associate turnover vs. Full-time associate turnover; and cost of hiring for Part-time vs. Full-time\nGap in offer date vs. start date and associated attrition trends\nRehire vs. first-time hire \nTime taken to fill the role\nBy customer and location\nExamples of Analyses for Attrition Rates\nConversion rates by recruitment funnel and potential opportunity to reduced the number of stages in the \nrecruitment process\n"
+    }
+]

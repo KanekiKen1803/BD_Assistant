@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData Management Solution for Survey Data \nReporting Automation\n1\nBuilt a unified data warehouse for survey data and automated the data pipelines \nand reporting process\nPrivate Equity Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to design and implement a Unified Data Warehouse solution that automates the data ingestion process and \nenables faster and more accurate analysis of the Technology and Security Survey data regularly conducts Technology \nSurveys every year and Security Surveys every quarter for all its 40+ portfolio companies to identify and address any gaps or risks \nin the Technology and Security areas. These surveys have more than 100 questions for every response and are manually analyzed. \nHowever, the current process of downloading and analyzing the survey data in Excel Sheets and Power BI is inefficient and prone \nto errors. It also hampers the ability to perform historical analysis of the survey data over time. To overcome these challenges\nPrivate equity company needs data management solution for \nsurvey data reporting automation\n2\nYour value is enhanced. \nThe automated data warehouse eliminated the manual process of updating the BI dashboard and reduced the refresh turn-around \ntime (TAT) from 1 day to 10 minutes. Scalable architecture which can include more portfolio companies and future annual survey \ndata without changing the architecture. You have provided flexibility to design & implement new KPIs/Metrics and questions and \npush them on the dashboards seamlessly. You have ability to compare and analyze historical  and current data (YoY, QoQ, MoM, \netc.) which was not possible earlier and also flexibility to run surveys in subsequent years from the database of questions for the \nsurvey that was create. Ease of decision-making related to technology risks or gaps in the portfolio companies. \nDATA MANAGEMENT SOLUTION FOR \nSURVEY DATA REPORTING \nAUTOMATION\nKEY RESULT   \n•\nReduced the dashboard \nrefresh time (TAT) \nfrom 1 day to 10 \nminutes. \nVALUE LEVERS PULLED\n2\nYou turn to Accordion. \nWe partner with your team to Built a unified data warehouse for survey data and automated the data pipelines and reporting \nprocess, including:\n1)\nAnalyzing the data structure of the source Survey Response data and the transformation logic in the existing Power BI \ndashboards\n2) Designing and spun off a new data warehouse on Azure to extract, transform, load, and store the survey data\n3) Building automated pipelines to ingest data to create a single central repository of the data on Azure SQL Server using \nAzure Data Factory and Logic Apps\n4) Transforming the raw data and built data models that can serve any reporting needs\n5) Reconfiguring existing Power BI dashboards to point to the new reporting views from the newly developed Data \nWarehouse\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the data structure of the source Survey Response data and the transformation logic in the existing Power BI dashboards\n•\nDesigned and spun off a new data warehouse on Azure to extract, transform, load, and store the survey data\n•\nBuilt automated pipelines to ingest data to create a single central repository of the data on Azure SQL Server using Azure Data Factory and Logic Apps\n•\nTransformed the raw data and built data models that can serve any reporting needs\n•\nReconfigured existing Power BI dashboards to point to the new reporting views from the newly developed Data Warehouse\nSituation\n•\nClient regularly conducts Technology Surveys every year and Security Surveys every quarter for all its 40+ portfolio companies to identify and address any \ngaps or risks in the Technology and Security areas\n•\nThese surveys have more than 100 questions for every response and are manually analyzed. However, the current process of downloading and analyzing \nthe survey data in Excel Sheets and Power BI is inefficient and prone to errors. It also hampers the ability to perform historical analysis of the survey data \nover time. To overcome these challenges, partnered with the client to design and implement a Unified Data Warehouse solution that automates the data \ningestion process and enables faster and more accurate analysis of the Technology and Security Survey data\nSurvey data reporting automation for a private equity firm\n3\nImpact\n•\nThe automated data warehouse eliminated the manual process of updating the BI dashboard and reduced the refresh turn-around time (TAT) from 1 day to 10 \nminutes\n•\nScalable architecture which can include more portfolio companies and future annual survey data without changing the architecture\n•\nFlexibility to design & implement new KPIs/Metrics and questions and push them on the dashboards seamlessly\n•\nAbility to compare and analyze historical  and current data (YoY, QoQ, MoM, etc.) which was not possible earlier\n•\nFlexibility to run surveys in subsequent years from the database of questions for the survey that was created\n•\nEase of decision-making related to technology risks or gaps in the portfolio companies\nData Management Solution for \nSurvey Data Reporting \nAutomation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPrior BI architecture\nInternal company \ninformation\nSurvey responses\nMapping data\nData Sources\nVisualization\nObservations on Prior Architecture:\n1.\nAccuracy issues arising from manually holding current data sets in Excel/data model while layering multiple annual surveys results on top of each \nother (data not in one place)\n2.\nManaging data in separate Excel files for each year may lead to scalability challenges as the volume of data grows over time\n3.\nNo established system for historical data maintenance. Typical challenges with Excel catalog (needing to still upload/maintain in a data model for \nPower BI use, versioning, etc.)\n4.\nRedundant columns within the data models, potentially leading to increased model size\n5.\nNeed for manual interfacing (both downloading from survey and uploading into something usable in Power BI)\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nImplemented BI architecture\nCode \nrepository\nAzure Data \nFactory \n(Data \nPipelines)\n(SQL Datawarehouse)\nLogic apps\n4\nCustom ETL Jobs\nBusiness \nRules\nData transfer between layers through Database Stored Procedures\n1\nThe source Excel files (Technology Survey Responses, Company Info, Mapping data) are \nplaced into the Data Lake storage\n3\n2\nCollate, ingest, and transform the data from the Data lake using Azure Data Factory to the SQL \nDatabase. Set up automated error notification emails using Logic Apps\nData Sources\nIngest\nVisualization\nInternal company \ninformation\nRaw\nClean\nPublish\nData \nQuality checks\nReporting \nSchema\nTransformation\n&\nConsolidation\nSurvey responses\n4\nUsing Raw and transformed data, Dim, Fact tables and Reporting tables are developed based \non business requirement, creating one hub for all the data\nStore\nDevOps\n3\nStore, Prepare and Publish\nClean\nPublish\nReporting \nSchema\n1\n2\nReconfigured the Power BI dashboard from existing Excel Sheets to the new Data Warehouse\nAzure Data Lake \nStorage \n(Central \nRepository)\nMapping data\nDim\nFact\nRef\nInteract with the \nData and \nVisualizations\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (102).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122315+05'30'",
+            "modDate": "D:20241114122315+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPrior vs. New BI architecture\nAdvantage\nPrior BI Architecture\nNew BI Architecture\nData Update Process\nManual\nAutomatic\nData Refresh (TAT)\n1 day\n10 minutes\nHistorical Data Tracking & Analysis\n\n✓\nScalability\n\n✓\nData Quality & Consistency\n\n✓\nData Modelling\n\n✓\nCost Efficiency\n\n✓\nSource/Version Control\n\n✓\nAbility to handle changes in Survey \nQuestionnaire\n\n✓\n6\n"
+    }
+]

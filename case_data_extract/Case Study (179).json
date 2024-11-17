@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData maturity and EDW development\n1\nHelp in improving data maturity of company from data proficient stage to data \nsavvy stage by build an enterprise data warehouse and creating robust data \ngovernance framework\nPremium apparel and footwear brand\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for KPI/Metric definitions that are not standardize leading to individual interpretation of the output leading to data \ninconsistencies and quality. Also, due to frequent change in senior leadership, data owners are not assigned for each functions, \nleading to lack of data governance in organization. Currently, business is reliant on manual reporting processes for data \nconsumption across functions which leads to inefficiencies, delays, and potential errors in data outputs.\nPremium apparel and footwear brand needs data maturity and \nEDW development\n2\nYour value is enhanced. \nYou have streamlined and operationalized a fully automated data warehouse solution which enabled visibility into existing & \nnew standardized KPIs/metrics for the senior management, providing valuable insights for decision making. You have \neliminated the manual effort required to produce recurring and ad-hoc reports by fully automating the process, saving 40 FTE \nhours per week. You have also enhanced the data maturity level of the company to data savvy level by automating the data \ningestion and processing through advanced data cleansing techniques. This led to more accurate metrics which was a leading \ncause of concern for data reliability. \nDATA MATURITY AND EDW \nDEVELOPMENT\nKEY RESULT   \n•\n~40 FTE hours per week \nsavings\nVALUE LEVERS PULLED\n•\nData Warehouse and ETL \nTools Implementation\n•\nTableau \nDashboard/Reports \ncreation\n•\nFully automated Data \nflow i.e., from Data \nsource to \nDashboards/reports\n2\nYou turn to Accordion. \nWe partner with your team to help in improving data maturity of company from data proficient stage to data savvy stage by build \nan enterprise data warehouse and creating robust data governance framework, including:\n1)\nDeveloping robust and scalable data architecture by implementing data lakehouse architecture using latest cloud tools \n(Snowflake, DBT, Fivetran) to ingest & process data in the most optimal manner. Optimized the number of tools/technologies \nto serve the short-term and long-term needs without compromising on speed and accuracy of data processing.\n2) Analyzing and automating the sales consolidation process, thus improving the efficiency of the reporting process significantly. \nAlso, implementing the data segregation through Access Control List (ACL) across departments to ensure data privacy\n3) Automating the existing excel reporting leveraging the new data warehouse and developed a comprehensive reporting suite \nwhich was more structured and easily understandable to the business users including the standard logic for each KPI/Metric\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped robust and scalable data architecture by implementing Data Lakehouse Architecture using latest cloud tools (Snowflake, DBT, Fivetran) to ingest \n& process data in the most optimal manner. Optimized the number of tools/technologies to serve the short-term and long-term needs without compromising \non speed and accuracy of data processing.\n•\nAnalyzed and automated the sales consolidation process, thus improving the efficiency of the reporting process significantly. Also, implemented the data \nsegregation through Access Control List (ACL) across departments to ensure data privacy.\n•\nAutomated the existing excel reporting leveraging the new data warehouse and developed a comprehensive reporting suite which was more structured and \neasily understandable to the business users including the standard logic for each KPI/Metric.\nSituation\n•\nBusiness was reliant on manual reporting processes for data consumption across functions which lead to inefficiencies, delays, and potential errors in data \noutputs. This dependency posed risks to data quality and organizational agility, limiting scalability and data maturity of organization.\n•\nKPI/Metric definitions were not standardized leading to individual interpretation of the output leading to data inconsistencies and quality. Also, due to \nfrequent change in senior leadership, data owners were not assigned for each functions, leading to lack of data governance in organization.\nData maturity and EDW development for athletics company\n3\nImpact\n•\nStreamlined and operationalized a fully automated Data warehouse solution which enabled visibility into existing & new standardized KPIs/Metrics for the \nsenior management, providing valuable insights for decision making.\n•\nEliminated the manual effort required to produce recurring and ad-hoc reports by fully automating the process, saving 40 FTE hours per week\n•\nEnhanced the data maturity level of the company to Data Savvy level by automating the data ingestion and processing through advanced data cleansing \ntechniques. This led to more accurate metrics which was a leading cause of concern for data reliability.\nData Maturity and EDW \nDevelopment \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCurrent state vs. Future state - Data lineage\n4\nCurrent State\nFuture State\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCurrent state vs. Future state - Data architecture\n5\nCurrent State\nFuture State\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of KPI metrics matrix\n6\nFunctions\nCurrent State KPIs\nFuture State KPIs\nCurrently Reported KPIs\nNot Reported KPIs\nReported KPIs\nData available and \nautomated\nData available and \nmanual\nData available and \nautomated\nData available and \nmanual\nData unavailable\nData available and \nautomated\nFinance\n0\n32\n0\n20\n0\n52\nOperations\nInventory\n4\n7\n0\n7\n0\n18\nTransportation\n0\n10\n0\n4\n2\n14\nCustomer Service\n0\n12\n0\n4\n2\n16\nE-Commerce & Marketing\n5\n3\n1\n14\n1\n23\nTotal\n9\n64\n1\n49\n5\n123\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nScorecard provided based on all round data assessment\n7\nData Strategy Element\nCurrent state vs. Aspirational state\nOperations\nE-Comm and Marketing\nFinance\n Data Governance\n Data Availability & Access\n Data Quality*\n Data Management\n Business Intelligence\n Analytics\n1\n2\n3\n4\n5\nGap between current state and aspirational state\nNone\nLow\nWide\n6\nMedium\n* Data Quality is evaluated based on front-end reports/extracts\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (179).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135926+05'30'",
+            "modDate": "D:20241114135926+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDashboards design upgrade / new metrics\n8\nILLUSTRATIVE\n"
+    }
+]

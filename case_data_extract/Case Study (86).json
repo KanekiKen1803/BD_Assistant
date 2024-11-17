@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪\nBuilt a reporting suite to track metrics related to Leads and Opportunities like \nMQLs, SQLs and Handovers by different dimensions like Country, Lead stage, Lead \nSource, etc.\n▪\nTo track the metrics related to Google Analytics such as Users Traffic, Goal \nConversions, Bounce Rate, etc. by different dimensions like Channel, Country, etc\nMarketing Dashboard\n(Original Equipment Manufacturer (OEM))\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "MARKETING DASHBOARD (B2B) FOR EQUIPMENT MANUFACTURER\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a leading Original Equipment Manufacturer (OEM) of electric vehicle (EV) charging station/box in Europe and with a growing presence in North America.\n2\n▪\nClient lacked real-time visibility into Marketing & Sales Team performance as they used to create reports on Excel with long turnaround times, \nlimiting their reporting to a monthly cadence.\n▪\nMerilytics partnered with the client to build a reporting suite to track Marketing performance and help identify gaps in the Pipeline.\n▪\nAnalyzed Salesforce data and collaborated with client’s Data Engineering team to help set up data for the reporting suite on Snowflake data warehouse.\n▪\nDefined KPIs and built self-service reporting suite on Tableau & Google Data Studio with dashboards that provide real-time visibility into\n•\nLeads & Opportunities (MQLs & SQLs)\n•\nUser Traffic\n•\nChannel Analytics\n•\nGoal Conversion\n•\nBounce Rate\n▪\nReal-time availability of the dashboards saved  40 hours/week man-hours consumed in creating reports.\n▪\nIdentified key drivers of goal conversion which were leveraged by the business to improve the lead conversion ratios.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "Data Sources\nData Ingestion and Modification Layer\nReporting Layer\nData Warehouse\nDefining KPIs and creating \nDashboards\nDashboards are published \nonline for real-time \naccessibility to stakeholders\nModel the data into Facts \nand Dimensions Schema\nTableau Desktop\nTableau Online\n3\nMatillion ETL\nSalesforce\nBuild A Fully Integrated \nData Pipeline\nGoogle Data Studio\nGoogle Analytics\nCRM Tool\nSPACING ARROW -APPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "Filter Pane to provide \nflexibility to change \nTimeframe, Country, \nOpportunity type etc.\nClustered bar chart to \nshow case monthly trend \nof Opportunity  and \nCountry\n4\nILLUSTRATIVE\nEXHIBIT 1 – OPPORTUNITY AND LEADS SUMMARY\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "KPI Cards displays \nMQLs to Closed \nWon\nVisual to show \nTop 5 Lead \nsource By MQLs\n5\nILLUSTRATIVE\nEXHIBIT 2 – LEADS\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "Pie Chart showing share \nof Users by different \ndevices\nTable to find month vise \ntraffic\n6\nPie Chart show casing user \ntraffic by channels\nEXHIBIT 3 – WEBSITE TRAFFIC OVERVIEW\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (86).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200710+05'30'",
+            "modDate": "D:20241114200710+05'30'",
+            "trapped": ""
+        },
+        "content": "Visuals to showcase \nAverage page Load time\n7\nILLUSTRATIVE\nEXHIBIT 4 – WEBSITE LOAD ANALYTICS\n"
+    }
+]

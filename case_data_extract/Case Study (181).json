@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management and BI Reporting\n1\nBuilt integrated Azure-based Data Lake and Data Warehouse infrastructure to \ndevelop the BI reporting suite using Power BI\nOral & Maxillofacial Service Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up the Azure resources to develop and deploy data flow process in Data Lake and Data Warehouse. \n•\nSet up automated data ingestion from the Practice Management Systems (WinOMS, DSN), Financial System (SAGE) and HR system (ADP) using Azure Data \nFactory and Pipelines as integration technology\n•\nIntegrated, transformed and consolidated the data from data sources in Azure SQL data warehouse, to be able to develop and deploy the Corporate Data \nModels and create a single repository for all data to enable scalability.\n•\nDeveloped analytics model for the identified KPIs to enable the development of automated dashboards for BI reporting\n•\nPerformed in-depth data and dashboard validation\nSituation\n•\nThe client had no centralized data infrastructure and no standard data architecture and data management practices in place. The weekly/monthly reports \nwere prepared manually with silo-based approach and practices.\n•\nPartnered with the client to build a centralized and automated Data Lake and Data Warehouse, and develop corporate data models to build automated BI \nreports\nData management and BI reporting for oral & maxillofacial \nservice provider\n2\nImpact\n•\nThe automated BI reports enabled a decrease of monthly 30+ manual hours which were previously used to build the same BI reports\n•\nThe centralized data warehouse provided greater visibility into the data, enabling business users to develop more use cases for data-driven business strategy \n. Marketing leadership actively tracked the performance of the referral ecosystem and identified opportunities to expand the ecosystem\nData Management and BI \nReporting\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData architecture design (1/2)\n3\n3\nDATA SOURCES\nMODELLING & REPORTING\nAF - INGEST\nAzure \nData Lake \nStorage\nCentral \nRepository\nBackup/Archiv\nal Storage\nAzure SQL\nServer\n* Data quality checks to be applied (Few examples):\n1.\nIdentify Primary Key Column and correct any NULL valuesin data\n2.\nCheck for poor data quality by identifying duplicate values indata\n3.\nApply Slowly Changing Dimensions (SCD-Type2) to save any historical\nchanges to data\n4.\nCheck for any NULL in Modified Date columns used as key to get incremental\ndata\nFunctio\nns\nLogic \nApps\nAzure Analysis  Services\nPower BI Dashboards\nSecurit\ny\nDDS\nCSV/Exc\nel\nAzure \nData \nFactory\nB\n.exec file\nSQL DB\nSFTP\nDim\nDim\nDim\nFact\nslv \nSchema\nReporting \nTables\nAGGREGATE ZONE\nCDM\nRAW ZONE       CLEAN ZONE\n*Data quality  \nchecks applied\nIntegration Runtime\nA\nC\nD\nE\nF\nG\nLinked Service\nDATA SOURCES\nH1\nH2\nI\nJ\nAF – LOAD AND TRANFORM\nK\nL\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData architecture design (2/2)\n4\nA\nEstablishing the Integration Runtimes for DSN data source i.e., DSN_IR\nB\nEstablishing the connection between DSN data sources and the Azure Data Factory via the linked services\nCollecting the data pushed by Sage DDS into the Storage Account File Share\nD\nExtracting and collecting data from SharePoint by leveraging the Azure Functions or Logic Apps to load data into the Storage Account\nE\nLinking the datasets with the Azure Data Factory via linked services \nH1\nPushing the tables (required to build KPIs) from the raw zone to the clean zone on the SQL server by deploying the stored procedures after applying data quality rules using \na Corporate Data Model (CDM)\nI\nUsing the cleaned tables to create reporting, and Fact and Dimension tables in the aggregate zone of the Azure SQL database by deploying stored procedures\nJ\nG\nIntegrating the Storage Account with the Azure Data Factory via the linked services by creating datasets\nCollecting the data pushed from the client’s system into folders inside the Blobs of the Storage Account \nF\nBuilding Data Models in Azure Analysis Service required for building Power BI reports\nK\nC\nCollecting the data pushed by ADP via SFTP into a blob container on the Storage Account\nLeveraging Data Models in Azure Analysis Service and reporting tables to build the Power BI dashboards\nL\nLoading the data from the data lake storage into the respective staging tables on the database as raw data on the Azure SQL Server/DB\nH2\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExecutive practice management dashboard (1/2)\n5\nILLUSTRATIVE\nTopline summary \nand YoY \ncomparison of \nExecutive KPIs\nWeekly Trends and \nYoY comparison for \nCollections, \nCollections/Doctor \nDays, Visits\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (181).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140251+05'30'",
+            "modDate": "D:20241114140251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExecutive practice management dashboard (2/2)\n6\nILLUSTRATIVE\nPractice level \ncomparison of \nany of the \nselected KPIs\nYoY comparison \nof Trailing 1-\nweek, 4-week, \n13-week, 52-\nweek and YTD \nperformance of \nthe KPIs\n"
+    }
+]

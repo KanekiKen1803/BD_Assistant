@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevenue Pacing Analysis on DOMO\n1\nBuilt a Consolidated DOMO Dashboard to provide visibility into the sales \nperformance / estimated Revenue for 06 Lines of Business’ (LOBs) based on the \nstage of opportunities (from Salesforce and Non-Salesforce sources)\nDigital Media & Broadcasting Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPacing analysis support for a digital media company\nAccordion Value Add \n•\nDeveloped data pipelines to ingest incremental data weekly from CRM to DOMO ETL platforms.\n•\nEnabled the incorporating manual data inputs form LOB stakeholders by providing individual G-Sheets (connected to DOMO ETL platform). The manual \ninputs are fed into the G-Sheets which flow into the final forecasts on DOMO.\n•\nBuilt a data transformation flow to cleanse and combine data using Domo’s integrated SQL editor. Performed necessary data transformations using SQL to \nestimate revenue based on deal stages and appropriate conversion factors considering corporate haircut.\n•\nDeployed consolidated dashboards to capture the quarterly / yearly revenue forecasts at LOB & region levels. The dashboard provides visibility into \nforecasts, budgets & actuals that help the FP&A team monitor company performance against the targets.\nSituation\n•\nClient was forecasting the revenue for the financial year using inputs from various sources. The inputs were based on the forecasts provided by CRM tool \n(i.e., based on the stage of the deal and probability of conversion to final stage) and inputs from individual LOB stakeholders were not captured in the CRM \ntool. The client was consolidating the data and tracking the forecasts in Excel that involved manual processes and was prone to errors.\n•\nPartnered with the client to streamline and automate the integration of the data from different sources (CRM, Manual inputs) and to build DOMO \ndashboard to forecast the revenue. \n2\nREVENUE PACING ANALYSIS ON \nDOMO\nImpact\n•\nProvided real-time visibility into their performance of sales deals and provide real-time inputs to forecast the revenue \n•\nReduced the effort to maintain the reports by over 70% for the corporate team by minimizing the manual activities for weekly refresh of the report\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\nIntegrating Salesforce data into DOMO\nCategorizing the deals based on their stage into ‘Sold’, ‘Verbal’ & \n‘Pipeline’ \nUnweighting the deal size / amounts to identify their true size / \namount \nApplying the Corporate haircut based on category of the deal\nRevenue Pacing for FY\nIntegrating the Non-Salesforce deals into DOMO via G-Sheet \nconnector \nLOB specific stakeholders to identify and upload the deals not \ncaptured in Salesforce into G-sheets\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDomo BI architecture \n01\nDATA SOURCES\n02\nDATA STORAGE & PROCESSING\n03\nMagic \nETL\nDatas\nets\nDataFlow1\nClean, combine and transform datasets using Magic ETL / MySQL, Redshift to create DataFlow  \nDATA VISUALIZATION\n4\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nYearly revenue summary and comparison with budget\nProvided flexibility \nto see the \nperformance for FY, \nQuarters and ability \nto see the \nperformance as of \nweek (#)\nFlexibility to track \nthe performance at \nLOB level\nComparison of sales \nperformance \nagainst budgets\nPerformance by \ncategory \nDashboard Page\nView of different elements in the Domo page\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevenue summary and comparison with budget\nFlexibility to track the sales performance at \nLOB level\nComparison of sales performance against \nbudgets\nDashboard Page\nView of different elements in the Domo page\n6\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (286).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161647+05'30'",
+            "modDate": "D:20241114161647+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nYearly revenue pacing (as of week 1 vs. Week 0)\nTracking the \nperformance as \nof selected week \nand comparison \nof the same \nagainst previous \nweek and \nproviding \nvisibility into the \ndeals changed\nDashboard Page\nView of different elements in the Domo page\n7\nILLUSTRATIVE\n"
+    }
+]

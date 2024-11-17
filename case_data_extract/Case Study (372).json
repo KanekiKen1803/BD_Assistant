@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nFormulated logic to track customer journey, designed Alteryx \nworkflows to ingest and transform data from external portal \nand developed Tableau dashboard to track Acquisition, \nRetention, and Attrition related KPIs considering repeating \ncustomers \nCUSTOMER LIFECYLE ANALYTICS\n(In-home Care Service Provider)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER LIFECYCLE REPORTING FOR AN IN-HOME CARE SERVICE PROVIDER \nSITUATION\n▪The client relied on an online portal extracts to track its operational performance in terms of acquiring and retaining customers. However, the reports \nwere manual, subject to multiple iterations of ad hoc changes, and were presenting only the weekly snapshots, missing on historical trends, attritions and \nintermediate states between two consecutive reports.  \n▪Merilytics partnered with client to formulate the comprehensive logic providing holistic view on the data covering multiple facets such as historical \ntrends, daily snapshots, repeating customers, and attrition. \n▪Formulated the new logic to provide comprehensive view into historical trends on acquisition, retention, and attrition of customers\n▪Included ‘Repeating Customers’ insights to depict the overall customer journey\n▪Tracked Operational efficiency via ‘Fulfilment Rate’ by tracking the hours served vs promised and ‘Zero Claim’ tracking unserved instances\nVALUE ADDITION\nIMPACT\n▪Availability of dashboards with daily updates reduced 6-7 hours of manual effort and ensured precise reporting by excluding ad hoc request updates\n▪Customer lifecycle including ‘Repeating Customers’ presented insights into customer satisfaction towards services and customer loyalty towards the \ncompany brand\n▪Trends and  insights on multiple granularity allowed better monitoring and operations tracking ranging from individual parameters to overall scale\nABOUT THE CLIENT\n2\nClient is a U.S-based in-home care service provider\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER JOURNEY STATUS ROADMAP \n3\nCustomer Type\nEvent Desc\nProspect\nNew Prospect\nCustomer Converted to \nProspect\nProspect Un-Declined\nAdmit\nProspect Accepted\nCustomer Created\nCustomer Activated\nDecline\nProspect Declined\nAttrition\nCustomer Deactivated\nNew Prospect\nProspect Undeclined\nProspect Declined\nProspect Accepted\nCustomer \nDeactivated\nCustomer Activated\nCustomer converted \nto Prospect\nCustomer Created\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: PROSPECTS\n4\nAdmits/Declines have the same associated visuals as that of Prospects\nTop ‘N’ selection \ngoverning the \nnumber of records \nin primary section \nof the visual to be \ndisplayed\nInternal filter to \nselect  \nParameter \ngoverning the \nvisuals below\nExpand/Collapse \noption to display \ndetailed or Top \n<N> records in \nvisual\nShows the # of \nProspects by \ninternal filter \nselection (Branch, \nSalesperson etc.,) \nand Top N selection \nShows the # of \nProspects by \nClass and  \ninternal filter \nselection \n(Branch, \nSalesperson \netc.,)\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2: PROSPECT TRENDS\n5\nAdmits Trends/Declines Trends have the same associated visuals as that of Prospect Trends\nProspect Trends(#) \nbased on internal filter \nselection \n(daily/weekly/monthly\n/quarterly/yearly)\nTop ‘N’ Prospects by \ninternal filter selection \n(Branch, Salesperson \netc.,)\nCorresponding \nNumbers are displayed \nwithin each block \nCurrent selection = Top 10\nInternal Filter for \nselecting\nDaily/  Weekly/ Monthly/ \nQuarterly/ Yearly \ntrend\nShows the Daily Avg. \nProspect by Weekday\nBottom ‘N’ Prospects by \ninternal filter selection \n(Branch, Salesperson \netc.,)\nCorresponding Numbers \nare displayed within each \nblock \nCurrent selection = Bottom 5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 3: ATTRITION TRENDS\n6\nAttrition Trends based \non internal filter \nselection \n(daily/weekly/monthly\n/quarterly/yearly)\nInternal Filter for \nselecting\nDaily/  Weekly/ \nMonthly/ \nQuarterly/ Yearly \ntrend\nShows the \nAttrition \n(#/%/Avg. \nservice days) by \nReason and \ninternal filter \nselection \n(Branch, \nSalesperson \netc.,)\nInternal filter to select \ntabular content in \nterms of counts(#), \nrate of attrition(%), \nand avg. service days\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (372).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Prerna Kumari",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180804+05'30'",
+            "modDate": "D:20241114180804+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 4: PULSE REPORT \n7\nTop ‘N’ records by \nActual Hours.\n Provides insights into \nScheduled Hours, \nActual Hours, and \nFulfillment(%) by \ninternal filter selection \n(Salesperson, Branch \netc.,)\nInsights into \n‘Assigned’ and \n‘Unassigned’ \nScheduled \nHours by \ninternal filter \nselection \n(Salesperson, \nBranch etc.,)\nAllows flexibility \nto apply or \nremove filter \nselection on \n‘Attrition Date’\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104914+05'30'",
+            "modDate": "D:20241115104914+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCRM data integration\n1\nReplace existing Skyvia ETL tool with Azure Data Factory to ingest data from Zoho \nCRM into Azure SQL Data Warehouse\nMedical equipment manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104914+05'30'",
+            "modDate": "D:20241115104914+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the data and established parent child entity mapping and redesigned the Zoho Accounts module UI to enhance the data quality\n•\nDeveloped API connections and built pipelines to synchronize the data periodically which enabled the sales team to access required metrics\n•\nRestructured the data flow and optimized the Python code to upload data within the Zoho CRM prescribed limit of 100 records/API call\n•\nEnsured data consistency and calculation uniformity by standardizing the naming convention and business logic and report to match with Zoho Analytics \ndata\nSituation\n•\nClient leverages Zoho CRM to maintain and track customer orders, invoices, and interactions. These data points are updated daily from the ERP using \nSkyvia, a data integration tool. The data ingestion process was inaccurate which resulted in incomplete / erroneous info being available for reporting \npurpose. Also, there was a significant manual effort required to update salesperson mapping, in case of changes in the organization.\n•\nPartnered with the client to streamline/automate the data flow process from the source to the reports by building efficient ETL processes and data \ntransformations to ensure that the data reported is complete and accurate\nCRM data integration for dental equipment manufacturer\n2\nImpact\n•\nThe CRM API integration improved the accuracy of CRM to 100% from 85%, which has enabled the sales team to map customer data accurately, providing \nthem with insights into individual customer interactions and revenue\n•\nThe system is now capable of automated data updates of salesperson and territory mapping which gets updated along with the Zoho Analytics dashboards \nwhich saved ~20 FTE hours per month\n•\nThe CRM API integration has reduced dependency on 3rd party tool, and resulted in achieving a cost saving of ~$5000/ year\nCRM DATA INTEGRATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104914+05'30'",
+            "modDate": "D:20241115104914+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\n>\n>\n>\n>\nData collection\nTransformation\nData preparation\nAPI call\nValidation\nExtract data from source \ntables in data warehouse\nStart\nFinish\nCombine and transform \nthe data to build tables \nfor each CRM module\nCreate incremental data \ntables based on historical \ndata\nAPI call to update data in \nzoho CRM for respective \nmodules\nRun validation scripts to \nensure completeness of \ndata\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104914+05'30'",
+            "modDate": "D:20241115104914+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nArchitecture diagram of the data flow from source to CRM\n4\nAzure Data \nFactory\nAzure Data Lake\n1\nPipelines\nData Sources\nData Storage & Processing\nData Visualization\nStorage\nCRM Analytics\n(formerly Tableau \nCRM)\n1\nData Pipelines to collate data from multiple sources and ingest to Data Lake daily\n3\nData Warehouse consisting for formatted and structured data with required calculated columns\n2\nData Lake to maintain records of historical data and act as a source of truth \n4\nAPI Calls, using Zoho CRM API V3.0, to update and insert incremental data into Zoho CRM\nStaging \nWarehouse \nIncremental \nTables\nEnterprise Data \nWarehouse\nERP System\nFlat Files, CSV\n2\n3\nAPI calls\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (327).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104914+05'30'",
+            "modDate": "D:20241115104914+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCustomer page layout from accounts module\n5\nMetrics related to revenue, total \norders placed, and average order \namount a customer has placed\nCustomer related data like when \nthe account was created and \nwhen was it last modified, and we \nalso have shipping data of the \ncustomer\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER ANALYTICS FOR COSMETICS MANUFACTURER\nSITUATION\n▪Client lacked direct visibility into the customer purchasing trend and order values across different locations in the North America region\n▪Merilytics partnered with the CRM team of the client to deep dive into the purchasing trends of the customers and the performance of each retail store \nacross different regions\n▪\nExtracted the retail sales data from Revel (data source), cleansed it, and created an analytical Excel model to measure the Retail Sales performance \nand customer purchasing trend at a store level across different time periods\n▪\nCompared the retail sales, avg. order value, items per order, and order frequency for each store with the past four-year period to identify the peak \nordering hours/days trends split by stores\n▪\nProvided the distinction between new customers and returning customers in terms of their purchasing trends and frequency of repeated orders across \nall the stores of the region\n▪\nHelped the client understand the top-performing stores / regions and plan for replication of similar strategies across other stores/regions and there by \nacted as driver for the increase in ~30% growth in retail sales \n▪\nClient was able to estimate the frequency of repeated orders, repeated customers, and top products purchased by new customers. This data was \nleveraged by them to increase the frequency of returning customers by ~20% for a particular region\n▪\nThe analysis has potentially enabled the client to allocate resources more effectively by scheduling more staff during peak hours and fewer staff during \nslower periods\nABOUT THE CLIENT\nClient is one of the largest cosmetics manufacturer brands with a global presence\n1\nVALUE ADDITION\nIMPACT\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA EXTRACTION\nDATA PROCESSING\nOUTPUTS\n▪Extract monthly POS \ntransactional data for different \nstores using Revel data portal\nRevel\nDATA\nSOURCE\n▪\nConsolidate the client’s monthly \nretail sales data for different stores \nacross North America region using \npower query\n▪\nCleanup the data by removing \nduplicates and transform it so that \nexcel can handle the data load \nusing power queries\n▪Order summary report\n- Monthly order details (no. of orders, \navg. order value, items per order) for \ndifferent stores\n- Monthly ranking of each store in \nterms of sales , avg order value, no. of \norders\n▪Consumer summary report\n- Store wise order frequency\n- Top 10 Products ordered by returning \nand new customers\nMETHODOLOGY/ APPROACH\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "MONTHLY SALES SUMMARY\n3\nShows monthly Retail Sales and Avg. Order Value at a store level and compares it with last year\nThis view helped the client to measure their overall performance and growth and gain insights regarding average amount \ncustomers are spending per order across different locations in North America region.\nThe table shows the monthly \nRetail Sales ($) for each store \nand compares it with last \nyear \nThe table shows the monthly \nAverage Order Value ($) for \neach store and compares it \nwith last year \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "DAY WISE ORDER SUMMARY\n4\nShows Day wise order details at a store level and total orders across different time of the day\nThis view summarizes the patterns of order activity throughout the day and week and helped the client allocate resources \nmore effectively based on rush hours and low traffics hours\nThe table shows the monthly \nunique Orders for each store \nacross different days of the \nweek\nThe table shows the monthly \nunique Orders across \ndifferent days of the week \nand hours of the day\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "MONTHLY STORE PERFORMANCE AND RANKINGS\n5\nShows the ranking of different stores for different KPIs like Retail Sales, Average Order Value, Order Placed, Items per Order \nand Top 5 most Ordered products. \nThrough this view, client was able to identify high and low performing stores, enabling businesses to focus on expansion in \nthe locations with higher revenue and make decisions to drive the sales in areas with low revenue\nRanking the stores on \ndifferent KPIs and \npercentage of orders with \nemail information\nTop 5 products ordered at \neach store \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (70).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114194744+05'30'",
+            "modDate": "D:20241114194744+05'30'",
+            "trapped": ""
+        },
+        "content": "ORDER FREQUENCY AND EMAIL SUMMARY  \n6\nShows Order Frequency of a returning customer & % of orders with email information\nThis view enabled the client to identify the purchasing habits of customers and design targeted retention strategies and \nloyalty programs to reward and incentivize frequent customers.\nThe table shows the Order \nFrequency for each \nestablishment in Days\nThe table shows the \npercentage of orders with \nemail information available\nILLUSTRATIVE\n"
+    }
+]

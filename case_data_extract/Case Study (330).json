@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171405+05'30'",
+            "modDate": "D:20241114171405+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDemand Planning & Forecasting \n1\nCreated a comprehensive and customized demand planning model using \nadvanced statistical algorithms to enable the company to accurately forecast \ndemand and plan supply more efficiently\nPet Food Manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171405+05'30'",
+            "modDate": "D:20241114171405+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCreated a demand planning model customized to suit the unique requirements of the client to be able to forecast for each sales channel, including the global \nbusiness \n•\nEstimated the final demand forecast by SKU and sales channel, taking into consideration future product expirations, new product introductions, open sales \norders, and user overlays to incorporate inputs from the sales and marketing teams\n•\nThe demand models also included a performance indicator to compare the forecast with actuals every month, making any tweaks to the forecasting process \nto fine tune the results\nSituation\n•\nThe client’s existing processes to estimate future demand were manual and did not accurately account for increased manufacturing capacity\n•\nPartnered with the client to create a comprehensive demand planning model to help predict future demand using advanced statistical algorithms \nconsidering seasonality, trends, and promotions, providing the flexibility to overlay marketing or sales team inputs\nDemand Planning & Forecasting for a Pet Food Manufacturer\n2\nImpact\n•\nThe demand forecasting model improved the forecast accuracy by 20% \n•\nThe improved forecasts helped the company achieve a10% increase in service levels and generate 30% revenue growth YoY\n•\nThe outputs from the demand models enabled the team to plan supply more efficiently, reducing the turnaround time for monthly planning process by 50% \nand accurately assessing the net product needs to plan inventory and thereby improving the service levels\nDemand Planning & Forecasting \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171405+05'30'",
+            "modDate": "D:20241114171405+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDemand Planning Methodology\nUpdated actual weekly unit \nsales\nFinal SKU level weekly \nforecast for legacy items \nusing advanced statistical \nalgorithms \nDiscontinued SKUs input\nStatistical Forecast\nManual overlays for legacy \nitems\nAdditional overlays for NPIs \nand legacy items at a SKU \nlevel\nNew Product Introductions \n(NPIs) input\nGenerate final forecast at a \nSKU level\nAggregate summary for \nS&OP reporting (includes \nforecast KPIs)\nOutputs\nCalculations\nInput Data\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (330).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171405+05'30'",
+            "modDate": "D:20241114171405+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nStatistical Forecast Methodology\n4\nActual historical weekly \nunit/SKU sales at planning \nsub-brand level (2015 till \ndate) \nHistorical data for T-6 \nmonths is identified as \ntraining data set\nLast 06 months of historical \ndata identified as testing data\nPython \nforecast \nalgorithms \n(Five)\nLast 6 months of historical \ndata identified as testing \ndata\nPreliminary forecast at a \nplanning sub-brand level for \nthe test period1  based on \ntraining data \nIdentify the best-fit algorithm2 \nfor each sub-brand (based on \nthe lowest error rate \ncompared with the testing \ndata) \nFinal forecast of units/SKU at \na planning sub-brand level \nbased on a best-fit algorithm\nLast 3 months share of unit \nsales by SKU within the \nplanning sub-brand for \nexisting SKUs and NPI inputs\nFinal SKU level weekly \nforecast \nActive SKUs count for future \nperiod (based on existing \nSKUs, discontinued SKUs, and \nNPI inputs)\n1. Includes 06 months where we have the actual data in order to back-test the forecast results\n2. Algorithm considered include ARIMA, Holt-Winters –Seasonal, Holt-Winters – Non-seasonal, Simple Exponential Smoothening and FB Prophet. Best-fit algorithm (for \nplanning sub brand) is identified based on the Forecast error from each algorithm\nOutputs\nCalculations\nInput Data\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161538+05'30'",
+            "modDate": "D:20241114161538+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped a model to amortize the costs incurred on various TV shows / series\nCosts Amortization\n(Digital Media & Broadcasting Company )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161538+05'30'",
+            "modDate": "D:20241114161538+05'30'",
+            "trapped": ""
+        },
+        "content": "AMORTIZATION SCHEDULING FOR A DIGITAL MEDIA COMPANY\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\n2\nClient is a Digital Media & Broadcasting company and was trying to improve its amortization process and compare against its JV partners \n▪Client is currently amortizing its costs on TV shows / series equally over the lifetime of the show / series, and was facing challenges in reconciling \nagainst the amortization schedule provide by its JV partners\n▪Merilytics partnered with the client to develop a robust amortization schedule model, that streamlined the process of updating new shows / series \nand helped in reconciling the numbers with the JV partners\n▪Partnered with a stakeholder from the client’s TV business to develop comprehensive understanding of the current process in place at the client and \nits JV partners \n▪Developed a user-friendly model that the users can use to review the amortization schedule of the show /series by providing inputs such as # shows, \ntotal cost, amortization period, start date, % split of cost (if a show has lifespan of more than 12 months)\n▪Reconciled the amortized costs provided by JV partners and recommend adjustments to be made to the current amortization schedule based on the \nprocess followed by JV partners\n▪Helped in allocating the costs efficiently through a streamlined process (that was processed manually in the past) leading to more reliable financial \nreporting\n▪Client was able to identify any changes to the amortization schedule followed by JV partners and implement changes to the schedule seamlessly \nusing the dynamic amortization scheduling model\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161538+05'30'",
+            "modDate": "D:20241114161538+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY / APPROACH\n3\nUNDERSTANDING THE CURRENT APPORACH \nDEVELOPED A ROBUST SOLUTION\n▪Reviewed the existing amortization schedule process and identified that it is purely distributing the costs across the lifespan of the asset\n▪Developed a robust solution that distributes cost of assets based on key parameters mentioned below and prepares amortization schedule\n▪Using varying % split across different years instead of equal distribution for all years of lifespan\n▪Based on airdate of each episode rather than 1st airdate of the entire show\n▪Provides flexibility to user input key parameters such as # Episodes, Total Cost, Lifespan, % Split for each year etc. \nCOMPARISON WITH PARTNERS SCHEDULE\n▪Reconciled the amortization schedule prepared by client using the model against the regular amortization schedule received from partners\n▪Developed processes to identify any changes needed in key parameters such as # Episodes, Total Cost, Lifespan etc. in Client’s or Partners schedules\n▪Developed an automated process to identify any new shows / series added by partners so that Client can include those shows / series to the schedule\n01\n02\n03\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161538+05'30'",
+            "modDate": "D:20241114161538+05'30'",
+            "trapped": ""
+        },
+        "content": "Provided flexibility to input “% distribution” \nfor current & subsequent years\nProvided \nflexibility to \ninput key \nparameters of \nthe show / \nseries and \ndistribution \napproach to be \nfollowed\nAmortization \namounts \ncalculated\n4\nILLUSTRATIVE\nEXIHIBIT (1/2): Amortization Schedule Inputs and Summary \nAmort curve (In Months)\nYear 1\nYear 2\nYear 3\nYear 4\nYear 5\n24\n60.0%\n40.0%\nN/A\nN/A\nN/A\n36\n30.0%\n33.3%\n36.7%\nN/A\nN/A\n48\n25.0%\n25.0%\n25.0%\n25.0%\nN/A\n60\n20.0%\n20.0%\n20.0%\n20.0%\n20.0%\nShow\nEpisodes\nDuration\nTotal Cost\nAmort Curve\nDistribution\nTotal Hours Cost Per Hour\nShow 1\n10\n0.5\n1,000\n              \n24\nDistribution\n   -\n                \n50\n                   \nShow 2\n10\n0.5\n800\n                 \nLive\nStraight Line\n   -\n                \n40\n                   \nShow 3\n2\n1\n200\n                 \nLive\nStraight Line\n   -\n                \n100\n                \nCLIENT - ANNUAL AMORT\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n-\n                                          \n-\n                  \n-\n                  \n-\n                  \n424.35\n           \n654.21\n           \n247.54\n           \n-\n                 \n-\n                                          \n863.21\n           \n863.21\n           \n-\n                  \n-\n                  \n-\n                  \n-\n                 \n-\n                 \n-\n                                          \n150.00\n           \n-\n                  \n-\n                  \n-\n                  \n-\n                  \n-\n                 \n-\n                 \n-\n                                          \n65.00\n              \n-\n                  \n-\n                  \n-\n                  \n-\n                  \n-\n                 \n-\n                 \nAMORTIZATION DISTRIBUTION PERCENTAGES\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (285).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161538+05'30'",
+            "modDate": "D:20241114161538+05'30'",
+            "trapped": ""
+        },
+        "content": "Comparison of the amortization \namounts as per JV partner and Client \nschedules, and visibility into \nvariances observed \n5\nILLUSTRATIVE\nEXIHIBIT (2/2): Variance compared to JV Partners’ Schedule\nShow\nQ1 JV'22\nQ4 CLIENT'21\nQ2 JV'22\nQ1 CLIENT'22\nQ3 JV'22\nQ2 CLIENT'22\nQ4 JV'22\nQ3 CLIENT'22\nVariance\nShow 1\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 2\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 3\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 4\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 5\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 6\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 7\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nShow 8\n$0\n$0\n$135\n$135\n$152\n$152\n$152\n$152\n($152)\nShow 9\n$220\n$220\n$353\n$353\n$353\n$353\n$353\n$353\n($59)\nShow 10\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nComparison by Quarters CLIENT vs. Partner\n"
+    }
+]

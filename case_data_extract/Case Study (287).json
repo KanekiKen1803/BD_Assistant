@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161755+05'30'",
+            "modDate": "D:20241114161755+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFinancial planning & analysis\n1\nBuilt various FP&A tools/models to enable seamless execution of the forecasting \nand actuals tracking process\nDigital media & broadcasting company\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161755+05'30'",
+            "modDate": "D:20241114161755+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nWorked closely with client’s Senior Management Team to identify the key problem areas and built various FP&A tools to improve efficiency of the \nforecasting and budgeting processes\n– Developed a user-friendly budgeting/forecasting template and shared it with all the Regional Heads to ensure consistent formats and clear inputs\n– Developed a revenue model that allocates the unrealized revenues across the year, with a flexibility to override assumptions such as project duration, \nconversion probabilities etc. \n– Developed and automated an FP&A tool to track the variance with Budget/forecast at the most granular level by P&L line item\n•\nFor the creative agency business, we developed an automated Utilization model, that is centrally located and shared with the Senior Management daily\nSituation\n•\nThere was a lack of real-time and consistent information on the status of current revenues and comparisons with the budget. Also, the company faced \nchallenges in validating the market level forecast inputs from the Regional Heads.\n•\nWe partnered with the client to develop robust tools (Revenue model, P&L reports, Budget consolidation tools, Pacing reports etc.) and streamline the \nFP&A processes\nAnalytics support for a digital media company\n2\nImpact\n•\nThe effort for the quarterly forecasting process reduced by 50%\n•\nCompany is able to develop accurate revenue projections and is able to quickly identify the markets that are on track to miss the budgeted numbers\n•\nThe creative agency business has a clear visibility into the resource Utilization on a real-time basis, helping the team in staffing and payment processing.\nFINANCIAL PLANNING & \nANALYSIS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161755+05'30'",
+            "modDate": "D:20241114161755+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary of FP&A tools to streamline forecasting process\n3\nBudget consolidation \nRevenue model\nP&L model\n•\nConsolidated all market level budget files and automated the entire process\n•\nDeveloped a P&L model to compare the Actuals vs. Budgeted at a granular \nlevel, with the flexibility to filter data by region and product\n•\nAutomated the ‘actuals’ updating process\n•\nCreated “Feed Out” tabs in a structure that flows the “actuals” data directly \ninto the Forecast templates for the forecasting process\n•\nDeveloped a Revenue model that captures the expected revenue from the \nSales pipeline from Salesforce\n•\nExtracted the “Actuals” from NetSuite and mapped to corresponding expected \nrevenues from Salesforce for reconciliation purposes\n•\nCreated “Feed Out” tabs in a structure that flows the unrealized revenues \ndirectly into the Forecast templates for the forecasting process\nForecast templates\n•\nCreated a user-friendly template for the forecasting process (for 3+9, 6+6, 9+3)\n•\nAutomated the flow-through of Actuals from the P&L model & unrealized revenues from the Revenue model, with manual override \nflexibility\n•\nCreated a “KPI Summary” tab to quickly summarize the forecasted data and make any adjustments if required\n•\nCreated “Feed Out” tabs in a structure which flows back to the FP&A tool as the raw data for the consolidated forecast\n01\n02\n03\n04\nForecast consolidation\n•\nConsolidated all the market level forecast templates and automated the process using the “Feed Out” tabs\n•\nIncorporated the consolidated forecast back into P&L model to provide the Actuals vs. Budget/forecast comparison at the most granular \nlevel (P&L line item level by market, region, legal entity etc.)\n05\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161755+05'30'",
+            "modDate": "D:20241114161755+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nP&L model\n4\nFlexibility to select Budget \n(from the consolidated \nBudget output) or Forecast or \nActuals\nFlexibility to \nexpand to \nview the \ninformation \nat a more \ngranular line \nitem level\nFlexibility to filter by \nCenter, Region, Market, \nHub and Legal Entity\nDisplaying  \nthe Budget \nvs. Actuals \nvariance by \nmonth, \nfollowed by \nQuarters, \nQTD and \nYTD\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (287).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161755+05'30'",
+            "modDate": "D:20241114161755+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevenue model\n5\nBuilt the \nmodel at \nProject \nlevel and \nprovided \nflexibility \nto view by \nRegion, \nMarket, \nClient and \nBrand level\nSF stage probability \nrepresents the stage \nin the Pipeline\nActuals till April\nProjected \nrevenue \nfrom \nprojects in \npipeline or \nexisting \nprojects \nbased on \nunrealized \nrevenues\nILLUSTRATIVE\n"
+    }
+]

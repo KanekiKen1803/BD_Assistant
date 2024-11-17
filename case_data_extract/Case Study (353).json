@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAutomated Property Valuation Model\n1\nDeveloped and deployed an Automated Property Valuation Model using Historical \nsales data and external attributes such as local economic & demographic \nindicators and places of interest data to predict price/sq. ft., Cap rates, expected \nrent etc..\nCommercial Real Estate Service Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a Customized Valuation Framework that delivers business interpretable outcomes following a comprehensive review of all existing \nmanual valuation methods for different property types (Residential, Office, Industrial and Retail).\n•\nTrained a Machine Learning Valuation Model that offers flexibility to appraisers to identify comparable properties in a certain geography such \nas county, city & state.\n•\nEnriched the outcomes of valuation model through integrating various relevant third-party data sources for Geographical Location, Places of \nInterest near the property, Locally prevailing Demographics and Economics, Rental Data etc.\n•\nBuilt Machine Learning models to estimate key property valuation drivers such as Capitalization rate, Rent, Expected Gross Income and Net \nOperating Income for each property.\nSituation\n•\nClient saw an opportunity to automate property valuations as manual process was considered time-consuming, subjective & expensive.\n•\nPartnered with the client to develop an Automated Valuation Model (AVM) using Historical Property Sales and other Attributes such as local \nEconomic & Demographic Indicators and Places of Interest data.\n2\nImpact\n•\nClient can now value properties at scale in less than one hour for a valuation compared to five days previously. \n•\nModel is extended to the top-12 revenue generating States in the US producing consistent results.\nAutomated property valuation model for real estate firm\nAutomated Property Valuation \nModel\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\n3\nData Sourcing and \nPre-Processing\nVarious features using data from these sources are considered for Modeling purposes\nDemographic and Economic factors from \nESRI and Zillow\nPlaces of Interest from\nOpen Street Maps\nProperty specific features from \nVIEW, Axiometric etc.\nSTEPS\n1\n2\n3\nAdopted a Parent-Child model structure. Child models estimate property features when unavailable, to supply Parent Model\nOptimizer model\nWeight Optimization\nModel Training and \nValidation\nEGI1/NOI2 Model\nCatBoost\nCap Rate Model\nCatBoost\nRent Model\nLight GBM\nN comparables\nProperty valuation\nOutput Generation\nPredicts property EGI1/NOI2\nPredicts property Cap rate\nModel used to identify comparable \nproperties IN  vicinity and predict the \nvaluation of the  property in question\nModel used to predict \nEGI/NOI of a  property. \nPredicted EGI/NOI flows \ninto optimizer model.\nModel used to predict Cap \nrate of a  property. \nPredicted  Cap Rate flows \ninto optimizer model.\nModel used to predict Rent \nof a  property. Predicted \nRent is used a substitute \ninput in place of EGI.\n1. Effective Gross Income generated from a property\n2. Net Operating Income generated from a property\n3. Model performance is evaluated by measuring Median error of the test set. Error is the absolute deviation in percentage of the predicted value from the actual value.\n4 MdAPE (Median Absolute Percentage Error) accounts for the presence of outliers and provides realistic model performance\nModel approach and methodology\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData sources used by the valuation model framework\n4\nPROPERTY- SPECIFIC FEATURES1\nDEMOGRAPHIC/ECONOMIC \nINDICATORS1\nLOCATION FACTORS1\nData Sources\nVIEW data, Axiometric\nESRI, Zillow\nOpen Street Maps\nKey Features-\n•\nYear built\n•\nPrimary building area\n•\nNo. of units, bathrooms\n•\nParking space\n•\nBuilding condition etc.\nKey Features-\n•\nPer capita income(PCI)\n•\nPCI growth\n•\nUnemployment rate\nKey Features-\n•\nAccess to hospitals, schools and \nshopping malls\n•\nAccess to transport network i.e. \nhighways, docks, airports, rails\n1- Specific features within these major categories can differ based on the type of property being evaluated. The list of features are indicative. \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOutput from optimizer model\n5\nILLUSTRATIVE\nOptimizer assigns weights to features to arrive at the best comparable set\nComparable \nproperties\nSubject property to be \nappraised\nMetric\nProperty\nComp-1\nComp-2\nComp-3\nComp-4\nComp-N\nProperty \nStreet\n5948 Tujunga \nAvenue\n4015 West 129 \nStreet\n1527 South \nBeacon Street\n1344 North \nWhitnall \nHighway\n13637 Cordary \nAvenue\n13629 \nKornblum \nAvenue\nPrice/sq. ft.\n450\n346\n463\n483\n371\n319\nSubtype\nWalk up\nWalk up\nWalk up\nWalk up\nWalk up\nWalk up\nSq. Footage\n4,000\n13,000\n18,500\n3,000\n25,025\n27,740\nCity\nNorth \nHollywood\nHawthorne\nLos Angeles\nBurbank\nHawthorne\nHawthorne\nProperty \nCondition\nAverage\nAverage\nAverage\nAverage\nAverage\nAverage\nFeature\nWeight\nFeature\nWeight\nFeature\nWeight\nEGI\n2.5\nSquare \nfootage\n2.4\nYear Built\n1.6\nCondition\n2.4\nZillow median \nvalue\n1.8\nAccess to \nHighways\n1.5\nGeographical location of the \nProperty vs comparables \ngenerated by the Optimizer\nPredicted Price/sq. ft of the \nproperty using the prices of ‘N’ \ncomparable properties using a \nweights-based approach\nFeature weights used in the \nOptimizer to determine the best \ncomparable based on feature \nEuclidean Distance\nFeatures of one of the \ncomparable selected by the \noptimizer\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (353).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174354+05'30'",
+            "modDate": "D:20241114174354+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel performance across states\n6\nILLUSTRATIVE\n6.1\n4.4\n4.8\n5.4\n5.3\n4.3\n4.0\n4.6\n5.9\n4.7\n4.8\n4.0\n2%\n4%\n6%\n8%\nThe median error in predicting Cap Rate for Multifamily properties in STATE 5 is 5.3%\nCap rate prediction median error (%)\n10.9\n10.6\n13.0\n16.0\n13.5\n9.7\n10.8\n11.1\n16.2\n14.5\n11.0\n9.3\n5%\n10%\n15%\n20%\nEGI prediction median error (%)\nThe median error in predicting EGI for Multifamily properties in STATE 9 is 16.2%\n6.4\n6.0\n6.8\n8.1\n11.7\n5.7\n7.3\n6.3\n7.5\n7.8\n6.8\n6.3\n3%\n6%\n9%\n12%\n15%\nRent prediction median error (%)\nThe median error in predicting Rent for Multifamily properties in STATE 3 is 6.8%\nGEOGRAPHY\nMedian Error (%)\n1 Cap rate and EGI data from VIEW for the period 2015 – 2019 was used for training and testing the model. \n2 EGI is the Effective Gross Income generated from a property\n3 The rent for properties is Annual rent per sq. ft. as on 2019Q3 from the Axiometrics dataset\n4 Model performance is evaluated by measuring median error of the test set of Multifamily properties\n"
+    }
+]

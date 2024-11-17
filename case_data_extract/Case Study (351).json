@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer Lifecycle Analysis\n1\nThe analysis is a comprehensive study to understand various aspects related to \ncustomer behavior such as life-time value, tenure, loyalty, behavior based on the \nusage patterns etc. Additionally, we evaluated the impact of an ongoing marketing \ncampaign on the business.\nYoga Fitness Chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a statistical model based on historical data to calculate the lifetime value and average tenure of a customer by product\n•\nModeled repurchase behavior (including reacquisition after churn) of customers based on historical product usage frequency\n•\nAnalyzed the customer behavior during the free trial week period and their subsequent conversion to paid product\n•\nIdentified characteristics which define loyal customers and showcased their relative importance based on share of revenue contribution\n•\nCalculated the true incremental value of Marketing campaign in terms of increase in # students and their revenue contribution\nSituation\n•\nCustomer behavioral patterns were untapped and there was an opportunity to derive insights based on historical transactional data and demographic data \nto drive actions related to acquisition, conversion and retention\n•\nPartnered with the client to build a comprehensive model to understand the behavior patterns of the customers that the Marketing, Finance and \nOperations teams could leverage\nCustomer Lifecycle Analysis\n2\nImpact\n•\nEnabled client to quantify the future value of existing/new customers to make informed decisions in terms of the customer acquisition/customer retention \nspend. Client leveraged the analysis to set up targeted campaigns for upselling and retaining customers.\n•\nClient was able to track the performance of the business entities across all markets based on monthly spends, conversion rates, churn rates etc. \n•\nClient is now able to make informed decisions while designing marketing campaigns by understanding the effectiveness of the historical campaigns.\nCustomer Lifecycle Analysis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology - LTV\nCalculated the LTV and Tenure \nusing multiple approaches such \nas:\n▪\nBy extrapolating the 36-month \nrevenue data and tenure data \nfor future months using \nexponential smoothening \ntechniques\nCumulative Revenue ($'000)\n2016\n2017\n2018\nQ1\nQ2\nQ3\nQ4\nQ1\nQ2\nQ3\nQ4\nQ1\nQ2\nQ3\nQ4\nYear 1\n$7,000\n$4,000\n$3,000\n$1,000\n$9,000\n$6,000\n$5,000\n$2,000\n$9,000\n$6,000\n$4,000\n$2,000\nYear 2\n$12,000\n$9,000\n$9,000\n$7,000\n$15,000\n$12,000\n$12,000\n$10,000\n$15,000\n$11,000\n$12,000\n$10,000\nYear 3\n$16,000\n$12,000\n$13,000\n$11,000\n$20,000\n$16,000\n$18,000\n$15,000\nYear 4\n$19,000\n$15,000\n$16,000\n$15,000\nStudent Retention by Cohort\n2015\n2016\n2017\n2018\n2019\nYear 1\n100%\n100%\n100%\n100%\n100%\nYear 2\n26%\n25%\n23%\n25%\n- \nYear 3\n18%\n17%\n17%\n- \n- \nYear 4\n14%\n14%\n- \n- \n- \nYear 5\n13%\n- \n- \n- \n- \n▪\nBy evaluating the spends of \nclients who churned in X years \npost onboarding.\n▪\nThis way we have visibility into \nLTV of customers as per their \ntenure\n▪\nBy evaluating the customer \nretention rates for cohorts, \nbased on their first purchase \ndate, over several years.\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology – Re-Purchase\n▪\nSegmented the customers based on visit \nfrequencies.\n▪\nEvaluated purchase activities for each \nsegment to estimate metrics like Trade-up, \nTrade-down, churn and retention.\n▪\nUsing the marginal % change in churn we \nidentified the segments of customers to be \nfocused on for marketing purposes.\nLow Value Product client trading up to other high value packs\nVisit Frequency (Preceding \n3 Months)\n# Instances\n% Share trading up to \nHigh Value Pack 1\nHigh Value \nPack 2\nHigh Value \nPack 3\nHigh Value \nPack 4\nTotal %  \ntrading up\n[0,1)\n24,000\n3%\n4%\n0%\n4%\n12%\n[1,2)\n50,000\n3%\n4%\n0%\n5%\n11%\n[2,3)\n20,000\n4%\n6%\n0%\n7%\n17%\n[3,4)\n8,000\n5%\n8%\n1%\n8%\n22%\n[4,5)\n3,000\n6%\n9%\n1%\n10%\n25%\n[5,6)\n1,000\n6%\n9%\n1%\n15%\n31%\n[6,7)\n600\n6%\n11%\n0%\n18%\n36%\n[7,8)\n200\n5%\n14%\n1%\n17%\n36%\n[8,9)\n100\n7%\n8%\n4%\n24%\n42%\n[9,10)\n50\n5%\n8%\n4%\n20%\n36%\n>=10\n100\n6%\n12%\n5%\n26%\n49%\nMarginal % change is \ndifference in churn % of \nconsecutive visit based \nsegments\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology – Customer Conversion\n▪\nCustomer leads are segmented based on \ntheir # of free week visits. \n▪\nIdentified a cutoff visits/ week to narrow \ndown on leads which are likely to convert. \n▪\nIdentified a cut off duration post free week \nto narrow down on leads which are likely to \nconvert. The chart also highlights the period \nwithin which maximum conversions \noccurred.\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n0\n1\n2\n3\n4\n5\n6\n>=7\nFree Week Visits(#/week)\nConversion of Free Week Customers by Visit Frequency \nn = 8,000\n75,000\n50,000\n30,000\n15,000\n7,000\n4,000\n3,000\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology – Customer Loyalty\n•\nUsing the distribution of students by engagement, identified the loyal students and calculated their revenue contribution\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (351).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174137+05'30'",
+            "modDate": "D:20241114174137+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology – Campaign Evaluation\n▪\nBehavior of campaign and non-campaign \nstudents are compared using the churn rates \nof the both sets over their initial 6-month \nperiod.\n▪\nCalculated the true incremental value of \ncampaign based on incremental students & \nrevenue based on projections using historical \ndata.\nIncremental \nStudents from \nCampaign\nIncremental \nStudents from \nCampaign\n7\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171516+05'30'",
+            "modDate": "D:20241114171516+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nITEM Master Data Management \n1\nPartnered with the client to recommend a robust data governance framework and \nchanges to the existing processes to ensure efficient data handling and quality \nacross the organization\nHome Security Systems Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171516+05'30'",
+            "modDate": "D:20241114171516+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConducted stakeholder interviews with various business functions that were users of the ITEM data to identify appropriate attributes and use cases for \nbusiness analyses and reporting \n•\nCreated a business process mapping document to showcase the current state of the technology infrastructure, interconnectivity between systems, data \nflow and modifications as it pertains to all attributes of the ITEM data across key processes – ITEM creation, modification and deletion \n•\nAnalyzed the current quality of the data across attributes to identify gaps in the data quality and processes across systems and functions\n•\nDefined the future-state data governance framework and master data management processes by identifying the appropriate data governance team, defining \nthe processes to be followed and enabling automation across systems\nSituation\n•\nClient had multiple disparate data systems across various business functions and lacked standardized processes to handle the ITEM master data leading \nto inconsistencies, redundancies, and quality issues in the data\n•\nWe partnered with the client to recommend a robust data governance framework to ensure efficient data handling and quality of ITEM data across the \norganization by conducting a diagnostic of the existing business processes and technology infrastructure, assessing process and system gaps, and \ndefined the future state master data management processes\nMaster Data Management for ITEM Master Data For Home \nSecurity Systems Company\n2\nImpact\n•\nIdentified the dedicated team consisting of governance executives, data owners, and data stewards to ensure implementation of the framework and \ncompliance with the ITEM data governance policy defined\n•\nDefined the processes of ITEM data creation, modification and deletion, along with owners and governance mechanism for escalation\n•\nEnabled automation across systems to remove redundancies in data ingestion leading to improved data quality and swifter time to resolution of issues\nMaster Data Management \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171516+05'30'",
+            "modDate": "D:20241114171516+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey Recommendations\n▪\nDedicated team to manage and govern the ITEM data management processes, consisting of governance executives, a data owner, and data \nsteward(s) to oversee the creation of ITEM data \n▪\nEnsures the implementation of the ITEM data governance policy and its compliance to maintain data quality, accuracy, integrity of SKU \nattributes\n▪\nWell defined steps for the process of ITEM creation and modification reduces dependence on ad-hoc measures\n▪\nLinear sequential process flow to ensure data consistency and eliminates of data redundancies\n▪\nBuilt-in checks and reconciliation process to facilitate the seamless creation of a single source of truth \n▪\nProposed tool automates the SKU creation, modification process in each system and notifies the stakeholders\n▪\nWorkflow management tool provides a centralized platform to facilitate collaboration between the stakeholders\nIssue Escalation\nSPOC for Item Data\nProcess Compliance\nDedicated Team\nProcess Owners\nProcess Consistency\nData Quality\nNotifications\nStatus Monitoring\nEase of Data Import\nDefined Processes\nAutomation \nAutomation\nPolicy Implementation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171516+05'30'",
+            "modDate": "D:20241114171516+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFuture State Process - Data Validation & Escalation Flow\nAbove process flow represents the areas where data owners, data stewards, data governance committee and individual system managers can play a role in the process of \nITEM data creation/modification, issue escalation and solution implementation\nVerificatio\nn by DS\nUpdated in \nSystem 1\nUpdated in \nSystem 2\nUpdated in \nSystem 3\nUpdated in \nSystem 4\nUpdated in \nSystem 5\nSKU \nRequest\nReject\nReport Issue\nIssue investigation by DS \nand respective SM\nIssue \nescalation to \nDO*\nData \nadded/modified \nin all systems\nFinal validation \nof details in all \nsystems by DS\nAccept\nReject\nAccept\nShare\nRecord \ncreation \ninitiated\nRecord Creation/ Modification in Progress\nSuccessful\nUpdated in \nData \nWarehouse/ \nData Lake\nSolution \nImplementation \nby DS & SM\nInvestigation \nby DO\nInvestigati\non by DGE\nIssue Resolution identified\nIssue escalation \nto DGEs*\nStart\nEnd\n* Issue escalation to DO and DGE based on severity level \nLegend\nDGE – Data Governance Executives\nDO – Data Owner\nDS – Data Steward\nSM – System Manager\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (331).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171516+05'30'",
+            "modDate": "D:20241114171516+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWorkflow Management & Data Flow Automation\n5\nPlatform to track the progress \nof ITEM creation/modification \nthrough the different stages of \nthe Item data management\nValidation and formatting rules \nto maintain consistency and \naccuracy of ITEM data in all \nsystems\nMechanism to export ITEM data \ninto a spreadsheet format to \nenable the users to analyze the \nITEM data in greater detail\nAutomated mechanism for ITEM \ndata creation/ modification in \nmultiple operational systems\nMonitor\nAutomate\nAnalyze\nValidate\nSolution with the following capabilities can be utilized to streamline the processes and track each step and its status. \nMechanism to automatically \nnotify the relevant stakeholders \nwhen a new ITEM is created or \nmodified \nNotify\nAutomation Tools\nWorkflow Management Tools\n"
+    }
+]

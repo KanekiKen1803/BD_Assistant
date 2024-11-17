@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFinancial reporting automation\n1\nDeveloped automated workflows to extract, consolidate, reconcile and generate \nmonthly financial statements in MS word templates for reporting consumption\nMultichannel video programming distributor\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to develop an end-to-end automated process to extract financial data from multiple source applications and \ngenerate consolidated financial statements monthly in MS Word documents. However, manually generating monthly \nfinancial statements by consolidating data across sources was a tedious and time-consuming process.\nMultichannel video programming distributor needs financial \nreporting automation\n2\nYour value is enhanced. \n•\nSaved ~20 hours of manual effort monthly (reduction by ~95%) to generate consolidated financial statements for reporting \nconsumption\n•\nYou have automated financial data reconciliation across multiple sources, highlighting the key deviations across source systems\n•\nYou have also streamlined & and standardized the process to reduce frequently occurring errors while generating financial \nstatements manually monthly\nFINANCIAL REPORTING AUTOMATION\nKEY RESULT   \n•\nSaved ~20 hours of \nmanual effort monthly \nVALUE LEVERS PULLED\n•\nAutomated data \nextraction through \nUiPath & Python from \nOracle cloud \napplications and \nOneStream\n•\nData reconciliation \nacross multiple \nfinancial reports\n2\nYou turn to Accordion. \nWe partner with your team to develop automated workflows to extract, consolidate, reconcile and generate monthly financial \nstatements in MS word templates for reporting consumption, including:\n1)\nDeploying a Python & UiPath based data extraction process to download financial data from Oracle cloud applications and \nOneStream\n2) Automating data consolidation and reconciliation of monthly financial statements from raw YTD data across multiple sources\n3) UiPath automation enabled email triggers to generate reports in Excel and Word formats when data is available in the reporting \nsystems\n4) Providing the client with features to enable manual adjustments on the data before final reports generation within the \nintermediary Excel reports\n5) Standardizing Excel & Word templates for financial reporting by summarizing key financial metrics with reporting relevance\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeployed a Python & UiPath based data extraction process to download financial data from Oracle cloud applications and OneStream\n•\nAutomated data consolidation and reconciliation of monthly financial statements from raw YTD data across multiple sources\n•\nUiPath automation enabled email triggers to generate reports in Excel and Word formats when data is available in the reporting systems\n•\nProvided the client with features to enable manual adjustments on the data before final reports generation within the intermediary Excel reports\n•\nStandardized Excel & Word templates for financial reporting by summarizing key financial metrics with reporting relevance\nSituation\n•\nClient leverages 3 source applications to manage financial reporting information that is critical for leadership and external reporting. However, manually \ngenerating monthly financial statements by consolidating data across sources was a tedious and time-consuming process.\n•\nPartnered with the client to develop an end-to-end automated process to extract financial data from multiple source applications and generate \nconsolidated financial statements monthly in MS Word documents\nMonthly financial reporting automation\n3\nImpact\n•\nSaved ~20 hours of manual effort monthly (reduction by ~95%) to generate consolidated financial statements for reporting consumption\n•\nAutomated financial data reconciliation across multiple sources, highlighting the key deviations across source systems\n•\nStreamlined & and standardized the process to reduce frequently occurring errors while generating financial statements manually monthly\nFinancial reporting automation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\nStandardize\nAutomate\n▪\nCreated UiPath automation to seamlessly extract raw data from cloud applications\n▪\nDeveloped Python scripts for transforming raw data into consolidated financial statements as Excel output\n▪\nUsed Python scripts to dynamically generate Word document output for external reporting \nProcess Flow\n>\n>\n>\n>\nTrigger the flow to \ninitiate process\nAutomated \nprocess to \ngenerate excel \noutput\nClient to make \nmanual \nadjustments to \ndata, if any\nWord Output \ngenerated is \nemailed or stored \nin SharePoint\nSTART\nFINISH\nAutomate process to \nextract data from \ncloud applications\n▪\nStandardized formats for all financial report templates (Excel and Word)\n▪\nStreamlined the process to minimize the errors while generating financial reports\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPROCESS WORKFLOW\nData Sources\nProcessing\nReport \ndelivery\nRaw Data Extraction\nManual Adjustments\nFinancial Statement \nGeneration\nPython Scripts\nFinal Word Document\nData extraction process \nfrom all source \napplications would be \nautomated using multiple \nprocesses involving RPA \n& MS Graph API\nPython uses the extracted \ndata and flat files to \ngenerate excel outputs \nwith financial statements \nand reconcile data from \nmultiple sources\nClient has the flexibility to \nmake manual adjustments \nto financial statements \n(Excel output) before \ngenerating final \nconsolidated statement\nAn automated workflow \nbuilt with Python and \nUiPath extracts manually \nadjusted data, formats it, \nand generates the final \nword document\nPython Scripts\nIntermediate \nExcel Output \nfor Manual \nAdjustments\nFinal Word \nOutput\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRaw data extracts and validation report\n6\nRaw Data extracted from OneStream Application\nValidation Report\nActual\nActual\nActual\nActual\nMonth 1\nMonth 2\nMonth 3\nMonth 4\nResidential\n$16,70,03,068.0\n$11,81,33,086.0\n$10,79,64,497.0\n$11,68,17,443.0\nAdvertising Sales\n$11,82,66,404.0\n$16,14,30,739.0\n$13,52,77,817.0\n$16,38,39,166.0\nHardware Revenue\n$14,58,85,070.0\n$19,02,19,712.0\n$13,27,04,764.0\n$19,77,64,279.0\nOther Revenue\n$16,55,98,162.0\n$19,84,43,830.0\n$11,42,02,357.0\n$12,94,27,780.0\nTotal Revenue\n$16,47,65,242.0\n$12,02,13,999.0\n$10,30,43,715.0\n$13,48,39,924.0\n0\n0\n0\n0\nContent Costs\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nAcquisition Costs\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nCustomer Service Costs\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nMaintenance Costs\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nNon-Content Service Costs\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nTechnology & Operations\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nInformation Technology\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nDepartmental G&A\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nNon-Departmental G&A\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nCOE excl Net deferrals\n$14,13,49,883.0\n$18,05,76,381.0\n$11,20,31,180.0\n$10,64,29,159.0\nNet Deferrals\n$18,50,59,463.0\n$10,52,05,782.0\n$11,11,06,392.0\n$15,58,05,777.0\nTotal COE ex. Other Corp \nItems\n$12,48,79,653.0\n$10,52,13,110.0\n$17,21,59,527.0\n$12,01,87,669.0\nEBITDA ex. Other Corp \nItems\n$15,67,24,363.0\n$11,12,94,135.0\n$13,65,85,726.0\n$18,90,12,136.0\nEBITDA Margin %\n23.0%\n28.0%\n29.3%\n25.4%\nCapital Expense\n$35.2\n$38.7\n$34.2\n$29.7\nEBITDA less CAPEX\n$15,67,24,363.0\n$11,12,94,135.0\n$13,65,85,726.0\n$18,90,12,136.0\nEBITDA less CAPEX Margin \n%\n21.2%\n26.0%\n27.5%\n23.8%\nOther Items\n$10,02,82,831.0\n$11,82,83,207.0\n$17,69,61,740.0\n$19,67,56,835.0\nReported EBITDA\n$12,48,79,653.0\n$10,52,13,110.0\n$17,21,59,527.0\n$12,01,87,669.0\nDepreciation & Amortization\n$16,70,03,068.0\n$11,81,33,086.0\n$10,79,64,497.0\n$11,68,17,443.0\nInterest Expense\n$11,82,66,404.0\n$16,14,30,739.0\n$13,52,77,817.0\n$16,38,39,166.0\nOther Expense/(Income)\n$14,58,85,070.0\n$19,02,19,712.0\n$13,27,04,764.0\n$19,77,64,279.0\nIncome Tax Expense\n$16,55,98,162.0\n$19,84,43,830.0\n$11,42,02,357.0\n$12,94,27,780.0\nNet Income\n$12,48,79,653.0\n$10,52,13,110.0\n$17,21,59,527.0\n$12,01,87,669.0\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (51).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192340+05'30'",
+            "modDate": "D:20241114192340+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nConsolidated financial statements\n7\nFinal Word Output:\nThese screenshots showcase the final layout and format of generated consolidated Income statement and Balance sheet (Word document)\n \n \n \nMonth \nCY \n \nMonth, \nPY \n \n \n(Unaudited) \n \n \nAssets \n \n \n \n \nCurrent assets \n \n \n \n \nCash and cash equivalents \n$ \n1,188 \n$ \n867 \nAccounts receivable, net \n \n11,318 \n \n1,802 \nDeferred fulfillment and acquisition costs, current \n \n2,223 \n \n220 \nPrepaid expenses and other current assets \n \n1,318 \n \n294 \nTotal current assets \n \n27,047 \n \n3,475 \nProperty and equipment, net \n \n21,999 \n \n21,999 \nGoodwill \n \n1,365 \n \n1,365 \nSubscriber lists and relationships, net \n \n4,829 \n \n4,829 \nOrbital slot licenses and other intangible assets, net \n \n2,671 \n \n2,671 \nOperating lease right-of-use assets \n \n2,394 \n \n2,394 \nDeferred fulfillment and acquisition costs, noncurrent \n \n226 \n \n226 \nOther assets \n \n182 \n \n182 \nTotal Assets \n$ \n13,613 \n$ \n16,706 \nLiabilities and Members’ Equity  \n \n \n \n \nCurrent liabilities \n \n \n \n \nCurrent portion of long-term debt \n$ \n399 \n$ \n430 \nAccounts payable and accrued liabilities \n \n31,885 \n \n4,332 \nAdvanced billings \n \n729 \n \n850 \nTotal current liabilities \n \n51,013 \n \n6,410 \nNoncurrent liabilities \n \n \n \n \nLong-term debt \n \n7,029 \n \n7,029 \nOperating lease obligation \n \n1,359 \n \n1,359 \nOther noncurrent liabilities \n \n203 \n \n203 \nTotal noncurrent liabilities \n \n7,591 \n \n7,617 \nMembers’ equity \n \n \n \n \nMembers’ equity  \n \n11,806 \n \n3,327 \nAccumulated deficit \n \n(798) \n \n(648) \nAccumulated other comprehensive income \n \n1 \n \n- \nTotal members' equity \n \n11,009 \n \n12,679 \nTotal Liabilities and Members’ Equity \n$ \n91,613 \n$ \n86,706 \nThree \nMonths \nEnded\nMonth, \nCY\nThree \nMonths \nEnded\n Month,\nPY\nNine Months \nEnded\nMonth,\nCY\nNine Months \nEnded\nMonth,\nPY\nRevenues\n$\n15,257\n$\n15,993\n$\n16,434\n$\n16,434\nOperating Expenses\nCosts of services (exclusive of depreciation \nand amortization expense):\nContent\n12,684\n13,105\n18,513\n18,513\nAcquisition and other cost of service\n1,686\n1,850\n2,018\n2,018\nGeneral and administrative expenses \n1,519\n3,580\n1,641\n1,641\nOther corporate costs\n20\n10\n43\n43\nDepreciation and amortization expense\n1,666\n5,745\n21,060\n21,060\nTotal operating expenses\n41,575\n59,290\n14,275\n14,275\nOperating Income \n1,682\n703\n21,159\n21,159\nOther Income (Expense)\nInterest expense, net\n(144)\n(134)\n(442)\n(442)\nOther income, net\n-\n-\n157\n157\nTotal other income (expense)\n(144)\n(134)\n(285)\n(285)\nIncome Before Income Taxes\n1,538\n569\n11,874\n11,874\nIncome tax expense\n(6)\n(5)\n(14)\n(14)\nNet Income\n$\n1,532\n$\n4,564\n$ \n17,860\n$\n17,860\nForeign currency translation adjustments\n1\n(2)\n1\n1\nTotal Comprehensive Income\n$\n1,533\n$\n4,562\n$\n17,861\n$\n17,861\nILLUSTRATIVE\n"
+    }
+]

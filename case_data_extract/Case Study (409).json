@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185457+05'30'",
+            "modDate": "D:20241114185457+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFair value application\n1\nDeveloped software to automate the creation of professionally formatted \nPowerPoint presentations for reporting portfolio company and fund valuations at \nthe end of each quarter. The application allows for quick data analysis, providing \nthe client with up-to-date information in a timely manner.\nPE firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185457+05'30'",
+            "modDate": "D:20241114185457+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCollaborated with the client’s deal team and fund control team to streamline various processes involved in the fund valuation - extracted financial \nperformance of portfolio companies, comparable companies' multiples, and valuation commentary from the deal team\n•\nIntegrated data from various sources (iLevel, CapIQ, Bloomberg, DealCloud, Investran, etc.) into a central Azure cloud data warehouse to serve as the single \nsource of truth for the valuation model\n•\nDeveloped an application using Streamlit and Docker, that transforms data from the data warehouse and generates fund valuation bridges and portfolio \nsummaries by a single click of a button\nSituation\n•\nClient was facing challenges in manually compiling valuation models and creating the valuation decks of portfolio companies and funds. They needed a \nsolution to streamline the quarterly valuation process.\n•\nPartnered with the client to develop the fair value application empowering the valuation team to prepare the PowerPoint decks by automating data \ncollection, collation, and deck generation\nFair value application for a private equity firm\n2\nImpact\n•\nStreamlining the fair valuation process enabled the firm to reduce the time taken to integrate new portfolio companies to the existing valuation process \n•\n80% reduction (~160 person-hours/quarter) in time-consumed to generate automated visuals and consolidation of PowerPoint decks\nFAIR VALUE APPLICATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185457+05'30'",
+            "modDate": "D:20241114185457+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFair value application architecture\n33\n1\n2\nCore Process: Graphs and flex tables are generated using data from Azure \ncloud data warehouse, and slides for the consolidated PowerPoint \npresentation are created\nFunction call: The Streamlit application invokes necessary functions using R \nand Python scripts based on the input parameters\nAuthentication: User authentication via Azure Active Directory enables web \nclient access. Input parameters include company/quarter selection.\n3\n4\nOutput: The valuation deck is prepared and available for users to download\nR script and \nPython\nAccess\nAzure Active Directory\n1\n2\n3\n4\nAzure Synapse \nAnalytics\nAuthenticate\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185457+05'30'",
+            "modDate": "D:20241114185457+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExhibit – Fair value application\n4\nThe multiples and enterprise \nvalue of the portfolio \ncomparative companies\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (409).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185457+05'30'",
+            "modDate": "D:20241114185457+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExhibit – Fair value application\n5\nEquity growth metrics \nmeasured by valuation bridge \nfor the portfolio company\nILLUSTRATIVE\n"
+    }
+]

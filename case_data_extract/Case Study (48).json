@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDigital research platform\n1\nBuilt an application to synthesize various data sources (news/websites, social \nmedia, patents, etc.) and identify the trending themes/entities in an industry, that \ncompanies & investors could leverage to identify the emerging entities/trends to \npotentially invest in\nCommercial real estate\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nWe built a comprehensive customizable application by tapping into a large set of public and subscription-based data sources that include (but not limited \nto) Financials (Crunchbase, CBInsights, Angellist), E-Commerce (Amazon, eBay), Social media (Linkedin, webhose.io, Twitter,  Instagram), Web traffic + SEO \n(Alexa, MOZ, SimilarWeb), Mobile app metrics (Google Analytics, Mixpanel) & Patents (uspto)\n•\nThe data is synthesized using an analytics engine that is primarily powered by Regression, Text analytics (Lexicon based sentiment), Natural Language \nprocessing (Named entity recognition, concept extraction), Classifiers, Forecasting Engine\n•\nThe application contains interactive dashboards tracking various KPIs identified from different sources, downloadable/distributed reports, periodic \nalerts/notifications\nSituation\n•\nDigital Sourcing could be an efficient way to identify potential targets for investment to complement traditional channels\n•\nWe built an application to synthesize various data sources (News/Websites, Social media, Patents, etc.) and identify the trending themes/entities in an \nindustry\n•\nCompanies/Investors could leverage the application to identify these emerging entities/trends to potentially invest in\nDigital research platform – Personalized for client requirements\n2\nImpact\n•\nCompanies/Investors can leverage the bird’s eye view of the industry from a wide range of data sources, that could have required hundreds of man hours\n•\nCompanies/Investors gain the first-mover advantage by identifying the emerging themes/entities before they become trending and reach through the \ntraditional channel \nDIGITAL RESEARCH PLATFORM\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWe provide a digital sourcing service/platform to identify \nemerging trends and entities based on various data sources\n3\n•\nRegression\n•\nLexicon based sentiment \n•\nClassifier Engine\n•\nNamed Entity Recognition\n•\nConcept extraction\n•\nTrends Engine \n•\nThird-party APIs\n•\nForecasting Engine\nSocial Media\nEcommerce\nWebsites\nNews\nSubscription based \nsources\nData \nVisualization\nReports\nDynamic list of \nTarget \ncompanies\nAlerts\nSentiment \nAnalysis\nWord clouds\nManual vetting \n(based on business \ncontext)\nDATA SOURCES\nANALYTICS ENGINE\nVISUALIZATION\nPatents\nTechnology architecture details\n•\nProposed solution could be a SaaS offering (Software as a Service) that leverages the latest technology stack to mine data efficiently and derive meaningful outcome\n•\nPlatform has a microservices architecture to make it modular and scalable\n•\nThe solution would contain interactive dashboards, track various KPIs as identified from the different sources\n•\nDownloadable reports, periodic alerts, notifications and consolidated reports via email\n•\nManual vetting will ensure that target list is relevant with zero noise; will also enable feedback loop for algorithmic tweaks\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPotential modules (1/2)\n4\nDetails\nSample Data Sources\nAnalyses involved\nFinancials \nThe module would contain company \nrelated key financial information \nincluding recent funding rounds, \nvaluations, Mergers & Acquisition \nactivity\nCrunchbase\nCBInsights\nAngellist\nOwler\n… \nAPI Consumption\nData Mining\nPotential Modules\nEcommerce \nThe module will monitor traffic and \nusage statistics on e-commerce \nwebsites along with tracking product \ncategories and price structures listed \non the various channels\nAmazon\nEbay\nNew Egg\n…\nRegression\nWeb Mining\nPatents\nThis module will capture the \ninformation related to intellectual \nproperty associated with the \ncompanies like patents and \ntrademarks. \nUS PTO\nAPI Consumption\nEntity Extraction\nConcept Extraction\nTopic modeling\nE.g., Amazon\nTop-selling products by category, product price, description, reviews, ratings etc.\n•\nData Mining from Amazon website\n•\n3Rd party APIs such as Zinc, Semantics3, Octoparse etc. mine data using their \nproprietary tools and makes the data available at a subscription cost.\nMETRICS\nMETHODOLOGY\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPotential modules (2/2)\n5\nDetails\nSample Data Sources\nAnalyses involved\nSocial Media \nThis module captures the buzz on \nsocial media platforms in terms of \nengagement with various \nstakeholders and evaluates \nsentiment trends\nTwitter API\nFacebook API\nTwitonomy\n…\nTopic modeling\nForecasting (ARMA, ARIMA)\nSentiment Analysis\nEntity Extraction\nConcept tagging\nPotential Modules\nWeb Traffic + SEO \nThe module will contain various web \ntraffic related metrics and relevant \nSEO/SEM metrics to evaluate \ncompany performance \nAlexa API\nMoz API \n…\nRegression\nForecasting (ARMA, ARIMA)\nTime Series Analyses\nMobile App metrics\nThe module will track presence on \nmobile application stores to capture \nmetrics related to downloads, \nSales/IAP Revenues, Usage, \nRetention, SDK metrics etc. \nApptopia\nSimilar Web\n…\nAPI Consumption\nData Mining\nOverall Digital \nEvaluation\nBased on the combination of all \nmodules, each company will be \nassigned weighted score and ranked \naccordingly in the list of target \ncompanies\nConsolidated data from all sources\nComparative analyses\nTrend Analyses\nTime Series Analyses \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExamples of outputs of digital research (1/4)\n6\nCombined Dashboard view\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExamples of outputs of digital research (2/4)\n7\nDashboards with key \nfinancial metrics listed \nby company\nDashboard to track \ntrends in Social Media \nmentions\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExamples of outputs of digital research (3/4)\n8\nDashboards on trending \nnews on the \ncompany/segment\nDashboard to estimate \nSentiment trends for the \ntarget companies\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (48).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191903+05'30'",
+            "modDate": "D:20241114191903+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExamples of outputs of digital research (4/4)\n9\nDashboards to track \nfunding trends by \ngeography\nCluster charts to identify \nemerging trends related to \nconsumer behavior across \nnews and social media \nplatforms\n"
+    }
+]

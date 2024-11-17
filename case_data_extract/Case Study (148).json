@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132028+05'30'",
+            "modDate": "D:20241114132028+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nSpend Cube\nPrivate Equity\nConsolidated indirect spend data across portfolio companies to identify savings \nopportunities by industry and provide visibility into indirect spend by category, sub-\ncategory, vendor and customer across time periods\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132028+05'30'",
+            "modDate": "D:20241114132028+05'30'",
+            "trapped": ""
+        },
+        "content": "SPEND CUBE ANALYSES\nSITUATION\n▪\nOpportunity to have a consolidated view of the indirect spend across portfolio companies and identify any cross-portfolio learnings by \nanalyzing spend distribution by industry\n▪\nMerilytics partnered with the client to consolidate the indirect spend data across portfolio companies and create a centralized data cube \nto provide visibility into total indirect spend by spend category, sub-category, vendor and customer across time periods\n▪\nWorked with individual portfolio companies to source data from appropriate spend systems and automate the same where possible\n▪\nCreated a centralized spend cube by standardizing and consolidating the spend data across portfolio companies and maintained it on a \nregular basis\n▪\nPartnered with the company’s management teams to classify indirect expenses into appropriate categories\n▪\nIdentified key variances in spend share across portfolio companies in each industry to mine for cross-learning  and saving opportunities\nVALUE ADDITION\nIMPACT\n▪\nFor each industry, identified outlier portfolio companies based on indirect spend distribution across categories\n▪\nIdentified savings opportunities when the same vendor is contracted across multiple portfolio companies\n▪\nReal-time visibility in spending provided the PE team a better insight in to spend patterns that could be leveraged in future deals\nABOUT THE CLIENT\nClient is a Private Equity (PE) company with investments in various consumer-focused industries, with over 200 investments so far\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (148).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114132028+05'30'",
+            "modDate": "D:20241114132028+05'30'",
+            "trapped": ""
+        },
+        "content": "OVERVIEW OF SPEND DISTRIBUTION BY INDUSTRY\n3\nAbility to analyze the \nSpend patterns for \nportfolio companies \nwithin an industry\nAbility to identify Portfolio \nCompanies within the industry \nwith a different Spend pattern \ncompared to  peer group\nCategorized Spend into \nrelevant categories \nbased on the nature of \nthe industry\nVisibility into Industry \nlevel spend and \ndistribution for PE teams\nILLUSTRATIVE\n"
+    }
+]

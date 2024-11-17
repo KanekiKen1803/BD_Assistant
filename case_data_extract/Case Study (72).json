@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData management platform\n1\nIntegrated data from discrete systems to create a structured Data Warehouse and \nleveraged it to build a reporting suite of critical Power BI reports for various \ndepartments\nIndustrial staffing company \nGo To Summary Page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for design and build a data warehouse by integrating data from multiple sources, to create the single source of \ntruth along with automated performance reports on Power BI.\nIndustrial staffing company needs to equip itself with a robust \ndata warehouse\n2\nYour value is enhanced. \nYou have a custom-built data warehouse consolidating data from multiple sources and providing accurate and pre-calculated \nKPIs replacing the disjointed data sources (with inaccurate or no KPIs) and data from various discrete and disparate sources is \nharmonized and can be leveraged for various analyses. You also have enhanced frequency and accuracy by eliminating manual \ninterventions needed for report generation. Also, report generation efforts were lowered by 50% which led to significant \nimprovement in resource efficiencies.\nDATA MANAGEMENT PLATFORM\nKEY RESULT   \n•\nReport generation \nefforts were lowered \nby 50% \nVALUE LEVERS PULLED\n•\nPipeline development \n•\nKPI design \n•\nBI suite development\n2\nYou turn to Accordion. \nWe partner with your team to integrate data from discrete systems to create a structured Data Warehouse and leverage it to \nbuild a reporting suite on Power BI for various departments, including:\n1)\nBuilding a data warehouse to transform the data and implement the Key Performance Indicators to be tracked by various \nfunctions.\n2) Building customized data models for tracking Salesforce performance, Operational performance and Financial Performance \n(Aging and DSO Reports). Leveraging data models to remodel the existing BI reports and connect to the single source of truth.\n3) Deploying automated processes for regular updates of the back-end data models, aligning with frequency of raw data \ngeneration.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned a centralized data lake in Snowflake to capture data from multiple sources across departments such as Lawson (Financial Data), Dynamics 365 \n(CRM), UltiPro (HR Data), SharePoint (ad-hoc Excel files) etc.\n•\nBuilt a data warehouse to transform the data and implement the Key Performance Indicators to be tracked by various functions\n•\nBuilt customized data models for tracking Salesforce performance, Operational performance and Financial Performance (Aging and DSO Reports). \nLeveraged these data models to remodel the existing BI reports and connect to the single source of truth.\n•\nDeployed automated processes for regular updates of the back-end data models, aligning with frequency of raw data generation\nSituation\n•\nClient has various data sources across departments to capture relevant data leading to discrete sets of data residing in individual systems. Hence, it lacked \na single centralized repository, leading to highly inefficient and manually intensive reporting.\n•\nPartnered with the client to design and build a data warehouse integrating data from multiple sources, to create the single source of truth and power the \nautomated performance reports on Power BI\nBI Infrastructure design and implementation for PE-\nowned staffing firm\n3\nImpact\n•\nCustom-built data warehouse consolidates data from multiple sources and provides accurate and pre-calculated KPIs replacing the disjointed data sources \n(with inaccurate or no KPIs)\n•\nData from various discrete and disparate sources is harmonized and can be leveraged for various analyses\n•\nEnabled enhanced update frequency and accuracy by eliminated manual interventions needed for report generation. Also, report generation efforts were \nlower by 50% which led to significant improvement in resource efficiencies.\nData Management Platform\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBusiness Intelligence infrastructure – Before \nData Sources\nData Warehouse\nBI reporting\nLAWSON\nCRM\nCRM\nOFFLINE FILES such as \nBDM Targets, NPG/VIP \ntagging, Customer \nIndustry mapping, etc.\nData Sources\nData Staging and Preparation\nModel & Serve\nOther Ad-Hoc Analysis\nReporting and \nCollaborating\nAccessible only to Accordion\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBusiness Intelligence infrastructure – Implemented\nSTAGING TABLES\nREPORTING TABLES\nOffline files such as \nSales Targets, \nCustomer Details, etc.\nData Sources\nIngest\nData Staging and Preparation\nModel & Serve\nOther Ad-Hoc Analysis\nReporting and \nCollaborating\nData Sources\nETL\nData Warehouse\nBI reporting\nILLUSTRATIVE\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey focus areas and benefits of new Business Intelligence infrastructure\nEnhanced Business Intelligence: \nIntegrated data from different sources and developed a single \nsource of truth enabling prioritization and accurate evaluation of \nperformance\nTime Efficiencies:\nCentralization and automation of the data models \nreduced manual interventions and enabled quicker \nreporting\n01 \n02 \n03 \n04 \n05 \nData Warehouse Value-add\nScalability: \nProvided scalability in accommodating data \nfrom the different lines of business. New data-\nsources could be easily standardized and \nincorporated at a future date through minimal \ndevelopment\nData Standardization: \nStandardized data from different sources and introduced \nconsistency in the data structure with improved accuracy \nallowing users to quickly access well structured and reliable data\nSelf Serve Tool:\nProvided access to users across departments to \ncritical as well as supporting datasets that are \nused across reports. \n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnhanced KPIs and reporting suite\nFinance KPIs by Branch Hierarchy & Customer segments\n▪Revenue, Gross Profit, Hours billed etc.\n▪Distribution of Customer by Industry\n▪AR aging – Current Due vs. Past Due\n▪Eligible vs. Ineligible invoices\n▪Current DSO vs. Entitlement DSO\n▪Customer Tier migration\nSales Pipeline KPIs by Branch Hierarchy & Sales Rep\n• Lead to Sales Conversion Ratio\n• Sales Cycle Length\n• Distribution of Leads by Industry\n• Conversion rates by industry\n• Sales Rep covered Revenue and Gross Profit\n• Avg. client size per Sales Rep\n01\nEnhanced Business\nIntelligence\n• Allows users to develop incremental reports and analytical models that provide a more holistic view of the \nbusiness \n• Data reconciliation and integration from different sources such as Lawson, CRM, SharePoint, UltiPro, etc. enable \nrobust analytics that link key metrics such as Revenues, GP, AR across Branches, Customers and Sales \nRepresentatives\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExample of Power BI report\nProvides visibility into outstanding AR and DSO along with flexibility to drill-down \nand identify biggest offenders. Additionally, it also provides the week-level forecast \nof upcoming dues, to set the collections target.\nEnables to track current performance of each Sales Representative via key metrics \nsuch as New accounts generated, GP generated, target achievement, etc. to identify \nstrong and weak performers\nAR Aging and DSO Performance\nSalesforce Performance\nILLUSTRATIVE\n8\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management project impact – Data standardization\nBEFORE\nAFTER\n•\nBranch ID: Nomenclature varies across data sources such as Essbase, Snowflake \nand CRM (099B vs. 99 vs. 699)\n•\nBranch Hierarchy: Inconsistent hierarchy mapping across data sources\n•\nManagement Hierarchy: Mismatches existed in the reporting hierarchy across \ndata sources\n•\nCustomer ID and Name: Customer ID formatting and Customer nomenclature \nvaries across sources such as Essbase, Snowflake, etc. which makes it difficult to \nintegrate and use data from two sources\n•\nCustomer Attributes: Account type was inconsistently mapped across Reports \nand Snowflake\n•\nSales Rep Names: Sales Rep nomenclature varies across Essbase and Snowflake \nmaking it hard to tie back data for the two sources (Sales Rep named as Buck, \nJohn L. in the UltiPro database, John Buck in Snowflake and 774 – John L Buck in \nEssbase)\n•\nBranch ID: Consistent tagging added across all tables\n•\nBranch Hierarchy: Single source identified and deployed for all Branch related \nHierarchy mappings\n•\nManagement Hierarchy: Single source identified for deriving the reporting \nhierarchies at Branch as well as Sales Representative level\n•\nCustomer ID and Name: Consistent formatting and nomenclature introduced\n•\nCustomer Attributes: Single source identified for Account Type, Category/Tier \nclassifications across all reports/data models\n•\nSales Rep Names: Consistent nomenclature for Sales Reps introduced across \nvarious metrics by incorporation of an intermediary mapping table which maps the \ndifferent name variants by Sales Rep across sources\nConsistent data format has been incorporated for commonly used dimensions\n03\nData Standardization\n•\nEarlier, different reports had data present in different formats and sources which did not talk to each other., which led to \nmanual data manipulations to resolve inconsistencies\n•\nData reconciliation and cleansing efforts have led to consistency in data, thereby improving data quality\n9\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (72).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195000+05'30'",
+            "modDate": "D:20241114195000+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management project impact – Automation driven efficiencies\n05\nAutomation\n• >50% reduction in effort for recurring Power BI report refreshes. Most reports would refresh in ~2 hours time span \nwith additional ability to increase refresh cadence from monthly to weekly/daily (as applicable).\n• Less resource utilization in terms of processing and manpower, thereby being cost-efficient in longer-term\nBEFORE\nAFTER\nReport\nTime needed per \nrefresh\nCadence\nTime needed per \nrefresh\nCadence\nWork Hours saved per month\nREPORT 1\nWeekly refresh (Sub-Report 1)\n1 day \nOnce per week \n2 hours \nOnce per week \n24 hours per month \nMonthly refresh (Sub-Report 2)\n3 days \nOnce per month \n2 hours \nOnce per month \n22 hours per month \nREPORT 2\nWeekly refresh (Sub-Report 1)\n1 day \nOnce per week \n2 hours \nOnce per week \n24 hours per month \nMonthly Refresh (Sub-Report 2)\n3 days \nOnce per month \n4 hours \nOnce per month \n20 hours per month \nREPORT 3\nMonthly Refresh\n4 days \nOnce per month \n4 hours \nOnce per month \n28 hours per month \nTotal\n~120 hours per month\n10\n"
+    }
+]

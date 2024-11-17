@@ -1,0 +1,242 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 0,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "▪Collaborated with the sales and supply chain team to understand the order to cash process and defined 85 Management and Operational KPIs that track \nvarious metrics across Order Intake, Fulfillment, Procurement, and Inventory.\n▪Built pipelines to ingest data from source systems (SAP, Salesforce, Sage and offline Excel files) to create a single central repository of the data on \nSnowflake.\n▪Automated the creation of sales forecast template, production forecasting by leveraging VBA and  built eight automated self-serve dashboards on Tableau \n– Sales Orders & Fulfillment, Commercial KPI tracking, Procurement, Shipment, Inventory, Product availability, Backlog and S&OP-360 view with daily \nrefresh for the S&OP team to support the reporting/analytics requirements\nS&OP PROCESS ANALYSIS FOR ORIGINAL EQUIPMENT MANUFACTURER (OEM)\nSITUATION\n▪Client lacked visibility into real time performance of Sales and Operations planning processes due manual processes and this was leading to supply \nchain inefficiencies and increased order fulfillment lead times.\n▪Merilytics partnered with the client to streamline the processes by solving data bottlenecks and built S&OP dashboards that can be leveraged to track \nstrategic and operational KPIs and have real time visibility into the supply chain processes\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is an Original Equipment Manufacturer (OEM) for Electric Vehicles serving customers in over 50 countries, with four manufacturing plants across the globe\n1\n▪\nAutomation of the sales and production forecasting has helped the team save around 40 person-hours per month\n▪\nThe Sales Orders & Fulfillment and Inventory dashboards helped the Sales and Operations team save around 80 person-hours per month\n▪\nReal time tracking of KPIs provided 360-degree view into S&OP process enabling the client in streamlining various supply chain processes resulting in a \nreduction of lead time by ~30%\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 1,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "REPORTING ARCHITECTURE\n2\nData Sources\nCentral Data Warehouse\nReporting Layer\nReal Time  \nManagement Reports\nLanding Zone\nIngests raw \ndata from \nsource \nsystems\nStaging Layer\nTracks \nhistorical \ndata\nIntegration \nLayer\nFilters and \ntransforms \ndata to \nmatch core \nsystem \nreports\nReporting \nLayer\nDimensional \nmodelling, \nincluding \ndefinition of \nfacts, \ndimensions \nand schema \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 2,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH : OVERVIEW\n3\nCreate Sales \nOrder\nEnough \nstock for \nrequested \ndate?\nAllow back \norders?\nAllow \npartial \ndelivery?\nCancel Sales \nOrder Item\nSales Order \nProcessing\nNo\nYes\nNo\nYes\nBackorder \nprocessing\nInbound \ndelivery out-\nof-stock item\nPost Goods \nReceipt\nCreate \nOutbound \nDelivery\nPicking \nRequest\nPost Goods \nIssue\nQuality \nIssue\nBilling \nDocument\nNo\nPurchase out-\nof-stock item\nReceipt of \nout-of-stock \nitem\nPurchase \nOrder \nProcessing\nReturn Sales Order\nYes\nYes\nNo\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 3,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH : DEMAND PLANNING\n4\nRegional Forecast\nForecast Input Template\nS&OP Forecast\nData Consolidation and Calibration\nFactors affecting the product availability such as inventory \nand scheduled orders are automatically consolidated in the \nforecast template eliminating manual efforts.\nCollaborated with the sales team \nto understand the order intake \nand forecasting process to design \nthe automated Excel based input \ntemplate for different sales \nregions by leveraging VBA\nAutomated \nthe \nend-to-end \nprocesses in the S&OP forecast \ninput file, which is circulated \nwith the executive stakeholders \nto collect the forecast figures \nfrom different regions\nRegional \nforecast \nis \ndynamically \nconsolidated to create a single data \nsource for the monthly S&OP forecast \nround.\nCompared the regional sales of certain \nproduct groups and their subgroups \nagainst the available inventory levels to \nprovide visibility into regions that are \neither exceeding or underperforming in \nterms of the allocated sales.\nInventory\nOrder Intake\nInputs\nProcess\nOutput\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 4,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "▪Partnered with the supply & operation planning team to analyze the inventory, production and outbound data and created an automated production plan. \nMETHODOLOGY/ APPROACH : SUPPLY & INVENTORY PLANNING\n5\nCurrent Inventory levels and forecast is \nanalyzed to design a strategy to push the sales \nof products not in demand.\nAutomated Production Plan\nInventory Data\nHistorical Production \nHistorical Delivery\nBacklog Orders\nProduction forecasting is derived \nbased on inventory level, \nbacklog orders, sales forecast\nProduct Availability is predicted based \non Purchase orders, past backlog and \nsales orders promised to be delivered \nin future.\nThe inventory inbound & outbound data is \nanalyzed at product and warehouse level. \nProduction Forecasting \nProduct Availability\nInventory Management\nFirst In – First Out methodology is used to \nderive the age of the inventory.\nDays Inventory Outstanding is computed to \ntrack the historical age of the inventory.\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 5,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "S&OP EFFICIENCY TRACKING\n6\nOrder Intake vs Sales Budget\nSales Forecast vs Actual Orders\nProduction Plan vs Actual Production\nCommercial Sales KPI Tracking\n▪Provided real time visibility into S&OP processes by tracking the following metrics\nS&OP 360-degree view\n▪Variance between order Intake and Sales Budget\n▪Productivity of the sales team\n▪Sales Forecast Accuracy is computed by analyzing the order intake data and timestamped forecast data from previous months\n▪Production Plan  Forecast Accuracy is computed by analyzing the actual production and the historical production forecast \n▪Revenue, Backlog order, Sales Forecast and Budget are analyzed to compute the gap between the revenue budget and the actual revenue\n▪Demand & Supply KPIs such as Order Intake, Outbound Delivery, Inventory and Backlog orders are consolidated at a single location to analyze the bottlenecks in \nthe process\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 6,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1 : SALES ORDERS AND FULFILLMENT TRACKING\nILLUSTRATIVE\nFilter Pane to provide \nflexibility to change time \nframe, and drill down by \nvarious other \ndimensions\n7\nMonthly trends of Sales \nOrders and Fulfilment \nKPIs\nBreak down of fulfilment \nKPIs performance by \nRegions and Products\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 7,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2 : SHIPMENT COCKPIT AND LEAD TIMES ANALYSIS  \nILLUSTRATIVE\n8\nTrend chart comparing \nthe # order delivered - \nplanned vs. actual\nKPIs tracking the \nperformance of fulfilled  \norder lines and late \ndeliveries, and their \nrespective lead times\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 8,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 3 : PROCUREMENT - PURCHASE ORDERS AND LEAD TIMES ANALYSIS\nILLUSTRATIVE\n9\nTracking on time \ndelivery KPIs of \nvarious suppliers\nMonthly trends of \nPurchase orders and \nProcurement KPIs\nKPIs tracking the \nperformance of purchase \norders with respect to \nVendor promised delivery \ntimes\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 9,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "10\nDays inventory \noutstanding calculated \nbased on weighted \naverage method to \nenable visualization by \nvarious dimensions such \nas warehouse, SKU etc.\nInsights into age of \ninventory for current \nand historical periods.\nEXHIBIT 4 : INVENTORY MANAGEMENT METRICS\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 10,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 5 : CURRENT INVENTORY AND SKU AVAILABILITY\nILLUSTRATIVE\n11\nDrill down of inventory \nlevels by user selected \nlevels\nCurrent Inventory Stock \noverview to provide \nvisibility into availability of \nproducts\n"
+    },
+    {
+        "page": 12,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (360).pdf",
+            "page": 11,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175318+05'30'",
+            "modDate": "D:20241114175318+05'30'",
+            "trapped": ""
+        },
+        "content": "12\nComprehensive \nvisibility into supply \ndrivers such as actual \nproduction and \ninventory levels \nDemand drivers \nsuch as order intake \nand backlog orders\nOutbound inventory \nmovement \nRevenue realization \nfrom the complete \nS&OP process\nEXHIBIT 6: S&OP - 360 DEGREE VIEW\nILLUSTRATIVE\n"
+    }
+]

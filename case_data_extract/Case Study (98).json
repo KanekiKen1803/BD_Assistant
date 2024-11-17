@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103721+05'30'",
+            "modDate": "D:20241115103721+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDetailed review of pricing opportunities related to normalization of pricing \nanomalies, standardization of existing customer discounts, evaluation of strategic \npricing options and re-aligning the spare part prices based on order patterns and \nrelative price premium potential.\nIndustrial Parts Manufacturer\n(Pricing Opportunity)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103721+05'30'",
+            "modDate": "D:20241115103721+05'30'",
+            "trapped": ""
+        },
+        "content": "PRICING OPPORTUNITY REVIEW FOR AN INDUSTRIAL PARTS MANUFACTURER\nSITUATION\n▪\nThe company had discrete and scattered data systems for capturing the pricing information for the engineered product lines across entities\n▪\nMerilytics partnered with the client to conduct a detailed review of pricing opportunities related to normalization of pricing anomalies, standardization \nof existing customer discounts, evaluation of strategic pricing options and re-aligning the spare part prices based on order patterns and relative price \npremium potential\n▪\nDeveloped deep understanding of the current pricing processes and external market positioning of the complex engineered products, based on \ninterviews with ~20 stakeholders across entities\n▪\nDeveloped standardized product hierarchies and de-duplicated customer lists from discrete data sources across entities, to enable the pricing analysis\n▪\nAnalyzed the complete invoice data and identified discrepancies in actual discounts vs. designated discounts, to streamline the sales quotation process\n▪\nAnalyzed the Bill of Materials (BOM) data using clustering techniques to identify potential products where the prices could be aligned with the \ncomposition of constituent parts\n▪\nIdentified strategic pricing opportunities for the clients based on industry practices, estimated the potential incremental impact on revenue and \nconducted a preliminary assessment of company’s preparedness to implement the strategic initiatives\nVALUE ADDITION\nIMPACT\n▪\nThe analysis helped the Management gain understanding of the company’s current pricing scenario and enabled them to engage in strategic discussions \nwith the PE investors\n▪\nHelped the company’s management to identify and evaluate the pricing opportunities and devise short-term implementation strategies to realize the $ \nopportunity in current and next fiscal year\n▪\nData capturing gaps identified during the analysis also helped the company identify potential areas to streamline the data systems and processes going \nforward\nABOUT THE CLIENT\nA PE client was evaluating a comprehensive review of pricing opportunities for a recently acquired portfolio company that manufactures industrial parts and components\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103721+05'30'",
+            "modDate": "D:20241115103721+05'30'",
+            "trapped": ""
+        },
+        "content": "Price normalization\nStrategic pricing\nIdentifying pricing deviations and standardization of customer \ndiscounts\nPricing variations of non-configurable products based on sum of \nBOM vis-a-vis overall product price\nPricing variations of configurable products based on similar \nconfiguration features and same BOM\nCustomer-based \ndifferentiated pricing\nProduct family \npenetration-based pricing\nOrder type based \ndifferential pricing\nCustomer rebates\nCustomer tiering\nProduct bundling\nExpress delivery \nsurcharge\nMinimum order \nsurcharge\nSpare-part pricing\nDifferential premium based on criticality, lifecycle and \nsubstitutability, to re-align product margins\na\nb\nc\nd\ne\nf\ng\nh\nPricing Opportunity\nDescription\n3\nMETHODOLOGY AND APPROACH\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (98).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103721+05'30'",
+            "modDate": "D:20241115103721+05'30'",
+            "trapped": ""
+        },
+        "content": "Opportunity\nSize of Opportunity\nImplementation readiness\nNet revenue \nopportunity ($)\nRealization \nfactor (%)\nRealizable \nopportunity ($)\nTimelines\nSystems/\nData\nOperations\nCustomers\nNormalization and standardization \nof discounts\n$0.6mn\n50%\n$0.3mn\nQ2 FY19\nNormalization of variations based \non configurations and  BOM\n$0.4mn\n10%\n$0.0mn\nQ3 FY18\nAnnual rebate incentives\n$3.4mn\n60%\n$2.0mn\nQ2 FY19\nCustomer tiering\n$1.0mn\n30%\n$0.3mn\nQ1 FY19\nProduct bundling\n$3.0 mn\n50%\n$1.5mn\nQ4 FY19\nExpress delivery surcharge\n$1.1mn\n50%\n$0.5mn\nQ4 FY18\nMinimum order surcharge\n$0.8mn\n50%\n$0.4mn\nQ4 FY18\nSpare-parts pricing\n$0.4-0.9mn\n30%\n$0.1-0.3mn\nQ4 FY18\nTotal\n~$11mn\n~50%\n$5-$5.5mn\na\nb\nc\nd\nf\ng\nh\ne\nHigh readiness\nLow readiness\nILLUSTRATIVE\n4\nOVERALL VALUE ESTIMATION AND FEASIBILITY STUDY CONDUCTED ON EACH PRICING \nOPPORTUNITY IN ORDER TO PRIORITIZE THE EXECUTION PLAN\n"
+    }
+]

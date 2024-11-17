@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140835+05'30'",
+            "modDate": "D:20241114140835+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAuthorization and cash collections \nreporting\n1\nBuilt automated reporting to track patient's authorization details and Estimated \nCustomer Financial Responsibility (ECFR) to improve authorization and collection \nrates\nBehavioral Healthcare Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140835+05'30'",
+            "modDate": "D:20241114140835+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to provide visibility into patient's authorization details and Estimated Customer Financial Responsibility \n(ECFR) to improve authorization and cash collection rates. Utilization Review (UR) teams at the facilities did not have visibility \ninto the patients with pending authorization from insurance companies (payers); and failure to renew the authorizations on-time \nresulted in claim denials and lower reimbursements from payers.\nBehavioral Healthcare Provider company needs Authorization \nand cash collections reporting\n2\nYour value is enhanced. \nYour automated reporting enabled client’s UR team to identify specific patients without authorizations on a real time basis \nand follow up with insurers to get authorization. UR team has converted the patients with authorization denials to either \nself-pay patients or discharged them based on their review or moved them to a lower level of care resulting in lower denial \nrates. Due to these actions taken by client based on the reporting –\n•\nAuthorization rates increased by 15% (from 80% to 95%)\n•\nECFR collection rates increased by 25% (from 60% to 85%)\nAUTHORIZATION AND CASH \nCOLLECTIONS REPORTING\nKEY RESULT   \n•\nAuthorization rates \nincreased by 15% \n•\nECFR collection rates \nincreased by 25% \nVALUE LEVERS PULLED\n•\nText analytics\n•\n Natural Language \nprocessing\n•\nBi-Directional LSTM\n•\nWord Embeddings\n•\nBI dashboards\n2\nYou turn to Accordion. \nWe partner with your team to build an automated reporting to track patient's authorization details and Estimated Customer \nFinancial Responsibility (ECFR) to improve authorization and collection rates, including:\n1)\nIntegrating data from different systems to provide visibility into the current census, authorization status, patient financial \nresponsibility and payments\n2) Automated emails were sent to each facility with the list of unauthorized patients and the patients with pending ECFR to drive \nimprovements in authorizations and cash collections\n3) Building robust self-serve dashboards on Power BI to track the authorizations and cash collections over the time by facility, \ninsurance, and level of care\n4) Designing a facility performance scorecard by assigning scores to facilities based on their authorization and cash collection \nefficiency\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140835+05'30'",
+            "modDate": "D:20241114140835+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated data from different systems to provide visibility into the current census, authorization status, patient financial responsibility and payments\n•\nAutomated emails were sent to each facility with the list of unauthorized patients and the patients with pending ECFR to drive improvements in \nauthorizations and cash collections\n•\nBuilt robust self-serve dashboards on Power BI to track the authorizations and cash collections over the time by facility, insurance, and level of care\n•\nDesigned a facility performance scorecard by assigning scores to facilities based on their authorization and cash collection efficiency\nSituation\n•\nUtilization Review (UR) teams at the facilities did not have visibility into the patients with pending authorization from insurance companies (payers); and \nfailure to renew the authorizations on-time resulted in claim denials and lower reimbursements from payers. Also, the teams lacked visibility into how much \namount they should collect from patients during the treatment; and this resulted in lower cash collections and revenue loss.\n•\nPartnered with the client to provide visibility into patient's authorization details and Estimated Customer Financial Responsibility (ECFR) to improve \nauthorization and cash collection rates\nImproved cash collection rates for a behavioral health company\n3\nImpact\n•\nThe automated reporting enabled client’s UR team to identify specific patients without authorizations on a real time basis and follow up with insurers to get \nauthorization. UR team has converted the patients with authorization denials to either self-pay patients or discharged them based on their review or moved \nthem to a lower level of care resulting in lower denial rates. Due to these actions taken by client based on the reporting – \n•\nAuthorization rates increased by 15% (from 80% to 95%)\n•\nECFR collection rates increased by 25% (from 60% to 85%)\nAuthorization and cash \ncollections reporting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140835+05'30'",
+            "modDate": "D:20241114140835+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nDaily authorization & cash collections report\n•\nProvided visibility into authorization status, patient collections and  estimated revenue at a patient level\n•\nHelped the facility UR team to identify the patients with pending/expired authorizations and follow-up with insurers to get authorizations\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (186).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140835+05'30'",
+            "modDate": "D:20241114140835+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nFacility scorecard\nILLUSTRATIVE\n▪\nCompared the performance of the facilities on KPIs such as % Authorized days and % Patient collections using a scorecard\n▪\nProvided visibility for the leadership team to identify low-performing facilities\n"
+    }
+]

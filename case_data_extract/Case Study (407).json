@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse and BI infrastructure design and \nimplementation\n1\n• Built a scalable enterprise data warehouse on Azure platform to accommodate \ndata from multiple data sources\n• Developed reporting suite on Power BI, by migrating existing dashboards from \nlegacy systems (OBIEE), re-factoring the existing dashboards to the new data \nwarehouse and building new dashboards\nNutritional supplements manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to setup an Azure-based Enterprise Datawarehouse and develop automated performance dashboards. The current \nreporting suite is based on legacy systems (Oracle’s OBIEE as a visualization tool and Informatica as an ETL). There is an \nopportunity to move to a more efficient, scalable cloud-based environment and cost-effective solution to host data from multiple \ndata sources and build automated self-serve dashboards.\nNutritional supplements manufacturer needs “new and \nimproved” data warehouse and BI infrastructure\n2\nYour value is enhanced. \nYou have an Enterprise Datawarehouse that enables the availability of clean and validated data off the shelf across the company \non near real time basis. You have integrated and automated BI reporting process, including performance dashboards, ensuring \nconsistent and accurate performance KPIs across different functions of the business. You also have the azure platform to sunset \nthe Oracle based BI infrastructure environment and save more than $100,000 annually.\nDATA WAREHOUSE AND BI \nINFRASTRUCTURE DESIGN AND \nIMPLEMENTATION\nKEY RESULT   \n•\n~$100,000 annually \nsaved\nVALUE LEVERS PULLED\n•\nData cubes - design \nand setup\n•\nData warehouse - \ndesign and setup,\n•\nData Visualization\n•\nData Architecture\n•\nIntegrated BI\n2\nYou turn to Accordion. \nWe partner with your team to built a scalable enterprise data warehouse on Azure platform to accommodate data from multiple \ndata sources, develop a reporting suite on Power BI, including:\n1)\nBuilding an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different data sources through data pipelines \n(in Azure Data Factory) and transforming the raw data as per business requirements\n2) Conducting an in-depth study of the OBIEE & Informatica environments to determine the underlying logic for the existing \ndashboards and revamping it to build a more efficient and economical solution\n3) Creating tabular data models on Azure Analysis services to create ready-to-serve data marts for analytical and reporting \npurposes\n4) Developing automated Power BI dashboards on top of the Azure Analysis services to analyze the business performance\n5) Incorporating automated data validation and reconciliation rules at every step across the entire ETL process to ensure \naccuracy and consistency in data\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different data sources through data pipelines (in Azure Data Factory) and \ntransformed the raw data as per business requirements\n•\nConducted an in-depth study of the OBIEE & Informatica environments to determine the underlying logic for the existing dashboards, and revamped it to \nbuild a more efficient and economical solution\n•\nCreated tabular data models on Azure Analysis services to create ready-to-serve data marts for analytical and reporting purposes\n•\nDeveloped automated Power BI dashboards on top of the Azure Analysis services to analyze the performance of the client’s business\n•\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nSituation\n•\nClient’s reporting suite was based on legacy systems (Oracle’s OBIEE as a visualization tool and Informatica as an ETL). There was an opportunity to move \nto a more efficient, scalable cloud-based environment and cost-effective solution to host data from multiple data sources and build automated self-serve \ndashboards\n•\nPartnered with client to set up an Azure-based Enterprise Datawarehouse and develop automated performance dashboards\nData warehouse and BI infrastructure design and \nimplementation for nutritional supplements provider\n3\nImpact\n•\nImplemented an Enterprise Datawarehouse that enabled the availability of clean and validated data off the shelf across the company on near real time basis\n•\nIntegrated and automated BI reporting process, including performance dashboards, ensured consistent and accurate performance KPIs across different \nfunctions of the business\n•\nThe Azure platform helped the client to sunset the Oracle based BI infrastructure environment and save more than $100,000 annually\nDATA WAREHOUSE AND BI \nINFRASTRUCTURE DESIGN AND \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrior BI architecture\n4\n(Accounting & \nFinance Data)\nFlat files \nfrom \nSharePoint\nEmail Campaign \nData\nWebinar Data\nInformatica ETL \nTool\nPower BI \nGateway\nInternal data processing for \ncleansing & harmonization\nPower BI\nData Sources\nData Ingestion and Reporting Layer\nData \nStructures\nData, \nReporting and \nAnalytics\nObservations on prior architecture:\n▪\nOBIEE dashboards and Informatica ETL \nprocess were slow\n▪\nAbsence of documentation and existing \nredundant processes made it difficult to \nmake updates\n▪\nFrequent failures during weekly refresh of \nthe dashboards\n▪\nArchitecture made it cumbersome to add a \nnew data source with different data \naccessibility method\n▪\nObsolete OBIEE dashboards as the reports/ dashboards were not updated to meet business requirements\n▪\nPower BI data models’ inability to handle large data sets impacted the performance of the dashboards\n▪\nLack of central repository for storing historical data as some reports are directly generated from source systems \n▪\nLack of consistency of data being utilized by various teams \n▪\nLack of consistency and documentation on KPIs\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nNew reporting flow after BI infrastructure implementation\n5\nData Sources \nEcommerce Data\nAccounting & Finance Data\nCustomer & Leads \nData\nEmail Campaign Data\nWebinar Data\nAVATAX Data\nBandwidth \nUtilization Data\nHelp Desk \nPerformance Data\nIngest\nAzure Data \nFactory\nData Warehouse\nAzure SQL\nPrep & Train\nAzure SQL\nModel\nAzure Analysis \nServices\nServe\nAutomated ETL Process with e-mail alerts / notifications\n▪\nBuilt an Enterprise Datawarehouse connecting various data sources through data pipelines and transformed raw data as per business requirements\n▪\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\n▪\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n▪\nCreated a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes. \n▪\nDeveloped Power BI dashboards on top of the Analysis services to monitor and track business performance\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExecutive summary\n6\nExecutive summary dashboard to capture YTD sales by brand, channel, distributor etc. and track current year’s performance vs. previous year\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSlob summary\n7\nSLOB dashboard to capture slow moving and obsolete inventory in order to forecast the reserve amount to be accounted for due to expiry of shelf life of raw material \nKPI Card \nshowing \nreserve \namount by \nvarious SLOB \ntriggers\nTree Map \nshowing the \nTop-10 MPF \ncodes based on \nreserve amount\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (407).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185244+05'30'",
+            "modDate": "D:20241114185244+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOrder reconciliation \n8\nAn order reconciliation dashboard to capture the sla metrics at each stage of order processing from orders created to orders shipped to invoices generated\nFunnel chart \nshowing the \ncount and \npercentage of \norders at various \nstages of order \nprocessing\nLine chart \nshowing last 30 \ndays trend in \norder processing\nILLUSTRATIVE\n"
+    }
+]

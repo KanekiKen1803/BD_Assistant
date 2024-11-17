@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCompliance Automation\n1\nCreated an automation tool to certify & revoke user accesses across financial \nsystems and applications\nMultichannel Video Streaming & Satellite Service Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeployed a Python & UiPath based data extraction process to download user access list from Oracle RDS, dashboards’ reports, emails, and SFTP server\n•\nAutomated the aggregation and rationalization of roles and access levels for 5,000+ users across 20 financial applications\n•\nEnabled emailed-based trigger using Power Automate for timely follow-ups with non-compliant supervisors and administrators\n•\nGenerated division-level compliance summary automatically using MS Graph API for the audit team to escalate non-compliance events in a timely manner\n•\nStreamlined and standardized user access certification and revocation process across 20 financial applications\nSituation\n•\nClient has 20+ applications that have financial reporting implications. However, they did not have any existing process in place to certify and revoke user \naccess across these applications, which is a critical requirement for annual SOX audits.\n•\nMerilytics partnered with the client to develop an end-to-end automated process to extract user accesses from all applications, certify them from \nrespective supervisors, and revoke inappropriate accesses wherever applicable\nAutomation of User Access Certification Process for \nAudit and Compliance\n2\nImpact\n•\nSaved ~20 FTE days worth of manual effort (90% reduction) on quarterly basis to certify 5,000+ user accesses across 20 applications from 400+ supervisors\n•\nImproved supervisor’s response rate by streamlining and integrating response-easing automation over output emails\n•\nStreamlined the process and reduced manual efforts quarterly required to log information as evidence for annual SOX audits\nCompliance Automation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology / Approach\n3\n01\nUser Access Data Extraction \n• Automatic process to extract user access roles and user details from various \nsource application\n• Aggregation & rationalization of user access roles for certification\nRPA tools (Power \nAutomate & UI Path)  and \nPython\nUser Access Certification \n• Automated emails to supervisors with list of user access for certifications\n• Extraction process to download & aggregate supervisor responses from email\n• Identification of in-appropriate user accesses across all applications based on \ncertification response\n• Identification of pending user access certifications\n2\nMS Graph API and \nPython\n01\nUser Access Revocation & \nTracking\n• Automated emails to application administrators with inappropriate user access \nlist for revocation\n• Revocation Tracking process\n• Identification of pending revocations and requesting administrators to take \nnecessary actions\n3\nRPA tools (Power \nAutomate & UI Path), MS \nGraph API and Python\n01\nProcess Summarization\n• Identification of pending user access revocations\n• Summarization of the process in excel for audit team with pending/completed \ncertifications and revocations\n4\nMS Graph API and \nPython\n1\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccess Validation & Revocation Flow\n4\nSource \nApplications\n•\nData extraction process for all source applications \nwould be automated using multiple processes \ninvolving RPA, API integration & Automate emails\nShare reminder emails after \na defined period to \nsupervisors to share \nresponse on validation \nemails\nSet up automate process to send \nautomate emails with list of \ninappropriate accesses (.xlsx \nfile) identified by supervisors for \nrevocation\nStage 3 : Access Validation\nStage 1 : Data Extraction\nStage 2 : Segregation & Email Sharing\nWeb Phone\n•\nExtract hierarchical information from Web phone \nand Administrator-System mapping file provided on \nthe shared location\n•\nSet up automation email provides status of data \nextraction for all applications\nUsers will be mapped to a BU \nsupervisors based on Web \nphone data\nInformation for each BU \nsupervisor will be segregated in \nexcels and shared over emails\n•\nInformation (User, Access, \nSystem, Administrator) will be \nshared in a .xlsx file\nSupervisor \nResponse \nReceived\nBU supervisors will validate and \nidentify inappropriate user \naccess\nNo\nEND\nAutomation Process\nUsing the standard template \nprovided in the email, \nsupervisors will share their \nresponse back by responding to \nsame email\n•\nRecipients would also include \nrelevant system \nadministrators and audit & \ncompliance team \nSTART\nRevocation Tracking Flow\nYes\nIdentify user access with \npending certification\nAccess needs to \nbe revoked\nNo\nYes\nAdministrator \nMapping\nDownload supervisors' \nresponses through mails \nand stored at location\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevocation Tracking Process\n5\nConsidered as \nPending \nRevocations\nStage 3 : Revocation Confirmation\nStage 1 : Extract Information\nStage 2 : Identify Pending Revocations\nIdentify a list of inappropriate \naccess that are pending to be \nrevoked using the stored \nsupervisor response email\nData extraction process for all \nsource applications would be \nautomated using multiple processes \ninvolving RPA, API integration & \nAutomate emails\nAdministrator \nResponse \nReceived\nSet up automate process to send \nemail to admins with list of \ninappropriate user access to be \nrevoked\nN\no\nEND\nTracking \nProcess will \nbegin after \ndefined wait \ntime provided to \nadmins for \nrevocations\nInappropriate \nAccess \nRevoked\nExtract \ninformation from \nAdministrator \nresponse\nYe\ns\nYe\ns\nSet up automate mail to send \nto audit team with summary of \nprocess with list of \npending/completed \nrevocations and certifications\nDownload admin responses \nthrough mails and stored at \nlocation \nAutomation Process\nN\no\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRecertification Email and Report\n6\nILLUSTRATIVE\nEmail Received by Supervisors:\n“Reply here” link is used by the \nsupervisors to send in the recertified \ndata\nRecertification File:\nSupervisors need to select “Y or N”  from the \ndropdown present in “Is Access Appropriate, \nY/N”\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSummary Email and Report\n7\nILLUSTRATIVE\nSummary Report:\nThe Excel file contains the consolidated list of \nthe certifications and revocations processed \nduring the quarterly audit process.\nEmail Received by Audit Team:\nThe email contains the user access count \nfor all applications and the summary \nreport file sent at the end of the \nautomation process.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (29).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162121+05'30'",
+            "modDate": "D:20241114162121+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n8\n•\nExtraction and Transformation of data from Oracle RDS, SFTP Servers and UI of Applications\n•\nLeverage of MS Graph API to access Microsoft services i.e., MS Outlook without access to Microsoft account \n•\nUnattended process execution with AWS VM\n•\nEvent based trigger of UiPath process using automated email through Power Automate\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData management & analytics\n1\n• Built a scalable enterprise data warehouse on the Azure cloud platform to \naccommodate data from multiple Electronic Health Record (EHR),  payroll & \nother administrative systems\n• Developed a robust reporting suite to unlock visibility in key practice operations \nby tracking visits and appointments, provider productivity and billable units, \nalong with a deep dive into key interventional areas to monitor Spravato/ \nKetamine and TMS chair utilization\nBehavioral Health Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different EHR and Payroll systems (Valant, TherapyNotes, ADP, HST, \nTheraManager, MediSoft, MicroMD, ADS and NextGen) that acts a single source of truth for all reporting\n•\nImplemented Row Level Security (RLS) to restrict the access to the Clinic Directors/Regional Managers and securely share the BI dashboards\n•\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n•\nBuilt data models on Azure Analysis Services with all key metrics and designed robust self-serve dashboards on Power BI with scheduled daily / weekly \nrefresh of data to provide insights into clinics’ performance\nSituation\n•\nDue to inadequate data architecture for integrating information from multiple third-party systems, the client lacked visibility into their organization’s clinics’ \nperformance, resulting in an inability to accurately track essential business metrics in a timely manner\n•\nPartnered with the client to set up an Azure-based Enterprise Datawarehouse and develop data models and automated Power BI dashboards that are \nrefreshed on daily & weekly basis\nSetting up cloud-based data warehouse and reporting suite\n2\nImpact\n•\nEnabled the availability of clean and validated data off the shelf across the company on near real time basis with an Enterprise Datawarehouse\n•\nAutomated Power BI dashboards provided visibility for the Senior Leadership team into the key performance metrics related to tracking in-flow of patients \nand tying them up with availability of providers, performance of key interventional lines of business related to Spravato, Ketamine and TMS chairs\n•\nAutomated the reporting of key patient healthcare access and bonus calculations \n•\nAutomating report generation saved ~40 person-hours per week by eliminating manual tasks such as data gathering, cleaning, and Excel report creation\nDATA MANAGEMENT AND ANALYTICS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDatawarehouse architecture design\n3\n1\nData Sources \nIngest\nAzure Data \nFactory\nData Warehouse\nAzure SQL\nCleaning & \nTransform\nModel\nAzure Analysis \nServices\nServe\nAutomated ETL Process with e-mail alerts / \nnotifications\nManual Data \nIngestion via \nSharePoint\nBuilt an Enterprise Datawarehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nCreated a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes\nDeveloped Power BI dashboards on top of the Analysis services to monitor and track business performance\n2\n3\n4\n5\n1\n5\n2\n3\n4\n1\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAppointments summary for operations\n4\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nProvider summary\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (249).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152948+05'30'",
+            "modDate": "D:20241114152948+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nClinical director dashboard\n6\nILLUSTRATIVE\n"
+    }
+]

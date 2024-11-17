@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105003+05'30'",
+            "modDate": "D:20241115105003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nOrder management system migration\n1\n• Ensured one-time data migration and ongoing data synchronization, for order \nand customer data, across the order management modules of Magento and \nM2M (legacy ERP system)\n• Automated data accuracy validation across both systems on daily basis\nOverdenture and dental implant manufacturer \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105003+05'30'",
+            "modDate": "D:20241115105003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConducted an elaborate due-diligence of existing data infrastructure and closely monitored the data migrated in batches to ensure real-time validation\n•\nIdentified data mapping and logic issues between the two systems (Magento & M2M), and flagged them for SI partner to address, to ensure accuracy of the \nmigrated data\n•\nIdentified the key fields leading to data transfer failures, and cleansed the data accordingly so that there would be minimum rejections from Magento and \nM2M systems\n•\nSet up automated data validation scripts and processes, to validate the sanctity of the data within individual systems and across both systems\nSituation\n•\nClient was adopting a new order management tool (Magento), by transitioning from a legacy ERP system (M2M). During the transition, there were issues \ndue to incorrect data migration, leading to misdirected orders thereby losing revenue in returns and exchanges, and impacting customer satisfaction\n•\nPartnered with the client to ensure one-time data migration and ongoing data synchronization, for order and customer data, across the two systems. In \naddition, we automated the data accuracy validation across both systems on daily basis.\nM2M to Magento data migration and validation for PE-owned \nmedical manufacturing firm\n2\nImpact\n•\nAchieved 99% accuracy of the data between the systems, after two iterations of data migration\n•\nProduct returns and exchanges reduced significantly (decrease in returns by ~15%)\n•\nSales team spent less time in processing orders and were able to handle more leads per day, leading to increase in revenue\nORDER MANAGEMENT SYSTEM \nMIGRATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105003+05'30'",
+            "modDate": "D:20241115105003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\nInitial data clean up and import\nIdentify data tables \nacross both systems \nthat need to be \ntransferred\nIdentify data fields that \nneeds to be mapped \nacross both systems\nReview data types and \nconstraints of data \nfields in both systems\nHarmonize data \nconstraints for the data \nfields that are \napplicable to both \nsystems\nClean data from legacy \nsystem (M2M) \naccording to re-\nestablished constraints \nto data fields\nIs the data \naligned to new \nconstraints?\nImport the data into \nmagento system\nNo\nYes\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105003+05'30'",
+            "modDate": "D:20241115105003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccuracy of data migration\n4\nAccuracy Assessment – Migrated Customer Address data from Magento to M2M legacy system\n59.6%\n89.3%\n88.0%\n96.8%\n96.7%\n96.6%\n96.5%\n96.3%\n96.2%\n97.8%\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n90%\n100%\n80K\n70K\n40K\n50K\n60K\n74.8K\n68.3K\n73.3K\n# Records in M2M\n74.8K\nAccuracy, %\n73.3K\n59.6%\n02/01\n02/02\n02/03\n74.1K\n02/04\n74.3K\n02/05\n74.6K\n02/08\n74.6K\n02/09\n74.7K\n02/10\n74.7K\n02/11\n02/12\n02/15\n# Records in M2M\nAccuracy, %\nMade2Manage ERP\nPost-data cleansing and \nreconciliation, accuracy \nincreased significantly\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (326).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Blair North",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105003+05'30'",
+            "modDate": "D:20241115105003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccuracy assessment across systems\n5\nILLUSTRATIVE\nMagento\nM2M\nM2M\nMagento\n32,092\n31,742\n31,298\n31,498\nAccuracy\n97.53%\n99.23%\nRecords with accurate information\nemail\nemail2\nThe field shouldn't be empty and should \nbe unique\nThe field shouldn't be empty and should \nbe unique\n31,601\n31,742\nemail2\nfcemail\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,092\n31,742\nchannel\nchannel\nValues should be one from the \ndropdowns. The field shouldn't be empty\nValues should be one from the \ndropdowns. The field shouldn't be empty\n32,092\n31,742\nfirstname\nfcfname\nThe field shouldn't be empty (Length < \n256)\nThe field shouldn't be empty\n32,092\n31,742\nlastname\nfcontact\nThe field shouldn't be empty (Length < \n256)\nThe field shouldn't be empty\n32,092\n31,742\nsub_type\nSubtype\nValues should be one from the \ndropdowns. The field shouldn't be empty\nValues should be one from the \ndropdowns. The field shouldn't be empty\n32,092\n31,742\nm2mid\nfcustno\nShould be unique and shouldn't be empty Should be unique and shouldn't be empty\n31,742\nsegments\nsegments\nValues should be one from the \ndropdowns. The field shouldn't be empty\nValues should be one from the \ndropdowns. The field shouldn't be empty\n32,092\n31,742\npracticetype\nPRACTICETYPE\nValues should be one from the \ndropdowns. The field shouldn't be empty\nValues should be one from the \ndropdowns. The field shouldn't be empty\n32,092\n31,742\nDefaultbilling.Company fcompany\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,092\n31,521\nDefaultbilling.Phone\nfphone\nThe field shouldn't be empty and length = \n10\nThe field shouldn't be empty and length = \n10\n32,011\n31,498\nDefaultbilling.Street\nfmstreet\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,092\n31,522\nDefaultbilling.city\nfcity\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,091\n31,522\nDefaultbilling.region\nfstate\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,088\n31,517\nDefaultbilling.postcode\nfzip\nThe field shouldn't be empty\nThe field shouldn't be empty\n32,092\n31,522\nDefaultbilling.country_id fcountry\nThe field shouldn't be empty. country_id = \n'US'\nThe field shouldn't be empty. Fcountry = \n'USD'\n32,092\n31,522\nProduction\nCustomer accounts that are currenlty in M2M\nCustomer with accurate info\nBusiness Rules\nFields\n(Magento Database)\nFields\n(M2M Database)\nEstimated accuracy of \ncompliance to business rules \nin respective systems prior to \nmigration\nFlagged key fields causing \ndata mismatches and \nmigration failures\nMade2Manage ERP\n"
+    }
+]

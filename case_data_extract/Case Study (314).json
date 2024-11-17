@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nStore clustering/segmentation analysis\n1\n• Created store clusters to identify stores with similar purchase behavior using \nclustering algorithms and streamlined assortment process\n• Built optimized SKU assortments by sub-departments customized for store \nclusters and physical store sizes, with an Excel tool to enable merchants finalize \nthe assortments\nBoating and fishing supplies retailer \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for store-level SKU assortment strategy as currently the assortment is defined by each store manager based \non preference/experience, resulting in a time and resource intensive process. This is further leading to delayed internal \napprovals and line reviews with vendors impacting store performance. \nBoating and fishing supplies retailer needs store segmentation \nand SKU variety\n2\nYour value is enhanced. \n•\nYou have streamlined SKU assortment creation process for merchants by enabling assortment definition at cluster level as \nopposed to store level. By creating optimized assortments for ~140 sub-departments covering ~30k active SKUs which would \nlead to overall potential increase of margin by ~15%\n•\nYou have enabled merchandizing team to drive data-driven & faster SKU assortment decisions which can be customized at a \ncluster level and anticipate the revenue impact of these changes resulting in timely line review with vendors\nSTORE CLUSTERING/SEGMENTATION \nANALYSIS\nKEY RESULT   \n•\n~15% potential margin \ngain\n•\nOptimized assortments for \n~30k active SKUs\nVALUE LEVERS PULLED\n•\nCategory Management\n•\nClustering Analysis\n•\nK-means clustering \nalgorithm\n2\nYou turn to Accordion. \nWe partner with your team to streamline the SKU assortment strategy by defining stores clusters at a sub-department level \nbased on historical customer purchase patterns, creating differentiated SKU assortments for each cluster, including:\n1) Identifying store clusters for each sub-department which have similar purchase characteristics (store characteristics, \ncustomer type, products purchased etc.) based on a K-means clustering algorithm and identified optimal number of \nclusters using distortion and silhouette scores \n2) Recommending SKU assortments for each cluster at a sub-department level which was customized by store size (small, \nmedium and large), and analyzing the impact of the recommendations on the financial performance\n3) Operationalizing the assortment strategy by creating an automated Excel based tool for merchants to finalize SKU \nassortments leveraging the recommendations by sub-departments and clusters, with visibility into financial impact of \nassortment changes\n4) Identifying the control stores and setting-up an automated reporting suite to track the financial and operational \nperformance of new assortments\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIdentified store clusters for each sub-department which have similar purchase characteristics based on a K-means clustering algorithm and identified \noptimal number of clusters using distortion and silhouette scores \n•\nAnalyzed each cluster within a sub-department to identify attributes defining the cluster based on store characteristics, customer type, products purchased \netc. \n•\nRecommended SKU assortments for each cluster at a sub-department level which was customized by store size (small, medium and large), and analyzed the \nimpact of the recommendations on the financial performance\n•\nOperationalized the assortment strategy by creating an automated Excel based tool for merchants to finalize SKU assortments leveraging the \nrecommendations by sub-departments and clusters, with visibility into financial impact of assortment changes.\n•\nIdentified the control stores and set-up an automated reporting suite to track the financial and operational performance of new assortments\nSituation\n•\nClient had a store-level SKU assortment strategy where the assortment was defined by each store manager based on preference/experience, resulting in a \ntime and resource intensive process. Leading to delayed internal approvals and line reviews with vendors impacting store performance\n•\nPartnered with the client to streamline the SKU assortment strategy by defining stores clusters at a sub-department level based on historical customer \npurchase patterns, creating differentiated SKU assortments for each cluster\nStore segmentation and differentiated SKU assortments by \nstore cluster\n3\nImpact\n•\nStreamlined SKU assortment creation process for merchants by enabling assortment definition at cluster level as opposed to store level\n•\nCreated optimized assortments for ~140 sub-departments covering ~30k active SKUs which would lead to overall potential increase of margin by ~15%\n•\nEnabled merchandizing team to drive data-driven & faster SKU assortment decisions which can be customized at a cluster level and anticipate the revenue \nimpact of these changes resulting in timely line review with vendors\nBoating and Fishing Supplies Retailer \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n4\nOLD ASSORTMENT APPROACH\nAssortment implemented for all the stores\nBased on category manager preference and experience \nManually done for 32K+ assortments\nOnly anecdotal tracking mechanism\n140 sub-departments which are all treated individually\n230+ stores\n32K+ SKU assortments at a store and sub-department \ncombination\nImpact of \nAssortment \nchanges\nSKU \nRecommendation \nwithin each cluster \nK-Means Store \nclustering and SKU \nAssortments\nNEW ASSORTMENT APPROACH\nSet-up an automated reporting suite to track the financial and \noperational performance of new assortments\nBased on SKU index using historical financial & operational \nperformance (such as revenue, margin, GMROI etc.)\nAutomated SKU recommendations for ~1.7K assortments \nreducing manhours by ~80%\nIdentified control stores for each test store by sub-department\n20 sub-departments \n(Purchase patterns unique to \nsub departments)\n3 - 4 store clusters by sub-\ndepartment\n(K-Means clustering)\n1.4K+ SKU assortments at a \nstore and sub-dept. level\n240 SKU assortments at a \nstore and sub-dept. level\nOverlay store size - Small, Medium, \nLarge\n120 sub-departments \n(Purchase patterns similar to \ncompany level patterns)\n4 store clusters at the \ncompany-level\n(K-Means clustering)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDetailed modeling approach\n5\nMODEL APPROACH\nCreated recommended SKU assortments for each store cluster at a sub-department level by ranking the SKU \nperformance\nAnalyzed the potential impact of assortment changes on revenue and margin\nSKU Assortment \nand Impact of new \nassortment\nIterated through various clustering algorithms, feature sets (using Principal Component Analysis) and chose \noptimal number of clusters and algorithm (K-means) based on Distortion score and Silhouette score\nCreated store clusters using K means clustering at an overall level and individual sub-departments level for \nselected sub-departments\nBuilding Store Clusters\nDefined the store clusters by identifying unique and homogenous store and customer attributes and product \nassortments being purchased by customers in the cluster\nIdentified and extracted revenue along with internal/external store and customers characteristics such as \ncustomer type, store location, water type etc.\nCreated raw data for clustering exercise by integrating store transactions data and mapped eCommerce \ntransactions to customers’ nearest store\nData Extraction And \nExploratory Data \nAnalysis\nRemoved sub-departments having lower revenue share (Bottom 5%) and identified sub-departments which \nrequired clustering at overall or sub-department level\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSelecting number of clusters for a particular sub-department\n6\nNumber of clusters are selected based on \nSilhouette and Distortion score using elbow plot\nDistortion score: Used to measure fit of the clusters by identifying how well data points within a cluster are grouped together. A lower distortion score indicates \ntightly packed data points.\nSilhouette score: Used to measure how clusters are separated from each other. A higher silhouette score indicates clusters are well separated.\nData points within clusters are packed well and \nclose to each other (Distortion score)\n0\n0.1\n0.2\n0.3\n0.4\n0.5\n0\n500\n1,000\n1,500\n2,000\n2,500\n1\n2\n3\n4\n5\n6\n7\nSilhouette score\nDistortion score\nNumber of clusters\nSilhouette and Distortion scores vs Number of clusters\nDistortion score\nSilhouette score\nDistribution of Stores as data points across PC1 and PC2\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCluster definition using attributes and assortments\n7\nCluster 1 is dominated by products from Classes 1 \nand 5. \nCluster 1 can be defined as stores with Value 2 \n(Attribute 1) and Value A (Attribute 2)\nAttribute Definition: Defined each store cluster using unique and dominant customer and store attributes for that cluster\nAssortment Definition: Defined each store cluster using the dominant products/product categories being purchased in that cluster\n# of Stores\nCluster Metrics\nAttribute 1\nAttribute 2\nCluster\n#Stores\n% Stores\nValue 1\nValue 2\nValue A\nValue B\nValue C\nCluster 1\n20\n13%\n2\n18\n19\n1\n0\nCluster 2\n60\n40%\n50\n10\n5\n52\n3\nCluster 3\n40\n27%\n5\n35\n2\n5\n33\nCluster 4\n30\n20%\n68\n7\n6\n7\n62\nTotal\n150\n100%\n112\n126\n86\n81\n71\nClasses\nCluster 1\nCluster 2\nCluster 3\nCluster 4\nGrand Total\nAssortments\nClass 1 + \nClass 5\nClass 3 + \nClass 6\nClass 2 + \nClass 5\nGeneral \nAssortment\nClass 1\n55%\n5%\n6%\n22%\n73%\nClass 2\n7%\n8%\n60%\n10%\n14%\nClass 3\n1%\n40%\n2%\n22%\n1%\nClass 4\n3%\n4%\n3%\n16%\n4%\nClass 5\n25%\n3%\n26%\n16%\n2%\nClass 6\n8%\n40%\n3%\n14%\n6%\nGrand Total\n100%\n100%\n100%\n100%\n100%\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nGeographical visualization of store clusters\n8\nStores within a region being clustered in the same \nsegment/group as geography is a key driver\nGeographical distribution \nof store clusters across \nMainland US\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSKU recommendations for each cluster for a particular sub \ndepartment\n9\nFinancial impact of recommended action\nRecommended action for each SKU, customized \nfor store cluster and store sizes\nSKU Recommendation: Built SKU Recommendations by sub-department customized for store cluster and store sizes, using their TTM financial performance \nand analyzed potential financial impact of recommendations\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImpact of assortment changes\n10\nCohort performance post implementation of \nassortment\nFinancial Performance of test stores vis a vis \ncontrol stores\nTest Control Stores Analysis: Built refreshable weekly reports to track financial performance of assortment changes in test stores vis a vis control stores \nsegmented by go-live cohorts\nTest vs Control Index: Difference of index score at test and control stores where index score is defined as ratio of ‘Current week sales’ and ’Go-live week sales’\n-10\n0\n10\n20\n30\n40\nWeek 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9\nWeek\n10\nTest vs. Control index\nPost go live weeks\nTest vs. Control Indexed Sales/Store by Cohorts\nCohort 1\nCohort 2\nCohort 3\n0\n10\n20\n30\n40\n50\n60\n70\nSD 1\nSD 2\nSD 3\nSD 4\nSD 5\nAverage test vs. control index\nSub departments\nPost Go Live Performance Summary of Department \n1 (Cohort - 1)\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (314).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165327+05'30'",
+            "modDate": "D:20241114165327+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n11\n1) Expanded the knowledge in clustering algorithms and identifying the correct algorithms and feature sets to derive meaningful results.\n2) Created the definition of each store clusters with the store and customer attributes to define each store cluster. \n3) Identified the dominant set of product categories (classes) & brands being purchased in each store cluster at a sub-department level. \n4) Recommended SKU assortments for each store cluster based on their performance\n"
+    }
+]

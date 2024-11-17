@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153313+05'30'",
+            "modDate": "D:20241114153313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Warehouse and BI Infrastructure Design \nand Implementation\n1\nBuilt data lake and data warehouse capturing Slowly Changing Dimension type-4 \non Azure platform to accommodate data from multiple data sources and Built a \nPower BI reporting suite by migrating existing dashboards from Excel to Power BI\nChain of healthcare facilities for mental and behavioral health \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153313+05'30'",
+            "modDate": "D:20241114153313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up the automatic Data Delivery Service (DDS) in SAGE to get full load and incremental load of company and general ledger objects on daily basis\n•\nBuilt 6 automated pipelines from SAGE to capture daily load (full load & incremental) of data with different file structures\n•\nTook backup of daily files in Data lake for archival purpose\n•\nCaptured SCD type-4 while storing the data in data warehouse tables to track historic changes and recorded them in separate history tables\nSituation\n•\nClient had financial data stored on SAGE Intacct. Custom reports were built on the platform manually by the client and were used across the organization\n•\nPartnered with client to set up automatic delivery of the data from SAGE INTACCT to Azure file share using Data Delivery Service (DDS), to get daily load \nof the files automatically\nCase study - Sage data integration\n2\nImpact\n•\nThe automated data warehouse architecture helped the client save time and efforts in creating, maintaining and running custom reports on SAGE\n•\nData from data warehouse can be used to create multiple financial reports with desired cuts for filtering than being limited by the source\nData Warehouse and BI \nInfrastructure Design and \nImplementation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153313+05'30'",
+            "modDate": "D:20241114153313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDatawarehouse architecture design\n3\n3\nAzure\nFile Share\nDDS\nAzure Data Factory\nAzure Data Lake\nAzure SQL Database\nAzure Analysis \nServices\nData Source\nData Storage & Processing\nData Visualization \nData is ingested in Azure SQL Database for transformations & subsequent data \nmodelling\nUsing the Fact & Dimension tables, final data models will be generated for \nvisualization\nPeriodic data backups and data archiving will be done for the dimensional models \nfrom Azure Analysis Services in the Azure Data Lake.\nData is extracted from SAGE Intacct using automatic DDS (Data Delivery Service) in \nthe form of  CSV files\nCSV files are saved in the specific folders for Full Load and Incremental files in Azure \nFile Share \nData is prepared for creating Fact & Dimension tables and relevant KPIs & metrics\n1\n2\n5\n6\n1\n2\nRaw data is saved in Azure Data as flat files which serves as “Source” of raw data \nacross the company\n3\n3\n4\n4\n6\n5\n8\n7\nData is extracted from Azure File Share using Azure data Factory pipelines and \ningested into Azure Data lake and Azure SQL Database\n7\n8\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (251).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153313+05'30'",
+            "modDate": "D:20241114153313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n4\n▪There is a limitation for file upload size in Azure file share. If the file to be uploaded is >4MB in size, then the file will come as blank sheet and will not \ncontain any data\n▪In order to resolve this issue, the files needed to be split after 10,000 records while uploading data from SAGE to Azure File share\n▪The Incremental Load from SAGE General Ledger object will have 3 different files that will contain newly created, deleted and updated entries in 3 \ndifferent files having different file structure\n▪Schedule time for SAGE Data Delivery Service (DDS) trigger cannot be added automatically. The trigger will consider the timestamp of  Data Delivery \nService creation to be the automatic trigger time for daily runs\n"
+    }
+]

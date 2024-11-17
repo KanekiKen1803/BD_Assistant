@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182038+05'30'",
+            "modDate": "D:20241114182038+05'30'",
+            "trapped": ""
+        },
+        "content": "PRICE IMPACT ANALYSIS FOR BEAUTY PRODUCTS MANUFACTURER AND RETAILER\nSITUATION\n▪Client lacked visibility on the impact of price increments on units & revenue and found an opportunity in building a dynamic pricing architecture model  \nfor strategizing future price revisions by product categories and regions\n▪Partnered with the client to analyze the retail sales before & after the historical price change points and provided visibility into the business impact of \nprice revisions. Also, developed a dynamic Pricing Strategy Model enabling client’s teams to simulate and evaluate the impact of future price change \nscenarios\n▪Assessed the impact of the historic price changes on the top-products providing strategic value to optimize pricing strategies\n▪Analyzed historical Price-Volume trend, PVM (Price Volume Mix) impact, Price Elasticity and Seasonality of top-product categories across different \nmarkets and developed front end visualizations for comprehensive visibility to the users \n▪Developed an excel based dynamic Pricing Model to project the revenue and variance w.r.t. fiscal year targets by testing scenarios based on user inputs \nof estimated increase in Prices and YoY growth in Units by product categories and regions\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a manufacturer & retailer of beauty and personal care products having ~450 touchpoints across major global markets such as North America, Europe and APAC\n1\n▪Offered insights into the business implications of past price adjustments across regions, channels, and product categories, empowering stakeholders to \nmake informed decisions for future price revisions on key products\n▪Facilitated the client’s corporate and regional teams to assess potential revenue impacts through the simulation of various scenarios involving price \nincreases and unit growth, ensuring the effectiveness and resilience of future price revisions in meeting revenue targets\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182038+05'30'",
+            "modDate": "D:20241114182038+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH & METHODOLOGY FOR IDENTIFYING THE BUSINESS IMPACT OF PRICE REVISIONS\n2\nIdentified the Top \nselling product \ncategories by deep \ndiving into historical \nsales trends\nAssessed the price increase \nimpact considering multiple \nfactors such as seasonality, \nchange in product mix, price \nchange periods, etc\nEstimated long-term price impact \nwith the help of Price v/s Qty and \nRevenue curves (Price Elasticity \ncurves)\nCreated of a dynamic \nmodel where the business \nuser can review the region \nand product wise impact \nof price increase on \ncustomer purchasing \nbehavior\nProvided actionable \ninsights to the business \nteam to decide on the \nprice change for a product \ncategory in specific \nmarket during next price \nrevision\nEstimated of short-term price \nimpact due to recent price change \nevents using 4-week PVM analysis \nbefore and after price change\nIdentified the impact of Price increases on business\nCreated Product \narchetypes and defining \nbenchmark product \ncategory (based on \nbusiness inputs)\nIdentified of specific regions to \nconduct pricing analysis in \nLocal Currency\nSummarized actualized Units sold \nand Price for each product \ncategory in USD and Local \nCurrency\nCreated a dynamic model \nwhere business user can \ninput expected Unit \ngrowth, upcoming Price \nchange event and expected \nRevenue growth\nStrategized future price revisions by Product categories and Regions\nThe model verifies whether the \nplanned price is as per the \nprice of benchmark product \ncategory\nThe model ensures robust \ndecision making by comparing \nthe overall targeted Revenue \ngrowth with the simulated \nRevenue growth based on \ndifferent scenarios\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182038+05'30'",
+            "modDate": "D:20241114182038+05'30'",
+            "trapped": ""
+        },
+        "content": "BUSINESS IMPACT OF HISTORICAL PRICE REVISIONS\nILLUSTRATIVE\n3\nPrice elasticity analysis by \nproduct category\nHistorical Price vs Quantity \ntrends to visualize impact of \nprice changes on units sold\nFunctionality for users to view \ninsights by different selection \ncriteria such as regions, \nchannels and product lines\nYoY Price vs Quantity snapshot \nto understand the general \npurchase behaviour w.r.t. \ndifferent prices by specific \nmonths\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (382).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182038+05'30'",
+            "modDate": "D:20241114182038+05'30'",
+            "trapped": ""
+        },
+        "content": "ESTIMATED IMPACT OF FUTURE PRICE CHANGES THROUGH PRICING STRATEGY MODEL\nILLUSTRATIVE\n4\nProduct categories and \nallowable price variation \nrange against respective \nbenchmarks\nHistorical period’s actualized \nstatus\nValidation of new Price \ninput against the \nspecified benchmark \nprice \nPrice – Volume – Mix \nImpact analysis to \nsimulate various price \nrevision scenarios\n"
+    }
+]

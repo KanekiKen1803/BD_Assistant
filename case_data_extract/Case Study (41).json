@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFinancial planning and analysis – reconciliation \n1\n• Developed methodologies to reconcile the financials between Spark database \n(SKU level profitability) and Hyperion Financial Management (HFM - \nConsolidated Financial ERP) and identify the variances\n• Analyzed cost allocations and other differences between the Spark Database \nand HFM\nClosures manufacturing company \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for establish a robust mapping framework encompassing GL Account, Cost Centre, and Department for both \nHFM and Spark. This meticulously crafted mapping system facilitated the seamless linkage of Spark accounts with their \ncorresponding HFM accounts.\nClosures manufacturing company needs closures \nmanufacturing company \n2\nYour value is enhanced. \nYou have the linkage between HFM and Spark Accounts enabled the client to discern account-level mismatches, facilitating \nnecessary changes in HFM database and identify the modifications to align data across both databases which enabled consistent \n& accurate reporting for historical financials on an ongoing basis. You also have the reconciliation report facilitated the seamless \nalignment of financials for Region 1 between HFM and Spark achieving a significant reduction in variances at the VCM level from \n$1.4 M to ~6K and, at the EBITDA level from $122K to $1,208.\nFINANCIAL PLANNING AND ANALYSIS \n– RECONCILIATION \nKEY RESULT   \n•\n$1.4 M to ~6K VCM \nlevel reduction\n•\n$122K to $1 EBITDA \nreduction\nVALUE LEVERS PULLED\n•\nFinancial \nReconciliation across \nSpark database and HFM\n2\nYou turn to Accordion. \nWe partner with your team to develop methodologies to reconcile the financials between Spark database (SKU level profitability) \nand Hyperion Financial Management (HFM - Consolidated Financial ERP) and identify the variances. Analyze cost allocations and \nother differences between the Spark Database and HFM, including:\n1)\n Streamlining and conducted a comprehensive analysis from 2 different sources (HFM and Spark database) using the data \ncubes. The data sources had disparate methodologies in recognizing accounts under each Financial Header, including multiple \nmanual adjustments\n2) Designing a methodology to discern alterations in the mapping between HFM and GL Accounts, implemented one-time, \ncomprehensive changes in the mapping within the HFM database to facilitate the reconciliation of financials against the Spark \ndatabase. Identified key GL accounts driving the variances across both databases  \n3) Building automated self-service financial reports on Excel to track the variance between HFM and Spark Database at VCM and \nEBITDA level for each month\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nStreamlined and conducted a comprehensive analysis from 2 different sources (HFM and Spark database) using the data cubes. The data sources had \ndisparate methodologies in recognizing accounts under each Financial Header, including multiple manual adjustments\n•\nDesigned a methodology to discern alterations in the mapping between HFM and GL Accounts, implemented one-time, comprehensive changes in the \nmapping within the HFM database to facilitate the reconciliation of financials against the Spark database. Identified key GL accounts driving the variances \nacross both databases  \n•\nBuilt automated self-service financial reports on Excel to track the variance between HFM and Spark Database at VCM and EBITDA level for each month\nSituation\n•\nClient encountered challenges in reconciling financial data between the Spark database (used to track SKU level profitability) and Oracle Hyperion \nFinancial Management (‘HFM’) (used for Consolidated Financials reporting) leading to inconsistent financial reporting. Additionally, the client experienced \ndifficulties in generating automated reports to identify key headers influencing variances at the VCM and EBITDA levels\n•\nPartnered with the client to establish a robust mapping framework encompassing GL Account, Cost Centre, and Department for both HFM and Spark. This \nmeticulously crafted mapping system facilitated the seamless linkage of Spark accounts with their corresponding HFM accounts.\nReconciliation for a manufacturing company\n3\nImpact\n•\nThe linkage between HFM and Spark Accounts enabled the client to discern account-level mismatches, facilitating necessary changes in HFM database and \nidentify the modifications to align data across both databases which enabled consistent & accurate reporting for historical financials on an ongoing basis\n•\nThe Reconciliation report facilitated the seamless alignment of financials for Region 1 between HFM and Spark achieving a significant reduction in variances \nat the VCM level from $1.4 M to ~6K and, at the EBITDA level from $122K to $1,208\nFinancial Planning and Analysis \n– Reconciliation \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n4\n▪Profitability data at account level from \nSpark database\n▪GL account, Cost Centre and \nDepartment mapping for Spark direct \nand indirect accounts.\n▪HFM trial balance data\n▪GL account, Cost Centre and \nDepartment mapping with HFM \naccount\n▪HFM accounts hierarchy in the balance \nsheet\n▪Identified the methodology to map \nHFM accounts with respective Spark \naccounts\n▪Created the account level hierarchy to \nidentify the rollups of the transactions \nat Financial header level\n▪Analyzed the impact of Standard costs \nallocation across both databases and \nthe effect of over/under adjustments\n▪Segregated the mismatches into \nspecific categories based on the P&L \nimpact  \n▪Identified the rollup mismatches \nbetween HFM and Spark at Financial \nheader level\n▪Based on account description \nidentified the correct mapping of HFM \nand Spark accounts at Financial \nheader level\n▪Correction of rollups at financial \nheader in both HFM and Spark for final \nreconciliation and validation from \nclient\n01\nInput Data\n02\nMethodology\n03\nOutput \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nReconciliation for region 1\n5\nEBITDA Calculation in HFM & SPARK with July YTD Values after making the required changes \nFinancial Headers\nValue from HFM based on \nProposed Header (YTD)\nChanges made based \non re-allocations\nTotal value captured under \nHFM based on Proposed \nHeader (July YTD)\nValue from SPARK (July \nYTD)\nVariance between \nHFM & SPARK (July \nYTD)\nNet Sales\n$                 285,467,651 \n$                   285,467,651 \n$                      285,474,590 \n$                     (6,939)\nTotal Material Costs\n$                 123,774,270 \n$                   123,774,270 \n$                      123,774,270 \n$                              0 \nFreight\n$                   14,994,749 \n$                     14,994,749 \n$                        15,000,479 \n$                     (5,730)\nTotal Direct Labor\n$                         282,986 \n$             18,530,060 \n$                     18,923,046 \n$                        18,925,489 \n$                     (2,443)\nVariable Conversion Costs\n$                      2,265,520 \n$             18,609,726 \n$                     21,245,246 \n$                        21,250,188 \n$                     (4,943)\nVariable Contribution Margin (VCM)\n$                 144,150,126 \n$                   106,530,340 \n$                     106,524,164 \n$                       6,176 \nFixed Cost\n$                70,648,813.2 \n$        (37,139,786.0)\n$                     33,029,027 \n$                    33,021,642.8 \n$                   7,384.3 \nSG&A\n$                  8,473,853.3 \n$                        8,473,853 \n$                       8,473,854.4 \n$                         (1.1)\nOther (Income)/ Expense\n$                     474,637.5 \n$                           474,637 \n$                          474,637.5 \n$                             -   \nManagement adjustments\n$                                      -   \n$                                        -   \n$                             -   \nRoyalty Expense\n$                  8,925,701.4 \n$                        8,925,701 \n$                       8,925,700.9 \n$                           0.4 \nEBITDA\n$                55,627,121.0 \n$                  55,627,121.0 \n$                    55,628,328.6 \n$                 (1,207.5)\nReconciliation till \nEBITDA for Region 1\nThe view helped the \nclient track variance \nat each Financial \nheader\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (41).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185607+05'30'",
+            "modDate": "D:20241114185607+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSummary of rollups at financial headers\n6\nSummary of all the rollups at Financial Header level to Reconcile HFM with Spark\nProposed Header (SPARK Header)\nGL ACCOUNT \n(HFM)\nGL ACCOUNT DESCRIPTION (HFM Account)\nCost \nCenter\nCost Center Description\nNET SALES\nGL 1\nSales - Customers\nC1\nDefault\nGL 2\nSales - Customers - Unallocated Revenue\nC2\nDefault\nGL 3\nSales - Customers - Unearned Discount\nC3\nDefault\nGL 4\nSales - Customers - Earned Discount\nC4\nDefault\nGL 5\nSales - Customers - Rebate Credits\nC5\nDefault\nGL 6\nSales - Intercompany\nC6\nDefault\nGL 7\nSales - FOREX Results\nC7\nForex Revaluations (I/S Only)\nGL 8\nSales - FOREX Results AR\nC8\nFOREX/Currency Hedge\nGL 9\nScrap Sales - Customers\nC9\nDefault\nGL 10\nSales Returns & Allowances - Customers\nC10\nDefault\nGL 11\nOperating Revenue - Customers\nC11\nOther Income\nGL 12\nOperating Revenue - Intercompany\nC12\nDefault\nNET SALES Total\nTOTAL MATERIAL COSTS\nGL 13\nManufact Exp - Raw Matls Consumed\nC13\nOther Inventory\nC14\nOther Inventory - SAB101 or IAS 18\nGL 14\nManufact Exp - COGS Purchased for Resale\nC15\nCustomer Replacement / Maintenance \nParts\nC16\nPlastic Closures Purchased\nC17\nOther Inventory\nGL 15\nPurchase Price Variance\nC18\nDefault\nGL 16\nInvoice Price Variance\nC19\nDefault\nGL 17\nCash Discounts on Purchases\nC20\nDefault\nGL 18\nIntercompany Purchase Price Variance\nC21\nDefault\nGL 19\nMaterial Variance\nC22\nDefault\nGL 20\nProduction Matl Cost - Inbnd Frt In Inv\nC21\nDefault\n73150000\nCost of Goods Sold - Material\nC22\nDefault\nILLUSTRATIVE\n"
+    }
+]

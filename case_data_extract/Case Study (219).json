@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI infrastructure design & implementation\n1\nAutomated and streamlined BI reporting for all line of business and Implemented \ncentral data access management to ~700 users , which further saved FTE man-\nhours costs in BI reporting\nNursing care & rehab services provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for setting up an enterprise data warehouse and develop automated performance dashboards to streamline their \nBI reporting infrastructure to facilitate tracking of operational performance across different lines of business. \nNursing care & rehab services provider company needs top-\nnotch  BI infrastructure design & implementation\n2\nYour value is enhanced. \nYou have implemented central data access management to ~700 users and enabled easy distribution of reports to the respective \nowners with appropriate access controls which further reduced to 50-60 FTE hours on weekly basis. You have implemented an \nEnterprise Datawarehouse that enables the availability of clean and validated data off the shelf across the company on near real-\ntime basis. You have also integrated and automated BI reporting process including performance dashboards with consistent and \naccurate performance KPIs across different functions of the business.\nBI INFRASTRUCTURE DESIGN & \nIMPLEMENTATION\nKEY RESULT   \n•\n~700 users provided \ncentral data access\n•\n50-60 FTE hours on \nweekly basis\nVALUE LEVERS PULLED\n•\nLever 1\n•\nLever 2\n•\nLever 3\n2\nYou turn to Accordion. \nWe partner with your team to automate and streamline BI reporting for all line of business and Implemented central data access \nmanagement to ~700 users , which further saved FTE man-hours costs in BI reporting, including:\n1)\nAnalyzing the EMR systems (Point Click Care  and Rehab Optima), Accounting system (Great Plains Dynamics), CRM systems \n(Salesforce, Paycom, Relias and Claim Zone) and Financial system (Great Plains) and other internal data sources  to identify \nthe relevant KPIs and cleanse the data.\n2) Building an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different data sources through data pipelines \n(in Azure Data Factory) and transformed the raw data as per business requirements\n3) Developing automated Power BI dashboards on top of the Azure Analysis services to analyze the performance across different \nLOBs\n4) Incorporating automated data validation and reconciliation rules at every step across the entire ETL process to ensure \naccuracy and consistency in data\n \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the EMR systems (Point Click Care  and Rehab Optima), Accounting system (Great Plains Dynamics), CRM systems (Salesforce, Paycom, Relias \nand Claim Zone) and Financial system (Great Plains) and other internal data sources  to identify the relevant KPIs and cleanse the data.\n•\nBuilt an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different data sources through data pipelines (in Azure Data Factory) and \ntransformed the raw data as per business requirements\n•\nDeveloped automated Power BI dashboards on top of the Azure Analysis services to analyze the performance across different LOBs\n•\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nSituation\n•\nClient needed to streamline their BI reporting infrastructure in order to facilitate tracking of operational performance across different lines of business i.e., \nInstitutional Special Needs Plan business (I-SNP) a Medicare Advantage plan, Nurse Practitioner, Skilled nursing facilities (SNFs) and enable addition of \nother lines of business over time\n•\nPartnered with the client to set up an Enterprise Datawarehouse and develop automated performance dashboards\nBI infrastructure design and implementation for pe-owned \nhealthcare company\n3\nImpact\n•\nImplemented central data access management to ~700 users and enabled easy distribution of reports to the respective owners with appropriate access \ncontrols (e.g., facility managers having access only to their facility data and not other facilities), which further reduced 50-60 FTE hours on weekly basis\n•\nImplemented an Enterprise Datawarehouse that enables the availability of clean and validated data off the shelf across the company on near real-time basis\n•\nIntegrated and automated BI reporting process including performance dashboards with consistent and accurate performance KPIs across different functions \nof the business\nBI Infrastructure Design and \nImplementation \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrior BI Architecture\nOLAP Analysis\nData Visualizatio\nPoint Click Care \n(EMR system)\nData Sources\nFlat files (PPHP data, \nmember details) from \nSFTP folder\nStaging Database\nInternal data processing \nfor cleansing & \nharmonization\nSFTP\nData Ingestion and Reporting Layer\n‘SQL16 Process’ Database\nObservations on prior architecture:-\n▪\nLoading Labor, PPHP and other data from \nSFTP folders was a manual and time-\nconsuming process\n▪\nFile processing was I/O intensive operation \nand slowed the performance of the system. \nAlso, there was a possibility of files being \ncorrupted in transmission.\n▪\nConstrained architecture: cumbersome to add \na new data source with different data \naccessibility method\n▪\nManagement of data accesses was \ncumbersome, and it was time consuming to \nprovision new accesses\nBasic \nReports\nData Structures\nData, Reporting \nand Analytics\n▪\nAd-hoc reporting based on needs from various Teams\n▪\nLack of central repository for storing historical data as some reports are directly generated from source systems \n▪\nLack of consistency of data being utilized by various teams\n▪\nLack of consistency and documentation on KPIs\n▪\nData distribution challenges while sharing with facilities (SNFs)\nData cubes for \nad-hoc reports\nAccounting system\nPaycom\nClaimzone\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI infrastructure implementation\nAccounting system\nPPHP (CRM system)\nPCC (EMR system)\nInternal systems\nData Sources \nAzure Data \nFactory\nAzure SQL\nAzure Analysis \nServices\nIngest\nPrep & Train\nModel\nServe\nAutomated ETL Process with e-mail alerts / notifications\n▪\nBuilt an Enterprise Datawarehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\n▪\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\n▪\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n▪\nCreated a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes. \n▪\nDeveloped Power BI dashboard for I-SNP Line of business and SNF Line of Business on top of the Analysis services to monitor and track business performance.\n(Financial system)\nPPHP\nClaimzone\nCenter for Medical \nSystems\nShoesForCrews\nRelias \nPaycom\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard - Clinical management\nButtons to toggle \nbetween different \nclinical categories \nfor Incident \nlocation and \nIncident shift \nfigures\nKPI Trays reporting \nvalues for various \nclinical categories. \n6\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard - Hospitalizations\nButtons to toggle \nbetween list of Top \n10 and Bottom 10 \nFacilities by the \nnumber of \nhospitalizations\nKPI Trays to show \nkey parameters \ntracking \nhospitalizations\n7\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Financial summary\nComparison of \nactual and budget \nnumbers and the \nVariance numbers. \nNegative Variance \nis shown in Red\nKPI showing \nactual value and \nits corresponding \nbudgeted value for \ncomponents of \nP&L Statement\n8\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (219).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145100+05'30'",
+            "modDate": "D:20241114145100+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative Dashboard - Ageing Report\nArrow button \nprovided on the \nvisual takes to  \ngranular level \ndata page at \nEmployee Level.\nKPI showing the \nactual values \nalong with the \nbudgeted value of \nthe corresponding \nmetric\n9\nILLUSTRATIVE\n"
+    }
+]

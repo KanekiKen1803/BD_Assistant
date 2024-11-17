@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162705+05'30'",
+            "modDate": "D:20241114162705+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nPre-release Forecasting – Mobile App\nHealth Supplement \nCompany\nUser driven ROI model for a Mobile App\nROI model for the mobile app for 3 \ncases – base, optimistic and \npessimistic\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162705+05'30'",
+            "modDate": "D:20241114162705+05'30'",
+            "trapped": ""
+        },
+        "content": "SLIDE HEADING\nSITUATION\n▪\nClient was interested in launching a mobile app to boost their business and wanted to know the return on investment of the mobile app\n▪\nMerilytics worked with the client’s product team to build a Prerelease forecasting model.\n▪\nEvaluated the current customer AOV (Average order value), orders per customer for subscribers and non-subscribers to estimate the base scenario\n▪\nBuilt a funnel model describing the customer journey from each page to a purchase with conversion rates for each page using the app design created \nby the product team. Using the funnel model, estimated the overall conversion rate for the mobile app.\n▪\nBuilt a user driven model with flexibility to adjust conversion for each page in the mobile app.\n▪\nEstimated the ROI for three different scenarios – Base, Optimistic and Pessimistic – by changing LTV (Lifetime Value) and conversion rate. The base \nscenario was with a marginal improvement in LTV and retention due to better engagement through the app. The pessimistic case assumed with no \nimprovement and the optimistic case assumed with significant improvement in DTC (Direct to customer) business.\nVALUE ADDITION\nIMPACT\n▪\nForecasting model determined that the mobile app is expected to improve the conversion rate and LTV and bring in more people through a referral \nprogram\n▪\nThe mobile app would bring in $35.5M (71%) additional revenue and $14.1M (71%) additional EBITDA. The mobile app program is expected to bring \nin 190k (40%) more customers in the upcoming year predominantly through the referral program and generate higher conversions\n▪\nThe increased revenue and EBITDA forecasted by the model drove the client to launch the mobile app.\nABOUT THE CLIENT\nClient is a producer of collagen-based health supplements and is the category leader in the U.S. \n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162705+05'30'",
+            "modDate": "D:20241114162705+05'30'",
+            "trapped": ""
+        },
+        "content": "App LTO 26% \nhigher\nReferral \nCustomers\nHigher Organic \nCustomers\nHigher Mobile \nApp AOV\nHigher Mobile \nApp LTO\nHigher Mobile \nApp \nEngagement\nHigher Mobile \nApp  Conversion\nReferral Invites\nAOV – Average order value\nLTO – Average lifetime orders\nLTV – Customer Lifetime Value\nCVR – Conversion rate\nInput\nIntermediary\nOutput\n65% of users \nsurveyed will \nuse\nApp CVR 23% \nhigher\nApp AOV 20% \nhigher\nAssumptions\n3.25% CVR per \napp user\nILLUSTRATIVE\n3\nIncrease in \nCustomers\nHigher Mobile \nApp LTV\nAdditional \nRevenue\nAdditional \nEBITDA\nThis section shows how the mobile app adds \nvalue\nThese sections show how the value additions \ntranslate into increases in key metrics\nThis section shows the realized increase in \nrevenue and profits\nPRE-RELEASE FORECASTING – MOBILE APP  MODEL FLOW\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (294).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162705+05'30'",
+            "modDate": "D:20241114162705+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\n4\n478K\n669K\n0K\n100K\n200K\n300K\n400K\n500K\n600K\n700K\n800K\n2022\nCustomers\nTotal Customers (with and without Mobile App)\nWithout Mobile App\nWith Mobile App Program\n168K\n22K\n155K\n160K\n165K\n170K\n175K\n180K\n185K\n190K\n195K\nCustomers\nCustomers acquired through referral program\nCustomers from higher conversion rate\nReferral\n$49.8M\n$85.2M\n0M\n20M\n40M\n60M\n80M\n100M\nRevenue\nRevenue\nWithout Mobile App\nWith Mobile App\n$19.9M\n$34.0M\n0M\n5M\n10M\n15M\n20M\n25M\n30M\n35M\n40M\nEBITDA\nEBITDA\nWithout Mobile App\nWith Mobile App\nThese sections shows the expected additional \nrevenue in the first year of launch of app\nThese sections shows the expected additional \nEBITDA in the first year of launch of app\n478K\n669K\n0K\n100K\n200K\n300K\n400K\n500K\n600K\n700K\n800K\nCustomers\nTotal Customers (with and without Mobile App)\nWithout Mobile App\nWith Mobile App Program\nThis chart shows the expected increase in \ncustomers due to the mobile app\nThis chart shows the expected additional \ncustomers acquired by source\nPRE-RELEASE FORECASTING – MOBILE APP MODEL RESULTS\n"
+    }
+]

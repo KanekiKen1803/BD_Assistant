@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse and BI infrastructure design and \nimplementation\n1\nBuilt a scalable enterprise data warehouse on Azure platform to accommodate \ndata from multiple data sources and developed Power BI reporting suite to \nanalyze the sales performance\nCosmetics brand\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to set up an efficient, scalable cloud-based data warehouse and develop automated Power BI dashboards. \nCurrently, it is becoming increasingly difficult to manage (collate, cleanse and aggregate) the data from various sources and to \ncreate/update the weekly and monthly Excel reports.\nCosmetics brand needs to setup an enterprise data warehouse \nand design the BI infrastructure\n2\nYour value is enhanced. \n•\nYour have an advanced Enterprise Datawarehouse enabled the availability of clean, validated and ready-to-use data across the \ncompany on real time basis\n•\nYour have automated Power BI dashboards providing visibility into the key performance metrics with consistent and accurate \nperformance KPIs \n•\nThe automated dashboards have saved you ~100 person-hours per month by eliminating the need to prepare manual Excel \nreports and PowerPoint presentations\nDATA WAREHOUSE AND BI \nINFRASTRUCTURE DESIGN AND \nIMPLEMENTATION\nKEY RESULT   \n•\n~100 person-hours per \nmonth saved\nVALUE LEVERS PULLED\n•\nEnterprise Data \nWarehouse setup\n•\nTabular data models in \nAzure SQL database \n•\nAutomated Power BI \nreporting suite\n2\nYou turn to Accordion. \nWe partner with your team to build a scalable enterprise data warehouse on Azure platform to accommodate data from multiple \ndata sources and develop a Power BI reporting suite to analyze the sales performance, including:\n•\nBuilding an Enterprise Data Warehouse (on Microsoft Azure platform) connecting different data sources through data pipelines \n(in Azure Data Factory) and transforming the raw data as per business requirements\n•\nIngesting data from Oracle Essbase (data extracted through file exports), NetSuite (data extracted through Saved Search), \nOneDrive to create data models after cleansing and harmonizing the data\n•\nCreating tabular data models within Azure SQL database to create ready-to-serve data marts for analytical and reporting \npurposes \n•\nDeveloping automated Power BI dashboards on top of the tabular data models to analyze the sales performance across \ndifferent channels\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt an Enterprise Data Warehouse (on Microsoft Azure platform) connecting different data sources through data pipelines (in Azure Data Factory) and \ntransformed the raw data as per business requirements\n•\nIngested data from Oracle Essbase (data extracted through file exports), NetSuite (data extracted through Saved Search), OneDrive to create data models \nafter cleansing and harmonizing the data\n•\nCreated tabular data models within Azure SQL database to create ready-to-serve data marts for analytical and reporting purposes \n•\nDeveloped automated Power BI dashboards on top of the tabular data models to analyze the sales performance across different channels\nSituation\n•\nWith sales across multiple countries and numerous products, it was becoming increasingly difficult for the client to manage (collate, cleanse and \naggregate) the data from various sources and to create/update the weekly and monthly Excel reports\n•\nPartnered with the client to set up more efficient, scalable cloud-based environment and developed automated Power BI dashboards\nSetting up cloud-based data warehouse and building reporting \nsuite for cosmetics brand\n3\nImpact\n•\nAdvanced Enterprise Datawarehouse enabled the availability of clean, validated and ready-to-use data across the company on near real time basis\n•\nAutomated Power BI dashboards provided visibility for the Senior Leadership team into the key performance metrics with consistent and accurate \nperformance KPIs \n•\nBased on assessment, the automated dashboards saved ~100 person-hours per month by eliminating the need to prepare manual Excel reports and \nPowerPoint presentations\nDATA WAREHOUSE AND BI \nINFRASTRUCTURE DESIGN AND \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrior BI architecture\n4\nData Sources\nRetail sales data from \nmultiple sources\nData Processing and Reporting Layer\nObservations on prior architecture:-\n▪Extracting data from different sources and \nprocessing them through Excel is time \nconsuming and inefficient\n▪Data sources across various channels, retail \npartners are different with varying \narchitecture and inconsistent dimensions\n▪Non-scalable architecture: Cumbersome to \nadd a new data source for any reporting \npurpose\nData \nStructures\nData, \nReporting and \nAnalytics\n▪Lack of central repository for storing historical data as some reports are directly generated from source systems \n▪Ad-hoc reporting based on needs from various teams\n▪Prone to errors as the data is manually processed and updated in the Excel reports/ PowerPoint decks\n▪Lack of availability of real-time data \n(Gross Sales \nData)\nOracle Essbase \nData\nPowerPoint \ndecks\nInternal data processing \nfor cleansing & \nharmonization\nExcel reports\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nNew reporting flow after BI infrastructure implementation\nData Sources \nAzure Data \nFactory\nAzure SQL\nIngest\nPrep & \nTrain\nServe\nAutomated ETL Process with e-mail alerts / notifications\n▪Built an Enterprise Datawarehouse connecting NetSuite, Oracle Essbase and other flat file data sources through data pipelines and transformed raw data as per \nbusiness requirements\n▪Developed an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\n▪Created Tabular data models on Azure SQL database and developed ready-to-serve data marts for analytical and reporting purposes. \n▪Developed Sales dashboards by channel, product, retail, etc., above the data models to monitor and track business performance\nData \nWarehouse\nRetail sales data from \nmultiple sources\n(Gross Sales \nData)\nOracle Essbase \nData\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Channel sales\n6\nWeek/Month \nslicer to select \nrequired \nWeeks or \nMonths\nKPI cards to \ncompare Sales \nvs. Plan and vs. \nvarious years\nMatrix table to compare Customer wise sales \nacross various years. The matrix table enables  to \nprovide hierarchical view with multiple layers of \ndata\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Product sales\n7\nILLUSTRATIVE\n‘Buttons’ to \nselect the ‘Year’\n‘Tree chart’ to \nview the Top \nproducts by \nsales. The size \nof the box \ncorresponds \nto the sales of \nthe product\nPie chart to \nview product \ncategory wise \nrevenue \ncontribution \nbased on the \n‘Year’ selected\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Retail sales\n8\nILLUSTRATIVE\n‘Water fall \nchart’ to \nanalyze the \ndrivers of YoY \nvariance\n‘Stacked \ncolumn chart’ \nto view channel \nwise monthly \nsales \ncontribution \ntrend\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (384).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182256+05'30'",
+            "modDate": "D:20241114182256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Channel & retail sales\n9\nILLUSTRATIVE\n‘Cluster \ncolumn chart’ \nto compare \nChannel wise \nmonthly sales \ntrend\n‘100% Stacked \ncolumn chart’ \nto view \nchannel wise \nmonthly sales \ncontribution \ntrend\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA ARCHITECTURE ASSESSMENT FOR A LOGISTICS COMPANY\nSITUATION\n▪Client has been facing difficulties in maintaining and leveraging the data from multiple systems for their operations due to older data systems and lack \nof integration across different data sources\n▪Merilytics partnered with the client to assess their current data architecture and recommend a robust (on-premises and cloud-based) data flow to \nimprove efficiency, scalability and automation\n▪Conducted discussions with data owners of all data systems and software to understand the current data flow. Developed a comprehensive \nquestionnaire for these discussions to capture details such as server information, data flow, replication process, data size, frequency of ingestion, etc.\n▪Documented the data flow of all systems, servers, and applications; and created a data flow diagram for the current architecture\n▪Assessed the current architecture to identify the opportunities and gaps for enhancements \n▪Recommended an alternate on-premises architecture to improve efficiency, scalability, automation of processes in existing architecture and integration \nof Ops systems \n▪Recommended a cloud-based data architecture option along with a plan to transition from on-premises to cloud environment \nVALUE ADDITION\nIMPACT\n▪Based on the recommendations, client was able to bridge the gaps in the current architecture and integrate all data sources into a consolidated server, \nwhich further helped in creating an efficient automated BI reporting suite\n▪The proposed architecture also helped client to establish transparent data flows and strong data governance\n▪Client also planned a long-term transition from on-premises to cloud-based data environment based on the recommendations\nABOUT THE CLIENT\nClient provides LTL (Less-Than-Truckload) shipping services to businesses across all major metro cities in the U.S. \n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n2\nConducted discussions with data owners of all \nsystems and software to understand current data flow\nCollaboration with Data Owners\nDesigned and proposed an alternate cloud-based \narchitecture for better scalability along with a migration \nplan from on-premises to cloud-based environment\nProposed Cloud based Architecture\nAssessed current data flows and architecture design to \nidentify gaps and opportunities for improvement\nAssessment of Current Architecture\nDocumented all observations from the initial \ndiscussions with data owners and created \nconsolidated data flow diagrams across all systems\nDocumentation of Current Architecture\nDesigned and proposed an enhanced on-premises \narchitecture with better efficiency and integration\nProposed enhanced On-Premises Architecture\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 - EXISTING DATA FLOW\nILLUSTRATIVE\n3\nTrips & Pickups Data\nSQL Replication\nSQL-Server-005\n(Dev)\nPickups Data Source\n(LTL Dev Reporting)\n(LTL Custom Apps)\nSQL-Server-016\n(Prod DW)\nSQL-Server-015\n(for Website)\n(Dev EDI)\n(Prod EDI)\n(UAT EDI)\nSQL-Server-006\nSQL-Server-007\n(Prod Reporting)\nSQL Replication\nTrips Data Source\nDB2\nQlik Replicate\nSQL-Server-003\n-\n-\nSQL-Server-004\nQlik Replicate\nSQL-Server-013\n(Custom Apps)\nInbound\nPlanner\nOutbound\nPlanner\nDock\nQuote\nPlanner\nFreight\nTrack\nPartner\nPortal\nSettlements\nTwo-Way\nTransfer\nMobile\nAsset Data\nSQL-Server-014\nLinked\nServer\nTransfer Capture\nSQL-Server-001\n-\n(Transfer Prod)\nSQL-Server-002\n(Transfer Prod)\n(Reporting)\nAPI/Hosted\nTransfer Workflow\nProfitability Data Source\nSafety\nData\nTruck\nData\nGPS\nData\nAPI\nQR \ndata\nSQL-Server-008\nSQL-Server-009\nSQL-Server-0010\nSQL-Server-011\nSQL-Server-012\nSome data sources are not \nintegrated to the SQL server \nenvironment\nKey Logistics data sources are \nhosted on older data systems \nand the data is replicated to On-\npremises SQL servers\nSQL Server Layer: Data from \nsources is again replicated to \nmultiple SQL servers for different \npurposes such as reporting, \ncustom applications, website etc.\nCustom Apps: A single SQL \nserver acts as the source for \nmultiple internal custom \napplications built by client for \ntheir daily operations\nExternal data sources: Data from \nexternal sources is loaded to the \nreporting servers through \nmultiple API calls\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 - PROPOSED DATA ARCHITECTURE FRAMEWORK\nILLUSTRATIVE\n4\nProduction Environment (Demilitarized Zone DMZ)\nExternal Facing \nLayer\nData Storage \nLayer\nInternal Facing \nLayer\nOnline Data \nStorage \n(Primary)\nOnline Data \nStorage \n(Secondary)\nHigher \nEnvironment\nStorage / \nReporting \nEnvironment\nNon-Production Environment (Dev/QA)\nLower \nEnvironment\n▪Only production applications \n& databases\n▪No user logins allowed\n▪Primary & Secondary (main \n& backup systems in HA \nmode)\n▪Code promotion through \nautomated process.\nReporting \nData\n▪Reporting Data contains \nreplicated data from all \nProduction databases\n▪Periodic archiving to \nSAN/NAS Storage to improve \nefficiency\nSAN / \nNAS\nStorage\n▪Data is available from Online \nData Storage (ODS)\n▪Data will be available only \nthrough SSIS, at frequency \ndefined by the end user\n▪Multiple VM to host either \nsingle or multiple databases\nDev/QA to Prod Movement\nOperations Systems\nHigher \nEnvironment\nStorage / \nReporting \nEnvironment\nOperations Systems\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 - RECOMMENDED ON-PREMISES NETWORK\nILLUSTRATIVE\n5\n▪Create a DMZ (Demilitarized \nZone) in Higher Environment\n▪Replicate data from primary \n(source) servers to production \nreplication environment layer \n(secondary servers) \nEstablish Online Data Storage \n(ODS) Layer:\n▪Push data from secondary \nservers into a primary ODS \nserver and secondary ODS \nserver \n▪Use a production reporting \nserver (with SSAS) linked with \nprimary ODS Server to act as a \nsource for reporting\n▪Add a SAN Storage server to \nprimary ODS server for data \narchiving purposes\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (378).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181459+05'30'",
+            "modDate": "D:20241114181459+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #4 - RECOMMENDED CLOUD-BASED NETWORK\nILLUSTRATIVE\n6\nConnection between On-\npremises and Azure networks \ncan be established using \nIntegration Runtime or Azure \nVPN for migration\nData storage layer in Cloud:\n▪Push data from all Azure \nsecondary servers to Azure \nSynapse which can act as a \ndata storage for all systems\n▪Use Azure synapse with in-\nbuilt Analysis Services \nIntegration for reporting \ninto Power BI or Excel\n"
+    }
+]

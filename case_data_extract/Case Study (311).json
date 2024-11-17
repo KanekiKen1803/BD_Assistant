@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDevelop Power Apps based application to streamline and automate the merchandise \nplanning process\nInventory Management (Open to Buy Application)\n(Boating and Fishing Supplies Retailer )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "INVENTORY MANAGEMENT FOR BOATING AND FISHING SUPPLIES RETAILER\nSITUATION\n▪Client had a manual and high-level “Open to Buy” (OTB) process that resulted in inaccurate estimation of working capital requirements. The current \nprocess was limited to an aggregated level without differentiation by channel and without visibility into past performance and variance vs. plans.\n▪Merilytics partnered with the client to streamline the OTB process and enabled planning at a channel level as well as provided visibility into variance \nvs. forecast and original plan. This was enabled through a custom built OTB Application that had automated connection to actuals and prior plans.\n▪Enabled the planners to plan at a channel level and compare the forecast plans against actuals, last forecast and original plan to improve future \nbudgeting/planning.\n▪Provided visibility into purchase plans at different levels (such as channel, department, overall) and identify drivers of variance\n▪Enabled the Planning head to track the entire process real time with flexibility to view all previous forecast at one place and consolidate through the tool\n▪Integrated the OTB tool with the Enterprise Data Warehouse to update actuals on the OTB tool at weekly cadence and store the forecasted plans in the \nData Warehouse for future plans/forecasts.\nVALUE ADDITION\nIMPACT\n▪Streamlined and automated process of monthly planning provided detailed visibility into the budget forecasting required to support Open to Buy process\n▪Reduced the turnaround time to forecast and upload plans by ~70% and removed manual consolidation of plans\n▪Automated process of storing and updating data with validation of the same enhanced the data consistency and integrity which enhances scalability\nABOUT THE CLIENT\nClient is a leading omni-channel boating and fishing retailer in the U.S serving B2C and B2B customers\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n3\n>\n>\n>\n>\nForecast \nPlanning\nUpload \nForecast Plan\nReview & \nApprove Plans\nOverall/ \nChannel \nSummary\nConsolidation \nof Plan\nPlanners can develop \naccurate working plans \nby leveraging previous \nforecast, historical and \nlatest actualized data\nSTART\nFINISH\nPlanners upload the \nrespective plan for \ntheir departments in \nthe OTB Tool\nPlans are saved in \ndatabase for future \nreference\nPlanning Head tracks \nand reviews the \nforecast plan. Plans can \nbe approved and \nrejected after analyzing \nthe variance\nSummary provides \nvisibility into purchase \nplans at different levels \n(such as channel, \ndepartment, overall) \nand identify drivers \nusing variance analysis\nConsolidate the plan at \noverall level to \naccurately perform \nbudget forecasting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "PLANNER VIEW – OTB TOOL\nILLUSTRATIVE\nView Plan Status for the Current \nMonth (Submitted, Approved or \nNot Available) and Reupload plan\n4\nView and Download Last Month \nforecast file with transactional data \nactualized till previous week for the \nrespective sub-department\nView Summary at Sub-Department, \nDepartment and Overall level for \neach Channel\nUpload plans for single or multiple \nclasses in Sub-Department\nView all Submitted Plans at a class \nlevel along with version #, upload \ndate etc.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "Consolidate overall plan for \nOptimistic and Realistic outlook.\nDepartment selection is disabled \nunless all plans in that department \nare approved\nPLANNER VIEW – OTB TOOL\nILLUSTRATIVE\nTrack status of Current planning \ncycle and review Plans Submitted. \nApprove/Reject them along with \nNotes/remarks.\n5\nView Summary at Department and \nOverall level to understand how \nplans roll up before approving them\nView Previous Consolidated plans \n(Draft and Final versions)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "REFORECAST FILE PLANNER\n6\nForecast class plan at month and \nchannel level for all metrics (Sales, \nMargin, Margin rate, inventory \nmetrics)\nSelection of if the forecast is \ncomplete for the class so that it can \nbe included while uploading on \nOTB Tool\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (311).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165002+05'30'",
+            "modDate": "D:20241114165002+05'30'",
+            "trapped": ""
+        },
+        "content": "SUMMARY AND VARIANCE ANALYSIS\n7\nSummarize and analyze purchase \nplans by channel, department, \noverall) with comparison to last year \nactuals, last forecast and plans\nILLUSTRATIVE\n"
+    }
+]

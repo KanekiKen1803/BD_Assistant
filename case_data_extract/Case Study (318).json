@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nConstruction Analytics\n1\nAnalyzed the customer order lifecycle across various construction processes \nby product, & region etc. to identify bottlenecks in the construction process \nresulting in delay of order completion. Additionally, enabled the construction team \nin prioritization of construction orders through a priority matrix based on the \nbusiness impact\nTelecommunication Company focused on the U.S. Rural market\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the end-to-end lifecycle of all customer orders and benchmarked the orders against the standard terms in the service level agreements to identify \nthe delays in various stages and jobs (Pre-build, Survey, Engineering, Construction, etc.)\n•\nFurther segmented orders by various attributes such as product group (Broadband, Fiber, etc.), and Region (Kentucky, Georgia, Northwest, etc.) to identify \nthe product groups/regions with delays, enabling the team to narrow down the focus area for improving the turnaround time\n•\nDesigned and developed a prioritization matrix by leveraging critical business KPIs (Payback months, MRR, order age) to effectively plan the construction \norder prioritization and maximize the value captured through construction tasks\n•\nDeveloped a Tableau-based dashboard for the leadership to monitor the pending construction orders and track process improvements on a real-time basis\nSituation\n•\nClient had limited visibility into the status of construction orders and its impact in driving delay in customer order closure, leading to high turnaround time \nfor order completion and increase in order cancellations\n•\nAdditionally, the client lacked prioritization strategy to tackle the building construction orders pipeline\n•\nPartnered with client to analyze the customer order lifecycle to identify the key drivers causing delay in order execution and developed a priority matrix to \nmaximize the value captured through construction tasks\nConstruction analytics\n2\nImpact\n•\nUnlocked revenue potential of ~$2M in ARR by identifying high impact customer orders with process delays\n•\nOptimized labor utilization resulting in ~18% increase in construction order completion, resulting in FTE and Contractor savings of ~$10M per annum\nConstruction Analytics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nAnalyzed customer order \njourney to track current state\nSegmented customer \norders to identify factors \ndriving delays\nPrioritized construction \norders and enabled real-time \nmonitoring\n▪Analyzed the orders at various construction \nstages & individual jobs involved in order life \ncycle to provide visibility into the state of \npending, completed and cancelled orders\n▪Deep-dived into monthly trends at a granular \nlevel (region, product etc.) to identify the \ntrajectory of pending orders over time\n▪Analyzed the key reasons of delayed orders \nby various business divisions i.e., Sales, \nconstruction, operations etc. and identified \nthe stages that drove order delay\n▪Segmented the delayed orders by additional \nattributes such as construction job, Product \ngroup, Build status, Region, etc., to identify \nthe key attributes of the delayed orders\n▪Defined order prioritization matrix for the \nbusiness construction team using critical \nbusiness metrics (Payback months, MRR, \norder age) to focus on the high priority orders \n▪Developed a Tableau-based dashboard suite to \nmonitor pending orders on a real time basis\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOrder status overview and trends\nILLUSTRATIVE\nProvides visibility \ninto overall \ncustomer orders \ntraffic by region, \nenabling the team \nto plan FTE and \nContractors based \non the trends\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPending order trends with driving factors\n5\nProvides the age \nof pending orders \nalong with the \naverage duration \nat each stage of \nthe order lifecycle\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (318).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114165813+05'30'",
+            "modDate": "D:20241114165813+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOrder health and prioritization\n6\nILLUSTRATIVE\nPrioritizes \nconstruction orders \nbased on risk and \nbusiness impact\nCompares the \nconstruction order \nhealth by \nbenchmarking its \nstatus with the \nSLAs\n"
+    }
+]

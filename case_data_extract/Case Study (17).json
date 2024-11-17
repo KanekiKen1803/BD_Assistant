@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrice elasticity analyses\n1\nEvaluated price sensitivity of top-line metrics such as guest count, units sold etc. \nfor historical price events to determine optimum prices by item and location\nRestaurant chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nYou turn to Accordion \nWe partner with your team to evaluate price sensitivity of top-line metrics such as guest count, units sold etc. for historical price events \nto determine optimum prices by item and location, including:\n•\nAnalyzing the transactional data for 3 months before and after each price action event for every item and location \n•\nTracking various metrics such as check count, Pmix (transaction share of item), check size, guest count and PPA (per person \naverage revenues) \n•\nSegmenting each item and location in to ‘not sensitive’, ‘moderately sensitive’ and ‘highly sensitive’ groups for each price action \nevent \n•\nAggregating the analysis to determine locations and items that are sensitive at an overall level \nPre-owned fast food restaurant chain needs price \nsensitivity analysis\n2\nYour value is enhanced.\nYou have determined that ~40% locations are potentially price sensitive. You have transactions share of item that is more elastic, \ncompared to guest count and ticket size per person implying that customers continued to visit the locations but changed the item \nordered. This analysis informed the future price changes and locations at which price action can be initiated.\nSALES INCENTIVE PLAN FOR BDMS\nKEY RESULT   \n•\n~40% locations are potentially \nprice sensitive \nVALUE LEVERS PULLED\n•\nPrice sensitivity \nanalysis\nPicture this…\nYou’re looking to assess the price sensitivity of top-line metrics for historical price events to determine optimum prices by \nitem and location. Currently, you understand the impact of the price changes for multiple events at an item and location level, \nbased on various traffic and revenue metrics.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOverall methodology for estimating price sensitives\n3\nIdentify price change \nevents\nData cleansing and aggregation \nKey item and location selection\nRaw data\n• 100 locations\n• 610 million rows  of \ntransaction data\nClean data\n• 100 locations\n• 240 million rows of \ntransaction data\nExcluded transactions with zero \nrevenues in net and gross values1\nSelection of key \nitems (based on \n2016 revenues)\nSelection of \nlocations that were \noperational 6 months \nprior and after the \nprice action\nCalculate price \nchange % for each \nevent by location\nCalculate impact \nmetrics for each \nevent by item and \nlocation\n•Calculate event level elasticity \nof each impact metric3\n•Calculate average elasticity for \neach metric by taking volume \nweighted average across all \nevents at a location\nDefine weights for each impact \nmetric2\nCalculate \naggregated \nelasticity for the \nlocation\nDefine cut offs for \nelasticity for \nsensitivity segments\nSegment locations \nby sensitivity\nCalculation of sensitivities and aggregation\n1.\nZero revenues for categories such as “addons”, “Giftcard”, “charged sides” etc. were excluded \n2.\nKey metrics include Guest count, Check count, Check size, PPA (Revenues per guest), # of items sold, Item Pmix (share of transactions for the item), Item check count, Item check size\n3.\nCalculated as % change in impact metric per % change in price\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTraffic and guest count trends\n4\nWeekly traffic (Nov 1, 20XX – Oct 19, 20XX)\n1.\nOnly includes the restaurants that were open six months prior and after the price change in May 2014\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDistribution of locations1 by sensitivity2 (3 months pre and post price change), %\n1.\n Only includes the locations that witnessed a price change and were open six months prior to the price change \n2.\n Sensitivity calculations include top-40 items selected based on 2014 revenue \n3.\n Weights used: Pmix (10%), PPA (10%) and Guest Count (80%); Elasticity is calculated by comparing 3 mo. pre and post price change\n40-75% of locations are price sensitive based on the analysis\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (17).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134757+05'30'",
+            "modDate": "D:20241114134757+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHighly sensitive items across majority of the locations\nItems ------>\nLocations ---------->\nItem level price sensitivities at each location\n6\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172859+05'30'",
+            "modDate": "D:20241114172859+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEstimation of Revenue Impact of Growth \n(Inorganic Scaling)\n1\n• Built a model to estimate the annual incremental revenue for a given increase in \nthe network size. \n• Identified growth potential across different segments of the current network \nand quantified the revenue impact of growth across the segments.\nPatient Engagement Solutions Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172859+05'30'",
+            "modDate": "D:20241114172859+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a bottoms-up financial model to estimate revenue impact from inorganic expansion based on contract type and client segment. \n•\nHelped identify product line segments with high revenue growth opportunities for potential network expansion.\n•\nProvided flexibility for end users, including the sales team, to customize contract expansion probability based on specific customers or specialties sales \ninsights.\n•\nCreated a standardized repository of contract information by consolidating data from multiple sources to facilitate additional analytical models.\nSituation\n•\nThe client wanted to understand the growth potential and revenue impact of inorganic network expansion across different client segments.\n•\nPartnered with the client to build a robust analytical model to quantify revenue impact of inorganic expansion based on overall network, client segment and \nproduct line growth scenarios.\nAnalyzing Revenue Impact of Inorganic Growth For a Patient \nEngagement Company\n2\nImpact\n•\nThe incremental revenue estimates based on different network growth scenarios helped make critical decisions in post acquisition planning and financial \nprojections.\n•\nThe revenue impact model helped the client identify optimal network growth for different segments of the network.\nEstimation of Revenue Impact of \nGrowth (Inorganic Scaling)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172859+05'30'",
+            "modDate": "D:20241114172859+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel Approach and Methodology (1/2)\nUsers provided input for ‘Network Growth’ & Sales team provided input on ‘Probability of Contract Expansion’ \nContract Expansion Probability- Sales team to customize \nprobability of contract expansion at a segment or at a \ncontract level\nNetwork Growth Factor- User inputs captured for \ncustomizing network growth for different segments\nCapture User Inputs \nfor Customizability\n2\n1\nClassification of \nContracts\nClassification of contracts is based on contracted inventory\nFull Network Contracts- All available \ninventory in given segment contracted \nby customer\nBudget/Minimum Contracts- \nBudgetary limitations and/or minimum \nbuy\nList Match Contracts- List of desired \ninventory provided by customer\nIdentification of \nUnfulfilled Demand \nfor each contract\nGrowth Potential of contracts is estimated based on contract type \nBudget/Minimum Contracts- No \ngrowth potential\nFull Network Contracts- Will buy all \nadditional inventory in respective \nsegment \nList Match Contracts- Will buy \nadditional inventory in respective \nsegment if it falls in the list of desired \ninventory\n3\nUsers provided input on network growth and the sales team provided input on probability of contract expansion \nContract Expansion Probability - Sales team to customize \nprobability of contract expansion at a segment or contract \nlevel\nNetwork Growth Factor - User inputs captured for \ncustomizing network growth for different segments\nCapture User Inputs \nfor Customization\n2\n1\nClassification of \nContracts\nClassification of contracts is based on contracted inventory\nFull Network Contracts - All available \ninventory in given segment contracted \nby customer\nBudget/Minimum Contracts - \nBudgetary limitations and/or minimum \nbuy\nList Match Contracts - List of desired \ninventory provided by customer\nIdentification of \nUnfulfilled Demand \nfor Each Contract\nGrowth potential of contracts is estimated based on contract type \nBudget/Minimum Contracts - No \ngrowth potential\nFull Network Contracts - Will buy all \nadditional inventory in respective \nsegment \nList Match Contracts - Will buy \nadditional inventory in respective \nsegment if it falls in the list of desired \ninventory\n3\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (342).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172859+05'30'",
+            "modDate": "D:20241114172859+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel Approach and Methodology (2/2)\nData Consolidation: A single source of data was missing. Gathering data gathering from multiple sources to establish a standard repository was a key challenge. \n5\nRevenue impact of growth is estimated at a contract level and then aggregated across different segments\nRevenue Impact of Growth = [Incremental Contracted Inventory] x [Avg. Price Per Month]*[Number of Months] \nOutput\nEstimating \nIncremental \nContracted \nInventory\nIncremental contracted inventory is estimated at a contract level and is based on growth potential, network growth factors, and contract \nexpansion probability\nFull Network Contracts - Incremental contracted inventory is \nassumed to grow proportionally with the increase in network \nsize\nList Match Contracts - Incremental contracted inventory is \nassumed to grow proportionally with network size; subject to \nadditional conditions involving initial inventory lists provided \nby the customer\n4\n4\n"
+    }
+]

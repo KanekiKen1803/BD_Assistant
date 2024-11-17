@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nClaims Denial Probability\n1\n• Analyzed the reasons for claims denial for the medical insurance claims over \ntime \n• Built a denial prediction model that estimates the probability of denial for each \nclaim and highlights the top-3 potential reasons for denial, helping the team to \nfocus on key areas and improve the overall efficiency of the process\nMedical Insurance Claims Processor\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a denial prediction model to identify the potential reasons for denial to reduce the time spent on processing \nmedical claims manually. Currently, you are evaluating a potential solution to automate the claims process to increase the \nconversion rate (to approvals) and reduce the manual intervention, to enhance the efficiency of the workforce. \nMedical insurance claims processor needs to optimize the \nclaims denial  \n2\nYour value is enhanced. \nYou have a model to flag denials or approvals with ~80% accuracy, reducing the time spent on processing the claims. You have a \nsignificant drop in the claims that were sent for processing as approvals with clerical errors, as the model is able to identify the \nerrors and flag the appropriate reasons accurately. You also have the machine learning model that helps you identify rules in the \ndata to drive denials.\nCLAIMS DENIAL PROBABILITY\nKEY RESULT   \n•\n ~80% accuracy reduced \nprocessing time\nVALUE LEVERS PULLED\n•\nClaims Denial \nPrediction Model\n•\nPropensity Modeling\n2\nYou turn to Accordion. \nWe partner with your team to analyze the reasons for claims denial for the medical insurance claims over time and to build a \ndenial prediction model that estimates the probability of denial for each claim, including:\n1)\nEstimating the probability of denial for the claims data using a binary classifier ensemble model built based on CatBoost \nalgorithm, reducing the amount of manual effort in processing and identifying claims which would be denied\n2) Identifying the top-3 reasons for denial for claims that are most likely to be denied using multiclass classifier ensemble model \nbuilt based on CatBoost algorithm, narrowing down the corrective measures needed to be taken by the processor to convert \nthe claim into an approval\n3) Implementing the model into the client environment with an API endpoint to allow the end users to trigger the model when a \nnew set of claims are received\n4) Setting up processes to monitor the model performance, training the algorithm based on results to continuously learn to \nenhance the accuracy of the model and ensuring that the underlying patterns in the data are captured accurately\n`\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nEstimated the probability of denial for the claims data using a Binary classifier ensemble model built based on CatBoost algorithm, reducing the amount of \nmanual effort in processing and identifying claims which would be denied\n•\nIdentified the Top-3 reasons for denial for claims that are most likely to be denied using Multiclass classifier ensemble model built based on CatBoost \nalgorithm, narrowing down the corrective measures needed to be taken by the processor to convert the claim into an approval\n•\nImplemented the model into the client environment with an API endpoint to allow the end users to trigger the model when a new set of claims are received\n•\nSet up processes to monitor the model performance and train the algorithm based on results to continuously learn to enhance the accuracy of the model, \nand ensure that the underlying patterns in the data are captured accurately\nSituation\n•\nClient was evaluating a potential solution to automate the claims processing to increase the conversion rate (to approvals) and, also reducing the manual \nintervention during the process, thereby enhancing the efficiency of the workforce\n•\nPartnered with the client to build a Denials Prediction model to identify the likelihood of denial for a medical claim and identify the potential reasons for \ndenial to reduce the time spent on processing claims manually\nReduced healthcare insurance denials for an insurance claims \nprocessor\n3\nImpact\n•\nThe model was able to flag denials or approvals with ~80% accuracy, reducing the time spent on processing the claims\n•\nThe client saw a significant drop in the claims that were sent for processing as approvals with clerical errors, as the model was able to identify the errors and \nflag the appropriate reasons accurately\n•\nThe machine learning model also helped the client identify rules in the data that drive denials\nClaims Denial Probability\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach and methodology – Features used\n4\nThe features in the current data set can be broadly divided into four categories\n▪\nDays between invoice \nopen/create and service\n▪\nInvoice box-19 data \navailability\n▪\nHCPC code (Healthcare \nCommon Procedure Coding)\n▪\nQuantity of equipment\n▪\nInvoice modifier code\n▪\nItem expected cost\n▪\nItem allowed cost\n▪\nItem charge cost\n▪\nItem tax cost\nInvoice Level Data\n▪\nPolicy group \n(Private/Government/\nCommercial)\n▪\nPolicy company\nPolicy Level Data\n▪\nPatient Age\n▪\nPatient City/State\n▪\nPatient Height\n▪\nPatient Weight\n▪\nBMI\n▪\nPatient ICD codes (Disease \ncodes)\nPatient Data\n▪\nAvailability of doctor details \n▪\nDoctor PECOS certification \n(Provider Enrollment, Chain, \nand Ownership System)\n▪\nSleep therapy compliance \nstatus\n▪\nCMN (Certificate of \nMedically Necessity) details \navailability\nDoctor and CMN Data\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach and methodology – Model flow\n5\nDatabase/Dataset\nBinary Classifier1\nBinary classifier ensemble \nmodel identifies the \nprobability of denial\nMulticlass Classifier2\nMulticlass classifier \nensemble model identifies \nfor the potential reasons \nfor denial\nSales order\nProbability of denial\nDenied if Probability > 0.4 \n(current cut-off)\nInvoice proceeds to \nclaims processing\nSales order\nTop-3 denial reasons\nInvoice is corrected \nand sent to model for \nrevaluation\nApproved\nCascader3\nCascader is the logic unit \nof the models\nDenied \nclaims\nDenial \nreasons\n1 Binary Classifier: Built using CatBoost algorithm and optimized for binary predictions\n2 Multiclass Classifier: Built using CatBoost algorithm and optimized for multiclass predictions\n3 Cascader: Combines inputs from both models and provides the relevant outputs\nThe model architecture consists of 3 parts. The Binary and Multiclass classifiers and the Cascader.\nInvoice data \nThe data is at item level \nin a claim\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (57).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193028+05'30'",
+            "modDate": "D:20241114193028+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach and methodology – Model results\n6\n91%\n79%\n72%\n77%\n86%\n67%\n93%\n92%\n0%\n20%\n40%\n60%\n80%\n100%\nRecall\nAccuracy\nModel Performance Metrics – Binary Classifier\nCV\nValidation-1\nValidation-2\nValidation-3\n90%\n73%\n75%\n74%\n80%\n65%\n83%\n81%\n0%\n20%\n40%\n60%\n80%\n100%\nRecall\nAccuracy\nModel Performance metrics - Multiclass Classifier\nCV\nValidation-1\nValidation-2\nValidation-3\nThe Binary Classifier captures denials with 91% Recall1 on the CV3 data and 86% on the Validation-24 data and with a corresponding Accuracy2 of 79% and \n67%. The Multiclass Classifier is on par in performance when compared to the Binary classifier.\n1 Recall - % of actual denials that were predicted as a denial by the model\n2 Accuracy - % of accurate predictions made by the model in the entire dataset\n3 CV – original dataset used to train the model. The results shown are averaged out and are indicative of actual model performance\n4 Validation - 1, Validation - 2, Validation - 3 – Different data sets used to test the model. Validation 3 is a biased dataset with 100% denials\nILLUSTRATIVE\n"
+    }
+]

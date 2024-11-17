@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nImported the data from a merging company into existing template to consolidate the \nfinancials for the merged entity\nAutomation of Management Operations Review (MOR)\n(Leading provider of cloud identity security and privileged access management (PAM) solutions)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "MOR AUTOMATION FOR ACCESS MANAGEMENT SOLUTIONS PROVIDER\nSITUATION\n▪\nClient’s firm had recently merged with another company and needed to perform a financial consolidation exercise for the merged entity. The \nfinal template for the MOR was in place along with all the data needed to be fed into it.\n▪\nMerilytics partnered with the client to consolidate the Headcount, P&L and Balance Sheet data into the existing common template for merged \nentity.\n▪\nDeveloped a data tracker which showed the status and source of all the data needed for consolidation which included historical, forecast and \nbudgeted figures for line items like Annual Recurring Revenues (ARR), Annual Contract Value (ACV), Total Contract Value (TCV) etc.\n▪\nTransformed the exported data coming from several sources such as NetSuite and other internal databases to be fed into a common MOR \ntemplate\n▪\nCreated a quick refresh process to update the MOR with monthly data that simplified data consolidation for the process owners.\nVALUE ADDITION\nIMPACT\n▪\nAutomated MOR enabled the client to view consolidated financials for the merged entity in a familiar and standard format.\n▪\nComparison of the KPIs for the two entities could be viewed within the financials that made possible to see the opportunities against benchmark \nperformance.\n▪\nConsolidated financials within the MOR provided insights into synergies generated as a result of the merger.\nABOUT THE CLIENT\nClient is a leading provider of cloud identity security and privileged access management (PAM) solutions.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "•\nHeadcount Data provides the number of personnel in the organization\n•\nBookings and Revenue Budget provides Total Contract Value (TCV), Annual Contract Value (ACV) and Revenue data\n•\nBillings Financials provides data for SaaS-specific metrics\n•\nP&L Detail provides actuals data for all Income Statement line and sub-line items\n•\nGL Detail provides all business account and account activity data \n•\nARR Financials provides beginning and ending Annual Recurring Revenues (ARR) data over a period of time\n•\nBalance Sheet Details provides data related to Assets, Liabilities and Equity\nDiscrete Data \nSources\n•\nMismatch in line items across the input files and MOR template\n•\nUnavailability of critical data like P&L Section and Sales Grouping of personnel\n•\nPresence of multiple sources of data acting as a bottleneck in importing data into MOR\n•\nMappings made across the data sets to streamline the data into the MOR template\n•\nDeveloped Department P&L and Sales Grouping Keys\n•\nReduced multiplicity in data sources using data transformations and manipulations. \n•\nAutomated the data transformations needed for a quick monthly refresh process and handed over the process to client\nChallenges\nValue-Add\n3\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "3 months actuals and 9 months forecast of \nmajor line items impacting Beginning and \nEnding ARRs\nInputs data fed from ARR \nFinancials file\n4\nEXHIBIT #1 - ARR SNOWBALL ANALYSIS\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "Mappings being used to populate data of \nCompany2 into MOR template of Company1\nInputs data fed from Bookings and \nRevenue Budget file\n5\nEXHIBIT #2 - ACV-TCV BUDGET MAPPINGS\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (13).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125733+05'30'",
+            "modDate": "D:20241114125733+05'30'",
+            "trapped": ""
+        },
+        "content": "Comparison of budgeted key \nmetrics to actuals for QTD and \nYTD\nComparison of Prior Year key \nmetrics to actuals for QTD and \nYTD\nILLUSTRATIVE\n6\nEXHIBIT #3 - QTD & YTD REVENUE SUMMARY\n"
+    }
+]

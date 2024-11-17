@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nWeekly cashflow forecast modeling\n1\nBuilt a 52-week cashflow forecast model with an ability to handle data in local \ncurrencies from 25 legal entities of the client\nSoftware company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a cashflow forecast model that can be refreshed weekly to project cash reserves across all its legal \nentities. Currently,  you are getting carved-out from a larger technology company and looking for an independent \nmechanism to track or forecast the cash reserves across the legal entities.\nSoftware company needs projections for cash reserves\n2\nYour value is enhanced. \nYou have the best-in-class forecasting processes to track the cash reserves during a critical period of the spin-off from the \nparent organization to enable more informed and strategic decisions about real-time opportunities and long-term \ntrajectories. You have streamlined the entire cash forecast process by avoiding the multiplicity of data sources.\nThe model can handle the data in multiple currencies and to make key decisions regarding pumping of cash, thereby \nmaintaining healthy cash reserves across all the legal entities.\nWEEKLY CASHFLOW FORECAST \nMODELING\nKEY RESULT   \n•\nZero defaults on \nliabilities\nVALUE LEVERS PULLED\n•\nConsolidation of \ncashflow\n•\nForecast accuracy \nvalidation\n•\nWeekly cashflow \nforecast model\n•\nCurrency conversion \nmatrix \n2\nYou turn to Accordion. \nWe partner with your team to build a 52-week cashflow forecast model with an ability to handle data in local currencies \nfrom 25 legal entities, including:\n1) Building a weekly cashflow forecast model to summarize all the cash activities with major line items grouped under \naccounts receivable, accounts payable, payroll, OpEx, intercompany, etc.\n2) Providing a 52-week cash outlook for each individual entity in local currency, along with consolidating weekly balances \nat the company level in USD\n3) Incorporating the flexibility to consolidate cash at a corporate level by building a currency conversion matrix to handle \nthe data in local currencies, for businesses with operations spread across the globe\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a weekly cashflow forecast model to summarize all the cash activities with major line items grouped under accounts receivable, accounts payable, \npayroll, OpEx, intercompany, etc.\n•\nProvided a 52-week cash outlook for each individual entity in local currency, along with consolidated weekly balances at the company level in USD\n•\nIncorporated flexibility to consolidate cash at a corporate level by building a currency conversion matrix to handle the data in local currencies, for \nbusinesses with operations spread across the globe\nSituation\n•\nClient was getting carved-out from a larger technology company, and lacked an independent mechanism to track or forecast its cash reserves\n•\nPartnered with the client to build a cashflow forecast model that can be refreshed weekly to project cash reserves across all its legal entities\nWeekly cashflow forecast model for a software company\n3\nImpact\n•\nWeekly cashflow forecast model helped in having an independent mechanism to track its cash reserves during a critical period of its spin-off from the parent \norganization\n•\nBased on our data tracking system, the client was able to streamline the entire cash forecast process by avoiding the multiplicity of data sources\n•\nAbility of model to handle the data in multiple currencies helped the client in key decision-making regarding pumping of cash, thereby maintaining healthy \ncash reserves across all its legal entities and ensure zero defaults on liabilities\nWEEKLY CASHFLOW FORECAST \nMODELING\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology & approach\n4\n•\nAR TTM (Account Receivables - Trailing Twelve Months) data provides the actual collections data over past 12 months\n•\nAP TTM (Account Payables - Trailing Twelve Months) data file provides the actual amounts paid data over past 12 months\n•\nPayroll and Payroll Taxes provides actual data of all the benefits extended to the employees\n•\nDaily Cash Report provides ending cash balances for all legal entities on a weekly basis\n•\nWeekly Cash Collections file provides forecast data for Accounts Receivable for next 52 weeks\n•\nWeekly AP Forecast provides forecast data for Accounts Payable for next 52 weeks\n•\nWeekly Payroll Forecast provides forecast data for payroll & benefits to be extended to the employees for next 52 weeks\nDISCRETE DATA SOURCES\n•\nCash activities in multiple currencies owing to the company’s global presence\n•\nPresence of multiple sources of data acting as a roadblock in importing forecast data into the model\n•\nInconsistent data format across the legal entities – weekly and monthly\n•\nDynamic nature and unpredictable events affecting the cashflow forecasting\nCHALLENGES\n•\nDeveloped a Currency Conversion Matrix to transform multiple currencies into a more consumable format in USD \n•\nBuilt Cashflow Summary pages in both Local Currency and USD at Legal Entity level, and a consolidated page at company level\n•\nPrepared a Data tracker to avoid multiplicity in data after reconciling all the line items in the data sources\n•\nStreamlined the transformation of input data in monthly format into weekly, thereby allowing the input data in any format\n•\nCreated Manual Override and Adjustment input tabs to nullify the impacts of unpredictable events in cashflow forecast\n•\nBuilt a mechanism to track and compare Actuals & Forecast for any particular week, and Forecast & Forecast for any two consecutive weeks, thereby helping in making the forecasting process robust\nVALUE-ADD\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCashflow summary at the entity level\n5\n52-week forecast and actuals for \nprevious week\nAll major line items impacting \nbeginning and ending cash balances\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCashflow summary at the company level\n6\nConsolidated 52-week forecast and \nactuals for previous week\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (419).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190731+05'30'",
+            "modDate": "D:20241114190731+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCurrency conversion matrix\n7\nProvided flexibility to add more \ncountries\nList of currencies in which cash \nactivities happen\nList of countries in which the client \ncompany has a presence\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nS&OP forecasting analytics\n1\nStreamlined sales forecasting by leveraging advanced forecasting algorithms and \nautomated the S&OP reporting to get better visibility into its supply chain \nprocesses\nAutomotive accessories manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build an automated sales forecasting model for all active SKUs and setup automated reporting on Power \nBI to provide visibility into S&OP processes. Currently, due to lack of a sales forecasting model, there is limited visibility into \ncompany-level supply chain operations to take timely and corrective actions.\nAutomotive accessories manufacturer needs a sales \nforecasting model\n2\nYour value is enhanced. \n•\nYou have achieved an aggregated monthly accuracy of approximately 90% in forecasting unit sales for the next 12 months \nacross a portfolio of ~ 125,000 SKUs and reduced manhours required for baseline forecast generation from 3 weeks to 1 day that \nenabled swift, dynamic and responsive decision-making\n•\nYou have also provided visibility into supply chain processes through an automated Power BI dashboard and helped track and \nbuild real time strategy for inventory planning, production planning, and optimizing fulfillment metrics. The integrated forecasts \nwith BOM to optimize procurement process by optimizing raw materials requirements lead to additional cost savings of ~15%\nS&OP FORECASTING ANALYTICS\nKEY RESULT   \n•\n~90% accuracy in \nannual forecasting of \nunit sales across \n~125,000 SKUs\n•\nReduced manhours from \n3 weeks to 1 day\n•\n~15% additional cost \nsaved\nVALUE LEVERS PULLED\n•\nDemand forecasting\n•\nS&OP dashboard \ndevelopment\n2\nYou turn to Accordion. \nWe partner with your team to streamline sales forecasting by leveraging advanced forecasting algorithms and automate the \nS&OP reporting to get better visibility into the supply chain processes, including:\n1) Developing SKU-Entity level sales forecast at a monthly level using advanced algorithms based on the past 3-years \nhistorical data\n2) Incorporating models with self learning ability, i.e., to learn from latest sales data and uncover sales patterns and \nforecast for new SKUs as well\n3) Leveraging advanced forecasting models such as FbProphet, ARIMA, SARIMA, Holt’s etc. to forecast monthly demand at \ncustomer-SKU over next 1 year\n4) Establishing automated data extraction pipeline and developing PowerBI dashboard to understand the sales forecast, \ninventory and performance metrics\n5) Analyzing the inventory broken down by WIP, Raw Materials, and Finished Goods by entity, location, product category \nand SKU along with days of sales, fulfillment metrics to quantify the inventory at hand, Inventory turnover, on time \ndelivery to guide decision making\n6) Estimating labor productivity at an entity level and warehouse utilization at the plant-level to aid capacity planning \nbased on the forecasted sales\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped SKU-Entity level sales forecast at a monthly level using advanced algorithms based on the past 3-years historical data\n•\nIncorporated models with self learning ability, i.e., to learn from latest sales data and uncover sales patterns and forecast for new SKUs as well\n•\nLeveraged advanced forecasting models such as FbProphet, ARIMA, SARIMA, Holt’s etc. to forecast monthly demand at customer-SKU over next 1 year\n•\nEstablished automated data extraction pipeline and developed PowerBI dashboard to understand the sales forecast, inventory and performance metrics\n•\nAnalyzed the inventory broken down by WIP, Raw Materials, and Finished Goods by entity, location, product category and SKU along with days of sales, \nfulfillment metrics to quantify the inventory at hand, Inventory turnover, on time delivery to guide decision making\n•\nEstimated labor productivity at an entity level and warehouse utilization at the plant-level to aid capacity planning based on the forecasted sales\nSituation\n•\nClient lacked a sales forecasting model and had limited visibility into company-level supply chain operations to take timely and corrective actions\n•\nPartnered with the client to build an automated sales forecasting model for all active SKUs and setup automated reporting on Power BI to provide visibility \ninto S&OP processes\nDemand forecasting for automotive accessories manufacturer\n3\nImpact\n•\nAchieved an aggregated monthly accuracy of approximately 90% in forecasting unit sales for the next 12 months across a portfolio of ~ 125,000 SKUs.\n•\nReduced manhours required for baseline forecast generation from 3 weeks to 1 day and enabled swift, dynamic and responsive decision-making\n•\nProvided visibility into supply chain processes through an automated Power BI dashboard and helped business track and build real time strategy for \ninventory planning, production planning, and optimizing fulfillment metrics\n•\nIntegrated forecasts with BOM to optimize procurement process by optimizing raw materials requirements leading to additional cost savings of ~15%\nS&OP forecasting analytics\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nData Understanding & \nScope finalization\nExploratory data \nanalysis\nModelling\nDashboard\n•\nAnalyzed historical \nsales data trends\n•\nOutlier identification\n•\nInvestigation on \nsimilarity of SKUs\n•\nHighly volatile data\n•\nAvailability of limited \nbusiness context\n•\nAmbiguous SKU \nNaming\n•\nSelected Top 25% \nSKUs by RSD* Data \nAvailability Matrix\nModels leveraged:\n \n•\nARIMAX\n•\nSARIMAX\n•\nFBProphet\n•\nNeuralProphet \n•\nHolt’s \n•\nHolt Winters\nAdditional regressors\n•\nArtificial Out of stock \nregressor \n•\nExternal Business \nconfidence Indicators\n•\nIndustry Forecast data\n•\nProvide visibility into \nS&OP processes with \nthe help of a Power BI \ndashboard to visualize \nthe monthly sales \nforecast and track \nsupply chain \nperformance.\nMethodology/ Approach\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nRSD vs Data \nAvailability\n>100% RSD\n60-100% RSD\n<60% RSD\n> 24 Months\n12-24 Months\n<12 Months\nExtremely huge volume of SKUs which require massive computational resources, necessitates prioritizing SKUs based on Revenue contribution and RSD-Data \navailability Matrix\n80-20 Approach to select SKUs \nRSD-Data availability matrix \nSKU  \nSKU  \nSKU  \nSKU  \nSKU  \nSKU  \nSKU  \nSKU  \nSKU  \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \nSKU   \n    \n       \n       \n       \n       \n        \n        \n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    \nRevenue Controbution of SKUs\nSelection of major \ncustomers/ SKUs for ease \nand optimal forecasting\nIncreasing confidence in forecasting\nRSD - Data availability matrix\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology\n6\n1. Algorithm considered include ARIMA, Holt-Winters –Seasonal, Holt-Winters – Non-seasonal, Simple Exponential Smoothening and FB Prophet, Neural Prophet Best-fit \nalgorithm is identified based on the MAPE of each algorithm\nTop 25% SKUs with \nSignificant sales data\nHistorical data till T-6 \nmonths is identified as \ntraining data set\nAdvanced \nPython \nForecast \nalgorithms\nLast 06 months of historical \ndata identified as testing \ndata\nBest-fit algorithm \nidentification for each SKU\nFinal demand forecast of \nSKU based on a best-fit \nalgorithm\nBottom 75% SKUs\nNaïve roll-\nover \napproach\nAll SKUs\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nCustomer/Entity \nCharacteristics \nand Summary \nMetrics provides \nvisibility into key \nattributes and \nperformance \nindicators for \nbetter decision-\nmaking.\nCustomer/ \nEntity Level \nRevenue \nForecast in \nDollar value\nto help in \nstrategic \nplanning and \nfinancial \ndecision-\nmaking, \nproviding \ninsights into \nexpected \nrevenue \nstreams and \nhelping \nbusinesses \nallocate \nresources \neffectively.\nIdentified and optimized the top-\nperforming SKUs for the customer to \nmaximize profitability and customer \nsatisfaction.\nCustomer/ \nEntity Level \nDemand \nForecast to \nprovide \nbroader \nlevel view \nILLUSTRATIVE\nMonthly demand forecast view for next 12 months\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n8\nSKU Characteristics and Summary Metrics \nprovides a comprehensive overview of product \nattributes and performance indicators, aiding \nin efficient inventory management and \ndecision-making.\nSKU Level \nRevenue \nForecast to \noptimize \nsupply chain\nSKU level inventory analysis provides \ndetailed insights into product performance \nand availability, aiding in efficient inventory \nmanagement and informed decision-making.\nSKU Level \nDemand \nForecast \nprovides \ngranular \nsales \npredictions \nfor individual \nproducts, \naiding in \ninventory \nmanagement \nand \noptimization. \nHistorical SKU \nlevel model \nperformance\ninforms future \nstrategy and \noptimization.\nILLUSTRATIVE\nMonthly demand forecast at SKU level with inventory details\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (218).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144951+05'30'",
+            "modDate": "D:20241114144951+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n9\nInventory performance metrics\nCorporate Entity-wise Finished \nGood Inventory Analysis to enable \ndata-driven decision-making and \noptimize inventory management \nacross different corporate \nentities.\nHistorical Inventory turnover \nanalysis to enable data-driven \ninsights into past inventory \nperformance for informed \ndecision-making.\nTotal Inventory \nAnalysis provides \na comprehensive \nview of raw \nmaterials, work-\nin-progress, and \nfinished goods \nacross all levels \nto optimize \nsupply chain \nmanagement and \ncost efficiency.\n"
+    }
+]

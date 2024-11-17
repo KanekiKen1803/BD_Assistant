@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nBI Infrastructure set-up\nIndustrial parts \nmanufacturing company\nDeveloped various sales dashboards on Tableau to track key \nbusiness performance metrics across product and customer \ncategories by integrating data from discrete sources and \nreconciling with Financial reports\nData integration, KPI definitions,  BI \ndashboards\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "REPORTING INFRASTRUCTURE SET-UP\nABOUT THE CLIENT\nClient is one of the largest industrial parts manufacturing company for a niche category, in North America and has specialized manufacturing and distribution \nentities spread across the continent.\nSITUATION\n▪\nDue to inorganic growth, the company had discrete and scattered data systems for capturing pricing information for the customized product \nlines across entities\n▪\nMerilytics partnered with the client to consolidate the data across systems, reconcile the differences across systems and create dashboards to \nprovide visibility into business performance by region, customer and product categories\n▪\nDeveloped a deep understanding of the client data systems across entities (resulting from inorganic growth) to understand the integration \nbetween orders, products and customer information\n▪\nReconciled the differences in sales across data systems to establish a single source of truth for the top management\n▪\nBuilt dynamic reporting dashboards on Tableau to review business performance by region, product and customer category for various periods \nsuch as MTD, YTD Last Twelve Months (LTM) and Full year.\n▪\nProvided flexibility to drill down to specific regions, products and customers, for the middle management to investigate key trends\nVALUE ADDITION\nIMPACT\n▪\nEnabled the client to identify gaps in data capture and streamline the processes required to establish a reliable reporting infrastructure\n▪\nAutomated dashboards helped visualize real-time data and provided visibility into business performance and its drivers across entities and \nproduct lines\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "Updated chart based on the \nselection in adjacent chart\nSelection on a pie chart that \nautomatically updates the adjacent \nchart\nBefore a selection\nAfter a selection\n3\nINTERACTIVE VISUALIZATION THROUGH USER SELECTIONS \nENABLES A DEEP-DIVE ON THE TRENDS\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "User can select the view to drill-down for \nunderstanding the variance for a \nparticular month\nThe drill-down view provides directional \nguidance regarding the category that led \nto the variance in the selected month\n4\nFLEXIBILITY TO DRILL DOWN AND INVESTIGATE THE DRIVERS OF PERFORMANCE \nHELPS IDENTIFY AREAS THAT NEED ATTENTION\nDrill-down view\nTop-down view \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "Metric selection from the \ndropdown\nChart can be changed to view the \nrequired metrics on the \ndashboards \n5\nOPTION TO CHOOSE THE REQUIRED DIMENSION OF A METRIC ENABLES BUSINESS \nUSERS TO EVALUATE PERFORMANCE FROM DIFFERENT PERSPECTIVES\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (97).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114202052+05'30'",
+            "modDate": "D:20241114202052+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nA scatter plot to segment customers into \nquadrants based on YoY growth and $ sales\nA map depicting sales growth \nacross regions\nPareto chart\nTable chart with search Option\nScatter plot\nMap chart\nA pareto chart to determine the \ndistribution of customers contributing to \nthe top percentile of the sales\nA tabular view to search and \nevaluate a specific \ncustomer’s sales trends\n6\nPARETO CHARTS, SCATTER PLOTS, TABULATIONS AND MAPS HELP VISUALLY REPRESENT \nVARIOUS ASPECTS OF BUSINESS PERFORMANCE \n"
+    }
+]

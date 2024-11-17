@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nNLP Based Classification Model\n1\n• Analyzed Electronic Medical Records (EMR) to identify the correlation between \nEMR text and insurer authorization denials to identify clinician notes/records \nthat have a higher chance of an insurance denial\n• Reduced the denial rate by ~45%, which resulted in an acceleration of >$2M in \ncollections and improved the predictability of cash flows\nBehavioral Healthcare Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to analyze the Electronic Medical Records (EMR) to identify the correlation between EMR text and \nauthorization denials. \nBehavioral healthcare provider company needs to NLP-based \nclassification model\n2\nYour value is enhanced. \n•\nYou have helped the client to train the clinicians to improve the quality of clinical documentation\n•\nYou have reduced the denial rate by ~45%, which resulted in an acceleration of >$2M in collections and improved the \npredictability of cash flows\n•\nYou have also enabled the client to take corrective course of action on predicted potential denials on a near real-time basis\nNLP-BASED CLASSIFICATION MODEL\nKEY RESULT   \n•\n~45% denial rate \nreduced\n•\n>$2M profits of \ncashflows\nVALUE LEVERS PULLED\n•\nText analytics, \nNatural Language \nprocessing\n•\nBi-Directional LSTM\n•\nWord Embeddings\n•\nBI dashboards\n2\nYou turn to Accordion. \n•\nWe partner with your team to analyze electronic medical records (EMR) to identify the correlation between EMR text and \ninsurer authorization denials to identify clinician notes/records that have a higher chance of an insurance denial. The denial rate \nis reduced by ~45%, which resulted in an acceleration of >$2M in collections and improved the predictability of cash flows, \nincluding:\n1) Integrating and consolidated EMR data from different EMR systems such as KIPU, Easystep and Sigmund \n2) Based on initial hypothesis identifying key patterns in the claims with higher denial/ approval rate such as no medical \njustification, recurring phrases, same set of clinicians, etc. \n3) Predicting the denial probability of a claim using Artificial Neural Network Algorithms\n4) Creating BI reporting infrastructure to monitor the quality of the EMR documentation\n5) Creating daily reports for the EMR team to provide access to the consolidated EMR data and provide visibility into the \nrecords/clinicians with a higher potential for a denial at a patient level\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated and consolidated EMR data from different EMR systems such as KIPU, Easystep and Sigmund \n•\nBased on initial hypothesis identified key patterns in the claims with higher denial/ approval rate such as no medical justification, recurring phrases, same \nset of clinicians, etc. \n•\nPredicted the denial probability of a claim using Artificial Neural Network Algorithms\n•\nCreated BI reporting infrastructure to monitor the quality of the EMR documentation\n•\nCreated daily reports for the EMR team to provide access to the consolidated EMR data and provide visibility into the records/clinicians with a higher \npotential for a denial at a patient level\nSituation\n•\nClient wished to reduce the rate at which claims were denied by identifying clinician notes, records and attributes that have a higher chance of denial, \noften because of poor clinical documentation\n•\nPartnered with the client to analyze the Electronic Medical Records (EMR) in order to identify the correlation between EMR text and authorization denials\nEMR & Authorization Analysis\n3\nImpact\n•\nHelped the client to train the clinicians to improve the quality of clinical documentation\n•\nReduced the denial rate by ~45%, which resulted in an acceleration of >$2M in collections and improved the predictability of cash flows\n•\nEnabled the client to take corrective course of action on predicted potential denials on a near real-time basis\nNLP Based Classification Model\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology – Denial Prediction\n4\nClinician’s Notes\nPatient Authorization &\n Admit Data\nNeural Network\nProbability of Denial\nBI Reporting\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & methodology – Neural Network Model\n5\nConsolidated Data\n(Clinician’s Notes)\nPatient Data \n(Admit Days, LOC, etc.)\nEmbedding\nBi-Directional LSTM\nPre-Processing\nConcatenation Layer\nDense Layers\n(Relu & Sigmoid)\n▪\nHandled missing data\n▪\nConverted categorical features into machine \nunderstandable numerical using One Hot Encoding\n▪\nCleaned and transformed the data to make it suitable for NLP,  \nsuch as handling missing values, tokenization (breaking \nsentences into words), lemmatization (transforming to root \nwords), vectorization (vector representation of words)\n▪\nCreated embedded layer by training a larger sample set of \nclinician’s notes to create a dictionary of vectors. Indexed each \ntoken from above layer with the dictionary of vectors\n▪\nLSTM architecture helps \nthe model to understand \ncontext and important \nparts of the clinician \nnotes to train upon \n▪\nFirst dense layer embeds \nthe output of the \nconcatenation layer into a \nlower dimension space \nusing a rectified linear unit \nactivation function\n▪\nSecond dense layer uses \nthe output of the first dense \nlayer to predict the \nprobability of authorization \nusing a sigmoid activation \nfunction\n▪\nCombined 2 datasets:             \nClinician’s Notes and Patient Data\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (188).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141053+05'30'",
+            "modDate": "D:20241114141053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEMR documentation report\n6\n•\nProvides visibility into the quality of the EMR documentation over the past \nfew weeks for the leadership team\n•\nThis helps the EMR team to identify the low-performing facility and can \nimprove the quality of the clinical documentation\n•\nProvides access to the consolidated EMR records with the ability to view the \nnotes by facility, # of days into admit, clinician, patients, etc.\n•\nPrioritized/sorted the notes in the report that have a higher chance of leading to a \ndenial in the following priority order – notes w/o medical justification, written by \nhigh-risk clinician, and copy-pasted records\n•\nThis helped the UR team to identify the record of low quality, or without medical \njustification, and take course correction steps on a near real time basis\n"
+    }
+]

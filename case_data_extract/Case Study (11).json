@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nAutomated the process to read the Sales data from PDF \ndocuments and loaded the data into a database, for developing \nautomated Power BI reports\nEntertainment Company\n(Extraction of Sales Data from PDF Files)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "AUTOMATED SALES REPORTING FOR A THEATRICAL PRODUCTION COMPANY\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\n2\nClient is an entertainment company and one of the largest theatrical production companies in the world\n▪The client receives sales data in the form of non-standardized PDF files from induvial locations shared by its business planning team and \nnetwork partners. The client was processing the sales data received though manual processes to create a consolidated Sales Report on Excel.\n▪Merilytics partnered with the client to develop a process to automatically read the sales data from varied PDF reports and store in a \ndatabase, that is then connected to automated Power BI dashboards\n▪Developed automated process to store the Sales Reports received from business planning team and network partners in PDF formats in a \ncentral location on a local system\n▪Parsed the PDF files and extracted data from the Sales Reports using Python packages such as Camelot and Tabula, and consolidated/stored \nthe data on an on-premise Data Warehouse, by leveraging attributes present in the email body and the PDF files\n▪Set up/deployed automated Power BI reports to run off the consolidated data in the Data Warehouse\n▪Provided visibility into the historical sales at show, event, price tier etc. in a centralized visualization layer\n▪Reduced scope for human intervention led to increased accuracy of the Sales Reports, and the automation helped to track the sales \nperformance at a daily level\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nDATA EXTRACTION PROCESS FLOW\nData Extraction Process\nData Storage\n1\n2\n3\n4\n5\n6\nCode to download \nPDFs & Excel \nAll the PDFs were received on an email \naccount. The Python script was reading \nthese emails and identifying the relevant \nemails using email subject and right \nattachments and downloading the PDFs in \nlocal system.\nThe downloaded PDFs were parsed using \nPython packages such as Camelot and \nTabula to extract the data\nStatus of each extraction process was \nstored in process log files \nThe process log file is used to generate \ninformation for daily process status \nnotifications\nThe aggregated and processes data was \nloaded in a data warehouse\nBased on the status of each run associated \nwith each PDFs, daily status notifications \nwere generated using Python. \n1\n2\n3\n4\n5\n6\nData Source\nProcess status email\nData \nwarehouse\nEmail Server\nProcess log files\nCode to extract data\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nILLUSTRATIVE\nPDF TEMPLATES (1/2)\nSales data available for shows, events \n& price tiers in multiple PDF formats \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nILLUSTRATIVE\nPDF TEMPLATES (2/2)\nSales data available for \nmultiple price tiers\nSales data available \nfor multiple events \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (11).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103040+05'30'",
+            "modDate": "D:20241115103040+05'30'",
+            "trapped": ""
+        },
+        "content": "6\nILLUSTRATIVE\nPROCESS FLOW ARCHITECTURE\n"
+    }
+]

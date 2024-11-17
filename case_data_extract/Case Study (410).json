@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAzure cloud data warehouse implementation\n1\nBuilt robust and scalable Azure cloud data warehouse by integrating source \nsystems across all investment strategies (CITCO, IHS Markit, ExaVault, and \nSharePoint) into a central data repository. Also, deployed an automated reporting \nsuite in Power BI for fund performance and portfolio monitoring.\nPrivate equity firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a robust and scalable cloud data warehouse by integrating source systems across all investment strategies into \na central data repository. Currently, you rely on front-end reports provided by individual source systems which are aggregated on \noffline Excel sheets to track fund performance. \nPrivate equity firm needs a scalable cloud data warehouse\n2\nYour value is enhanced. \nYou have a central automated repository with clean, sanitized and transformed data that helped in 80% reduction in person-hours \nneeded for report preparation. You have reduced the ETL sync time by 66%, thereby providing nearly real time financials by \nmultiple refreshes in a day. You also have better visibility into the fund and portfolio performance by creating holistic dashboards \nwith  a flexibility to stakeholders to extract essential data as per requirements from a central data repository.\nAZURE CLOUD DATA WAREHOUSE \nIMPLEMENTATION\nKEY RESULT   \n•\n~80% reduction in \nmanual effort\n•\n~66% of ETL sync time \nreduced\nVALUE LEVERS PULLED\n•\nAzure Cloud Data \nWarehouse\n•\nPower BI Dashboards\n•\nFund performance\n•\nPortfolio monitoring\n2\nYou turn to Accordion. \nWe partner with your team to build a robust and scalable Azure cloud data warehouse by integrating source systems across all \ninvestment strategies into a central data repository, including:\n1)\nCollaborating with the PE, Real Estate, and Credit portfolio operations and deal teams to understand and define the Fund and \nportfolio companies’ performance metrics\n2) Building pipelines to ingest data from source systems (Citco, Exavault, IHS Markit (S&P Global), and SharePoint Excel files) to \ncreate a single central repository of the data on Azure Synapse Data Warehouse. Implementing delta refresh via CDC to \nprocess only the changes, multiple times in a day.\n3) Creating user friendly data models for custom report building and creating a single source of truth in the form of fact and \ndimension tables across functions\n4) Building automated self-serve dashboards on Power BI for Fund Performance and portfolio monitoring to effectively manage \nthe investments in real-time\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCollaborated with the PE, Real Estate, and Credit portfolio operations and deal teams to understand and define the Fund and Portfolio Companies’ \nperformance metrics\n•\nBuilt pipelines to ingest data from source systems (Citco, Exavault, IHS Markit (S&P Global), and SharePoint Excel files) to create a single central repository \nof the data on Azure Synapse Data Warehouse. Implemented multiple times a day delta refresh via CDC to process only the changes\n•\nCreated user friendly data models for custom report building and created single source of truth in the form of fact and dimension tables across functions\n•\nBuilt automated self-serve dashboards on Power BI for Fund Performance and Portfolio Monitoring to effectively manage their investments in real-time\nSituation\n•\nClient relied on front-end reports provided by individual source systems and then aggregated them on offline Excel sheets to track fund performance. \nThere was an opportunity in automating the reporting to provide the Partner's group better transparency and insights to business performance\n•\nPartnered with the client to build robust and scalable cloud data warehouse by integrating source systems across all investment strategies into a central \ndata repository\nAzure Data Warehouse implementation for a PE Firm with more \nthan $40B AUM across PE, Real estate & Credit\n3\nImpact\n•\nThe central automated repository with clean, sanitized and transformed data helped in 80% reduction in person-hours needed for report preparation\n•\nIntra-day delta loads reduced the ETL sync time by 66%, thereby providing near real time financials refreshed multiple times a day\n•\nProvided better visibility into the fund and portfolio performance by creating holistic dashboards and provided flexibility to stakeholders to extract essential \ndata as per requirements from a central data repository\nAZURE CLOUD DATA WAREHOUSE \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData architecture diagram of the implemented infrastructure\n4\nPrivate equity\nData aggregator\nCRM – deal sourcing, \ndealflow and IR\nPortfolio monitoring, \ndeal team and FC \nteam\nCredit\nMarket price\nData mapping \nand governance\nSources\nReal estate\nData mapping \nand governance\nData platform\nOutput\nDashboards (power BI)\n▪\nFund performance\n▪\nPortfolio performance \nmonitoring\n▪\nCommitment dashboard for IR\n▪\nInvestor cashflow summary\n▪\nTreasury dashboard\n▪\nReal estate holdings dashboard\nPaginated reports (power \nBI)\n▪\nCredit holdings summary\n▪\nInvestment dashboard\nFair value \napplication\nExcelerate/\nexcel add-in\nData mapping \nand governance\nRaw zone\nIngests raw \ndata from \nsource systems, \nto create a \ngolden copy \nand  maintain \nhistorical \narchives\nClean zone + \naggregate zone\nTransforms all \ndata assets into a \nsingle source of \ntruth for \nreporting and \nanalytical \nrequirements \nData \nmodels\nAzure data \nlake\nPrivate equity\nCredit\nReal estate\n• Investor \nrelations\n• Portfolio \noperations\n• Deal team\n• Fund \ncontrol\nBusiness \nfunctions\nSecurity master\nInvestment track record and GL \nmapping\nFund and entity mapping\nPortfolio company monthly \nSubmissions\nSelf-serve analytics\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSystem architecture – Private equity\n5\nMergers & Acquisitions \nPowerApps\nDWH API\nREST API\nData Applications\n▪\nFair Value App\n▪\nFund\n▪\nPortfolioCompany\n▪\nTransfers\n▪\nManualAdjustments\n▪\nCurrencyRates\nInvestran\nData aggregator\nCRM – Deal Sourcing, \nDealflow and IR\nPortfolio Monitoring, \nDeal team and FC Team\nData sources\nData platform\nOutput\nPower BI Dashboards\n▪\nPE Performance\n▪\nPortfolio Performance \nMonitoring\n▪\nCommitment Dashboard \nfor IR\n▪\nInvestor Cashflow \nSummary\n▪\nTreasury Dashboard\nData \nModels\nPrivate \nEquity\nReporting \nModel\n▪\nInvestmentDetails\n▪\nInvestorContacts\n▪\nInvestorAttributes\n▪\nEntity Details\n▪\nInvestor Static Data\n▪\nTransactions\nBlackRock\nAexeo Treasury\n▪\nTreasury Balance\n▪\nTreasury Payments\n▪\nTreasury Invoice\nCitco\n▪\nIR Fund Commitment\n▪\nFund and Investor \nAttributes\nDealCloud\nFund Admin\nSharePoint Excel\n▪\nDataFinancials\niLevel\n▪\nFV_CollatedMultiples\n▪\nFV_Adj_EBITDA\n▪\nFV_Commentary\n▪\nFV_Covenants\n▪\nFV_DataSheet\n▪\nM&A\nData Mapping and Governance\nNetSuite\nCarry Application\nCAP IQ\nBloomberg\nData Ingestion, Cleansing, \nand Transformations\nFair Value App\n▪\nFV Collated Multiples\n▪\nFV Adj EBITDA\n▪\nFV Commentary\n▪\nFV Covenants\n▪\nFV Data Sheet\nDimensions - Descriptive \ntables\n▪\nFund\n▪\nInvestor\n▪\nPortfolio Company\n▪\nGL/Effective Date\nSelf-Serve Analytics\n▪\nExcelerate/Excel Add-In\nAPI - Patch updates from \nCitco via Datawarehouse*\nLinked Service; Azure \nSynapse Analytics\nFacts - Transaction tables\n▪\nFund Financials\n▪\nPortfolio Financials\n▪\nTransfers\nManual Feed\nIndependent tables\n▪\nDeal Cloud\n▪\nTreasury Balance\n▪\nTreasury Invoice\n▪\nTreasury Payment\n▪\nBlackRock\n▪\nM&A\nDWH API\nREST API\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSystem architecture – Credit\n6\nLinked Service: \nsftp connection \non Azure Synapse \nAnalytics\nVPM\nData aggregator\nData sources\nData platform\nOutput\n▪\nPaginated reports\n▪\nDaily Holdings\n▪\nInvestment Reports\nData \nModel(s)\nCredit\n▪\nYTD-\nITDforPortfolioReport\n▪\nSymbolExtractReport\nDWH\n▪\nContracts_CustomAc\ncrualsReport\n▪\nExchangeRateReport\ns-DWH\nClearWater\nFiles.com\nSharePoint Excel\n▪\nSecurityMaster\nData Mapping and \nGovernance\nAllvue(TBD)\nData Ingestion, Cleansing, and \nTransformations\nDimensions - Descriptive \ntables\n▪\nDate(AsAtPeriod)\n▪\nAsset\n▪\nBroker\n▪\nFund\n▪\nInvestor\n▪\nPortfolio Company\n▪\nSecurityMaster\nSelf-Serve Analytics\nExcelerate/Excel Add-In\nLinked Service; Azure \nSynapse Analytics\nFacts –Transaction tables\n▪\nFund Positions\n▪\nAsset Positions\n▪\nMarket Price\n•\nBCPartners_CW\nDWH API\nInvestran\n▪\nInvestmentDetails\n▪\nInvestorContacts\n▪\nInvestorAttributes\n▪\nEntity Details\n▪\nInvestor Static Data\n▪\nTransactions\nCitco\n▪\nExcel outputs\n▪\nMarketPrice\n▪\nImport_Price\n▪\nLoanXMarks_NY\n▪\nQuarterly Valuation \nReports\nLinked Service: \nsftp connection on \nAzure Synapse \nAnalytics\nFund Admin\nIHS Markit\nImport_Price\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSystem architecture – Real estate\n7\nData aggregator\nData sources\nData platform\nOutput\nPower BI Dashboards\n▪\nReal Estate Dashboard\n▪\nTreasury Dashboard\nData \nModel(s)\nReal \nEstate\nData Mapping and \nGovernance\nData Ingestion, Cleansing, \nand Transformations\nDimensions - Descriptive \ntables\n▪\nFund\n▪\nInvestor\n▪\nEntity\nSelf-Serve Analytics\nExcelerate/Excel Add-In\nFacts –Transaction tables\n▪\nFund Financials (Investran)\n▪\nFund Financials(Yardi)\nDWH API\n▪\nFund\n▪\nInvestmentTractRecord\nInvestran\n▪\nInvestmentDetails\n▪\nInvestorContacts\n▪\nInvestorAttributes\n▪\nEntity Details\n▪\nInvestor Static Data\n▪\nTransactions\nAexeo Treasury\n▪\nTreasury Balance\n▪\nTreasury Payments\n▪\nTreasury Invoice\nFund Admin\nSharePoint Excel\nLinked Service; \nAzure Synapse \nAnalytics\nBlackRock\nManual Feed\n▪\nYardi Transactions\nYardi\nCitco\nIndependent Tables\n▪\nTreasury Balance\n▪\nTreasury Invoice\n▪\nTreasury Payment\n▪\nBlackRock\n▪\nInvestment Track Record\nDWH API\nDWH API\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHigh level design\n8\nAzure Data \nLake\n4\n1\n3\n5\n1\n2\n3\nUser has flexibility to edit operational data. Subsequently, data is \nreprocessed back to the data warehouse to enable real time visualizations \nwhile ensuring data governance\nFinal reporting views from Azure Synapse Dedicated SQL Pool are \nuploaded into Power BI for visualization\nStaging tables in Azure Synapse for transformations & subsequent data modelling\nRaw data is first saved in Azure Data Lake as flat files which will then be ingested \ninto staging tables on Synapse Dedicated SQL Pool\nData is extracted from source systems using Azure Synapse Analytics and \ningested into Azure Data Lake and Synapse Dedicated SQL Pool\n4\n5\nSynapse Dedicated SQL \nPool\n2\nAzure \nFunctions\nPower \nAutomate\nData sources\nData storage & processing\nReporting layer\n2\nOutputs\n▪Power BI Data Marts\n▪Power BI \nDashboards\n▪Paginated Reports\n▪Excel Add-In\n▪Fair Value \nApplication\nPrivate Equity\nCredit\nReal Estate\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLow level design (1/2)\n9\nLinked Service\nCitco\nFiles.com\nDealCloud\nILevel\nMarketSFTP\nLookup \nActivity \n(control \ntable)\nPipeline will \nbe triggered \nbased on the \nschedule\nAudit Table \n(list of pipelines and \nparameters)\nA\nB\nPower BI \nDashboards\nStaging\nProd\nStored Procedure to \nimplement the core \nlogic\nData \nSource\nCore\nC\nE\nF\nAzure Data Lake\n(flat files)\nData Cleansing\nAudits Stored \nProcedure\nG\nPrivate Equity\nReporting \nModel\nCredit\nReal Estate\nClean + Aggregate \nZone\nData Models\nRaw Zone\nH\nAzure Synapse \nDedicated SQL Pool\nD\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (410).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185720+05'30'",
+            "modDate": "D:20241114185720+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLow level design (2/2)\n10\nA\nB\nC\nD\nE\nG\nF\nH\nControl table is a compilation of data pertaining to the dynamic content utilized in the dynamic synapse pipeline, output of lookup from this control \ntable to be utilized further in the pipeline process.\nLinked services for source are set up which is utilized by datasets in pipelines to run.\nData is ingested into the data lake in the form of flat files. Additionally, archives are maintained to safeguard historical data.\nCopy data activity is used to absorb data into the staging tables in Synapse Dedicated SQL pool from flat files in the data lake.\nData from staging layer is moved to prod layer which can be an incremental load or full load based on the size and type of data we ingest from \ndifferent source systems.\nLookup activities for source, staging, and prod audits, which ensures integrity of data after the cleaning process.\nThe logic to transform source data into dimensions and facts is executed, and an enterprise data model is created in the core layer.\nCustomized data models are developed for each business stream to enable end-users to connect and analyze data using Excel pivots. \nAdditionally, Power BI dashboards are developed utilizing these data models to provide real-time insights of KPIs.\n"
+    }
+]

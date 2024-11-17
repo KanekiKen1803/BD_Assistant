@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171256+05'30'",
+            "modDate": "D:20241114171256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nImpact of cannibalization from new location\n1\nBuilt a comprehensive cannibalization model to determine the impact of opening \nnew locations on existing location performance based on overlap in trade \nlocations by market, driving distance etc. \nFitness chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171256+05'30'",
+            "modDate": "D:20241114171256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nThe model used multiple statistical methods (linear regression, sample t-tests, etc.) on the historical data to track the impact of Cannibalization on revenue, \ntraffic, # clients, etc. of the existing locations at various timeframes of 3-month, 6-month and 12-month post opening of the new location\n•\nCannibalization is estimated as the deviation in the actual performance of location from it’s expected performance, which is based on the performance of \ncomparable studios\n•\nProvided the flexibility to view the impact of cannibalization by market type, by trade area overlaps, by drive time between locations\n•\nThe model was helpful to gain a perspective on the market level saturation. Additionally, a detailed case study was carried out in one of the markets where \nthe company has high number of locations, to understand network effect on the overall business\nSituation\n•\nCompany was planning to expand its business by setting up a large number of new locations across the U.S.\n•\nCompany wanted to gauge the impact of cannibalization/network effect on the overall business, triggered by the opening of new locations\n•\nPartnered with the company to build a comprehensive model to estimate cannibalization impact observed on the locations in the past when a new location \nwas opened within the trade areas of existing locations\nCannibalization analysis for a fitness chain\n2\nImpact\n•\nProvided visibility into the timeframe it takes for the cannibalization impact to subside and for the location to regain its organic growth\n•\nIdentified markets with scope for opening new locations that helped the client to build strategy for upcoming locations\nIMPACT OF CANNIBALIZATION FROM \nNEW LOCATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (33).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114171256+05'30'",
+            "modDate": "D:20241114171256+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nOutputs indicating cannibalization impact and market saturation\n3\nPlots depicting the cannibalization \nimpact on Revenue, Traffic, etc. as \na function of driving time between \nthe locations and trade area \noverlaps\nPlots depicting trends in \noverall revenue and share of \nrevenues from locations, post \nopening of a new location\nIllustrative plots indicating the impact of cannibalization on trade area overlap and driving distance radius\nIllustrative plot indicating the market saturation level\nMonth \n1\nMonth \n2\nMonth \n3\nMonth \n4\nMonth \n5\nMonth \n6\nMonth \n7\nMonth \n8\nMonth \n9\nMonth \n10\n"
+    }
+]

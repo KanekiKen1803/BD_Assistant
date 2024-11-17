@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135707+05'30'",
+            "modDate": "D:20241114135707+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPurchase Behavior Analysis\n1\n• Built dynamic models to understand the purchase behavior of the firm’s \npartners, leveraging the consolidated POS sales data\n• Analyzed the purchase history to evaluate revenue trends and products \nperformance, and analyzed churn, cross-sell opportunities, Partner Segments \netc.\nNetwork Security Products Firm\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135707+05'30'",
+            "modDate": "D:20241114135707+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nLeveraged the consolidated POS sales (between the Distributor and Partner) data at a quarter level to build dynamic models to understand the Partners \nbehavior. Provided flexibility in the model to view the insights at a region, area, or territory levels, by Partner groupings such as Strategic Partners, Top-200 \netc. \n•\nSegmented the partners based on the average revenue per quarter and purchase frequency, and analyzed the behavior patterns across the segments\n•\nEvaluated the performance of the newly launched products and analyzed the impact of cross-sell and cannibalization of new products on the existing \nproducts to provide insights into the shift in purchase patterns\nSituation\n•\nClient has a 2-tier distribution system - client sells the software to distributors and the distributor in turn sells to Partners, who then sell/install the software \nto the end customer. The client did not have much visibility into the purchase behavior of the Partners.\n•\nPartnered with the client to understand Partners behavior as a proxy for end-customer behavior and analyzed the trends for revenues, products \nperformance, churn, cross-sell and cohort performance. \nPurchase behavior analysis \n2\nImpact\n•\nThe client has enhanced visibility into Partner Churn and is able to understand the Churn trends across the business\n•\nThe cross-sell analyses helped identify the attractive product combinations and helped inform the right sales strategies\n•\nStrong feedback from Management team – “Never looked at our business as you did, and it helped us learn a lot”.\nPurchase Behavior Analysis \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135707+05'30'",
+            "modDate": "D:20241114135707+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nChurn across the business by partner type\n3\nGross Churn in # Partners by Single vs. Multi-Product Active Partners by Quarter, %\n10.2%\n10.4%\n8.9%\n9.5%\n9.6%\n9.7%\n10.2%\n10.4%\n1.5%\n1.1%\n1.4%\n1.7%\n1.8%\n1.1%\n1.2%\n1.3%\n1.1%\n1.2%\n1.3%\n2.5%\n2.0%\n8.0%\n8.2%\n7.5%\n7.3%\n7.4%\n7.3%\n7.8%\n8.7%\n8.6%\n0.0%\n0.5%\n1.0%\n1.5%\n2.0%\n2.5%\n3.0%\n3.5%\n4.0%\n4.5%\n5.0%\n5.5%\n6.0%\n6.5%\n7.0%\n7.5%\n8.0%\n8.5%\n9.0%\n9.5%\n10.0%\n10.5%\nGross Churn % (in # Partners)\n8.5%\n7.4%\nQ2 Y1\nQ3 Y1\nQ4 Y1\n9.4%\nQ1 Y2\n8.3%\nQ2 Y2\nQ3 Y2\n7.8%\n6.4%\nQ4 Y2\nQ1 Y3\n8.5%\n6.8%\nQ2 Y3\nQ3 Y3\n7.8%\n6.1%\nQ4 Y3\n0.6%\n7.9%\nQ1 Y4\nQ2 Y4\nQ3 Y4\nSingle-Product\nMulti-Product\nOverall\nILLUSTRATIVE\nProvides visibility into \nPartner churn, as well \nas the split of single \nproduct purchase \npartners and multi-\nproduct purchase \npartners\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135707+05'30'",
+            "modDate": "D:20241114135707+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImpact of cross-sell on average revenue per quarter\n4\nTotal sales growth post cross-sell, and contribution from cross-sell products, %\n# Partners \nAnalyzed1>>\n1,543\n786\n560\n97\n150\n$7,802\n$9,850\n$8,678\n$8,976\n$10,054\n$10,976\n$14,397\n$19,342\n$16,987\n$23,854\n$1,130\n$2,765\n$976\n$3,798\n$1,187\n$1,995\n$2,301\nPdt A\nPdtA-\nPdtB-PdtC\nPdt A\nPdtA-PdtB\nPdt A\nPdtA-PdtD\nPdt A\nPdtA-PdtC\nPdt A\nPdtA-\nPdtB-PdtD\n$10,980\n$11,741\n$11,952\n$25,135\n$27,342\n+41% (16%)\n+35% (31%)\n+19% (8%)\n+75% (43%)\n+61% (20%)\nPdt B\nPdt C\nPdt D\nPdt A\nOut of the 41% growth in Product \nA only partners POS sales post \nProduct B cross-sell, 16% growth \nwas driven by the cross-sell \nproduct\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (177).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135707+05'30'",
+            "modDate": "D:20241114135707+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAverage sales trend by partner cohort\n5\nAvg. POS Sales per Active Partner by Cohort1 over Lifetime quarters, $\n$ 0\n$ 500\n$ 1,000\n$ 1,500\n$ 2,000\n$ 2,500\n$ 3,000\n$ 3,500\n$ 4,000\n$ 4,500\n$ 5,000\nLifetime Quarter\nAvg. POS Sales per Active Partner\nT1\nT2\nT3\nT4\nT5\nT6\nT7\nT8\nT9\nT10\nT11\nT12\nT13\nT14\nT15\n2017 Q1\n2018 Q1\n2019 Q1\n2020 Q1\nAcquisition cohort\nAverage POS Sales per Active \nPartner trends based on the \nacquisition cohort of the Partner\nILLUSTRATIVE\n"
+    }
+]

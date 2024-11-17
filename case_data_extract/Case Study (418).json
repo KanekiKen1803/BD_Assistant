@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt scenario-based capacity planning model to identify the optimal \nfulfillment strategy based on customer SLAs (Service-Level Agreements) and \nto meet the growth projections for the next three years.\nShipment fulfillment strategy\n(Bedding and textiles ecommerce company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "fulfillment STRATEGY FOR AN ECOMMERCE FIRM\nSITUATION\n▪Client was evaluating options to expand their current warehouse to meet their forecast for the next 3 years and were also considering dropshipping to \nthe customer through dropshipping partners. Overall, they needed to identify an optimal shipment strategy and understand the capacity requirements.\n▪Merilytics partnered with the client to help define the optimal fulfillment strategy based on customer SLAs and to meet the growth projections for the \nnext three years\n▪Evaluated three fulfillment scenarios to identify optimal fulfillment strategy – expanding the current warehouse, adding a second warehouse or moving \nto a larger warehouse, with their existing 3PL partner, to meet the growth projections with better customer service levels and lower fulfillment costs \n(inbound, operating & outbound)\n▪While adding a second warehouse was a more optimal option, given the operational efficiencies of a single warehouse, estimated the incremental \nfulfillment costs from the existing warehouse to get better service levels\n▪Evaluated dropshipping strategy for a few product categories and conducted a cost benefit analysis estimating the dropshipping costs to breakeven \nwith the fulfillment costs through the existing 3PL provider\n▪Across strategies, provided the capacity requirement (in sq. ft) for the next three years so that the client can plan for the same accordingly\nVALUE ADDITION\nIMPACT\n▪Recommended warehouse option is estimated to provide ~18% savings in the shipping spend, translating to savings of $9.7M (over 3 years).\n▪Analyzed that the current dropshipping costs are higher and would have to be reduced by ~30% to break-even with the existing 3PL costs. This helped client \nstrategize their dropshipping cost reduction.\nABOUT THE CLIENT\nClient is a U.S. based bed and bath company that sells luxury bedding - organic cotton bed linens, blankets and bath towels etc.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH\n3\nRaw datasets\nCurrent demand distribution \nby order basket by state\nFuture (next 3 years) growth \nprojections by category\nUPS outbound rates \n(including all the surcharges) \nby weight by zone\nService type distribution by \norder basket by state \nBoxes used for each order \nbasket based on volume & \ncategory\nCosts calculation\nInbound costs for the \ndemand\nOperating costs for the \ndemand\nOutbound costs for the \ndemand\nCustomer SLA \n(delivery time in days)\nTotal fulfillment costs for a \nstate by Warehouse\nCustomer SLA for a state by \nwarehouse (delivery time)\nWarehouse selection strategy\nStrategy -1\nWarehouse selection for \nstate based on  minimum \nfulfillment costs\nStrategy -2\nWarehouse selection for \nstate based on least \ndelivery time\nFinal outputs\nTotal fulfillment costs for all \nstates to fulfill the demand\nTotal costs for safety stock\nOverall Customer SLA\n(Delivery time)\nOverall Lead time\nTotal required warehouse \ncapacity (in pallets)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH\n4\nEstimating fulfillment costs\nIdentifying optimal warehouse at a state-level\nOptimized distribution network\n▪The total fulfillment costs (inbound + operating + \noutbound) are calculated at a state-level from \neach of the warehouse options to fulfill the entire \ndemand to that state along with the delivery time\n▪Identified the optimal warehouse to fulfil the \ndemand for each of the states based on two \nstrategies – minimum fulfillment costs, minimum \ndelivery time\n▪In the minimum fulfillment costs model, total \nfulfillment costs for each state from the current \nwarehouse is compared with the new warehouse \noptions and the warehouse with minimum costs \nis selected for each state\n▪In the minimum delivery time model, average \ndelivery time for each state from the current \nwarehouse is compared with the new warehouse \noptions and the warehouse with least delivery \ntime is selected for each state\n▪Leveraging the growth projections at a product \ncategory level, estimated Inbound and \noperating costs for each of the warehouse \noptions.\n▪Using the future growth projections at a \nproduct category level and the current \ndistribution of order baskets, estimated the \nfuture distribution of order baskets\n▪Using the current distribution of demand of \norder baskets by state and service type, future \nprojections are also estimated by state\n▪Based on the order distribution, the outbound \ncosts are calculated for the order baskets using \nthe weight of the shipping boxes, surcharges, \nUPS zone and service type\n▪Average delivery time is calculated based on \nthe warehouse location and service type \nleveraging the UPS maps for each of the \npotential warehouse option\n▪In both the strategies, once the optimal \nwarehouse is selected for each of the states, \nthe total costs for all the states is aggregated \nto calculate the costs incurred to fulfil the \ndemand\n▪Along with the total costs, capacity is \nestimated based on the total demand fulfilled \nfrom each of the warehouses by category\n▪Overall average delivery time is also \ncalculated for both the strategies for each of \nthe warehouse combinations \n▪Across all the scenarios, the warehouse \ncombination providing the best ROI for the \nincremental costs on delivery time is \nidentified as the optimal shipment strategy\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "POTENTIAL SAVINGS WITH OPTIMAL STRATEGY\n5\nILLUSTRATIVE\n-$9.7M\n(-18%)\nPotential savings that could be achieved by \nadding a 2nd warehouse at ‘Location C’ with \nsimilar customer SLA (2.3 days)\n$43.6M\n$53.4M\n$58.2M\n$47.9M\n$47.2M\n$43.3M\n$43.7M\n$45.6M\n$46.7M\nOutbound cost\nInbound costs\nOperating cost\n$60M\n$50M\n$10M\n$40M\n$30M\n$20M\n$ Annualized Shipping Spend (for 3 years)\nWH-1\nWH-1\n(2.3 days)\nWH-1\n(2.1 days)\nWH-A\nWH-B\nWH-C\nWH-1 \n+ WH-A\nWH-1 \n+ WH-B\nWH-1 \n+ WH-C\n2.8\n2.3\n2.1\n2.4\n2.7\n2.5\n2.3\n2.1\n2.3\n2.0\n2.5\n3.0\nSLA\nDelivery time\n(in days)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (418).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190624+05'30'",
+            "modDate": "D:20241114190624+05'30'",
+            "trapped": ""
+        },
+        "content": "OPTIMAL FULFILLMENT STRATEGY\n6\nILLUSTRATIVE\nState demand fulfillment by warehouse \nbased on minimum delivery time\nOptimized distribution network \nwith 2 warehouses\n"
+    }
+]

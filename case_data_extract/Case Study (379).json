@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181603+05'30'",
+            "modDate": "D:20241114181603+05'30'",
+            "trapped": ""
+        },
+        "content": "INCOME REPAIR ANALYSIS FOR A HEALTHCARE PROVIDER\nSITUATION\n▪Client periodically acquired new care centers, and they lacked visibility into the impact on revenue after acquisition due to differences in contractual \nagreements/rates between care centers and insurance providers\n▪Merilytics partnered with the client to build a comprehensive report per acquisition to understand the impact on revenue due to the change in \ncontractual rates before and after the care center’s acquisition\n▪Reconciled the pre and post acquisition revenue by integrating data from different Electronic Medical Record (EMR) systems (gGastro and Athena) and \nPre-acquisition System data into a single centralized data model which contains the pre & post acquisition contractual rates and billing & collections data\n▪Analyzed the post-acquisition revenue realization trends and pro-rated the pre-acquisition rates to estimate the pre-acquisition revenue of the acquired \ncare centers where historical data was missing \n▪Assessed Income Gained/Lost due to differences in contractual rates before and after acquiring Care Center at each Insurance type and Insurance plan \nlevel\nVALUE ADDITION\nIMPACT\n▪Achieved an increase in revenue of ~$1.5M which is ~5% of quarterly revenue due to the contractual amendments made with Insurance Providers\n▪Breakdown comparison at the Insurance category level helped the client track and make decisions during the contractual discussions with the Insurance \nProviders\nABOUT THE CLIENT\nClient is a U.S.-based integrated network of gastroenterology care centers that provides services across entire spectrum of gastrointestinal issues\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181603+05'30'",
+            "modDate": "D:20241114181603+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n2\nContractual Rates \nPre-Acquisition\nContractual Rates \nPost-Acquisition\nCollections Data \nPre-Acquisition\nCollections Data \nPost-Acquisition\nBilling Data\nIntegrated \nData\nIncome \nRepair \nbased on \nPayor Rates\nIncome \nRepair by \nInsurance \nCategory\nLists all top Insurance \nProviders and corresponding \nprocedure codes that needs \nimmediate attention\nComprehensive report that \ntracks insurance categories \nby date of service on \nprocedure code level\nTracks income before and \nafter acquisition based on \naverage actual payments by \nservice provided\nIncome \nRepair by \nService \nMonth\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181603+05'30'",
+            "modDate": "D:20241114181603+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: RATE COMPARISON ANALYSIS – INCOME REPAIR\nILLUSTRATIVE\n3\nFacility\nFacility 1\nData from\nMonth 1\nData Till Month\nMonth 6\nTotal Income Repair \nAmount\n($143,259.9)\nInsurance Category\nInsurance Category 1\nCPT Code\nCPT Code Description\nContract Rates before \nAcquisition \nContract Rates after \nAcquisition\nUnits after \nAcquisition\nPayments after \nacquisition\nPayor Rate after \nacquisition\n% Amount \nCollected\nAdjusted Rate before \nAcquisition\nVariance\nIncome Repair \nAmount\n43200\nESOPHAGOSCOPY\n$662.0 \n$129.9 \n1 \n$129.9 \n$129.9 \n100%\n$662.0 \n($532.2)\n($532.2)\n43202\nESOPHAGOSCOPY W BIOPSY\n$617.0 \n$152.5 \n1 \n$152.5 \n$152.5 \n100%\n$617.0 \n($464.5)\n($464.5)\n43238\nUPPER EUS WITH BIOPSY\n$247.3 \n$326.5 \n1 \n$326.5 \n$326.5 \n100%\n$247.3 \n$79.2 \n$79.2 \n43248\nEGD W DIL OVER GUIDE WIRE\n$473.0 \n$244.7 \n10 \n$1,899.1 \n$189.9 \n78%\n$367.1 \n($177.2)\n($1,771.9)\n43261\nERCP W BIOPSY\n$371.8 \n$490.8 \n1 \n$23.1 \n$23.1 \n5%\n$17.5 \n$5.6 \n$5.6 \n43262\nERCP W/SPHINCTEROTOMY/PA\n$392.3 \n$517.8 \n6 \n$296.5 \n$49.4 \n10%\n$37.4 \n$12.0 \n$71.9 \n43264\nERCP FOR REMOVAL OF STONE\n$399.9 \n$527.8 \n8 \n$1,802.6 \n$225.3 \n43%\n$170.7 \n$54.6 \n$436.9 \n44380\nILEOSCOPY THRU STOMA\n$64.5 \n$93.2 \n1 \n$48.1 \n$48.1 \n52%\n$33.3 \n$14.8 \n$14.8 \n44388\nCOLON THRU STOMA\n$340.1 \n$199.2 \n1 \n$199.2 \n$199.2 \n100%\n$340.0 \n($140.8)\n($140.8)\n45330\nFLEXIBLE SIGMOIDOSCOPY\n$129.1 \n$76.3 \n3 \n$176.0 \n$58.7 \n77%\n$99.2 \n($40.5)\n($121.6)\n45331\nFLEXIBLE SIGMOID W/BIOPSY\n$154.5 \n$91.0 \n5 \n$354.7 \n$70.9 \n78%\n$120.4 \n($49.5)\n($247.4)\n45378\nCOLONOSCOPY\n$723.0 \n$386.3 \n52 \n$21,002.0 \n$403.9 \n105%\n$755.9 \n($352.1)\n($18,307.0)\n45380\nCOLONOSCOPY W/BIOPSY\n$763.0 \n$410.3 \n212 \n$61,681.8 \n$291.0 \n71%\n$541.1 \n($250.1)\n($53,024.7)\n45385\nCOLONOSCOPY W/POLY (SNARE)\n$824.0 \n$528.9 \n228 \n$124,143.7 \n$544.5 \n103%\n$848.3 \n($303.8)\n($69,258.2)\nTracks Procedure Codes with \nhighest impact on Revenue over \ntime by different cuts of Facility, \nInsurer Group based on Contractual \nRates and respective Payments.\nTracks procedure codes with highest \nimpact on revenue over time by \ndifferent cuts of facility, insurer \ngroup based on contractual rates \nand respective payments\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (379).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181603+05'30'",
+            "modDate": "D:20241114181603+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2: IMPACT ANALYSIS – INCOME REPAIR\nILLUSTRATIVE\n4\nFacility\nFacility 1\nData From\nMonth 1\nTotal Income \nRepair Amount\n$4,279.5 \nData Till Month\nMonth 6\nInsurance Category\nInsurance Group 1\nCPT Code\nDescription\nPayor Rate before \nAcquisition\nUnits after \nAcquisition\nPayments after \nacquisition\nPayor Rate after \nacquisition\nVariance\nIncome Repair \nAmount\n45378\nCOLONOSCOPY\n$363.17 \n14\n$6,717.95 \n$479.85 \n$116.69 \n$1,633.63 \n43239\nUPPER GASTRO ENDOSCOPY \nW BIOPS\n$333.68 \n19\n$7,091.16 \n$373.22 \n$39.54 \n$751.32 \n99204\nOFFICE VISIT (NEW PATIENT)\n$108.04 \n2\n$956.00 \n$478.00 \n$369.96 \n$739.91 \n99213\nOFFICE VISIT ESTABLISHED \nPATIENT\n$67.97 \n5\n$914.95 \n$182.99 \n$115.02 \n$575.10 \n45385\nCOLONOSCOPY W/POLY \n(SNARE)\n$514.12 \n4\n$2,561.24 \n$640.31 \n$126.19 \n$504.76 \n45380\nCOLONOSCOPY W/BIOPSY\n$419.47 \n6\n$2,800.00 \n$466.67 \n$47.20 \n$283.19 \n99203\nOFFICE VISIT (NEW PATIENT)\n$95.06 \n12\n$1,260.00 \n$105.00 \n$9.94 \n$119.31 \n99214\nOFFICE VISIT ESTABLISHED \nPATIENT\n$73.91 \n10\n$840.00 \n$84.00 \n$10.09 \n$100.87 \n99232\nHOSPITAL VISIT\n$65.85 \n1\n$145.94 \n$145.94 \n$80.09 \n$80.09 \n99222\nINITIAL HOSPITAL VISIT\n$133.59 \n8\n$560.00 \n$70.00 \n($63.59)\n($508.73)\nTracks procedure codes with highest \nimpact on revenue over time by \ndifferent cuts of facility, insurer group \nbased on payments and \ncorresponding payor rates\n"
+    }
+]

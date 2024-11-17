@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193136+05'30'",
+            "modDate": "D:20241114193136+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCash flow forecasting\n1\nDeveloped a short-term (13 weeks) forecast model to track the impact on the \nactual ‘cash’ line items due to the increased cancellations & refund requests \nbecause of the outbreak of COVID -19\nTravel & entertainment company\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193136+05'30'",
+            "modDate": "D:20241114193136+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned & delivered the weekly forecast model based on cash inflow/outflow characteristics of the business, with very short TAT\n•\nAnalyzed the client’s indirect cash flow model to convert the accrual-based line items into cash-based, to be used in the direct forecast model \n•\nDeveloped custom logic for each line item to break-out values from the monthly model to a weekly level for the forecast. \n•\nAdded various flexibility features to the model, such as flexibility to input weekly or monthly data, guided workflow that alerts deviation from the model \nworkflow, flexibility to add / remove line-items and to expand model to a 26 / 52 weeks forecast\n•\nAdded detailed variance analysis at cumulative and individual week level that compares ‘Actual’ values with ‘Current’ forecasts and the ‘Old’ forecast with \nthe new forecast\nSituation\n•\nWith the outbreak of COVID-19, client witnessed a decline in revenues and increase in cash outflows due to show cancellations & refund requests. Hence, it \nwas imperative to monitor the cash flow forecasts closely on a weekly basis as against the current monthly/quarterly forecasting.\n•\nPartnered with the client and developed a 13-week cashflow forecast model to track actual ‘Cash’ line items that provided visibility into the cash inflows & \noutflows\nCash flow forecast modeling\n2\nImpact\n•\nWeekly Forecast Model enabled the client to track the ‘Cash’ performance and adjust their new forecasts (e.g., changing the structure of refunds and other \nmajor outflows) based on the variances between the ‘Actuals’ and old forecasts and the ending cash balances\n•\nHelped the client to track the weekly forecast trends at a line item level and enabled deep-dive, which allowed them to take appropriate actions to balance \nthe cashflows (e.g., deciding on the timing and structure of a loan) \nTRAVEL & ENTERTAINMENT \nCOMPANY\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193136+05'30'",
+            "modDate": "D:20241114193136+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\n3\nCash flow forecast outputs – 13-week comparison\nILLUSTRATIVE\nCurrent week actuals plus 12 weeks \nforecast (as of prior week)\n13 weeks forecast (as of prior \nweek)\nVariance indicates real-time \ntrends/risk of reducing cash \nbalance\nForecasted different line items of cash including \nrefunds to customers (outflow) and refunds from \nvendors (inflow)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (58).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193136+05'30'",
+            "modDate": "D:20241114193136+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\n4\n13 weeks ‘w-o-w’ cash balance comparison\nILLUSTRATIVE\nCompared the Actual weekly Cash Balance with the Old Weekly Cash Balance \nForecast against the New/Updated Weekly Cash Balance Forecast\n"
+    }
+]

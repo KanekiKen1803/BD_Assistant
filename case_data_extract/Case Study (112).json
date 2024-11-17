@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123554+05'30'",
+            "modDate": "D:20241114123554+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nPartnered with client to understand the impact of pricing changes of the \ncompetitor brands on the company and analyzed the price elasticity (self and \ncross) to identify pricing opportunities which would maximize revenues\nPremium Beauty & Wellness Brand\n(Pricing Optimization Analysis)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123554+05'30'",
+            "modDate": "D:20241114123554+05'30'",
+            "trapped": ""
+        },
+        "content": "PRICING ANALYSIS FOR A BEAUTY AND WELLNESS BRAND\nSITUATION\n▪\nClient’s competitors had recently increased the prices and there was an opportunity to analyze the impact of these price changes on company’s products and \nevaluate future pricing strategy\n▪\nMerilytics partnered with the client to build a price optimization model to understand the impact of pricing changes of the competitor brands and \nidentify optimal price points to maximize revenue\n▪\nIdentified similar competitor SKUs for each of the client’s SKUs based on product characteristics such as size, type, count of product in a unit etc. to \nanalyze the impact of competitor price changes\n▪\nAnalyzed the historical impact of competitor price changes on client’s market share by performing cross-elasticity analysis of historical market data and \nidentified pricing opportunity for the product groups based on the optimal price premium with respect to competitor pricing\n▪\nDeveloped a price optimization model, based on non-linear regression, to determine the optimal price premium with competitors in order to maximize \nthe market share of the company i.e., maximize the revenue\nVALUE ADDITION\nIMPACT\n▪\nIdentified pricing opportunities at a SKU-level based on the competitor price changes\n▪\nHelped the client provide an insight into the optimal price premium at a SKU-level that maximizes the market share of the SKU and provided visibility \ninto the potential market share at different price premiums w.r.t competitor pricing\nABOUT THE CLIENT\nClient is a Premium Beauty & Wellness Brand in North America\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123554+05'30'",
+            "modDate": "D:20241114123554+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nAPPROACH & METHODOLOGY\nANALYSIS APPROACH & METHODOLOGY\nCategorized similar SKUs for client and respective competitors based on the \nproduct characteristics (#Count, Product type, Size etc.) and estimated market \nshare based on weekly sales (units) and ACV weighted distribution\nPerformed regression analysis using weekly sales units and price \navailable; Analyzed self-elasticity to understand the price sensitivity\nEstimated optimal price point based on self elasticity\nPerformed regression analysis using market share and price premium; \nAnalyzed cross elasticity to understand the price premium sensitivity\nEstimated optimal price and price premium based on cross elasticity\nIdentified optimal pricing opportunities based on self and cross elasticity and \nimpact on revenue and Market share\nSelf-elasticity\nCross-elasticity\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123554+05'30'",
+            "modDate": "D:20241114123554+05'30'",
+            "trapped": ""
+        },
+        "content": "IDENTIFICATION OF PRICE PREMIUMS VS. VOLUME\nILLUSTRATIVE\n4\n$197\nBefore Competitor \nPrice Change\nAfter Competitor \nPrice Change\n$192\n$197\n$202\n+$5\n-$5\nClient’s SKU Price\nCompetitor SKU Price\nPrice Premium\n-$5\n$5\nIdentified all variances in price \npremium and corresponding \nvolumes by week\n▪Performed a non-linear regression \nanalysis between the relative \nmarket share and competitor price \npremium over the past three years\n▪Identified cross-elasticity at the \nexisting price point\n▪Determined the impact of \ncompetitor’s price change on the \nclient’s SKU\n▪Identified the optimal price \npremium point that maximizes the \nrevenues for the client\nRecommended \nScenario\n$210\n$202\n+$8\nPrice Premium\n$8\nRecommended price premium for \noptimal revenues for the client \naccounting for the cross elasticity, \ni.e., impact of price change on the \nmarket share\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (112).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123554+05'30'",
+            "modDate": "D:20241114123554+05'30'",
+            "trapped": ""
+        },
+        "content": "ESTIMATION OF CROSS-ELASTICITY\nILLUSTRATIVE\n5\nRevenue impact on the change in price \npremium and identify optimal price premium\nPrice elasticity with competitor and impact on \nmarket share with increase/decrease of Price \npremium\n"
+    }
+]

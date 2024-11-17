@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nACV and AR Visibility Enhancement\n1\nReconciled the acquired ACV and calculated the outstanding AR balance by \ncreating a month-over-month ACV and AR bridge at the customer level which \nprovided leadership with comprehensive visibility into revenue leakage by \nhighlighted invoicing opportunities\nCloud-based learning solutions\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re a trusted industry partner for financial & legal learning and accelerate professional and organizational growth with leading-\nedge content; you've acquired multiple business units with disparate data systems, resulting in a lack of visibility into customer \nactivities. To address this, you're seeking to streamline the invoicing process for these new customers and enhance leadership \nvisibility into ACV and open AR.\nB2B learning company needs a “clear view” into ACV & AR\n2\nYour value is enhanced. \nYou have given executive stakeholders precise insights into the ACV at the time of acquisition and identified 5% of the ACV as \ninvalid, allowing them to thoroughly analyze business performance by examining month-over-month ACV and AR bridge models. \nThis resulted in unlocking of potential ~$9M refund from the divesting company. You have also provided the finance team with \ncomprehensive visibility into the activity of acquired customers, identifying missed invoicing opportunities and enabling targeted \nanalysis and interventions to realize ~$ 10M revenue.\nACV & AR ANALYSIS\nKEY RESULT   \n•\nIdentification of \ninvalid ACV (5% of the \nacquired ACV) with a \npotential of ~$9 M \nrefund from divesting \ncompany\n•\nComprehensive \nvisibility into the \ncustomer activity \n(ACV, AR, invoices, \npayments, credit memo, \nusage, etc.)\n•\nUnlocked ~$ 10M missed \nrevenue opportunity\nVALUE LEVERS PULLED\n•\nCustomer mapping\n•\nACV analysis\n•\nACV & AR bridge model\n•\nInvoicing analysis\n•\nCustomer activity \nanalysis\n•\nCash reconciliation\n2\nYou turn to Accordion. \nWe partner with your team to thoroughly examine the invoicing processes, identify and highlight variances in datasets \n(transactions, subscriptions, usage, etc.) sourced from multiple platforms like Salesforce, NetSuite, Hyperion. Together, we \nfinalize a tailored approach for ACV and AR analyses for the acquired entities, including:\n1)\nDeveloping a master customer mapping for over 100k unique customers and source data to facilitate the analysis of \ndisparate datasets.\n2) Creating an ACV model to identify potential invalid ACV at the time of acquisition by analyzing subscriptions, payments, \ninvoices, and credit memos. This model tracks the ACV bridge to date, highlighting upsells, down sells, renewals, new \nbusiness, and win-backs at the individual customer level.\n3) Creating a month-over-month AR aging model categorized by time buckets (1-30 days, 31-60 days, etc.) for each \nindividual customer.\n4) Performing a comprehensive analysis of invoicing activities to aid in the cleanup of receivables, including identifying valid \nreceivables, those that need to be written off, and any missing receivables due to unbilled customers. This involves examining \nover 200 scenarios related to invoicing, subscriptions, and usage at the customer level.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n3\nDATA EXPLORATION AND PREPARATION\nVALUE CREATION\nSTAGING PHASE\nPaper Trail Files\nSalesforce 2 Files\nDIVESTING ORG’S SYSTEMS\nSalesforce 1 Files\nHyperion Files\nACQUIRING ORG’S SYSTEMS\nNetSuite Files\nSalesforce 3 Files\nDATA TRANSFORMATION\nMaster Customer Map\nOrder/Contract Union\nPayment Application on \nInvoice\nVALUE CREATION\nStandardized \nDatasets\n• Simplified the lineage tracking of customer data across the phased \ntransition through Master Customer Lookup\n• Structured application of payment transactions on the \ncorresponding invoices for accurate view of receivables and \ncollections\nACV Validation &\nBridge Model\n• Assessment of the accuracy of the ACV through evaluation of the \ncustomers’ transactions, subscription and payment habits\n• Development of ACV bridge model based on subscription data with \nsnowball components and the ability to drill down by customer\nAR Aging Model\n• Development of AR Aging Model with flexibility to analyze the \ncustomer level receivables data across the tenure of the purchase\nInvoicing Analysis\n• Assessment of the accuracy of the invoicing activities performed \nby client by identifying potentially missed invoices and potential \ninvoicing of churned customers through the analysis of usage and \nsubscription activities\nConsolidated \nActivity\n• Development of a dashboard providing consolidated visibility for \nthe leadership in customer-wise activity in terms of ACV, \ntransactions and usage\nCash Reconciliation • Reconciliation of remittances vs payments data to determine if any \namounts are still owed from the divesting company\nPHASED TRANSITION\nTailored approach for ACV & AR analyses\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nMaster customer mapping & acquired ACV reconciliation\n4\nILLUSTRATIVE\nACV Reconciliation\nTotal ACV in Base File\n$13,649,371\nTotal ACV from reference list\n$13,649,371\n$12,887,721\n-$761,650\nAccordion:\nVs Accordion:\nMaster Customer Name\nReference ACV\nRevised ACV\nACV Delta(vs. Reference) Scenario\nCustomer 1\n$573,088\n$573,088\n$0 Scenario 1\nCustomer 2\n$380,565\n$380,565\n$0 Scenario 0\nCustomer 3\n$21,942\n$0\n-$21,942 Scenario 10\nCustomer 4\n$117,254\n$117,254\n$0 Scenario 0\nCustomer 5\n$107,919\n$107,919\n$0 Scenario 0\nCustomer 6\n$50,327\n$13,995\n-$36,332 Scenario 11\nCustomer 7\n$11,270\n$1,878\n-$9,391 Scenario 8\nCustomer 8\n$115,881\n$115,881\n$0 Scenario 2\nCustomer 9\n$8,904\n$0\n-$8,904 Scenario 10\nCustomer 10\n$13,059\n$12,571\n-$488 Scenario 3\nCustomer 11\n$73,924\n$73,924\n$0 Scenario 0\nCustomer 12\n$76,724\n$76,724\n$0 Scenario 0\nCustomer 13\n$64,710\n$64,710\n$0 Scenario 2\nCustomer 14\n$8,152\n$7,931\n-$221 Scenario 3\nCustomer 15\n$77,841\n$77,841\n$0 Scenario 0\nMapping of multiple raw \nnames to a single final \nname for each customer to \nmap data across disparate \ndatasets\nReconciliation of acquired ACV \nagainst calculated ACV leveraging \nsubscription, payments, invoice and \ncredit memo datasets\nMaster Customer Mapping Lookup\nCategory\nRow Count\nPotential Review by Client\nCategory 1: Name changed through identifier/name match\n11,832\nNO\nCategory 2: Fuzzy matched, name changed\n238\nYES\nCategory 2: Fuzzy Matched, name unchanged\n554\nNO\nCategory 3: Name Unchanged\n11,391\nNO\nSource\nRaw Name\nFinal Clean name\nCategory\nClient to Review\nSource 1\n@ABC TECHNOLOGIES INC\n@ABC TECHNOLOGIES INC\nCategory 3\nNO\nSource 2\n0010e00001JoS5O XYZ University\nXYZ UNIVERSITY\nCategory 1\nNO\nSource 2\n0010e00001JoS5O XYZ University : 001VX000006EuQTYA0 XYZ UNIVERSITY\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College\nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 0010e00001QCrGxAAL \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 0017V00001o5VFQQA2 \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 0017V00001q9uTKQAY \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000003bMW6YAM  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000003DqlRYAS  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000004AlY2YAK  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000004l7zyYAA  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000005friLYAQ  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 2\n0010e00001JpLGo The Sample College : 001VX000006jXafYAE  \nTHE Sample COLLEGE\nCategory 1\nNO\nSource 3\n0017V00001tSAHwQAO Title Fund Inc - XYZ\nTITLE FUND INC\nCategory 2\nYES\nSource 1\nB&C TECHNOLOGY\nB&C TECHNOLOGY\nCategory 2\nYES\nSource 3\nB&C TECHNOLOGY - Product A\nB&C TECHNOLOGY\nCategory 1\nNO\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n5\nILLUSTRATIVE\nACV Bridge\nACV Bridge\nMonths\n \nMonth 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6\nMonth 7\nMonth 8\nMonth 9\nMonth 10\nStarting ACV\n$15,151,331\n$15,678,800\n$15,742,269\n$16,116,692\n$15,897,632\n$15,780,876\n$15,755,188\n$15,349,794\n$15,496,236\n$15,211,934\nNew\n$363,943\n$32,000\n$29,053\n$108,242\n$16,305\n$45,959\n$9,692\n$16,090\n$67,730\n$145,612\nWinback\n$0\n$0\n$0\n$3,049\n$2,110\n$10,495\n$633\n$13,020\n$43,123\n$10,853\nUpsell\n$338,571\n$65,734\n$524,590\n$69,567\n$66,393\n$100,820\n$198,346\n$47,179\n$92,764\n$103,597\nRenewals\n$0\n$0\n$797\n$2,849\n$2,808\n$12,164\n$1,193\n$279,082\n$3,018\n$12,560\nDownsize\n($10,521)\n($28,403)\n($95,709)\n($386,875)\n($193,580)\n($37,662)\n($138,916)\n($30,069)\n($192,073)\n($51,049)\nExpiration\n($164,522)\n($5,860)\n($84,308)\n($15,892)\n($10,791)\n($157,465)\n($476,341)\n($178,861)\n($298,864)\n($356,023)\nEnding ACV\n$15,678,800\n$15,742,269\n$16,116,692\n$15,897,632\n$15,780,876\n$15,755,188\n$15,349,794\n$15,496,236\n$15,211,934\n$15,077,484\nEnding ACV\nMonths\nCustomer Name\nMonth 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6\nMonth 7\nMonth 8\nMonth 9\nMonth 10\nCustomer 1\nStarting ACV\n$1,664\n$1,780\n$1,780\n$1,872\n$1,872\n$1,714\n$1,714\n$1,714\n$1,714\n$1,714\nUpsell\n$116\n$92\nDownsize\n-$158\nExpiration\nEnding ACV\n$1,780\n$1,780\n$1,872\n$1,872\n$1,714\n$1,714\n$1,714\n$1,714\n$1,714\n$1,714\nCustomer 2\nStarting ACV\n$744\n$744\n$744\n$780\n$780\n$714\nUpsell\n$36\nDownsize\n-$66\nExpiration\n-$714\nEnding ACV\n$744\n$744\n$780\n$780\n$714\nCustomer 3\nStarting ACV\n$575\n$576\n$645\n$677\n$677\n$618\n$618\n$618\n$618\nUpsell\n$1\n$69\n$32\nRenewals\n$618\nDownsize\n-$59\nExpiration\n-$618\nEnding ACV\n$576\n$645\n$677\n$677\n$618\n$618\n$618\n$618\n$618\nVisibility into the key \ndrivers of ACV \nchanges month-\nover-month\nDeep dive at \ncustomer level ACV\nACV bridge model\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n6\nILLUSTRATIVE\nAR Aging\nMonths\nAging Buckets\nMonth 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6\nMonth 7\nMonth 8\nMonth 9\nMonth 10\nMonth 11\nMonth 12\nMonth 13\nMonth 14\nMonth 15\nMonth 16\nMonth 17\nMonth 18\nCurrent Due\n$435,392\n$351,780\n$538,279\n$336,608\n$516,065\n$460,660\n$540,411\n$479,876\n$676,991\n$480,830\n$459,906\n$606,230\n$445,926\n$627,275\n$610,586\n$886,941\n$1,842,784\n$667,253\n1 - 30 Days\n-\n$23,518\n$164,526\n$87,624\n$112,726\n$258,928\n$201,301\n$442,465\n$132,891\n$410,975\n$293,606\n$209,188\n$515,111\n$201,885\n$315,864\n$363,703\n$480,894\n$2,083,166\n31 - 60 Days\n-\n$174,650\n$110,195\n$49,735\n$58,543\n$6,784\n$182,597\n$42,083\n$363,995\n$119,514\n$102,081\n$237,025\n$74,564\n$447,125\n$294,976\n$189,172\n$232,484\n$445,346\n61 - 90 Days\n-\n-\n-\n$34,457\n$34,473\n$85,756\n$6,512\n$210,107\n$199,195\n$263,425\n$284,248\n$90,029\n$153,983\n$495,707\n$554,459\n$143,687\n$130,423\n$334,142\n91 - 120 Days\n-\n-\n-\n-\n$21,870\n$29,175\n$70,990\n$75,925\n$176,423\n$119,553\n$174,346\n$260,986\n$138,028\n$233,359\n$90,683\n$271,796\n$62,987\n$107,559\n121 - 180 Days\n-\n-\n-\n-\n-\n$16,637\n$25,938\n$67,951\n$84,960\n$211,730\n$157,620\n$215,089\n$472,673\n$580,212\n$316,668\n$441,435\n$426,704\n$368,649\n181 - 360 Days\n-\n-\n-\n-\n-\n-\n$15,033\n$35,458\n$54,069\n$55,087\n$60,219\n$141,726\n$186,469\n$535,100\n$714,601\n$810,976\n$683,260\n$1,093,478\n360+ Days\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n$6,181\n$15,404\n$18,004\n$19,335\n$20,466\n$109,180\nTotal AR\n$435,392\n$549,949\n$813,000\n$508,424\n$743,677\n$857,940\n$1,042,781\n$1,353,865\n$1,688,523\n$1,661,114\n$1,532,026\n$1,760,272\n$1,992,935\n$3,136,067\n$2,915,839\n$3,127,046\n$3,880,002\n$5,208,772\nAR Aging by Customer - Trend Months\nCustomer - Buckets\nMonth 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6\nMonth 7\nMonth 8\nMonth 9\nMonth 10\nMonth 11\nMonth 12\nMonth 13\nMonth 14\nMonth 15\nMonth 16\nMonth 17\nMonth 18\nCustomer 1\nCurrent Due\n$139\n$139\n$148\n$148\n$156\n$156\n$143\n$143\n$143\n$143\n$0\n$143\n$0\n$0\n$0\n$0\n$0\n$0\n1 - 30 Days\n$0\n$0\n$0\n$148\n$148\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n31 - 60 Days\n$0\n$139\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nCustomer 2\nCurrent Due\n$0\n$0\n$0\n$0\n$65\n$65\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n1 - 30 Days\n$0\n$0\n$0\n$0\n$0\n$65\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\nCustomer 3\nCurrent Due\n$48\n$48\n$48\n$54\n$56\n$56\n$0\n$38\n$30\n$52\n$52\n$52\n$48\n$0\n$0\n$0\n$0\n$0\n1 - 30 Days\n$0\n$0\n$0\n$48\n$54\n$56\n$0\n$0\n$0\n$30\n$0\n$52\n$0\n$0\n$0\n$0\n$0\n$0\n31 - 60 Days\n$0\n$0\n$0\n$0\n$48\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n61 - 90 Days\n$0\n$0\n$0\n$0\n$0\n$102\n$0\n$0\n$0\n$0\n$30\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n91 - 120 Days\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$30\n$0\n$0\n$0\n$0\n$0\n$0\n121 - 180 Days\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$30\n$0\n$0\n$0\n$0\n$0\nCustomer 4\nCurrent Due\n$0\n$47\n$47\n$0\n$50\n$50\n$45\n$0\n$48\n$48\n$48\n$48\n$48\n$0\n$44\n$44\n$0\n$0\n1 - 30 Days\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$0\n$44\n$0\n$0\nAR aging buckets \nmonth-over-\nmonth\nDeep dive at \ncustomer level AR\nAR aging model\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (14).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114131008+05'30'",
+            "modDate": "D:20241114131008+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nInvoicing & customer activity analysis\nILLUSTRATIVE\nInvoicing Analysis\nInvoices\nSubscriptions\nUsage\nCustomers\nMay 24 ACV Section A Section B Section C Section A Section B Section C Section A Section B Section C\nResult\nScenario #\nCustomer 1\n$181,614\nTRUE\nFALSE\nFALSE\nTRUE\nFALSE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n5\nCustomer 2\n$167,284\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 3\n$100,442\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n2\nCustomer 4\n$88,288\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 5\n$96,789\nTRUE\nTRUE\nTRUE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nProperly invoiced\n1\nCustomer 6\n$119,301\nTRUE\nTRUE\nFALSE\nTRUE\nFALSE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 7\n$86,370\nFALSE\nFALSE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n4\nCustomer 8\n$95,723\nFALSE\nTRUE\nFALSE\nFALSE\nTRUE\nTRUE\nFALSE\nFALSE\nFALSE\nShould have been invoiced but were not\n3\nCustomer 9\n$89,737\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 10\n$80,805\nTRUE\nTRUE\nTRUE\nTRUE\nTRUE\nTRUE\nFALSE\nFALSE\nTRUE\nProperly invoiced\n1\nCustomer 11\n$73,662\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 12\n$52,753\nTRUE\nTRUE\nTRUE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nProperly invoiced\n1\nCustomer 13\n$67,750\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nFALSE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 14\n$51,448\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nShould have been invoiced but were not\n3\nCustomer 15\n$62,495\nTRUE\nTRUE\nTRUE\nTRUE\nTRUE\nFALSE\nTRUE\nTRUE\nTRUE\nProperly invoiced\n1\nDerivation of authenticity of \ninvoicing based on fact-pattern \nderived from invoicing, \nsubscription and usage data\nConsolidated Activities\nMonths\nCustomer Name\nMonth 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6\nMonth 7\nMonth 8\nMonth 9\nMonth 10\nCustomer 1\nACV\n$1,780\n$1,780\n$1,872\n$1,872\n$1,714\n$1,714\n$1,714\n$1,714\n$1,714\n$1,714\nTransaction\n$139\n($130)\n$148\n$8\n($148)\n($13)\n$0\n$0\n$0\n($143)\n     Invoice\n$139\n$148\n$148\n$156\n$156\n$143\n$143\n$143\n$143\n$143\n     Payment\n($278)\n($148)\n($304)\n($156)\n($143)\n($143)\n($143)\n($286)\nCustomer 2\nUsage\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\nCustomer 3\nUsage\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\nCustomer 4\nACV\n$744\n$744\n$780\n$780\n$714\nTransaction\n$0\n$0\n$0\n$65\n$65\n($130)\n$0\n     Invoice\n$62\n$62\n$62\n$65\n$65\n$60\n$46\n     Payment\n($62)\n($62)\n($62)\n($190)\n($46)\nUsage\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\nCustomer 5\nACV\n$576\n$645\n$677\n$677\n$618\n$618\n$618\n$618\n$618\nTransaction\n$0\n$0\n$54\n$56\n$56\n($214)\n$38\n($8)\n$52\n$0\n     Invoice\n$48\n$48\n$54\n$56\n$56\n$52\n$38\n$30\n$52\n$52\n     Payment\n($48)\n($48)\n($266)\n($38)\n($52)\nConsolidated view of customer-wise \nmonth-over-month ACV, \ntransactions and usage activities\n"
+    }
+]

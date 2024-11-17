@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173919+05'30'",
+            "modDate": "D:20241114173919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDatabase and Reporting Infrastructure Migration\n1\n• Owned and ensured accurate migration from legacy Practice Management \nSystem (MBO) to a new system (Zenoti), of data related to Transactions, Usage, \nCustomers, Accounting, Payroll, Inventory, Retail products etc.\n• Built new automated dashboards off Zenoti (and MBO temporarily during \nmigration), to provide real-time visibility into the business across various \nfunctions, through and beyond the migration process\nFitness Chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173919+05'30'",
+            "modDate": "D:20241114173919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to ensure a seamless transition by validating the business logic implemented by the SI partner and worked with SI \npartner/system owner to execute the suggested resolution measures. Currently, you are migrating to a practice management \nsystem from the legacy system that was in place since inception in 2002. There was a critical need to ensure accuracy of data, and \nthe logic implemented through the migration process.\nFitness company needs database migration and validation \n2\nYour value is enhanced. \nYou have ensured continuous visibility into transactions, usage, customers, accounting, payroll, inventory, retail products etc. for \nthe business during the migration process. You have identified critical concerns in the billing system of the new platform, pre-\nempting revenue loss for the client\nDATABASE AND REPORTING \nINFRASTRUCTURE MIGRATION\nKEY RESULT   \nVALUE LEVERS PULLED\n•\nValidation of data \nmigrated\n•\nConsolidation of \nreports\n•\nRevamping of data\n2\nYou turn to Accordion. \nWe partner with your team to own and ensure accurate migration from legacy practice management system (MBO) to a new system \n(Zenoti) of data related to transactions, usage, customers, accounting, payroll, inventory, retail products etc., including:\n1)\nExtracting relevant historical data from the legacy platform (MBO) and coordinated the data load for the various services \noffered. Also, devising the necessary business logic needed to be adopted during the migration process.\n2) Validating the data migrated into the new system (Zenoti), and suggested changes to SI partner, to align with business \nrequirements\n3) Building~75 dashboards by leveraging the re-vamped data models and data structures of the new system, to provide \ncontinuous visibility into the business for key stakeholders\n4) Merging the data from the new and legacy systems to create consolidated reports for all studios as only a few of the studios \nwere migrated to the new platform initially\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173919+05'30'",
+            "modDate": "D:20241114173919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevamped reporting infrastructure to leverage features of new system\n3\nCONCERNS IN LEGACY SYSTEM\nLEGACY DATA MANAGEMENT SYSTEM\nIMPLEMENTATION IN NEW DATA MANAGEMENT SYSTEM\nCENTRALIZATION\nData stored in multiple databases, split by Time Zone and \nFranchise\nLeveraged single database for all Corporate and Franchise \nstudios and for all time zones\nCUSTOMER TRACKING\nComplex to track status of customer across databases as \ncustomers are allotted a new profile if transferred from one \ndatabase to other, leading to potential overstated metrics\nEnsured reports leverage aggregated profiles of customers\nDATA REFRESH\nData refresh happens only once per day\nUsed flexibility to create live connections to show real-time \nanalytics\nMEMBERSHIP FLEXIBILITY\nMembership status is assigned for a fixed period of 1 month. No \nchange can be done to the current status once the month \nstarts.\nUpdated KPI definitions to account for removal of membership \nstatus restriction\nVISUALIZATION\nNo reporting/visualization tool linked. Data had to be pulled in \nExcel file for analytics.\nTableau is the main front-end reporting and visualization tool \ndirectly linked to the back-end live database\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173919+05'30'",
+            "modDate": "D:20241114173919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nValidation process of data in the new system\n4\nIdentify tables that require \ndata validation\nFlag the product related  \nissues to the SI Partner\nStart\nIs  the \ndiscrepancy \ndue to an \nissue with \nthe new \nplat- form ?\nNO\nNO\nSI partner executed \ncorrective action\nPerform the RCA \non discrepancies in \ndata\nValidate: \nIs the data \ncaptured as \nper \nbusiness \nexpectation\n?\nYES\nStop\nFlag issues and suggest \nsolutions to respective \nbusiness function\nCo-ordinate with business \nfunctions to ensure necessary \nactions are taken related to \ndata governance, compliance \nYES\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (35).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173919+05'30'",
+            "modDate": "D:20241114173919+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCritical issues identified and resolved in the migrated and live data\n5\nDATA DISCREPANCY\nIMPACT\nROOT CAUSE \nDouble Billing of \nmemberships\nSome of the students’ accounts, in \nthe studios that re-opened after \nmigration, were wrongly billed twice\nStudent accounts for closed studios were \nnot migrated appropriately and closed \nstudio data was not initially exposed into \nthe new platform for validation\nIncorrect Gift card and On-\naccount balances\nFew students had a higher balance \non their Gift Cards and on their \nAccounts\nNegative balance in the Gift Cards is \nloaded as positive balance; Account \nbalance for few customers  was loaded \ntwice\nIncorrect Inventory on-hand \ndata\nThe Inventory team were unable to \nmanage the Inventory properly \nFew purchase orders were not loaded into \nthe new platform resulting in inaccurate \nOn-Hand Inventory\nMembership status is \ncaptured inaccurately\nFew members were practising in the \nstudios without any payments. This \nwas resulting in a revenue loss.\nCustomers who added memberships to \ncart and discarded the transaction were \nalso getting an active membership status\nNon-recurring memberships \nare not expired even after \nthe expiry date\nStudents with Non- Recurring \nmemberships are accessing the \nstudios even after the membership \nexpiry.\nExpiry date of non-recurring memberships \nwas not being honoured in the new \nplatform\n14\n10\n5\n5\n4\n4\n2\n1\nRetail\nSales\nAccounting\nStrategy\nFinance\nMarketing\nCust. Engmt.\nPayroll\nTechnology\n28\nReports migrated by function, #\n"
+    }
+]

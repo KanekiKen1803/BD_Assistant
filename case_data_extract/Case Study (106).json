@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n1\n▪Integrated data from multiple sources into a data warehouse and automated the ETL \nprocesses for loading data from all sources on a regular basis\n▪Designed dashboards from the single and updated source enabling the executive team \nand departments to track critical KPIs related to Product Usage, Customer Success, \nProduct Development, Sales & Marketing and Finance\nSales prediction model\n(Apparel Retailer)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nABOUT THE CLIENT\nThe client is a leading apparel retailer based in the United States\n▪Impromptu and unstructured promotion planning led to low gross margins and made it difficult to attribute the impact of promotional spending \nsuggesting potential opportunity to improve the overall promotion strategy\n▪Merilytics partnered with the client to help attribute the impact of individual promotions and predict the daily sales based on the planned promotions. \n▪Evaluated and comprehended the key factors that will impact the daily sales such as prior promotional events, fashion season, proximity to major \nholidays and the type/depth of discounts. \n▪Estimated the historical impact of individual promotional events on daily sales to attribute the impact to each active promotion on a specific day\n▪Built various algorithm incorporating forecasts from a LSTM and GRU neural network into a granular gradient boosting algorithm to calculate daily \nsales for each product category.\n▪Customized the base algorithm to build specific models for each category for better accuracy\n▪The custom algorithm accurately predicted daily sales at a category level that helped the client to improve inventory planning leading to reduced \nInventory costs and working capital\n▪This also enabled the client to run various simulations to evaluate the potential impact of a specific promotion, identify potentially weaker campaigns \nand improve promotion spend ROI\nSales Prediction Model\n2\nSITUATION\nVALUE ADDITION\nIMPACT\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nApproach / Methodology For Project Delivery\n3\n▪Explore conventional and non-\nconventional data sources to identify \npotential features that will impact product \nsales\n▪Assess the relationship (distributions. T-\ntest, P-test, ANOVA) between features \nand the target variable\n▪Reduce noise in the data, impute missing \ndata.\n▪Use existing features as a basis to \ncreate hybrid features containing \nrelevant information\n▪Compare the impact of hybrid features \nvs. basic features to gauge \nimprovement\n▪Improve forecasts by exploring auto-\ncorrelated features as inputs to the \nmodel\n▪Build a LSTM and GRU neural network \nmodel to provide daily sales forecast. \nOptimized the forecast to minimize \nerror and establish a range of forecast \naccuracy (i.e. the maximum length of \nforecast with acceptable accuracy)\n▪The forecast from the LSTM is used as a \nfeature in a CatBoost gradient boosting \nalgorithm along with all the other \nfeatures to estimate daily product \ndivision sales.\n▪Provide a summary of the impact of \npromotions in the promotional calendar to \nthe client\n▪Provide a toolbox that allows the client to \nrun scenario analysis with potential \npromotions and estimate their profitability \n▪Monitor model performance and ensure \nerror is within the acceptable range. Plan \nmodel refreshes to account for changes in \nmarket trends.\nFeature \nengineering\nModel building \n& Tuning\nExploratory data \nanalysis and cleaning\nModel deployment \nand maintenance\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nKey Variables Picked For The Sales Prediction Model\n4\nCategory\nVariable\nComments\nSeasonality\nHolidays\nImpact of major holidays in the U.S. such as Black Friday, Christmas etc.\nFiscal Season\nFlag to identify FWH or SS season\nWeek # in fiscal season\nMonth # in fiscal season\nDay of the week\nTo differentiate impact on sales by day of the week\nProduct characteristics\nClass\nThis is split into 4 variables to differentiate the target group (Girl, Boy, Adult, Toddler etc), category (sweater, swim) and \nproduct type (top, short, tight)\nPrior promotions\n# of promotions on the same class in consideration in the prior 14 days\n# of styles\nTotal number of styles in the class under consideration\nPromotion characteristics\n# of promoted styles\nNumber of styles that are under promotion in the class\n# of promos in a day\nNumber of other promotions that are offered on the same day\nPromotion type\nFlag to bucket promotions into Discount, Price point and BOGO\nDuration\nDuration of promotion (1 day, 2 days etc.)\nDay of the promotion\nDay since the promotion began\nMSRP\nList price of the product in the store\nDiscount %\nAverage % of discount offered in the class under consideration\nDependent variable is total units' sales in a day (during promotion)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n3.8%\n# of style-colors\nClass_accessories\nDiscount %\n7.7%\nAll Other variables\n# of promoted colors\n# of colors\n# of promoted style-colors\nDay of the week\nDuration\n# of promoted styles\n# of styles\nMonth # in fiscal season\n# of promoted colors in second promo\nClass_product type\nWeek # in fiscal season\n20.1%\n14.7%\n9.0%\n7.9%\n6.0%\n5.1%\n3.8%\n3.6%\n3.6%\n2.0%\n1.3%\n1.3%\n10.0%\nKey variable importance1, %\n1. Denotes the relative importance of each variable used in the model to predict the unit sales per day\nKey Variables That Are Prominent In Predicting Daily Sales – Based On Catboost Model\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (106).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114122747+05'30'",
+            "modDate": "D:20241114122747+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n0\n1,000\n2,000\n3,000\n4,000\n5,000\n6,000\n7,000\n8,000\n9,000\n10,000\nActual sales per day\nPredicted sales (CatBoost) per day\nActual unit sales vs. Predicted units for Category A, based on CatBoost algorithm\nMAPE = 61%\nPredicted Daily Sales Vs. Actual Daily Sales\n6\nILLUSTRATIVE\n"
+    }
+]

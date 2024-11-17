@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104356+05'30'",
+            "modDate": "D:20241115104356+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nDeveloped an inventory optimization model to evaluate current inventory \nsituation and estimate optimal inventory level for each SKU to meet sales \nforecasts, reduce the stock outs and service level targets for its new channels\nInventory Optimization \n(Furniture Manufacturer & Retailer)\nSuccess Stories Summary\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104356+05'30'",
+            "modDate": "D:20241115104356+05'30'",
+            "trapped": ""
+        },
+        "content": "INVENTORY MODELING\nSITUATION\n▪\nRecently faced high percentage of order cancellations due to stock outs\n▪\nMerilytics partnered with the company to develop an inventory optimization model to evaluate current inventory situation and estimate \noptimal inventory level required for each SKU to meet sales forecasts and service level targets for its new channels\nABOUT THE CLIENT\nCompany was a PE-owned furniture retailer\n▪\nAnalyzed the sales forecasts, procurement and inventory data to estimate optimal inventory levels for all its SKUs\n▪\nCustomized the calculations of inventory metrics to consider client specific constraints related to ordering frequency and minimum order \nquantity (MOQ) of suppliers\n▪\nAnalyzed the current inventory situation and recommended the changes needed to minimize inventory level while meeting service level \ntargets for next eight quarters\nVALUE ADDITION\nIMPACT\n▪\nOur in-depth analysis and customized inventory optimization model helped the company significantly reduce their inventory levels on a \nnet basis and allow them to reduce the stock outs\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104356+05'30'",
+            "modDate": "D:20241115104356+05'30'",
+            "trapped": ""
+        },
+        "content": "Service level targets\nby channel and SKU\nZ-score of the \nweighted average \nservice level target for \neach SKU (Z)\nCalculate adjusted cycle \ntime2 (CTadj) = OQad/Davg\nReplenishment time \n(RT) = Min (CTadj, Lead \ntime)\nDetermine \nreplenishment time \nvariability (σRT) = σLT X \n√(RT/LT)\nHistorical forecast error \n(FE)\nDetermine best case \nforecast error (FE) \n(Febest) = min (FE, σD)\nHistorical demand \nvariability (σD)\nSafety stock\nAvg. monthly demand \nforecast for the \nquarter (Davg)\nCompany’s \ncurrent order \ncycle time (CT)\nMinimum \nOrder \nQuantity \n(MOQ)\nLead time variability (σLT)\nAvg. monthly \ndemand \nforecast for the \nquarter (Davg)\nAverage \ndemand \nduring CT \n(OQ)\nCalculate adjusted \norder quantity1 (OQadj) \n= max (MOQ, OQ)\nX\nInputs to the inventory model\n1 Order quantity is adjusted so that it cannot fall below MOQ for any SKU\n2 Calculated as the time during which demand for the SKU equals OQadj \nMETHODOLOGY USED TO ESTIMATE SAFETY STOCK\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (222).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104356+05'30'",
+            "modDate": "D:20241115104356+05'30'",
+            "trapped": ""
+        },
+        "content": "Maximum inventory level\nRe-order point (ROP)\nAverage demand during \nRT (DRT) = Davg X RT\nAdjusted order quantity \n(OQadj)\nMinimum demand over \nRT = (Davg – Febest) X (RT \n– σRT)\nRecommended average inventory level\n+\n─\n+\nSafety Stock\nHalf of average demand \nduring CT (OQ)\n+\nSafety Stock\nMETHODOLOGY USED TO ESTIMATE RECOMMENDED INVENTORY LEVELS\n4\n"
+    }
+]

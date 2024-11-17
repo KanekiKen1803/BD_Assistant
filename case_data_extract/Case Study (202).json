@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143021+05'30'",
+            "modDate": "D:20241114143021+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCustomer segmentation\n1\nIdentified differentiating attributes based on the customer purchasing behavior, to \ndefine customer clusters by leveraging transactional and survey data to help the \ncompany devise customized marketing strategies\nPremium Coffee chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143021+05'30'",
+            "modDate": "D:20241114143021+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for leveraging the customer survey & transaction data to define advanced customer segments/clusters and to \nprovide visibility into its customers’ behavior\nPremium coffee chain company needs to “brew” marketing \nstrategies for its customers\n2\nYour value is enhanced. \nYou have scalable analysis that helps improve the effectiveness of your marketing strategies by targeting a group of customers \nwith tailored campaigns. You also have defined clusters to design a product pipeline aligned with its customer preferences.\nCUSTOMER SEGMENTATION\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nRandom Forest\n•\nClustering Techniques \n(K-Prototype, Gaussian \nMixture Models, \nAgglomerative \nClustering)\n•\nStatistical tests \n(BIC/Silhouette \nscores)\n•\nPost-cluster analysis\n2\nYou turn to Accordion. \nWe partner with your team to identify differentiating attributes based on the customer purchasing behavior, to define customer \nclusters by leveraging transactional and survey data, to help devise customized marketing strategies, including:\n1)\nAnalyzing the customer survey and transactions data to identify the attitudinal and behavioral attributes, and defined \nappropriate clusters / segments such as pre-work fuel up, casual non-work hangout, etc.\n2) Deploying various clustering techniques (K-prototype, Agglomerative Clustering, Gaussian Mixture models primarily) to \nevaluate the best fit for the data (which consisted of both continuous and categorical variables) and identifying the algorithm \nthat best fit to differentiate the clusters based on the business needs and the statistical tests (BIC/Silhouette scores, \nconvergence of the clusters, etc.)\n3) Providing recommendations to scale the defined clusters across the current customer base and new customers on an ongoing \nbasis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143021+05'30'",
+            "modDate": "D:20241114143021+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the customer survey and transactions data to identify the attitudinal and behavioral attributes, and defined appropriate clusters / \nsegments such as pre-work fuel up, casual non-work hangout, etc.\n•\nDeployed various clustering techniques (K-prototype, Agglomerative Clustering, Gaussian Mixture models primarily) to evaluate the best fit for \nthe data (which consisted of both continuous and categorical variables) and identified the algorithm that was the best fit to differentiate the \nclusters based on the business needs and the statistical tests (BIC/Silhouette scores, convergence of the clusters, etc.)\n•\nProvided recommendations to scale the defined clusters across the current customer base and new customers on an ongoing basis\nSituation\n•\nClient had an opportunity to analyze their customer purchasing behavior in order to support its product innovation pipeline, improve its \ntargeted marketing and enhance customer satisfaction\n•\nPartnered with the company to leverage the company’s customer survey & transaction data to define advanced customer segments/clusters \nand to provide visibility into its customers’ behavior\nCustomer segmentation\n3\nImpact\n•\nOur analyses helped the company improve the effectiveness of its marketing strategies by targeting a group of customers with tailored \ncampaigns\n•\nDefined clusters helped the company to design a product pipeline aligned with its customer preferences\nCustomer segmentation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143021+05'30'",
+            "modDate": "D:20241114143021+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSatisfactory \nresults?\nRaw data1\nData cleaning\nFeature engineering2\nData scaling & feature \nselection3\nClustering algorithm4\nPost cluster analysis5\nSanity check of \nclusters\nSatisfactory \nresults?\nFinal output\nYES\nYES\nNO\nNO\n1. Raw data\nCustomer survey data (~3,000 unique customers) & transactional data (for 60% of the survey customers) that together reflected the \nattitudinal and behavioral attributes of the customers\n2. Feature \nengineering\nFrom the existing data columns, new variables were engineered that are more reflective of the customers’ behavior\n3. Data scaling & \n    feature selection\nAs the range of values varies across columns, data scaling was done to eliminate the variation before fitting it to the Clustering Model. \nMultiple techniques were used feature selection: \n▪Based on the business context, few variables were selected to explain the visiting and purchasing patterns of the customers\n▪Top 5-10 variables that affect the loyalty (from transaction date) and the purchase intent (from survey data) of the customers were \nidentified through random forest importance \n4. Clustering algorithm\nFive different clustering algorithms were tested (k-prototype, gaussian mixture model (GMM), agglomerative clustering, etc.) and the \nresults were evaluated to identify the best fit\n5. Post cluster analysis\nStatistical indexes (silhouette score and BIC score), industry accepted standards for cluster analysis (minimum and maximum size of the cluster), along with a \ncomprehensive cluster analysis (that evaluates the behavior of individual clusters and identifies the differentiating attributes between clusters) have been \nperformed to evaluate the sanity of the clusters\nApproach & methodology for project delivery\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (202).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114143021+05'30'",
+            "modDate": "D:20241114143021+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPre-Work Fuel Up\nCasual Non-Work Hangout\nWorkday Coffee Break\nWeekend Hangout\nPre-Lunch Break From \nWork\n% of customers\n20%\n15%\n23%\n22%\n20%\nInferred “Occasion”\nFuel up on the way to work\nCasual hangout for non-\nworkers\nTake a mental break from \nmy workday\nConnect with friends\nover coffee\nBreak before lunch\nDay of the week\nTime of the day\nPeople skew\nMode of order\nConsumption location\nFood preference\nEmployment status\nCustomer segments were defined based on the differences in the behavioral traits \nBehavioral variations of customer groups\n5\n"
+    }
+]

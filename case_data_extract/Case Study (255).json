@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104647+05'30'",
+            "modDate": "D:20241115104647+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nSKU RATIONALIZATION \nBEAUTY INDUSTRY\nPerformed a SKU rationalization for a personal care brand \nthat involved identifying underperforming products and \nestimating impact on Gross Margin, Revenues etc. Also, \nevaluated product-price architecture at two major retailers \nto identify gaps.\nSKU Rationalization\n1\nCANNIBALIZATION ANALYSIS CASE STUDIES \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104647+05'30'",
+            "modDate": "D:20241115104647+05'30'",
+            "trapped": ""
+        },
+        "content": "DUE DILIGENCE – SKU RATIONALIZATION FOR PERSONAL CARE PRODUCT COMPANY\nSITUATION\n▪\nClient wanted to perform a SKU rationalization exercise as part of their due-diligence process to evaluate the potential impact on Gross margin \nand Revenues\n▪\nMerilytics conducted the SKU rationalization analysis to identify SKUs that can be discontinued while considering Retailer penetration, and Sales \nand GM contributions\nABOUT THE CLIENT\nClient is a U.S. based retail brand with products in the personal care segment, selling across major retailers and through their own direct channel\n▪\nWe built a comprehensive analysis model, where the user can identify the list of SKUs in various views such as margin performance based \nview, Supply-chain complexity view and the YoY growth view\n▪\nThe combination of low growth, high supply chain complexity and weak margins was used along with thresholds on revenue drop by product \nsegment to identify the list of SKUs to potentially discontinue\n▪\nIn addition, the model outputs provided the synthesized list of pruned SKUs by segment & retailer and the potential impact on the Retainer \nbecause of these changes\nVALUE ADDITION\nIMPACT\n▪\nPotential to reduce total number of SKUs by 25%, leading to an increase in Gross Margin % by 3% with minimal reduction in revenues\n▪\nIdentified retailers where existing SKUs could be pruned and replaced with higher-margin SKUs.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (255).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104647+05'30'",
+            "modDate": "D:20241115104647+05'30'",
+            "trapped": ""
+        },
+        "content": "Synthesized view of the top-level impact on each of the \nmetrics by channel and retailer\nUser can input \nconstraints such as \nGM% threshold, \nvolume threshold etc., \nbefore maximizing the \nGM%\nSKU RATIONALIZATION MODELING\n"
+    }
+]

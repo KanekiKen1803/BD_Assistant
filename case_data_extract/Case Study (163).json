@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133957+05'30'",
+            "modDate": "D:20241114133957+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nIdentified key competitors for each site, recommended optimal daily \npricing based on corresponding competitors for a site and developed a \ndynamic pricing model\nPricing Analysis\n(Retail Gas Station Stores)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133957+05'30'",
+            "modDate": "D:20241114133957+05'30'",
+            "trapped": ""
+        },
+        "content": "PRICING ANALYSIS FOR A PE-OWNED GAS STATION CHAIN\n▪Analyzed daily price and volume data for each site and all the competitors within 5-mile radius of that site\n▪Identified key competitors for each site based on the correlation between the company’s price premiums (compared to each competitor) and their sales \nvolumes\n▪Determined the optimal price premium with respect to a particular competitor, and the resulting daily price, in order to maximize the gross profit at site level\n▪Automated the model to update recommended prices based on latest competitor prices and list of key competitors (based on defined thresholds for price \npremium vs. volume correlations)\nVALUE ADDITION\nABOUT THE CLIENT\nCompany is a PE-owned chain of gas stations in U.S. and Canada\nSITUATION\n▪Client had an opportunity to maximize the gross profit earned from sales of gas through identification of optimal pricing premium in comparison to its \ncompetitors \n▪Merilytics partnered with the client to identify key competitors for each site, recommended optimal daily pricing based on corresponding competitors for a \nsite and developed a dynamic pricing model\nIMPACT\n▪Identified the key competitors at site level which helped the Management drive their pricing and locations strategy\n▪Determined the optimal daily price in order to maximize the gross profit at a site level\n▪Developed a dynamic model allowed for continued use of the analysis based on latest data and new inputs\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133957+05'30'",
+            "modDate": "D:20241114133957+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nProfit (𝝅) \n= [Revenues at optimal premium %] – [COGS dollars]\n= [Optimal vol.*(Competitor Price*+Optimal premium)] – [Optimal vol*unit COGS]\n= [𝑉𝑂*(𝑃𝐶+ 𝑂𝑝)] - 𝑉𝑂*C)\n= ….\n= ….\n=〖𝑎𝑂𝑃\n2〗+ 𝑂𝑝∗(𝑎𝑃𝑐 + 𝑏−𝑎𝐶) + 𝑏𝑃𝑐 - bC\nDifferentiating above equation to maximize the Profit (𝝅) and solving for optimal \npremium (𝑂𝑝) we have optimal premium as\n𝑶𝒑= 𝑪\n𝟐−𝒃\n𝟐𝒂−𝑷𝒄 \n𝟐\nPlot absolute % change in discounts vs. % change in \nvolumes for past 7 days, for each day\nRelationship between Volume and Price Premium \ndetermined as V = aOp + b\n3\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (163).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133957+05'30'",
+            "modDate": "D:20241114133957+05'30'",
+            "trapped": ""
+        },
+        "content": "Competitor site information\nOutput metrics\nElasticity curve metrics\nSite ID\nCompetitor \nOPIS ID\nCompetitor brand\nAddress\nDistance \n(miles)\nCorrelation \n(Monthly)\nOptimal price \npremium ($)\nAverage competitor \nprice over last one \nyear ($)\nSlope\nIntercept\nAverage COGS per \nGallon ($)\n13232\n33984\nShell\nSHELL - 1501 N PARHAM RD, Richmond, VA \n– 23229\n1.68\n-0.66\n0.18\n3.37\n-5,826\n2,953\n3.23\n13232\n627206\nKroger\nKROGER FUEL CENTER (DISCOUNT \nAVAILABLE) - 1510 EASTRIDGE RD, \nRichmond, VA – 23229\n1.86\n-0.63\n0.20\n3.36\n-5,827\n3,132\n3.23\n13232\n630021\nBJ's\nBJS WHOLESALE CLUB - 1320 STARLING DR, \nRichmond, VA - 23229\n1.31\n-0.55\n0.30\n3.28\n-5,064\n3,347\n3.23\n13232\n202067\nBP\nSIEBERTS TUCKAHOE BP - 11310 \nPATTERSON AVE, Richmond, VA - 23238\n1.62\n-0.48\n0.11\n3.41\n-6,910\n2,813\n3.23\n13232\n528289\nShell\nSMO - 8600 PATTERSON AVE, Richmond, \nVA - 23229\n1.51\n-0.46\n0.25\n3.38\n-4,455\n2,923\n3.23\n13232\n15391\nBP\nGORDONS THREE CHOP - 9100 THREE \nCHOPT RD, Richmond, VA - 23229\n1.96\n-0.39\n0.27\n3.41\n-3,856\n2,802\n3.23\n13232\n482983\nExxon\nRIDGEFIELD EXXON - 10400 RIDGEFIELD \nPKWY, Richmond, VA - 23233\n1.90\n-0.35\n0.35\n3.44\n-2,987\n2,754\n3.23\n13232\n482967\nPure\nPRESTONS AUTO REPAIR - 8930 \nPATTERSON AVE, Richmond, VA - 23229\n1.07\n-0.31\n0.48\n3.40\n-2,491\n2,816\n3.23\n13232\n125224\nUppys Convenience Stores\nUPPYS #27 - 8601 PATTERSON AVE, \nRichmond, VA - 23229\n1.48\n-0.26\n0.38\n3.38\n-3,169\n2,865\n3.23\n13232\n482984\nUnbranded\nPATTERSON GAS MART - 10446 \nPATTERSON AVE, Richmond, VA - 23238\n0.64\n-0.11\n0.81\n3.37\n-1,634\n2,887\n3.23\n13232\n107925\nCitgo\nRENNIES #664 - 9015 QUIOCCASIN RD, \nRichmond, VA - 23229\n1.45\n-0.04\n3.49\n3.37\n-405\n2,883\n3.23\n13232\n59855\nValero\nVALERO - 1504 EASTRIDGE RD, Richmond, \nVA - 23229\n1.75\n-0.02\n11.89\n3.37\n-120\n2,876\n3.23\nAnalysis at site and specific \ncompetitor location level\nOptimal price premium is \nestimated to maximize the \ngross profit\nCorrelations and relationship \nbetween site volumes and \ncompetitor price premium \nestablished\n4\nOPTIMAL FUEL PRICE PREMIUM ANALYSIS \n"
+    }
+]

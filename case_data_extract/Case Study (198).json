@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142329+05'30'",
+            "modDate": "D:20241114142329+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMarketing dashboard suite \n1\nEnabled hourly and daily customization of marketing spend by channel, based on \nan automated marketing dashboard suite that that tracked hourly spend and CAC \nby channel by integrating data from internal and external sources\nNutrition supplements brand\nGo to Summary Page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142329+05'30'",
+            "modDate": "D:20241114142329+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to set up dashboards on Power BI that provide visibility into the key marketing metrics such as customer \nacquisition costs (CAC), marketing spend and lifetime value (LTV) across channels. Currently, you lack visibility into the \nperformance track of marketing spend across channels to make business decisions on a real time basis.\nNutrition supplements brand needs a robust \nmarketing dashboard\n2\nYour value is enhanced. \n•\nYou have automated dashboards to provide visibility into the daily customer acquisitions from various social media channels, \nwhich enable the business to redistribute the marketing spend across the channels effectively\n•\nThese dashboards also help you track the seasonality of marketing efforts by effectively tracking the trends of customer \nacquisition across channels\nMARKETING DASHBOARD SUITE \nVALUE LEVERS PULLED\n•\nAzure Datawarehouse\n•\nAzure Analysis \nServices\n•\nAutomation using \nPython queries and API \ncalls\n•\nMarketing dashboard on \nPower BI\n2\nYou turn to Accordion. \nWe partner with your team to enable hourly and daily customization of marketing spend by channel, based on an automated \nmarketing dashboard suite that tracks hourly spend and CAC by channel on integrating data from internal and external \nsources, including:\n1) Setting-up an automated process to ingest the required data from various marketing sources (such as Google Analytics, \nGoogle Ads, Facebook Ads, Instagram Ads and Bing Ads) into a data warehouse after necessary transformation, using \nPython queries and API calls\n2) Building marketing dashboards that showed the daily and monthly trends in CAC, LTV and marketing spend, helping the \nbusiness reallocate the marketing spend based on the CAC vs LTV comparison across marketing channels\n3) Automating the update and distribution of all the dashboards to the respective stakeholders by setting up API \nconnections to third party tools as needed\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142329+05'30'",
+            "modDate": "D:20241114142329+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIntegration of marketing spend across sources through robust \ndata infrastructure\n3\nCRM \nsystem\nData Sources\nIngest\nPrep & Train\nModel\nServe\nFacebo\nok Ads\nAzure Data \nFactory\nAzure SQL\nAzure Analysis \nServices\nAzure Data \nLakes\nGoogle \nAds\nGoogle \nAnalyti\ncs\nInstagram \nAds\nBing \nAds\nPower BI\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142329+05'30'",
+            "modDate": "D:20241114142329+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDaily marketing performance dashboard\n4\nILLUSTRATIVE\nDaily marketing \nperformance \ndashboard provides \nvisibility into the \ndaily spends across \nchannels\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (198).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142329+05'30'",
+            "modDate": "D:20241114142329+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMonthly marketing trend dashboard\n5\nMonthly marketing \ntrends dashboard \nprovides visibility \ninto the trends in the \nkey marketing KPIs\nILLUSTRATIVE\n"
+    }
+]

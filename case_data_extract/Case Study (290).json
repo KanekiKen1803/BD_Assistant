@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDiagnostic of NetSuite data archival plan\n1\nAssessed NetSuite data requirements diagnostic with various business \nstakeholders and proposed data archival plan to archive the back-end NetSuite \nraw data and saved searches \nA collagen-based health supplements provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n• Performed 2-week diagnostic study with business functional areas owners and conducted workshops (user interviews) to understand their NetSuite data \nrequirements, raw data size, critical saved searches, and frequency of usage \n• Based on the diagnostic exercise, provided recommendations on implementing a robust NetSuite Data Archival Solution in Azure Environment which \nincludes – \n̶\nArchive all Transaction level, and Master data available in NetSuite\n̶\nArchive all Saved Searches used by business teams\n̶\nTransition key Saved Searches as Power BI dashboards (for retrieval purpose)\n̶\nHighlight potential gaps and inefficiencies in retrieving the data in specific format using BI/SQL compared to NetSuite Front end\nSituation\n•\nNetSuite was used by the client as an ERP system to record invoice, sales order, transactions, and supply chain data. However, client shifted the ERP \nsystem from NetSuite to SAP, therefore was looking to perform a diagnostic study to receive potential cost-effective solutions needed to archive all the \nNetSuite data so that it can be restored or referenced in future for reporting/auditing purposes\n•\nPartnered with key stakeholders and conducted workshops with business functional areas owners of various departments to understand the data \nrequirements from NetSuite and recommended data archival plan to archive the NetSuite data post cut-off date\nDiagnostic study of NetSuite data archival plan for health \nsupplements provider\n2\nImpact\n•\nClient accepted and approved the plan for NetSuite data archiving in Azure environment along with associated cost and implementation timelines\n•\nFrom diagnostic phase, client got the archival plan ahead of time which helped them to decide the cut off date for NetSuite data system and to confidently \nswitch over to SAP without loss of historical data\nDIAGNOSTIC OF NETSUITE DATA \nARCHIVAL PLAN\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProposed high level architecture\n3\nData \nlake/S3\nDatabase\nData analytics\nReporting\nData is extracted from NetSuite using ETL \ntools and ingested in data lake (perpetual \nstorage) which acts as backup storage.\nData from the data lake is ingested into \ndatabase for storage and creating \ntransformations for the visualization.\nReports are designed for the users to \nvisualize in a specific format with critical \ndata sets.\nA\nB\nC\nA\nB\nC\nData sources\nData storage & processing\nData visualization\nRaw data\nSaved \nsearches\nFile cabinet\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProposed architecture – NetSuite to Azure environment\n4\nData Sources\nData Storage & Processing\nData Visualization\nNetSuite \nTransactional Raw \nData\nNetSuite Saved Search/File \nCabinet Data\n2\n1\n3\nAzure SQL \nDatabase\nAzure Data \nLake\n1\n2\n3\nETL Process\nData Storage\nData Visualization\n•\nFivetran will be used as ETL tool to pull all the NS Transactional Raw data and will store the data in Azure SQL Database\n•\nNS Saved Searches and File cabinet data will be pulled from Rest API and stored in Azure Data Lake\n•\nKey NS Saved Searches will be transitioned as Power BI Dashboards\n•\nEstimated Total Cost for Azure Architecture to archive NS data will be ~425 USD/Month (Fivetran Cost: 200 USD/Month, Azure Cost: 225 USD/Month)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProposed alternate architecture – NetSuite to Snowflake environment\n5\nData Sources\nData Storage & Processing\nData Visualization\nNetSuite \nTransactional Raw \nData\nNetSuite Saved Search/File \nCabinet Data\n2\n1\n3\n•\nFivetran will be used as ETL tool to pull all the NS Transactional Raw data and will store the data in S3\n•\nNS Saved Searches and File cabinet data will be pulled from Rest API and stored in Snowflake database\n•\nKey NS Saved Searches will be transitioned as Power BI Dashboards\n•\nEstimated Total Cost for this Architecture to archive NS data will be ~250 USD/Month (Fivetran Cost: 200 USD/Month, Snowflake Cost: 50 USD/Month)\n1\n2\n3\nETL Process\nData Storage\nData Visualization\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (290).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104823+05'30'",
+            "modDate": "D:20241115104823+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData platforms – Recommended specifications and pricing\n6\nSpecifications\n▪Azure SQL Database – 50 DTU, 250 GB \nStorage\n▪Loading : XS (1 credit per hour), Reporting: \nXL (16 credits per hour), 250 GB Storage\n▪Snowflake service edition: Premier   \n     ($2.25 per credit)\n▪Standard\nEstimated Pricing\n▪~150 - 200 USD/month\n▪~25 USD/month for Data lake\n▪~300 USD/month (4 hours continuously per \nday)\n▪~20 USD/month for S3\n▪~200 USD/month (based on number of \nrecords pulled)\nAzure\nSnowflake\nFivetran\n"
+    }
+]

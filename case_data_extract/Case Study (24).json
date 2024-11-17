@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151721+05'30'",
+            "modDate": "D:20241114151721+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪Migrated ~150 reports from legacy systems (1010 data platform) to new Azure SQL \nServer database and automated the reports using Power Query/VBA\n▪Validate data across both data platforms and fixed legacy issues with old reports, \nwhile migrating, to ensure high accuracy of the reports for business users\n▪Provided flexibility in the new reports for business users to slice and dice the data \nfrom the database based on user inputs, using Power Query\nReporting Infrastructure Migration\n(Fashion Retailer)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151721+05'30'",
+            "modDate": "D:20241114151721+05'30'",
+            "trapped": ""
+        },
+        "content": "SLIDE HEADING\nSITUATION\n▪\nClient was upgrading the technology infrastructure and as part of the upgrade was migrating to a revamped Azure SQL Server database, \nfrom the existing legacy data system (1010 data platform) to support the reporting infrastructure\n▪\nMerilytics partnered with the client to validate the migrated data, and transition 150 reports into the new SQL Server database, across \nmultiple business functions such as Accounting, Finance, E-Commerce, Digital Marketing, Technology, Merchandising, Store Ops, Customer  \netc. \n▪\nIdentified potential concerns with the existing reporting infrastructure and recommenced solutions to enhance the reporting capabilities\n▪\nMigrated about 150 reports from existing infrastructure to the new SQL database, and built additional functionality in the new reporting \ninfrastructure to automate the data refresh process and provided flexibility to the users to slice and dice the data\n▪\nSet up a data validation exercise working closely with the client’s IT team to identify any gaps in the data transitioned and recommended \npotential solutions to ensure the accuracy of the new SQL database. \nVALUE ADDITION\nIMPACT\n▪\nAchieved ~99% accuracy across the reports, through exhaustive review of the data between the legacy and new databases and working \nwith the external vendor to resolve any issues with data transition\n▪\nSeamless continuity for the business users while transitioning to the new system helped the stakeholders continue to take informed \ndecisions across all business functions such as Buying & Merchandising, FP&A, Store operations, Accounting etc.\nABOUT THE CLIENT\nClient is a retailer of jewelry, accessories and toys with operations across U.S. and Europe\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151721+05'30'",
+            "modDate": "D:20241114151721+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH FOR REPORT MIGRATION AND ACCURACY ASSESSMENT\n3\nLEGACY SYSTEM\nREPORT MIGRATION\nDATA VALIDATION & \nRESOLUTION\nRE-VALIDATION \nAND UAT\nRELEASE OF \nREPORTS\n▪Evaluate existing reports \nand run them on existing \ndata platform (1010)\n▪Identify fields and tables \nused in the existing \ndatabase for each KPI and \nreport individually\n▪Evaluate opportunities for \nautomation of the reports\n▪Identify equivalent tables \nand fields on the new \nAzure SQL database\n▪Validate data types of the \nfields, and the data itself \nfor each field\n▪Transform the data for the \nreports using SQL and \noptimize SQL code based \non best practices and \nstandards\n▪Embed SQL code into the \nExcel using Power Query\n▪Automate the reports \nusing VBA\n▪Compare outputs \nbetween legacy 1010 \nsystem and new Azure \nSQL system\n▪Perform RCA to \nunderstand the \ndiscrepancies and flag the \ngaps to the SI partner, \nwith specific logic or \nformat errors\n▪Iterate on validation \nexercise till SI Partner \naddresses all the \nidentified issues\n▪Identified and executed \nopportunities for \noptimizing the run-time \nperformance of reports\n▪Conduct robust UAT to re-\nvalidate the outputs based \non the updated code /  \ndatabase tables\n▪Address issues related to \nreport compatibility / \nuser friendliness\n▪Identify logic errors in \nlegacy calculations and \nwork with business \nstakeholder to address or \nmigrate as-is, depending \non context of usage\n▪Release the reports to \nbusiness \n▪Monitor the reports for \ndaily updates and \nperformance of run times\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151721+05'30'",
+            "modDate": "D:20241114151721+05'30'",
+            "trapped": ""
+        },
+        "content": "DAILY TRACKERS FOR REPORTS MIGRATION AND ISSUES\n4\nREPORT MIGRATION STATUS TRACKER\nReport ID\nPriority \nDepartment\nReport SubGroup\nStatus\nUAT Test\nReady for Business\nRun time (legacy \nsystem)\nRun time (New \nsystem)\nReport 1\n1 - Critical\nAccounting\nSales data\nMigrated 6/21\n100%\nYes\n62 Sec\n53 Sec\nReport 2\n1 - Critical\nAccounting\nSales & Inventory data\nMigrated 6/22\n100%\nYes\n25 Sec\n12 Sec\nReport 3\n1 - Critical\nBuying & Merchand.\nDynamic XML code\nMigrated 6/23\n98%\nYes\n27 Sec\n23 Sec\nReport 4\n1 - Critical\nBuying & Merchand.\nData dump\nMigrated 6/24\n97%\nYes\n25 Sec\n10 Sec\nReport 5\n1 - Critical\nFP&A\nStock Change data\nMigrated 6/25\n100%\nYes\n14 Sec\n5 Sec\nReport 6\n2 - Medium\nE-Commerce\nuser data dependency\nMigrated 6/26\n87%\nNo\n120 Sec\n90 Sec\nReport 7\n2 - Medium\nAnalytics\nSales data\nMigrated 6/27\n92%\nNo\n120 Sec\n27 Sec\nReport 8\n2 - Medium\nStore Operations\nSales & Inventory data\nMigrated 6/28\n96%\nYes\n42 Sec\n14 Sec\nDATA ISSUE RESOLUTION TRACKER\nDepartments\nReports \nMigrated\nAccuracy Avg. run time \n(sec)\nAvg. run time \non SQL (sec)\n% \nOptimized\nAccounting & Reporting\n23\n99%\n125\n55\n127%\nAnalytics & Store \nSegmentation\n49\n100%\n102\n68\n50%\nE-Commerce & Digital \nMarketing\n7\n99%\n146\n65\n125%\nFinancial Planning & Analysis\n12\n99%\n64\n51\n25%\nIT Reports\n11\n98%\n26\n24\n8%\nLoss Prevention\n8\n99%\n30\n22\n36%\nBuying & Merchandising\n30\n99%\n29\n27\n7%\nStore Operations\n17\n97%\n128\n89\n44%\nTotal\n157\n99%\n84\n54\n57%\nREPORT MIGRATION SUMMARY\nSl. No.\nReport \nNo.\nDate \nlogged\nFeedback\nResolution\nComments\n1\nReport 1\n6/18/2021\nQuery fails to complete within 10 minutes and \nissues \"timeout\" error. Updated calendar for \n2021 as per Merilytics notes\nOptimized the code\nRe-supplied the \nfile 6/21\n2\nReport 8\n6/23/2021\nIssue that report displaying items as markdown \nwhen sold full price.  Date of markdown causing \npossible  incorrect stock holding group \nappearing in new system\nThere is a marginal variance of 1-2% \narising due to variance in Column-A \ndata in Table-1 for 2020 and the \nvariance is higher (60%) for the year \n2019\nNA (6/23)\nNeeds a \ndatabase fix\n3\nReport 5\n6/23/2021\nThis is in regards to the Report 4 delivered \nyesterday.  Store 5267 variance of -80% to \nexisting system in Sales, -71% in EP Units, -84% \nin Quantity, -75% in Coupon, -72% in EP Sales \nfor Week 18 2021\nLooks like the data is updated for \nweek 18 2021 in new system and the \noutput matched with existing system \non a refresh\nNA (6/23)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (24).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151721+05'30'",
+            "modDate": "D:20241114151721+05'30'",
+            "trapped": ""
+        },
+        "content": "ACCURACY ASSESSMENT REPORT EXAMPLE\n5\nILLUSTRATIVE\n"
+    }
+]

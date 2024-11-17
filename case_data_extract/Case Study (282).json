@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161212+05'30'",
+            "modDate": "D:20241114161212+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nBrief Description\nKey analyses\n▪Built new Data Warehouse using team using data from \nvarious sources such as internal ERP tools, finance and \naccounting data suites etc. Transitioned from legacy SQL \ntabular data models into this new Data warehouse.\n▪Developed several new KPIs and build a robust analytical \nand reporting BI infrastructure to generate customer-\nlevel and product level insights such as customer churn \nrates, salesforce productivity, etc.\n1\nBI REPORTING CASE STUDY SUMMARY\n1\nBI Reporting and infrastructure projects for PE clients\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161212+05'30'",
+            "modDate": "D:20241114161212+05'30'",
+            "trapped": ""
+        },
+        "content": "CASE STUDY – DEVELOPMENT OF KPIS AND PERFORMANCE REPORTING FOR \nA/V EQUIPMENT RENTAL CLIENT\nABOUT THE CLIENT\nDummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use as \nfiller text for layouts, non-readability is of great importance\nSITUATION\n▪Client is a PE-owned A/V equipment rental company with operations in U.S., Canada and Europe\n▪Revenue was growing at a fast pace, but there was a lack of clarity on details on customer level, product level performance due to complexity of business \nmodel and data structures\n▪Management wanted to validate the financials with the operational databases that contained transaction level data and also understand the various drivers of \nrevenue and asset performance\n▪Merilytics partnered with the company to mine the transactions database (100m rows) using cloud-based SQL tabular models, to do a bottoms-up estimate of \nthe revenues and identify customer-level and product level insights\n▪Cleansed the data to \n−Account for cancelled orders, unrealized revenues, non-revenue generating customers, data entry issues, currency mismatches etc. \n−Allocate order-level revenues to specific equipment, transactions and customers\n▪Identified customer-level and product-level asset utilization and rental yields\n▪Developed a lifecycle view of each asset based on transactional level data to understand the life time value, age of assets and required capital expenditures\n▪Helped client understand customer churn rates, salesforce productivity, share of growth from existing customers, and levers of future growth\nVALUE ADDITION\nIMPACT\n▪Helped the company better understand its asset performance allowing it to make strategic decisions on capex and optimization of its product portfolio\n▪Was able to develop relevant incentives for the sales force as their performance could be tracked more accurately.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (282).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161212+05'30'",
+            "modDate": "D:20241114161212+05'30'",
+            "trapped": ""
+        },
+        "content": "CASE STUDY: PERFORMANCE REPORTING INFRASTRUCTURE FOR A/V \nEQUIPMENT CLIENT\nABOUT THE CLIENT\nDummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use as \nfiller text for layouts, non-readability is of great importance\nSITUATION\n▪Client is a PE-owned A/V equipment rental company with operations in U.S., Canada and Europe\n▪There was a lack of clarity on its operations, customer/product level performance due to complexity of business model and data structures\n▪Management wanted to validate the financials with the operational databases that contained transaction level data and also understand the drivers of \nrevenue and asset performance\n▪Merilytics partnered with the company to transition legacy SQL tabular data models into a new Data Warehouse to build a robust analytical and reporting BI \ninfrastructure to generate customer-level and product level insights\n▪Built the Data Warehouse in partnership with the Client’s IT team using data from various sources such as internal ERP tools, finance and accounting data suites \netc.\n▪Developed several new KPIs such as allocated revenues, asset utilization, rental yields, asset life time value, age of assets and capital expenditures\n▪Helped the client understand customer churn rates, salesforce productivity, share of growth from existing customers, and levers of future growth\n▪Built BI reports (on Power BI) to track various KPIs for sales team, operations team, marketing team and executives\nVALUE ADDITION\nIMPACT\n▪Helped the company better understand its asset performance allowing it to make strategic decisions on capex and optimization of its asset portfolio\n▪Was able to develop relevant incentives for the sales force as their performance could be tracked more accurately.\n3\n"
+    }
+]

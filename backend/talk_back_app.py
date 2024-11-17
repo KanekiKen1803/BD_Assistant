@@ -2,6 +2,7 @@ from pipeline1 import pipeline1, load_config
 from pipeline2 import pipeline2, load_paths
 from backend.pipeline3 import create_chain_of_thought_with_memory, generate_bd_solution_with_interactive_conversation
 import streamlit as st
+from presentation import create_presentation
 
 def initialize_session_state():
     """Initialize session state variables if they don't exist"""
@@ -25,7 +26,7 @@ def clear_input():
 def process_transcript(transcript_input, config, paths):
     """Process the transcript and generate initial response"""
     transcript, transcript_report, client_background = pipeline1(transcript_input, config)
-    top_cases = pipeline2(transcript_report, config, paths)
+    top_cases = pipeline2(transcript_report, config, paths, top_n=10)
     
     # Initialize conversation chains
     chains = create_chain_of_thought_with_memory(config)
@@ -40,12 +41,17 @@ def process_transcript(transcript_input, config, paths):
 
 def display_initial_response(initial_response):
     """Display the initial analysis results"""
-    st.header("Initial Solution Generated")
-    st.write(f"**Problem Understanding:** {initial_response['problem_understanding']}")
-    st.write(f"**Market Positioning:** {initial_response['market_positioning']}")
-    st.write(f"**Past Solutions:** {initial_response['past_solutions']}")
-    st.write(f"**Tailored Solution:** {initial_response['tailored_solution']}")
-    st.write(f"**Outcomes:** {initial_response['outcomes']}")
+
+    st.header("Client Profile")
+    st.write(f"{initial_response['market_positioning']}")
+    st.header("Problem Understanding")
+    st.write(f" {initial_response['problem_understanding']}")
+    st.header("Tailored Solution")
+    st.write(f" {initial_response['tailored_solution']}")
+    st.header("Past Solutions")
+    st.write(f"{initial_response['past_solutions']}")
+    st.header("Outcomes")
+    st.write(f"{initial_response['outcomes']}")
 
 def display_chat_history():
     """Display the chat history"""
@@ -90,8 +96,16 @@ def talk_back_interaction_streamlit():
             if transcript_input.strip():
                 with st.spinner("Processing transcript..."):
                     # Process transcript and store results
-                    st.session_state.initial_response = process_transcript(transcript_input, config, paths)
+                    initial_response = process_transcript(transcript_input, config, paths)
+                    st.session_state.initial_response = initial_response 
                     st.session_state.processed_transcript = True
+                    
+                    try:
+                        input_text = "\n".join(f"{value}" for key, value in initial_response.items())
+                        print(input_text)
+                        create_presentation(input_text, paths["presentation_output_path"],config["OPENAI_API_KEY"])
+                    except Exception as e:
+                        st.error(f"An error occurred while preparing the presentation: {e}")
                 st.success("Transcript processed successfully!")
                 st.rerun()
             else:

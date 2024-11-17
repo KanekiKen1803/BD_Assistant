@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nImpact\nRecovering Capitated* \nPayments (CAP)\nHealthcare Provider\n▪Created a list of patients \nwhose payment was missed \n(fallouts) and Quantified the \npotential revenue loss due \nto same\n▪Created a KPI dashboard to \ntrack the impact of both \npreventive and corrective \nactions taken\n▪Automated reconciliation of \ncharges and payments\n▪Generated Monthly fallout \nlists\n▪Created CAP Recapture KPI \nDashboard\n▪Recognized potential \nrevenue leakage \nopportunity of ~$10M based \nan average of 2k (~5%) \nmonthly fallouts \nSUCCESS STORIES - SUMMARY\n*Capitation Payment (CAP Payment) is a healthcare provider payment method in which the provider receives a predetermined fee for specified services to each insured patient that is assigned to the facility for a specified period \nwhether or not the insured seeks healthcare.\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "RECOVERING CAPITATED PAYMENTS FOR HEALTHCARE PROVIDER\nSITUATION\n▪Client was missing payments from payors for a subset of patients (fallouts) that they were providing services to. In addition to that, they lacked \nvisibility into the possible revenue loss as well as the root causes behind the missing payments\n▪Merilytics partnered with the client to create an automated model to generate monthly fallouts and quantify the possible revenue loss as well as \ncreate a KPI dashboard to track the fallouts\n▪Created an automated fallout generation model by mapping charges and payments in a sequential Power BI model by following a reiterative \nreduction approach using fuzzy match logic to produce final fallouts list\n▪Generated an automated quantification model which calculates the total revenue loss for each month \n▪Designed a decision tree to prioritize various major causes and identify the top root cause for each fallout\n▪Built an automated self-serve KPI Dashboard on Power BI to track the movement of the fallouts across months and monitor the impact of \npreventive and corrective actions taken by client by tracking retro payment activities\nVALUE ADDITION\nIMPACT\n▪Identified the patients for whom payments were not received and generated a monthly fallout list with more than 2k fallouts per month using the \nautomated model\n▪Recognized potential revenue leakage opportunity of ~$10M based an average of 2k (~5%) monthly fallouts \n▪Root cause analysis helped the client to focus on major sources of leakage and reduce fallouts by changing the system processes\nABOUT THE CLIENT\nClient is a U.S.-based healthcare service provider focused on pediatric medical services\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH\nMajor Challenges\n▪Mapping over a million charges with over ~2.5M payments using patient related information\n▪Inconsistency in patient names and IDs for the same patients across various payor sources\n▪Getting insurance eligibility details from various payor sources to categorize the root cause of leakage\n▪Understanding the detailed process workflow knowledge to identify the leakage source\nValue Add\n▪Automated Power BI models were created to consolidate and handle large dataset with keeping in mind the ease of use\n▪Followed an iterative approach to map patients in charges and payments files by first eliminating the matches found directly by \nmapping policy IDs and then using fuzzy mapping approach on the remaining charges to generate final list of fallouts\n▪Consolidated insurance eligibility details from third party vendor to classify the root cause for each fallout\n▪Derived different classification categories by studying the complete process flow of patient, and then building a logical decision tree to \nclassify the leakage source based on priority assigned to different categories\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY – REITERATIVE ELIMINATION APPROACH\nData Inputs\nStep 1 :\nClean Data*\nStep 2 :\nMatch Records\nOutput\nMonthly Payment\nMonthly Charges\nCases where family members \nhave same policy number\nCases where there is one \npolicy number and payment \nfor one patient\nCases where multiple \npayments are received \nagainst one patient \nDirect Mapping\nFuzzy Mapping\nFinal List of Fallouts\n*Removing duplicates by calculating \nnet payment received for one patient\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "PROCESS WORKFLOW AND POSSIBLE SOURCES OF LEAKAGE\nJourney of a patient appointment and claim. Insurance verification is done at various sources depending on the type of visit which could lead to possible leakage/failure\n>\n>\n>\n>\nPatients \nContact Center \n(PCC)\nEligibility \nVerification \nSystem (EVS)\nFront \nOffice\nBilling/ \nPayments\nMember \nServices\nPatients first point of contact \nto schedule an appointment \nwith provider.\nSTART\nFINISH\nOnce appointment is \nscheduled, insurance \neligibility is verified by EVS \nteam\nFinal verification check is \ndone just before the service, \nif any flag is there from PCC \nor EVS\nAfter the service, Revenue \ncycle starts for FFS claims and \nbilling is not required for CAP \nclaims\nRCA is done for non \npayments and \npatients/payors are called on \nrequirement basis as \ncorrective action\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – DECISION TREE TO CLASSIFY A FALLOUT INTO VARIOUS ROOT CAUSE CATEGORIES\nPayor info not available/Failed at Payor\nPayor Not Matching (Wrong Insurance in EHR system on Date of \nService) \nPayor is non-Cap\nNo Insurance on DOS\nIs Payor Info available in eligibility\nIs Payor Info Matching b/w eligibility and claim\nIs Payor under Cap Plan\nIs Insurance Active On Date of Service \n(DOS)\nRegistration or Not Assigned\nPCP not a Physician\nIs PCP/Physician Assigned to Firm\nIs Physician MD \nOthers (Manual) \n(Payor Set Up/ Provider Setup)\nLogical decision tree based on \nthe priorities and assignment \nof different classification \ncategories\nCRITERIA \nCATEGORY \n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – CAP RECAPTURE KPI DASHBOARD\nSummary of leakage \nfallouts across months \nby payors and \ndepartments.\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 – DASHBOARD WITH WATERFALL CHART\n8\nImpact of corrective \nactions in form of \nretro payments in \nsubsequent months \nreducing the fallouts\nA waterfall chart \nshowing the \nreduction in fallouts \nbecause of retro \npayments \nbreakdown by top 4 \npayors contributing \nto the reduction\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBITS #4 – AVERAGE MONTH MISSED AND QUANTIFICATION\nCalculating average \nmonth missed where \na unique patient will \nbe a fallout for that \ntimeframe\nQuantifying total \nmissed opportunity \nTable below highlights the $ opportunity excluding the Non-CAP fallouts category\nPayor\nCAP\nAvg Months \nLost\nM1\nM2\nM3\nM4\nM5\nM6\nM7\nM8\nM9 9-Months Total\nPayor-1\n$41.00 \n9.1\n$612,518 \n$401,354 \n$338,787 \n$350,162 \n$223,962 \n$177,392 \n$364,738 \n$265,199 \n$230,005 \n$2,964,116 \nPayor-2\n$29.00 \n9.1\n$337,694 \n$240,887 \n$207,947 \n$207,947 \n$158,161 \n$130,250 \n$145,085 \n$146,091 \n$143,828 \n$1,717,890 \nPayor-3\n$55.00 \n9.1\n$279,930 \n$224,135 \n$226,996 \n$214,121 \n$171,678 \n$58,657 \n$128,758 \n$186,938 \n$177,401 \n$1,668,615 \nPayor-4\n$38.00 \n9.1\n$143,325 \n$89,619 \n$84,677 \n$73,804 \n$71,827 \n$62,602 \n$90,278 \n$82,041 \n$81,712 \n$779,886 \nPayor-5\n$39.00 \n9.1\n$70,674 \n$49,032 \n$40,578 \n$41,931 \n$34,492 \n$13,864 \n$45,313 \n$41,931 \n$40,240 \n$378,056 \nPayor-6\n$25.00 \n9.1\n$79,986 \n$47,255 \n$45,521 \n$39,018 \n$38,584 \n$26,229 \n$50,073 \n$30,564 \n$45,521 \n$402,750 \nPayor-7\n$66.00 \n9.1\n$141,348 \n$82,405 \n$71,532 \n$69,816 \n$51,503 \n$25,179 \n$57,798 \n$64,093 \n$49,787 \n$613,463 \nPayor-8\n$20.00 \n9.1\n$17,688 \n$11,098 \n$11,965 \n$11,965 \n$9,538 \n$3,815 \n$12,659 \n$11,619 \n$12,139 \n$102,487 \nTotal\n$1,683,164 \n$1,145,786 \n$1,028,004 \n$1,008,764 \n$759,744 \n$497,988 \n$894,702 \n$828,476 \n$780,632 \n$8,627,260 \nAverage Month Missed Calculation by Unique Fallout Movement\nMon1\nMon2\nMon3\nMon4\nMon5\nMon6\nMon7\nMon8\nMon9\nMon10\nMon1\n5,015\n4,461\n4,282\n3,794\n3,551\n3,098\n2,876\n2,693\n2,594\n2,530\nMon2\n3,400\n3,052\n2,931\n2,582\n2,290\n2,121\n1,995\n1,925\n1,858\nMon3\n3,037\n2,719\n2,580\n2,100\n1,920\n1,817\n1,802\n1,689\nMon4\n2,980\n2,425\n2,226\n1,884\n1,734\n1,647\n1,600\nMon5\n2,262\n2,019\n1,867\n1,581\n1,447\n1,396\nMon6\n1,558\n1,329\n1,239\n1,150\n1,119\nMon7\n2,686\n2,331\n1,865\n1,760\nMon8\n2,412\n2,047\n1,778\nMon9\n2,325\n2,013\n100%\n87%\n80%\n71%\n66%\n60%\n57%\n55%\n53%\n50%\nMonths Missed\n1\n2\n3\n4\n5\n6\n7\n8\n9\n% Total Members\n13%\n7%\n9%\n5%\n6%\n3%\n2%\n2%\n2%\nAvg. Month Missed\n9.13\n9\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (374).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115105107+05'30'",
+            "modDate": "D:20241115105107+05'30'",
+            "trapped": ""
+        },
+        "content": "LEARNINGS\n10\n▪The project provided an opportunity to the entire team to learn about the capitation payment method\n▪The project created in-depth knowledge of different fuzzy mapping logics and name mapping especially in the Power Query which uses Jaccard similarity index\n▪The Jaccard Index, also known as the Jaccard similarity coefficient, is a statistic used in understanding the similarities between sample sets. The measurement \nemphasizes similarity between finite sample sets and is formally defined as the size of the intersection divided by the size of the union of the sample sets.\n"
+    }
+]

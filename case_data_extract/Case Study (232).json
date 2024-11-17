@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nInventory management\n1\n• Optimized Inventory to determine optimal inventory levels based on demand \nforecasts, variability, vendor lead times and variability, service level, etc. \n• Developed inventory strategy to evaluate moving part of the manufacturing \nprocess to U.S. (from Asia)\nHealth & wellness\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to understand the finished good (FG) inventory to be maintained to ensure minimal stock-outs accounting for \nvariability in demand, working capital and storage capacity. Additionally, you want the flexibility to change fulfillment strategy i.e., \nfulfilling demand from existing one DC (Distribution Center) to two DCs.\nHealth & wellness company needs inventory management\n2\nYour value is enhanced. \nYou have customized inventory model to help streamline the inventory management process and identified the right \ninventory levels allowing to meet the service level targets with minimal stock-outs. You have also helped in taking an \ninformed decision on their inventory strategy i.e., moving part of the manufacturing to U.S. (from China), by providing \nvisibility into the merits vs. de-merits. You have also suggested a more economical solution on how to address the problem \nwithout completely changing the manufacturing process.\nINVENTORY MANAGEMENT\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nMonte-Carlo model \n•\nOptimum inventory \nmodel \n•\nNewsvendor model \n2\nYou turn to Accordion. \nWe partner with your team to optimize inventory to determine optimal inventory levels based on demand forecasts, \nvariability, vendor lead times and variability, service level, etc. Also, to develop inventory strategy to evaluate moving part \nof the manufacturing process to U.S. (from Asia), including:\n1) Identifying the optimal inventory levels, estimated the optimal service level at a SKU level as a trade-off between the \ncost of inventory and the cost of stock-outs with a flexibility to toggle lead time variability, etc. Additionally, built a \nMonte-Carlo model to estimate the % lost sales for a given service level to help the client with the service level targets\n2) Based on the service level identifying above, estimating the safety stock to meet the target service level and building an \ninventory model with the optimal inventory levels at a SKU-week level for each of the DCs with flexibility to change the \nfulfillment strategy i.e., fulfilling the demand from existing one DC to two DCs\n3) For the seasonal SKUs, estimating the one-time order quantity using the newsvendor model considering the salvage \nvalue as the Seasonal SKUs come with special packaging that cannot be sold during the off-season\n4) Evaluating the option to move part of the manufacturing process (bottle printing) to U.S. to help with the stock-outs. \nPerforming a trade-off cost analysis and highlighting that the manufacturing costs would increase if part manufacturing \nwere to move to U.S. Alternatively, maintaining minimal blank bottle inventory to avoid stock-outs.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nTo identify the optimal inventory levels, estimated the optimal service level at a SKU level as a trade-off between the cost of inventory and the cost of stock-\nouts with a flexibility to toggle lead time variability, etc. Additionally, built a Monte-Carlo model to estimate the % lost sales for a given service level to help \nthe client with the service level targets\n•\nBased on the service level identified above, estimated the safety stock to meet the target service level and built an inventory model with the optimal \ninventory levels at a SKU-week level for each of the DCs with flexibility to change the fulfillment strategy i.e., fulfilling the demand from existing one DC to \ntwo DCs\n•\nFor the seasonal SKUs, estimated the one-time order quantity using the newsvendor model considering the salvage value as the Seasonal SKUs come with \nspecial packaging and cannot be sold during the off-season\n•\nEvaluated the option to move part of the manufacturing process (bottle printing) to US to help with the stock-outs. Performed a trade-off cost analysis and \nhighlighted that the manufacturing costs would increase if part manufacturing were to move to US. Alternatively, suggested maintaining minimal blank \nbottle inventory to avoid stock-outs.\nSituation\n•\nClient wanted to understand the finished good (FG) inventory to be maintained to ensure minimal stock-outs accounting for variability in demand, working \ncapital and storage capacity. Additionally, wanted the flexibility to change fulfillment strategy i.e., fulfilling demand from existing one DC (Distribution \nCenter) to two DCs\n•\nPartnered with client for inventory analysis to determine company’s optimal inventory levels based on demand forecasts, variability, vendor lead times and \nvariability, service level, etc. Additionally, helped the client with the inventory strategy to evaluate moving part of the manufacturing process to US (from \nAsia)\nInventory management for a health and wellness brand\n3\nImpact\n•\nCustomized inventory model helped the company streamline their inventory management process and identified the right inventory levels allowing them to \nmeet the service level targets with minimal stock-outs\n•\nHelped the company take an informed decision on their inventory strategy i.e., moving part of the manufacturing to US (from China), by providing visibility \ninto the merits vs. de-merits. Also, suggested a more economical solution on how the company can address the problem without completely moving the \nmanufacturing process\nInventory Management \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n• Calculated the theoretical optimal service levels at a \nSKU level based on trade-off between  inventory cost \nand opportunity cost due to lost sales with a flexibility \nto toggle lead time variability, etc.\n• The high contribution margins and low carrying costs \nresulted in very high optimal service levels across the \nSKUs (> 98%) with large SKU-level safety stocks\n• Given the high optimal service level, estimated safety \nstock to meet the SLAs was also high resulting in high \ncapex, inventory storage, etc.\n• As service level gives the probability of stock-outs and \nnot the actual impact on sales, sales impact for a \ngiven service level was quantified.\n• Built a Monte-Carlo model to simulate the actual \ndemand and estimate the % lost sales for a given \nservice level\n• Given the high optimal service levels, this helped the \nclient to take a top-down service-level decision as \nopposed to using the optimal inventory level at an SKU \nlevel, based on the total % lost sales\n• Built the inventory model with the optimal inventory \nlevels at a SKU-week level for each of the DCs based on \nthe review cycle demand\n• Provided flexibility to toggle with service level and \nfulfillment strategy enabling client to input the \ndistribution of demand fulfillment among the two DCs\n• Given client does not stock seasonal SKUs (with \ncustomized packaging) and places a one-time order \nbased on the forecasted demand, order quantity to be \nplaced was calculated accounting for forecast error\n• For the seasonal SKUs, used newsvendor model to \ndetermine the one-time-buy order quantity i.e., \noptimum service level = cost of underage / (cost of \noverage + cost of underage) accounting for the salvage \nvalue of the products\n• Aggregate of quantity calculated based on the optimal \nservice level above and forecasted demand gives the \none-time order quantity for seasonal SKUs\n• Manufacturing was based out of China, and this helped \nthe client incur lower manufacturing costs. However, this \nresulted in longer lead times and higher safety stock\n• To address, client wanted to evaluate if there is an \nopportunity to get blank bottles from China and get the \nprinting done in US as significant share of products are \nsold in bottles\n• Printing onshore (in US) i.e., having blank bottle \ninventory onshore helps client account for any variability \nin the historical forecast error, avoiding stock-outs for a \ngiven service level\n• Analyzed the costs trade-off and identified that \ncompletely moving the printing onshore is not \neconomical due to high onshore printing costs and low \nstorage costs for finished goods\n• To address this, suggested maintaining a minimal blank \nbottle inventory onshore to avoid stock-outs for a given \nservice level. This will help reduce the buffer stock to be \nmaintained resulting in lower capex costs\nOptimal service level\nFinished Goods Inventory\nInventory Strategy\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOptimal service level methodology\n5\nCapital cost per unit\nStorage cost per unit\nOptimal Service level1\nInventory Carrying Costs \n(Cost of overage)\nProduct Contribution Margin \n(Cost of underage)\nOptimal Service level2\nOptimal Service Level\nTook a couple of approaches to \nestimate Optimal Service level\nOutputs\nCalculations\nInput Data\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSafety stock methodology\n6\nOutputs\nCalculations\nInput Data\nService level targets\nby channel and SKU\nZ-score of the weighted \naverage service level target \nfor each SKU (Z)\nHistorical forecast error (FE)\nHistorical demand variability \n(σD)\nLead time variability (σLT)\nSafety Stock1\nCycle time / Inventory \nreview time\nLead time variability (σLT)\nAvg. weekly demand \nforecast (Davg)\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOne-time order quantity calculation for seasonal SKUs\nOutputs\nCalculations\nInput Data\nCapital cost per unit\nStorage cost per unit\nOptimal Service level\nInventory Carrying Costs \n(Cost of underage)\nProduct Contribution Margin \n(Cost of underage)\nHistorical demand variability \n(σD)\nBuffer Stock\nBuffer Stock\nForecasted demand \nfor the season\nOrder Quantity \nfor Seasonal SKUs\nTweaked the approach for Seasonal \nSKUs given it’s a one-time order\nILLUSTRATIVE\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOptimal service level calculation\nOptimal service levels at an SKU level based on trade-off between inventory cost and \nopportunity cost due to lost sales with a flexibility to toggle lead time variability, etc.\nILLUSTRATIVE\n8\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (232).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150810+05'30'",
+            "modDate": "D:20241114150810+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSafety stock calculation\nSafety stock calculated at an SKU level based on the \nservice level, lead time variability, and forecast error\nILLUSTRATIVE\n9\n"
+    }
+]

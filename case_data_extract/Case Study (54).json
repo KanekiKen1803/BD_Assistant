@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192704+05'30'",
+            "modDate": "D:20241114192704+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nEvaluated multiple customer retention strategies by analyzing the A/B test results from \nvarious marketing campaigns, to provide insights into the effectiveness of the retention \nefforts\nPromotions Analysis for Retention\n(Multichannel Video Programming Distributor )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192704+05'30'",
+            "modDate": "D:20241114192704+05'30'",
+            "trapped": ""
+        },
+        "content": "ANALYZE EFFECTIVENESS OF VARIOUS MARKETING CAMPAIGNS TO RETAIN CUSTOMERS\nSITUATION\n▪Client lacked visibility into the early insights on customer retention strategies employed by the Marketing team, thus limiting its ability to incorporate \nreal-time learnings from the retention strategies\n▪Merilytics partnered with the client to evaluate multiple customer retention strategies by analyzing the A/B test results from various marketing \ncampaigns (discounts), and provided insights into the effectiveness of the retention efforts\n▪Set up the back-end infrastructure on Teradata to consolidate the reporting tables containing details of offers and responses to the promotion offers \nfrom subscribers\n▪Analyzed the retention KPIs to understand the impact of the marketing strategies on retention on the ‘same-day as contact’ vs. within a specified \nduration, i.e., survivability (60 days, 90 days etc.)\n▪Analyzed the results from the A/B tests on a real-time basis to provide insights to the executive team through a visualization layer built on Tableau. The \ntest results are also segmented based on customer characteristics (Credit score, Margin band, etc.) across multiple retention strategies.\n▪Provided the functionality to track the churn rate of different cohorts (based on call date and initial outcome), and also track any renewal-decision \nchanges made by the subscriber during multiple touch points\nVALUE ADDITION\nIMPACT\n▪Reduced the FTE hours spent on creating the weekly and monthly reports by ~40 hours each month\n▪Improved visibility into the effectiveness of the customer retention strategies across various verticals, allowing them to take more informed decisions \non marketing strategies\nABOUT THE CLIENT\nClient is a multi-channel video programming distributor in the U.S., with a large subscriber base\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192704+05'30'",
+            "modDate": "D:20241114192704+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – SAME DAY RETENTION RESULTS\nILLUSTRATIVE\n3\nEnables tracking of the \nretention results from \nthe A/B tests, along \nwith the overall spend \nfor each strategy/test\nTest Group\nControl Group\nTest Group\nControl Group\nTest Group\nControl Group\nRETENTION RESULTS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (54).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192704+05'30'",
+            "modDate": "D:20241114192704+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – SURVIVABILITY RETENTION CURVE\nILLUSTRATIVE\n4\nEnables tracking of the \ncustomer churn of \nselected cohorts\nTabular view to track \nchurned subscribers \nof selected cohort\nGroup-1 \nGroup-2\nGroup-3\n"
+    }
+]

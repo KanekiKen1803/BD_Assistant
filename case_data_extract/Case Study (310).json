@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164852+05'30'",
+            "modDate": "D:20241114164852+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nText and speech recognition analytics\nFinancial Services Firm\nDeveloped & deployed NLP and speech recognition \nsolutions to reduce underwriting errors, track real-time \ncompliance and perform root cause analysis of call \ncomplaints\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164852+05'30'",
+            "modDate": "D:20241114164852+05'30'",
+            "trapped": ""
+        },
+        "content": "DEPLOYED TEXT RECOGNITION AND SPEECH RECOGNITION ANALYTICS\nSITUATION\n▪\nCompany’s significant growth and geographic expansion resulted in increase in application volume, operational activities and compliance \nrequirements. This resulted in an increase in manpower in non-core activities and remediation cases. \n▪\nMerilytics partnered with the client and deployed NLP and speech recognition solutions to reduce underwriting errors, track real-time compliance \nand perform root cause analysis of call complaints\n▪\nAccurate Underwriting & Contracting: Created NLP based solution that evaluates the accuracy of a legal document against statutory requirements \nand financial product terms and highlights any infractions using advanced text mining algorithms\n▪\nLeveraged OCR and Encoding pattern recognition ML algorithms (such as Textract and Tika) to convert documents & images to hierarchical list of \nelements and validated the same for discrepancies and summarized the insights, real-time on a Tableau dashboard\n▪\nCall Quality Assurance: Used NLP tools to automate speech recognition of call center activity to automatically transcribe the conversations for \nanalytics. Evaluated compliance against mandatory disclosures and UDAAP (prevention of Unfair, Deceptive, Abusive Acts and Practices) compliance\n▪\nCall activity root-cause Analysis: Utilized classification and clustering algorithms on call transcripts to identify common issues raised by customers \nduring their customer service calls\nVALUE ADDITION\nIMPACT\n▪\nReduced legal risk from underwriting errors, violation of state requirements and UDAAP rules\n▪\nAutomated contract review process that resulted in increased bandwidth for the compliance team to focus on other strategic initiatives\n▪\nStreamlined call center workflow, established standard operating procedures to improve adherence to best practices\nABOUT THE CLIENT\nClient is a financial services company that provides point-of-sale financing to consumers making purchases at stores across the U.S.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164852+05'30'",
+            "modDate": "D:20241114164852+05'30'",
+            "trapped": ""
+        },
+        "content": "Our NLP engine highlights non-compliant incidents and key reasons for customer complaints by analyzing signed contracts and KPO audio files\nVoice and Text Data\nCustomer Support\nTech Support\nOperations\nUnderwriting\nInformation / Metadata \nRetrieval\nInformation Extraction \nusing NLP and speech \nrecognition tools \nCompliance\nBI Reporting\nRoot-cause analysis\n3\nNLP ENGINE \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164852+05'30'",
+            "modDate": "D:20241114164852+05'30'",
+            "trapped": ""
+        },
+        "content": "TEXT ANALYTICS – UNDERWRITING COMPLIANCE\nExtract contract terms \n▪OCR and encoding \nrecognition ML algorithms\n▪Extract text from pdf or \nimage\nValidate Compliance\n▪Benchmark extracted terms \nagainst statutory regulations \nand business standards.\nConsolidate Infractions\n▪Map the infractions to \nproduct, servicing and \ncontracting operations\nRemediate contracts\n▪Fetch the right data from the \ndatabase and recreate the \ncontract\nSPEECH RECOGNITION based ANALYTICS – CALL OPERATIONS\nCall Centre Activity\n▪Customer & Tech support\n▪Collections\n▪Sales \nDeploy NLP Tools\n▪Transcribe audio into text by \nspeaker\nUDAAP Compliance\n▪Evaluate for Unfair, \nDeceptive, Abusive Acts and \nPractices\nRoot Cause Analysis\n▪Cluster call activity into \nmajor root causes\n4\nUNDERWRITING ACCURACY & UDAAP COMPLIANCE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (310).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164852+05'30'",
+            "modDate": "D:20241114164852+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\n19% of contracts in June complied on the \nnumber of rental payments metric \nleading to non-compliance rate of 81%\n5\nCAPTURED THE CONTRACT AND PRICING TERMS COMPLIANCE RATE \nON A REAL-TIME BASIS ON TABLEAU\n"
+    }
+]

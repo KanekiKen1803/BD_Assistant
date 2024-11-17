@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer churn prediction\n1\nDeveloped a predictive model to analyze historical customer characteristics & \nbehavior to identify ‘at risk’ customers, enabling the firm to target them through \neffective incentives and campaigns \nAt home fitness brand\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a predictive model that estimates a customer’s propensity to churn in the near future based on historical characteristics and behavior \n•\nThe model also helped in identifying factors that drive ‘churn’ (cancellation of subscription) \n•\nUsed advanced classification algorithms such as Random Forest, Adaboost and Logistic Regression to classify customer subscriptions \n•\nUsed SMOTE sampling technique as the data set had ‘churns’ as a very small minority class and the cost of misclassification of ‘churns’ was high\nSituation\n•\nAn at-home fitness brand faced an increase in the customer attrition rate due to cancellations of subscriptions \n•\nPartnered with the company to identify customers who are likely to cancel their subscription in near future so that they can proactively target them with \nappropriate preventive actions\nCustomer churn prediction model for a fitness brand\n2\nImpact\n•\nThe churn prediction model helped the client to identify top-100 ‘at risk’ customers with 66% precision \n•\nThe predictive model enabled the company to “treat” these customers through suitable incentives and campaigns to prevent them from cancelling their \nsubscriptions \nCUSTOMER CHURN PREDICTION\n \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMore than 600 iterations were performed based on combinations of \nvariables, data sets and algorithms\nIndependent Variables\nDependent Variables\nDataset Used\nAlgorithm Used\na.\nIteration 1: 16 independent variables\nb.\nIteration 2: All independent variables \nexcept A and B\nc.\nIteration 3: All independent variables \nexcept A, B and C\nd.\nIteration 4: All independent variables \nexcept A, B, C and D\ne.\nIteration 5: All independent variables in \niteration 1 and 7 additional variables\na.\nLogistic Regression\nb.\nClassification using Random Forest \n(RF) algorithm\nc.\nClassification using Adaboost \nmethodology\na.\n80% (randomly sampled) of 22 \nmonths of account snapshots1\nb.\n3 months of account snapshots\nc.\n1 month of account snapshot \nd.\n3 months data sampled using \nSMOTE\ne.\n3 months snapshot of only \npackage A subscriptions \nf.\n3 months snapshot of only \npackage A subscriptions with data \nsampled using SMOTE\na.\n# of workouts in “N+1”, “N+2” and \n“N+3” month\nb.\nWorkout duration in in “N+1”, “N+2” \nand “N+3” month\nc.\n# days worked out in in “N+1”, \n“N+2” and “N+3” month\nd.\nClassification of usage behavior \n(method 1)\ne.\nClassification of usage behavior \n(method 2)\nf.\nClassification of usage behavior \n(method 3)\ng.\nClassification of usage behavior \n(method 4)\nX\n05\n07\nX\n06\nX\n03\n=\n630\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel recall and precision values were evaluated for each iteration\n4\nPredicted: No\nPredicted: Yes\nActual: No\n261\n354\nActual: Yes\n4\n309\nPredicted: No\nPredicted: Yes\nActual: No\nTrue Negative\nFalse Positive\nActual: Yes\nFalse Negative\nTrue Positive\nPredicted: No\nPredicted: Yes\nActual: No\n505\n110\nActual: Yes\n48\n265\nConfusion Matrix at 0.5 cut-off probability1\nPrecision = TP / (TP+FP)\nRecall = TP / (TP+FN)\nFalse Positive Rate = FP / (FP+TN)\nPrecision = 265 / (265+110) = 73%\nRecall = 265 / (265+48) = 85%\nFalse Positive Rate = 110/(505+110) = 18%\nConfusion Matrix definition\nConfusion Matrix at 0.1 cut-off probability\nPrecision = 309 / (309+354) = 47%\nRecall = 309 / (309+4) = 99%\nFalse Positive Rate = 354(261+354) = 58%\nROC (Receiver Operating Characteristic) curve\nReducing cut-off probability leads to increase in ‘Recall’ \nat the expense of increase in False Positive rate\nRecall\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSimilarly, importance of each variables was evaluated for each iteration\nIndependent Variable\nMean decrease in \naccuracy1\nMean decrease in \nGINI2\nVariable \nimportance in \npredicting Churn3\nVariable \nimportance in \npredicting Non-\nChurns4\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (352).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174245+05'30'",
+            "modDate": "D:20241114174245+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey independent variables identified for each iteration\nRank order of importance of independent variables, by iteration #\nIndependent Variable\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nA\n1\n1\n2\n1\n1\n4\n1\n1\n8\n8\nB\n2\n3\n1\n2\n2\n1\n2\n4\n10\n2\nC\n3\n2\n3\n3\n5\n3\n3\n9\n9\n9\nD\n4\n4\n4\n4\n4\n2\n4\n8\n4\n5\nE\n5\n6\n5\n5\n3\n6\n13\n14\n2\n13\nF\n6\n5\n6\n6\n6\n7\n7\n13\n5\n10\nG\n7\n7\n7\n7\n9\n5\n5\n6\n7\n1\nH\n8\n11\n8\n9\n7\n8\n6\n5\n1\n6\nI\n9\n14\n11\n13\n14\n19\n9\n12\n3\n3\nJ\n10\n10\n9\n11\n11\n10\n10\n2\n6\n4\nK\n11\n9\n10\n12\n8\n20\n8\n15\n15\n15\nL\n12\n13\n13\n14\n12\n21\n13\n11\n14\nM\n13\n8\n12\n13\n12\n18\n13\n10\n11\n12\nN\n14\n12\n14\n15\n11\n13\n16\n12\nO\n15\n15\n8\n15\n17\n7\n14\n11\nP\n16\n10\n13\n11\n3\n13\n7\nQ\n9\nR\n12\nS\n14\nT\n15\nU\n16\nV\n22\nW\n23\n6\n"
+    }
+]

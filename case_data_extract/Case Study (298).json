@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163140+05'30'",
+            "modDate": "D:20241114163140+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBusiness reporting and technical \ninfrastructure\n1\n• Helped build a single platform product with Salesforce as front-end and Azure in \nthe back-end\n• Created multiple executive dashboards in Tableau CRM that were embedded in \nSalesforce to provide seamless user experience \n• Built the Azure back-end for complete data ingestion and transformation of data \nto power the Tableau CRM dashboards\nE-commerce compliance focused legal firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163140+05'30'",
+            "modDate": "D:20241114163140+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to streamline and automate the reporting processes, and develop a Salesforce-based interface that encompasses \nall the dashboards/reports along with Salesforce data, to provide consistent and accurate information to their customer brands\nLaw firm needs a balanced business reporting and data \ninfrastructure\n2\nYour value is enhanced. \n•\nYou have an integrated experience for users within Salesforce environment through embedded Tableau CRM dashboards, for \nmonitoring as well as all CRM related activities\n•\nYou have optimized the performance of the dashboards and improved scalability of the solution by handling data processing \nintensive tasks in the Azure back-end\n•\nYou have improved processing time and reduced costs, by integrating both Salesforce data and Azure directly in Recipe, to \nenable more dynamic dashboards\nBUSINESS REPORTING AND \nTECHNICAL INFRASTRUCTURE\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nIntegrating Tableau \nCRM dashboards in \nSalesforce\n•\nAzure Data Lake and \nAzure Synapse SQL\n•\nRobotic Process \nAutomation\n2\nYou turn to Accordion. \nWe partner with your team to help in building a single platform product with salesforce as front-end and azure in the back-end, \nincluding:\n1)\nAnalyzing and rationalizing 60 Power BI dashboards/reports to ~10 Tableau CRM dashboards, for monitoring sellers across \nmarketplaces, embedding Tableau CRM dashboards in Salesforce and Salesforce community pages for better user experience\n2) Creating datasets and recipes by identifying common keys between data flowing from Azure Synapse (scraping data from \nmarketplaces, Amazon Seller/Vendor Central, X-Byte, Pattern etc.),  and transactional data present in Salesforce and using the \nharmonized dataset to populate the Tableau CRM dashboards\n3) Developing an Azure Data Lake with Delta Lake overlay for ingestion and transformation of data from multiple data sources and \nmaking the final data available in Azure synapse SQL for reporting\n4) Developing RPA processes to automate data ingestion from Amazon Seller/Vendor Central, which is currently downloaded manually \nand not reported consistently\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163140+05'30'",
+            "modDate": "D:20241114163140+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed and rationalized 60 Power BI dashboards/reports to ~10 Tableau CRM dashboards, for monitoring sellers across marketplaces. These Tableau \nCRM dashboards were embedded in Salesforce and Salesforce community pages for better user experience.\n•\nCreated datasets and Recipes by identifying common keys between data flowing from Azure Synapse (scraping data from marketplaces, Amazon \nSeller/Vendor Central, X-Byte, Pattern etc.),  and transactional data present in Salesforce. The harmonized dataset is used to populate the Tableau CRM \ndashboards\n•\nDeveloped an Azure Data Lake with Delta Lake overlay for ingestion and transformation of data from multiple data sources and make the final data available \nin Azure synapse SQL for reporting.\n•\nDeveloped RPA processes to automate data ingestion from Amazon Seller/Vendor Central, which were previously manually downloaded and were not \nreported on consistently\nSituation\n•\nHigh level of manual efforts and inconsistencies in data, for dashboards and reports that client was generating for customer brands, to provide insights \ninto monitoring and control services for brands\n•\nWe partnered with the client to streamline and automate the reporting processes, and develop a Salesforce-based interface that encompasses all the \ndashboards/reports along with Salesforce data, to provide consistent and accurate information to their customer brands\nIntegrated data management and reporting using \nSalesforce & Azure architecture\n3\nImpact\n•\nProvided an integrated experience for users within Salesforce environment through embedded Tableau CRM dashboards, for monitoring as well as all CRM \nrelated activities\n•\nOptimized the performance of the dashboards and improved scalability of the solution by handling data processing intensive tasks in the Azure back-end\n•\nImproved processing time and reduced costs, by integrating both Salesforce data and Azure directly in Recipe, to enable more dynamic dashboards\nINTEGRATED DATA MANAGEMENT \nAND REPORTING \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (298).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163140+05'30'",
+            "modDate": "D:20241114163140+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIntegrated data management and reporting using Salesforce on Azure\nAzure Data Factory\nAzure Data  Lake\nStorage + Delta Lake \n(Raw, Clean, Aggregate \nzones)\nAzure Databricks \nAzure Synapse\nAnalytics\n1\n2\nIngest\nPrep & Train\nData Sources\nData Storage & Processing\nData Visualization\n4\nStorage\nModel & Serve\n3\nCRM Analytics\n(formerly Tableau CRM)\n1\nCollate and ingest data from data sources using Azure Data Factory to the Azure Data Lake (Raw Tables – Bronze)\n3\nDevelop data models in Databricks and Delta Lake, and build operational reports and analytical dashboards on top of Azure Synapse to derive insights from the data\n2\nConsolidate and harmonize the data and push the data into Refined Tables (Silver) and finally into Aggregate Tables (Gold)\n4\nAzure DevOps – Version Control (GitHub), Code Repository System and for CI/CD implementation for Dev/QA, Prod environments\n"
+    }
+]

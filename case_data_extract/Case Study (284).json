@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTechnology & business KPIs diagnostic & \ndata platform implementation \n1\nVeterinary care roll-up\nConducted a data and reporting infrastructure assessment for a U.S.-based \nVeterinary Care Aggregator with 30+ clinics, followed by designing a future state. \nBuilt the data architecture based on this assessment by integrating data from 10+ \npractice management, accounting and payroll systems. Set up the reporting suite \nto unlock visibility into key financial and operational metrics, enhancing decision-\nmaking and operational efficiency.\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for key opportunities to streamline, standardize, and augment the data infrastructure and reporting, develop an \nEnterprise Data Warehouse along with the executive reporting suite. Currently, there is no visibility into financial and operational \nperformance due to the absence of a scalable data environment results in manual reporting processes with high errors and \nturnaround time across departments.\nVeterinary company needs to conduct KPIs diagnostic and \ndesign enterprise data warehouse\n2\nYour value is enhanced. \nYou have automated self-serve enterprise reporting suite to eliminate the manual report preparation resulting in potential savings \nof ~$2.5M in 2 years. You have savings of $200K per annum from the enhancement of the control environment to reduce the risk of \nmaterial error, data discrepancies, etc. You also have reduced the turnaround time for gaining visibility into the performance of \nnewly acquired practice from 3 months to 3 weeks and reduced risks by maintaining data integrity and security, particularly during \nthe planned 5X expansion of practices over the coming years.\nTECHNOLOGY & BUSINESS KPIS \nDIAGNOSTIC & DATA PLATFORM \nIMPLEMENTATION \nKEY RESULT   \n•\n~$2.5M  of potential \nsavings\n•\n~$200K savings per \nannum \n•\nReduced TAT from 3 \nmonths to 3 weeks\nVALUE LEVERS PULLED\n•\nTechnology & Tool \ndiagnostic\n•\nData Maturity \nAssessment\n•\nEnterprise KPI Gap \nAssessment\n•\nSponsor dashboard \ndesign\n•\nFuture state \nenterprise data \nwarehouse design\n2\nYou turn to Accordion. \nWe partner with your team to conduct a data and reporting infrastructure assessment by integrating data from 10+ practice \nmanagement, accounting and payroll systems, set up the reporting suite for visibility into key financial and operational metrics, \nincluding:\n1)\nPerforming an assessment of the current state of data and reporting infrastructures encompassing over 200 KPIs, and business \nprocesses and documented the gaps in data, process, and technology\n2) Designing and recommending the optimal Enterprise Data Architecture with the functionality to automatically onboard new \nclinics on same platform and thus provide faster visibility into the new practices post-acquisition to support accelerated M&A \nactivity and clinic growth targets for the upcoming years\n3) Building a robust Enterprise Data Warehouse on Azure, serving as a single source of truth for reporting across functions along \nwith the next steps to enhance current reporting in terms of integration of additional dimensions and new KPIs\n4) Unlocking visibility into key financial indicators such as revenue, revenue per patient, profit and operational indicators such as \nvisits, active patients, clinic utilization, inventory and patient details across clinics and DVMs (Doctors of Veterinary Medicine) \nwith 10 executive & functional Power BI dashboards\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nPerformed an assessment of the current state of data and reporting infrastructures encompassing over 200 KPIs, and business processes and documented the \ngaps in data, process, and technology.\n•\nDesigned and recommended the optimal Enterprise Data Architecture with the functionality to automatically onboard new clinics on same platform and thus \nprovide faster visibility into the new practices post-acquisition to support accelerated M&A activity and clinic growth targets for the upcoming years\n•\nBuilt a robust Enterprise Data Warehouse on Azure, serving as a single source of truth for reporting across functions along with the next steps to enhance \ncurrent reporting in terms of integration of additional dimensions and new KPIs\n•\nUnlocked visibility into key financial indicators such as Revenue, Revenue per patient, Profit and operational indicators such as visits, active patients, clinic \nutilization, inventory and patient details across clinics and DVMs (Doctors of Veterinary Medicine) with 10 Executive & functional power BI dashboards\nSituation\n•\nClient lacked visibility into financial and operational performance within the organization due to the absence of a scalable data environment which had resulted \nin manual reporting processes with high errors and turnaround time across different departments\n•\nPartnered with the client to perform an assessment to identify key opportunities to streamline, standardize, and augment the data infrastructure and reporting \nand developed an Enterprise Data Warehouse along with the Executive reporting suite\nData assessment and EDW build for a veterinary care \naggregator \n3\nImpact\n•\nThe automated self-serve Enterprise reporting suite could eliminate the manual report preparation resulting in potential savings of ~$2.5M in 2 years\n•\nPotential savings of $200K per annum from the enhancement of the control environment to reduce the risk of material error, data discrepancies, etc.\n•\nThe Data Warehouse would reduce the turnaround time for gaining visibility into the performance of newly acquired practice from 3 months to 3 weeks\n•\nThe designed architecture would improve decision-making and reduce risks by maintaining data integrity and security, particularly during the planned \n5X expansion of practices over the coming two years\nTechnology & Business \nDiagnostic\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach of data infrastructure assessment\n4\nImplementation Roadmap & Sponsor \ndashboard mock-up\nDesign Target State Reporting\nAssess Current State Data & Reporting \nInfrastructure\nReporting & \nAnalytics\nData Management \n& Technology\n• Evaluated existing reporting process \nthrough interviews and working \nsessions with functional leads\n• Identified the key pain points with \nrespect to development and \nmaintenance of the reports\n• Documented and prioritized existing \nKPI metrics and data gaps in the \nsystems\n• Performed Enterprise KPI data \nmapping with source systems\n• Conceptualized the list of dashboards \nand additional KPIs that could be \ntracked for comprehensive \noperational and strategic review\n• Finalized the KPI Metrics Matrix that \nmaps systems to KPIs, along with the \nfeasibility analysis, complexity and \npriority of deriving a KPI across \ndifferent dimensions\n• Developed reporting mock-ups for \nsponsor and practice leadership\n• Assessed current technology, tools \nand identified key systems in each \nfunction which need to be ingested & \nstandardized across practices\n• Identified high impact systems in \nterms of efforts and benefits of \nintegration and harmonization\n• Designed the Future state Enterprise \nData Architecture diagram \n• Performed a comparative analysis of \ndifferent technologies to derive the \nfinal recommendation\n• Assessed API availability of key \nsystems in each function and \nidentified the right technology to \nconnect the data to the data \nwarehouse.\n• Derived detailed roadmap of the build \nof Enterprise Datawarehouse\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRoadmap from current state to end state \n5\nCurrent State\nManual process\nReporting in Flat files\nXX clinics\nEDW Build & Reporting\nEDW – Technology Stack \n~10-12 reports in Power BI\nXX Clinics\nYY systems\nScaled EDW\nEDW – Upgraded Technology \nStack\n~25-30 reports in Power BI\n~20 self-serve analytical \nmodels\n~ XX+ 100 clinics \nYY systems + New systems \nfrom newly acquired clinics\nEnd State\nEDW – Upgraded Technology \nStack\n~100 reports in Power BI\n~ XX+500 clinics \nYY systems + New systems \nfrom newly acquired clinics\nMaster Data Management\nData Governance Framework\nAdvanced Analytics\n3-6 months\n6 months -2 years\n2+ years\nFuture State\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDesign of enterprise data warehouse\n6\nCode repository\nMonitoring and Logging\n(Data Storage Layer)\nActive \nDirectory\nKey \nVault\nRow-Level \nSecurity\nFunctions\nLogic Apps\nDevOps\nMonitor\nLog \nAnalytics\n4\nCustom ETL Jobs\nSecurity\nBusiness \nRules\nData transfer between layers through Database Stored Procedures\n1\nLeverage Ezyvet APIs, PMS data aggregator platforms such as IDEXX Enterprise \nManager and Covetrus Connect to ingest the compatible Practice Mgmt. Systems\n3\nTransform the data stored into Azure SQL Database through Azure Data \nFactory\n2\nCollate and ingest data from different source systems using Azure Data Factory into the \nAzure SQL Database\nData Sources\nIngest\nStore, Prepare and Publish\nVisualization\nRaw\nClean\nAggregate\nPublish\nData \nQuality checks\nReporting \nSchema\nTransformation\n&\nConsolidation\n3\nPractice Mgmt. Systems & Data \nAggregators\nHR – Payroll, L&D\nM&A Operations\nData Zones\nAzure SQL DB / Azure \nSynapse\nAzure Data \nFactory \n(Data \nPipelines)\n2\nFinance & Accounting\n1\n4\nRevamped reporting suite consisting of automated and self-serve Power BI \ndashboards\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCapability assessment of practice management systems\n7\nPractice \nMgmt. \nSystem\nAppointment \nScheduling\nCommunicatio\nn\nInventory \nMgmt. & \nVendor \nPayment\nInvoicing & \nPayment \nProcessing\nDiagnostic \nManagement\nPatient \nHealth \nRecord\nReporting\nPMS 1\n◕\n◕\n◕\n◕\n●\n●\n◑\nPMS 2\n●\n◕\n◕\n◕\n●\n◕\n◕\nPMS 3\n●\n◕\n◕\n◑\n●\n●\n◕\nPMS 4\n●\n◔\n◑\n◕\n●\n●\n◕\nPMS 5\n◕\n◕\n◔\n◔\n●\n◕\n●\n● – Feature present & utilized  ◕ - Feature present, not fully utilized  ◑ - Feature present, not utilized  ◔ - Has similar feature with lower capability  ○ - Does not have the feature\nComparison of the \nPMS systems across \nthe practices in \nterms key features & \nfunctionalities\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData maturity scorecard\nBenchmarking the current state of data maturity and processes against the \naspirational end state with comments and recommendations\nILLUSTRATIVE\nData Strategy \nElement\nCurrent state vs. Aspirational state\nComments\nData Governance\nCurrently most of the checks are carried out manually by respective function \nheads. However, formalized data governance best practices are not \nimplemented.\nData Availability\nData sourcing process is manual with differing frequencies for functional \nareas. There is an opportunity to have a centralized data warehouse to collate \nthe data from practices, ERP, Application Tracking System, Payroll tracker etc. \nfor reporting purpose. \nData Quality\nData cleansing and reconciliation across systems is manual, with opportunities \nto set up formal standards or procedures. Timing gaps in updating output \nreports could also be resolved through a data warehouse with automated data \ningestion.\nData Access\nOpportunity to enhance the data access by limiting the usage of personal \nfolders, shared sheets etc. Additionally, there are challenges in exporting \nreports from the ERP tool.\nData Management\nThe team relies on data exports from different systems and manual processes \nfor transforming the data. Setting up a warehouse or consolidated sources for \ndata standardization would enhance the turnaround time. \nBusiness \nIntelligence\nA consolidation tool is utilized for reporting purposes along with manually \ngenerated weekly/monthly reports. Dashboarding capabilities which are \npresent across various systems are not fully used. Opportunity to integrate the \ndata from the systems together to augment the org-wide BI capability.\nNone\nGap between current state and aspirational state\nLow\nWide\nMedium\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI metrics matrix\n9\nSummary of \nthe feasibility \nof deriving a \nmetric across \nmultiple \ndimensions \nand gap \nassessment \nagainst \nexisting \nsystems \nacross the \nclinics\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDashboard snippets (1/2)\n10\nVisuals showcasing the \nconsolidated \nperformance of clinics, \nalong with cross \nfunctional KPIs for key \nfinancial KPIs\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (284).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161432+05'30'",
+            "modDate": "D:20241114161432+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDashboard snippets (2/2)\n11\nVisuals showcasing the \nconsolidated \nperformance of clinics, \nalong with cross \nfunctional KPIs \nleveraging operational \ndata along with \nproviding insights at a \npatient level \nILLUSTRATIVE\n"
+    }
+]

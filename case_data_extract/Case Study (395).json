@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA WAREHOUSING in Profitbase Tool\nSITUATION\n▪Client had an opportunity to build a new database structure by restructuring the existing reporting infrastructure and migrate the Tableau reporting \ninfrastructure of the newly acquired entity on Profitbase environment in order to improve the ease of data consumption & streamline the data flow. \n▪Merilytics partnered with the client to align their new Tableau reports with the existing reporting structure. Also, restructured the existing Data Warehouse to \nbuild Dimension and Fact tables to improve the overall quality of reporting.\n▪Easy to maintain consolidated data. Profitbase UI is very easy on the eye and very intuitive, no need to write very large codes to build a data warehouse only a \ndrag and drop will be sufficient.\n▪The automation of data flow was easily done using Profitbase studio data management system\n▪Profitbase has in-built ETL processes to streamline the data flow and building the customized multidimensional cube easily\nVALUE ADDITION\nIMPACT\n▪Enabled the client to use a data source for multiple reports instead of creating multiple views, and reduced the duplication of the data\n▪Reduced the transition time of any new company acquisitions\n▪Enabled fail secure data refresh process\nABOUT THE CLIENT\nClient is a Durable Medical Equipment (DME) company based in the U.S. and operating in almost all the states\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "2\n• There are three main areas in a Profitbase Studio solution: Data Sources, Dimension Management, and SSAS Databases. Data arriving in the solution is first staged in \nan External Data Source table. From there the data can be moved into another Internal Data Source table where additional transformations may be applied.  From here the \ndata can take one of two paths (see Figure 1 above).  \n• Dimension data is saved in two additional places on the way to Analysis Services: a general, “template” dimension table and a SSAS module (database) specific dimension \ntable. There is no additional UI that provides visibility into the contents and status of the SSAS module specific dimension table. In order to browse the data available in a \nmodule specific dimension table one must query it from SQL Server Management Studio.\nAPPROACH AND METHODOLOGY USED IN CREATING A DATA WAREHOUSE IN PROFITBASE\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nPROFIT BASE MAIN VIEW\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nFacility Dimension table to maintain all the attributes of the Facility in \na single place. \nDIMENSION TABLE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nArActivity Fact table to maintain all the measures, and only foreign \nkeys to reduce the processing and the storage \nFACT TABLE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "6\nPROFIT BASE DATA SOURCE (ARActivity)\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "7\nPROFIT BASE CUBE (LONG TERM REVENUE TRENDS OLAP)\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (395).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183642+05'30'",
+            "modDate": "D:20241114183642+05'30'",
+            "trapped": ""
+        },
+        "content": "8\nPROFIT BASE ETL PROCESS (SALES ORDER)\n"
+    }
+]

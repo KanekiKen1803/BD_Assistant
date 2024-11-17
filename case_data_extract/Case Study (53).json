@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192553+05'30'",
+            "modDate": "D:20241114192553+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer Churn Analytics\n1\n• Built data architecture in Teradata to integrate data sources and establish a \nreporting database. Developed an involuntary churn dashboard including key \ndrivers (products, tenure, sales channel etc.)\n• Deployed an early indicator dashboard to track potential customer churn by \nanalyzing daily payment failures and respective cures\nMultichannel Video Streaming & Satellite Service Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192553+05'30'",
+            "modDate": "D:20241114192553+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt back-end infrastructure on Teradata to consolidate reporting tables for facilitating data ingestion to the dashboard \n•\nCreated dashboards enabling insights into segments (product, tenure, sales channel, etc.) contributing to involuntary churn\n•\nProvided flexibility to track involuntary churn KPIs and churn forecast performance, based on different methodologies\n•\nDeveloped a dashboard to track daily payment failures and cures, enabling early action for controlling involuntary churn\nSituation\n•\nClient lacked visibility into segments (tenure, sales channel, etc.) for involuntary customer churn and a reliable report to take corrective measures to \nreduce involuntary churn. Additionally, the client was spending a significant amount of time creating aggregated monthly and weekly reports\n•\nPartnered with the client to design and set up a dashboard providing daily visibility into involuntary churn and payment failures across segments, allowing \nthe client to take corrective actions and prevent revenue leakage\nInvoluntary churn analytics for a $6b multi-channel video \nprogramming distributor \n2\nImpact\n•\nUsing the daily payment failures and cures dashboard, the client was able to take corrective action on an issue encountered with the payment processor. This \nprevented involuntary churn of 800+ customers with a lifetime value of $500,000+\n•\nReduced FTE hours spent on creating the daily, weekly, and monthly reports by ~40 hours per month\nCustomer Churn Analytics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192553+05'30'",
+            "modDate": "D:20241114192553+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\nData \nSources \nMarketing DB\nCollections DB\nReporting DB\nReporting Views\nStandard \nGateway\nPython to \nautomate \ndata \nrefresh\nData Flow Diagram\nExcel/Flat files\nContains tables for customer \nactivity log including transaction \nand payment level details\nContains first-party collection \ndetails for customers assigned to \ninternal treatment, and third-party \ncollection details for customers \nassigned to outside collection \nagencies \nFiles containing custom data from \nusers’ monthly review meetings, \nincluding revised targets\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192553+05'30'",
+            "modDate": "D:20241114192553+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTracking involuntary churn and impact of various segments\n4\nInvol Churn Summary\nProduct \n01\nProduct \n02\nProduct \n03\n(Current Week vs. \nPrevious Week)\nY1M1\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9\nY1M10 Y1M11\nY1M12\nY2M1\nProduct \n01\nProduct \n03\nProduct \n01\nProduct \n02\nProduct \n02\nProduct \n03\nSlicers are \nprovided to \ndeep dive into \nProducts, \nTenure, Sales \nchannels etc.\nEOM Target \nChurn Rate\nAvg. Mo. \nTarget Rate\nTarget 2.0\nDelta – \nTarget vs. \nActual\nAllows users to track \ninvoluntary churn \nagainst targets over \ntime\nHighlights the \ncontribution of \ndifferent products to \ninvoluntary churn \nvolume as result of \nMoM change in churn \nrate and subscribers \nbase\nHighlights the \ncontribution of \ndifferent segments \n(products, tenure, \nsales channels, etc.) \ntowards MoM change \nin involuntary churn\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (53).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114192553+05'30'",
+            "modDate": "D:20241114192553+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAnalysing forecast performance\nY1M1\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9\nY1M10\nY1M11\nY1M12\nY1M2\nY1M2\nY1M2\nY1M3\nY1M4\nY1M5\nY1M6\nY1M7\nY1M8\nY1M9\nY1M10\nY1M11\nY1M12\nFunctionality to select \nthe forecast month\nEnables tracking of \nactuals against \nlatest available \nforecast and \ntargets\nEnables tracking of \nforecast performance \nby month\n5\nILLUSTRATIVE\n"
+    }
+]

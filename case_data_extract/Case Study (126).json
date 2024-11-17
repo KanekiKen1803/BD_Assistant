@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125257+05'30'",
+            "modDate": "D:20241114125257+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRevenue Forecast\n1\n• Provided day-level business performance visibility by forecasting revenue and \nincluded business levers like marketing spend, discounts etc. to understand \nrevenue sensitivity\n• Facilitated efficient benchmarking of actual business performance against the \nforecast by developing an interactive Power BI dashboard \nA PE-owned premium jewelry brand in the U.S\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125257+05'30'",
+            "modDate": "D:20241114125257+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nProvided visibility into day and month level revenue forecast by leveraging budgeted marketing spends, historical customer behavior, business seasonality \nand discounts.\n•\nAssisted the business team in assessing the impact of promotional activities , change in customer purchasing patterns and macro economic conditions by \nproviding levers to include and adjust a variety of parameters.\n•\nFacilitated efficient and user-friendly benchmarking of actual business performance against the forecast by developing an interactive Power BI dashboard \nSituation\n•\nClient had limited visibility into the projected business performance in the forthcoming months and the factors impacting it . There was an opportunity to \nassist the leadership in developing marketing strategy by forecasting revenue incorporating various business factors and scenarios\n•\nPartnered with the client to develop a customer-based revenue forecasting model by incorporating key customer metrics such as lifetime value, repeat \nrates etc., business trend, seasonality, discounts to better manage revenue trends\nRevenue forecasting for a premium jewelry brand\n2\nImpact\n•\nThe revenue forecast model provided better visibility into the projected business performance with <10% mean average error and enabled the client to devise \ndata-driven business strategies by pre-evaluating the impact of planned promotional activities and business trend.\n•\nEnabled the client to shift from high discount to low discount strategy by providing scenario modelling levers to assess the revenue impact\nRevenue Forecast\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125257+05'30'",
+            "modDate": "D:20241114125257+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nLegend\nCalculated\nOutput\nForecasted\nDemand ($)\nNew customer \ndemand ($)\nRepeat customer \ndemand ($)\nHistorical new \ncustomer AOV ($)\nHistorical new \ncustomers (#)\nDiscount\nSeasonality\nDiscount\n      Seasonality\n   Media Spend\nForecasted new \ncustomer AOV ($) \nusing multivariate \nlinear regression\nForecasted new \ncustomers (#) \nusing multivariate \nlinear regression\nRepeat demand ($)\n*Normalized repeat \ndemand ($) / cohort \nsize\nForecasted normalized \nrepeat demand ($) / \ncohort size\nRemoval of discount effect\nHistorical repeat behavior and recent trend\nNormalized repeat \ndemand ($)\nLift (Discount effect)\nInput\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125257+05'30'",
+            "modDate": "D:20241114125257+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nForecast outputs\n4\nILLUSTRATIVE\nOutput summary shows acquisition and retention revenue, customers, orders, gross demand per customer at a yearly, monthly and daily granularity\nActual Data\nForecast Data\nGross Demand* \n($) - by Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAdjustment (%)\nNew Customers $10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000\nRepeat Customers$10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000 $10,000\nTotal\n$20,000 $20,000 $20,000 $20,000 $20,000 $20,000 $20,000 $20,000 $20,000\nGross Demand* \n($) - Cumulative \nfor Month\n1\n2\n3\n4\n5\n6\n7\n8\n9\nCumulative\n$20,000 $40,000 $60,000 $80,000\n$1,00,00\n0\n$1,20,00\n0\n$1,40,00\n0\n$1,60,00\n0\n$1,80,00\n0\nGross Demand* \n(%) - by Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\nNew Customers\n50%\n50%\n50%\n50%\n50%\n50%\n50%\n50%\n50%\nRepeat Customers\n50%\n50%\n50%\n50%\n50%\n50%\n50%\n50%\n50%\nOrders (#) - by \nDay\n1\n2\n3\n4\n5\n6\n7\n8\n9\nNew Customers\n110\n110\n110\n110\n110\n110\n110\n110\n110\nRepeat Customers\n110\n110\n110\n110\n110\n110\n110\n110\n110\nTotal\n220\n220\n220\n220\n220\n220\n220\n220\n220\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (126).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125257+05'30'",
+            "modDate": "D:20241114125257+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nForecast inputs\n5\nMedia spend data \ninput for monthly \nand daily forecast\nUser inputs- \nChange in AOV, \nOPC, Retention and \nCAC\nMedia Spend ($) - Monthly\nMonth\nMonth 1\nMonth 2\nMonth 3\nPaid Search\n$2,01,367\n$1,93,499\n$1,63,429\nPaid Social\n$2,06,437\n$1,73,358\n$1,93,834\nAffiliate\n$10,141\n$35,907\n$35,726\nDisplay\n$44,847\n$54,819\n$57,010\nTotal\n$1,00,000\n$1,00,000\n$1,50,000\nMedia Spend ($) - Daily\nDate\n1\n2\n3\nPaid Search\n$7,639\n$7,639\n$7,639\nPaid Social\n$7,858\n$7,858\n$7,858\nAffiliate\n$1,746\n$1,746\n$1,746\nDisplay\n$2,074\n$2,074\n$2,074\nTotal\n$10,000\n$10,000\n$10,000\nDiscount category \ninput on daily basis\nSales Calendar\nDay\nDiscount\nDay 1\nHigh\nDay 2\nHigh\nDay 3\nHigh\nDay 4\nHigh\nDay 5\nNo\nDay 6\nNo\nDay 7\nNo\nDay 8\nLow\nDay 9\nNo\nDay 10\nNo\nDay 11\nMedium\nDay 12\nNo\nDay 13\nNo\nMonth\nApr-24\nMay-24\nJun-24\nJul-24\nAug-24\nSep-24\nOct-24\nΔAOV%\n1%\n1%\n1%\n1%\nMonth\nApr-24\nMay-24\nJun-24\nJul-24\nAug-24\nSep-24\nOct-24\nΔOPC%\n1%\n1%\n1%\n1%\nMonth\nApr-24\nMay-24\nJun-24\nJul-24\nAug-24\nSep-24\nOct-24\nΔRetention%\n1%\n1%\n1%\n1%\nMonth\nApr-24\nMay-24\nJun-24\nJul-24\nAug-24\nSep-24\nOct-24\nΔCAC%\n-1%\n-1%\n-1%\n-1%\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103952+05'30'",
+            "modDate": "D:20241115103952+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nCOMPETITOR PRICE ANALYSIS \nPet Food Manufacturer\nBuilt a reporting module to track competitor price changes\nreal-time using APIs to help the company take pre-emptive \nactions for any potential implications on market share due to \ncompetitor price changes\nData mining using APIs; Power BI \nDashboarding\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103952+05'30'",
+            "modDate": "D:20241115103952+05'30'",
+            "trapped": ""
+        },
+        "content": "COMPETITOR PRICING ANALYSIS FOR A PET FOOD MANUFACTURER\nSITUATION\n▪\nA fast-growing pet food brand was facing competitor pricing actions in key product categories which was impacting sales growth\n▪\n To address the situation, Merilytics partnered with the client to track 200+ products for 30 competitor brands, on two large e-commerce \nplatforms and automated the analyses to refresh on a weekly basis\n▪\nBuilt API-based processes to obtain product and pricing data from e-commerce platforms on a regular basis\n▪\nAggregated for various product categories, sub-categories and brands to identify the company’s product price premium as compared to its \ncompetitive set of products\n▪\nBuilt a Power BI dashboard to showcase the results of the API price tracker\nVALUE ADDITION\nIMPACT\n▪\nMerilytics’ solution enabled the company to track competitor price actions, to understand the price positioning and enabling  quick response\n▪\nThe company was able to better understand the customer reviews, sentiments and product gaps that existed in the portfolio, compared to \ncompetitors\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103952+05'30'",
+            "modDate": "D:20241115103952+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nILLUSTRATIVE\nCOMPETITOR PRICING ANALYSIS - ILLUSTRATIONS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (124).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103952+05'30'",
+            "modDate": "D:20241115103952+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nILLUSTRATIVE\nCOMPETITOR PRICING ANALYSIS - ILLUSTRATIONS\n"
+    }
+]

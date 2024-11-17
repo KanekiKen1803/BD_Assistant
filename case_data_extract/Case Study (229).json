@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n1\nLTL Logistics Freight Profitability Analysis\n(Less-than-truckload (LTL) Shipping Services Company)\nRoot cause analysis of declining profit margin through a robust profitability model that \nallocated costs at a shipment level\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nFreight Profitability Analysis for an LTL Logistics Company\n2\nSITUATION\nVALUE ADDED\nIMPACT\n▪Client had negative net profit margins for 5 \nyears and was unable to identify the root cause \ndue to lack of visibility into shipment level \nprofitability. \n▪Partnered with the client to build a shipment-\nlevel profitability analysis and identified drivers \nof low profitability by: i) integrating cost \ncomponents (linehaul, pick-up, delivery, labor, \nfuel, etc.) spread across multiple systems; and \nii) allocating costs at shipment level.\nINPUTS\n▪Integrated data from disparate source systems \n(shipment data, dimensions data, GL data, \npickup & delivery data, trips data, etc.) into a \nsingle database in SQL server by building \nautomated pipelines using Qlik Replicate and \nSSIS.\n▪Established relationships across all datasets at \nshipment level and developed automated data \ncleansing processes to ensure data quality.\n▪Developed a comprehensive cost allocation \nmethodology by cost header (shipment volume, \nmiles traveled etc.) to enable margin estimation \nat shipment level.\n▪Built robust self-serve dashboards in Power BI \nto track profitability by customer, lane, \ntransportation mode, etc. and identify drivers of \nlow margin.\nPROCESSING\n▪Enabled transformation of the freight network \nby strategic closure of loss-making lanes, \nintroduction of margin-based pricing, removal \nof less profitable modes, and review of cities \nbeing served. These data-driven initiatives \nhelped the client become profitable within I \nyear of the engagement.\n▪As a result, Gross Margins increased by $20 \nmillion (5% margin improvement). \nOUTPUTS\nABOUT THE CLIENT: Client is an LTL (Less-than-Truckload) shipping services company serving lanes across ~30 major cities.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nValue Creation Initiatives\n3\nValue Creation Analytics\nRevenue Drivers\nCost Drivers\nWorking Capital Drivers\n1. Sales Analysis – Analyzed sales data, sales team performance vs \ntargets and key customer accounts to incentivize the sales reps\n2. Missed pickups Analysis – Developed automated reporting to \nanalyze missed pickups by drivers resulting in lost revenue\n3. Dimming & Reweighing Reporting – Compared dimensions and \nweight of shipment provided by customer to actual values to \nidentify shipments that required rebilling. This minimized revenue \nleakage.\n4. Service Quality Reporting – Tracked key customer service metrics \nincluding on-time delivery, appointment service, scanning \ncompliance, damaged/lost shipments claims, etc.\n5. Operations Reporting & Analysis – Tracked all operational \nmetrics including on-time dispatch, route compliance, time to \nload/unload, dock aging, etc.\n6. Pricing Analysis – Analyzed pricing per volume of shipment \nagainst cost and suggested changes in pricing for lanes\n1. Value Chain Planning Reporting– Provided visibility into value chain \nmetrics to the executive management and investors\n2. Linehaul Profitability Analysis – Analyzed profitability at a granular \nlevel and identified low profitability lanes to be discontinued\n3. Pickup and Delivery Costs Analysis – Analyzed various cost \ncomponents involved in pickup/delivery and identified operational \ninefficiencies across terminals, customers and drivers\n4. Truck Utilization Analysis – Analyzed truck utilization (volume) and \nrecommended changes to shipment routes to maximize utilization \nand reduce costs \n5. Labor Productivity Reporting – Tracked dock labor productivity \nmetrics including shipments scanned and weight handled per hour, \nidle time, % rehandles, etc. against targets\n1. Equipment Reporting – Provided visibility into service status and \nlocation of trailers, trucks and tractors to track damaged/lost \nequipment\n2. Driver Settlements Reporting – Tracked settlement and driver \npayments to reconcile with driven miles\n3. P&L Reporting – Provided visibility into expenses (COGS, SG&A, \noverheads, etc.) related to shipments to identify irregular expenses\n▪\nAssessed existing data architecture, built a comprehensive view of systems and data flow, and recommended changes to improve efficiency, scalability and process automation in the architecture\n▪\nIntegrated data from disparate source systems (shipment data, dimensions data, GL (Finance) data, pickup & delivery data, trips data, etc.) into a single database in SQL server using Qlik Replicate and SSIS. \nEstablished linkages across all datasets at shipment level and added automated data clean-up processes to address data quality & missing data points\n▪\nBuilt a consolidated SQL Server-based Data Warehouse (DW) ensuring a single source of truth for all reporting\n▪\nCreated seven data cubes on SSAS for the key business functions including operations, drivers, equipment, sales, pricing, partners, and finance \n▪\nDeployed a reporting suite in Power BI and configured infrastructure to enable automated self-serve reporting and to drive data-driven decision-making across various stakeholder (executives, functional heads, \nservice center managers, operators, and drivers)\n▪\nAutomated the governance and maintenance of DW with failure notifications, refresh notifications, run time monitoring, etc. to ensure accurate reporting \nData Management\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nApproach\n4\nTrip Data\n(Linehaul costs, Miles) \nPickup Data\n(Pickup attempts and costs)\nDelivery Data\n(Delivery attempts and costs)\nShipment Data\n(Revenue, Dimensions, Weight)\nFinance (GL) Data\n(Ops Overheads like Doc costs)\nIntegrated Data\nCost Allocation \nMethodology\nData\nCleanup\nSSAS \nModel\nPower BI Reports\nData Cleanup:\n1.\nMissing shipments’ dimensional data\n▪\nEstimated based on shipment’s weight & freight class\n2.\nMissing Miles (distance traveled)\n▪\nCalculated ‘Miles’ using PC Miler API based on zip codes for trip’s \norigin and destination\n3.\nPoor data quality of Volume and Weight of shipments\n▪\nReplaced volume or weight outliers with calculated values for \nshipment freight class\n4.\nNegative GL cost components for a few months due to \nthe delayed posting of reversals\n▪\nAggregated  GL costs (every 6 months) and redistributed on a \nmonthly basis\nCost Allocation Methodology:\nIdentified and allocated all cost components at shipment level\n1.\nTrip Level Costs: Allocated trip costs based on volume\n▪\nExample: Trip cost, Fuel cost\n2.\nMonthly Costs:  Allocated shipment costs based on \nvolume x miles traveled in the respective month\n▪\nExample: GL Ops Overhead Costs\nQlik Replicate\nQlik Replicate\nSQL Replicate\nSQL Replicate\nSSIS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nSample Output: Shipment Profitability Analysis\n5\nSummarizes key \nprofitability metrics \n(Revenue, Cost, Margin)\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nSample Output: Initiatives Tracker\n6\nILLUSTRATIVE\nChange Management \nReport tracks progress of \nkey initiatives against \ntargets on a daily basis\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nSample Output: Root Cause Analysis to Identify Drivers of Low Profitability \n7\nILLUSTRATIVE\nDecomposition tree \nidentifies the root cause of \nmargin variance by \nregion, terminal, power \ntype, trip miles travelled.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (229).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150335+05'30'",
+            "modDate": "D:20241114150335+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nSample Output: Customer Profitability and Pricing Adjustments\n8\nILLUSTRATIVE\nIdentifies customers with \nlow margins to re-evaluate \npricing and improve \nmargins\n"
+    }
+]

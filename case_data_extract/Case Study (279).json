@@ -1,0 +1,42 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (279).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (279).pdf",
+            "page": 0,
+            "total_pages": 2,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160736+05'30'",
+            "modDate": "D:20241114160736+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nInventory Management\nAsset rental\nBuilt a shared inventory management model to optimize the \ninventory placement at each warehouse in a hub-and-spoke \nconfiguration to meet target service levels with minimal \ntransportation costs\nData integration; \nExecutive dashboard\n1\nSUCCESS STORIES - SUMMARY\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (279).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (279).pdf",
+            "page": 1,
+            "total_pages": 2,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160736+05'30'",
+            "modDate": "D:20241114160736+05'30'",
+            "trapped": ""
+        },
+        "content": "INVENTORY AND WAREHOUSE MANAGEMENT MODEL FOR A B2B A/V \nEQUIPMENT RENTAL COMPANY\nSITUATION\n▪\nCompany uses a shared inventory model with products transferred between warehouses, but inefficiency in inventory management and \ntransport logistics led to higher operational costs\n▪\nThere was an opportunity to evaluate the warehouse configuration and optimal inventory placement by analyzing trends in product utilization \nand customer preferences\n▪\nMerilytics partnered with the client to develop a regional inventory strategy managed with a hub-and-spoke warehouse model\n▪\nDeveloped a projected regional demand plan by product, based on historical patterns and current order book\n▪\nEstimated the theoretical stock levels to be maintained for each product based on service level by product \n▪\nDeveloped three-tiered inventory stocking model (national hub, regional hub and local warehouses), to minimize transfer costs and capex in new \nproduct purchases \n▪\nDetermined optimal warehouse network to support inventory strategy, based on location and capacity \n▪\nLaunched and analyzed a successful pilot for rolling out the new inventory and warehouse model\nVALUE ADDITION\nIMPACT\n▪\nThe new logistics model is currently being implemented across the client network, through five regional hubs across the U.S.\n▪\nAutomated and efficient tracking model enabled a quarterly review and realignment of inventory based on latest demand trends.\n▪\nThis enabled the company to achieve a YoY savings of ~20% on the equipment transfer costs\nABOUT THE CLIENT\nClient is a PE-owned A/V equipment rental company with ~40 warehouses across U.S., Canada and Europe.\n2\n"
+    }
+]

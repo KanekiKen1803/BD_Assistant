@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135559+05'30'",
+            "modDate": "D:20241114135559+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDatabase replication\n1\nReplicated the existing database of the client's subsidiary company in an Azure-\nbased Data Warehouse, integrating it into their central Data Warehouse with \nvisibility over the brand data, thus providing centralized reporting\nHealth & wellness firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135559+05'30'",
+            "modDate": "D:20241114135559+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to replicate the existing database in an Azure-based Database within the company's central Data Warehouse \nto provide the client with complete visibility over the brand data, allowing them to use it for central reporting. Acquired a \nbrand whose existing Data Warehouse was outside their ecosystem, hindering central reporting at the group level\nHealth & wellness firm needs database replication\n2\nYour value is enhanced. \n•\nEnsured consistent data across both data warehouses with 100% accuracy during the migration process, guaranteeing the \nreliability of the dashboarding suite at the client's end as a source of truth. Achieved efficient daily data refresh by only updating \nthe data tables modified since the last refresh\n•\nAutomated data refresh saved ~90 hours of person-hours by eliminating the need for manual data refresh every week\nDATABASE REPLICATION\nKEY RESULT   \n•\nSaved ~90 hours of \nperson-hours per week\nVALUE LEVERS PULLED\n•\nOne-Time full database \ncopy\n•\nDaily incremental data  \nrefreshes\n2\nYou turn to Accordion. \nWe partner with your team to Replicated the existing database of the client's subsidiary company in an Azure-based Data \nWarehouse, integrating it into their central Data Warehouse with visibility over the brand data, thus providing centralized reporting, \nincluding:\n1) Replicating the Azure-based Data Warehouse and implementing an optimized daily data refresh process to selectively \nupdate tables that were modified at the source, thereby enhancing efficiency in data synchronization\n2) Developing and implementing an automated alert system to instantly notify the team upon the creation of a new source \ntable in the child company's warehouse, providing relevant details. \n3) Incorporating automated data validation and reconciliation rules to ensure accuracy and consistency in the data load \nprocess\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135559+05'30'",
+            "modDate": "D:20241114135559+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nReplicated the Azure-based Data Warehouse and implemented an optimized daily data refresh process to selectively update tables that were modified at \nthe source, thereby enhancing efficiency in data synchronization\n•\nDeveloped and implemented an automated alert system to instantly notify the team upon the creation of a new source table in the child company's \nwarehouse, providing relevant details. \n•\nIncorporated automated data validation and reconciliation rules to ensure accuracy and consistency in the data load process\nSituation\n•\nThe client acquired a brand whose existing Data Warehouse was outside their ecosystem, hindering central reporting at the group level\n•\nPartnered with the client to replicate the existing database in an Azure-based Database within the company's central Data Warehouse to provide the client \nwith complete visibility over the brand data, allowing them to use it for central reporting\nDatabase replication for a home & personal care firm \n3\nImpact\n•\nEnsured consistent data across both data warehouses with 100% accuracy during the migration process, guaranteeing the reliability of the dashboarding \nsuite at the client's end as a source of truth. Achieved efficient daily data refresh by only updating the data tables modified since the last refresh\n•\nAutomated data refresh saved ~90 hours of person-hours by eliminating the need for manual data refresh every week\nDatabase replication\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135559+05'30'",
+            "modDate": "D:20241114135559+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\n01\n02\n03\n04\n05\n06\n07\nIdentified a list of 500+ tables for replication based on client's reporting requirements\nDesigned a loading strategy by categorizing tables into full load or incremental for daily data refresh\nFor full load tables, performed daily truncation and data loading. For incremental tables, further categorized them into Change Tracking (CT) tables and tables \nwith updated-at columns\nCT Tables stores information regarding data changes (inserts, updates, deletes) in the main table and we used this information to refresh data from the source \nand for Tables which has an updated date column, we updated the data since the last refresh based on the updated date column.\nCreated a mapping table using Metadata Tables to mark tables that were updated since the last refresh\nParameterized Azure Data Factory (ADF) pipelines to optimize the daily refresh process using information from the mapping table\nEstablished an Audit table to ensure the completion of the data load process, verifying row counts for each table against the source\nMethodology / Approach\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (176).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135559+05'30'",
+            "modDate": "D:20241114135559+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData warehouse architecture - High level diagram \n5\nData gathered from \nvarious sources using \nAzure Data Factory\nData Quality / Business rules \napplied on the staging data \nbefore loading reporting tables\nData models are created to \nimprove the efficiency and \nspeed for analysis and reporting\nSubsidiary data \nwarehouse\nSubsidiary \nazure SQL \ndatabase \nIngest\nAzure \nfunctions\nAzure \nlogic \napps\nData factory\nStaging\nData lake\nBCentral database\nSFTP / OneDrive\nAPI\nBraze currents\nData source\nData \nwarehouse\nParent \ncompany \nazure SQL \ndatabase \nIngest\nData factory\nData is pushed using \nAzure Data Factory\nSubsidiary’s Data Warehouse Architecture\nData Migration Flow\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185347+05'30'",
+            "modDate": "D:20241114185347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCustom excel functions\n1\nBuilt custom Excel function that simplifies financial reporting for a client by \nleveraging Power BI REST API and Azure Functions, providing real-time data \nanalysis.\nPrivate equity firm\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185347+05'30'",
+            "modDate": "D:20241114185347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt the custom Excel Add-In which simplified creating custom financial reports and allowed real-time insights into key performance metrics\n•\nThe Add-In leverages the Power BI REST API and Azure Functions to establish a connection to the data models on Power BI, capture user \nrequests from Excel, convert them to DAX queries, and retrieve results from the dataset\n•\nDeveloped a robust batch request process which allowed sending large number of requests to REST API with minimal downtime by \novercoming the restrictions set by Power BI REST API, which limits the number of requests per minute to 120 and the number of rows per \nquery request to 100,000\nSituation\n•\nClient was facing challenges in manually compiling financial reports for their funds and portfolio companies, and needed a solution that could \nstreamline the reporting process and provide real-time insights into the financial performance metrics\n•\nPartnered with the client to build a custom Excel function which provides flexibility to the users to create custom financials reports using key \nfinancial metrics and parameters\nCustom excel functions for private equity firm\n2\nImpact\n•\nProvided self-service analytics capabilities into the fund and portfolio performance by creating custom financial reports and provided flexibility \nto stakeholders to extract essential data as per requirements\n•\n80% reduction in person-hours by directly fetching key metric values from data models via Power BI REST API to generate financial reports\n•\nSignificant cost saving (~$50k per report) in generating templatized automated reports \nCUSTOM EXCEL FUNCTIONS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185347+05'30'",
+            "modDate": "D:20241114185347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCustomer excel function – Excel add-in architecture\n3\n1\n2\n3\nQuery: Azure Function converts user input parameters to a DAX Query and \nqueries Power BI Dataset leveraging Power BI REST API\nAccess Token: Access token is retrieved for the Power BI REST API and leveraged to make \nAPI calls to the Power BI service\nAuthenticate: Client credentials are authenticated using AAD/User Principle/Service Principle\nAzure Function: Azure Function acts as a webhook and receives HTTP requests from Excel\nUser Token: Function call from Excel fetches user token from the app that is registered \nwithin Azure Active Directory\n4\n5\n6\nFetch: The result set is returned by the dataset to the Azure Function\n7\nReturn: Azure Function returns the result to Excel along with cell references\n5\n6\n3\n4\n1\n2\n7\nFetch User Token\nRegister\nGenerate Access \nToken\nAuthenticate\nInvoke Azure \nFunction\nReturn Result\nDAX Query\nFetch Result set\nApp Registrations\nExcel addin\nDatasets\nFunction apps\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (408).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185347+05'30'",
+            "modDate": "D:20241114185347+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExhibit – Custom excel function\n4\nCustom function input parameters\nLeverages all native Excel \nfunctionalities of cell references\nILLUSTRATIVE\n"
+    }
+]

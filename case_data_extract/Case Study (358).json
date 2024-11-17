@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174941+05'30'",
+            "modDate": "D:20241114174941+05'30'",
+            "trapped": ""
+        },
+        "content": "Built an automated Inventory forecast model utilized in Annual Sales and \nOperations planning process by leveraging data from various functional areas \nto estimate inventory levels and related operating expenses\nEV Charging OEM\n(Inventory Model)\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174941+05'30'",
+            "modDate": "D:20241114174941+05'30'",
+            "trapped": ""
+        },
+        "content": "INVENTORY MODEL FOR ORIGINAL EQUIPMENT MANUFACTURER (OEM) FOR EVs\nSITUATION\n▪\nClient lacked visibility into the financial impact of inventory levels at various warehouses across product lines, due to lack of consolidated data \nrepository for Sales, Operations and Finance functions\n▪\nMerilytics partnered with the client to set up automated reporting of inventory levels and build an inventory forecast model, to help track inventory \nlevels, and have clear view of the operating expenses\n▪\nCreated an automated tool that consolidates data from source systems of Sales, Operation and Finance functions (SAP, Salesforce, Sage and \noffline Excel files), to create a single central repository of the data and set up the data/analytics models to support the reporting/analytics \n▪\nSet up a model that provides visibility into current inventory levels and forecasts the future inventory positions for the next financial year, by \nanalyzing forecasted demand for all product categories against lead times, and production constraints led by semi-conductors shortage\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is an Original Equipment Manufacturer (OEM) for Electric Vehicles serving customers in over 50 countries, with manufacturing plants across the globe\n▪\nResults from the analysis helped in estimating the operating expenses for Annual Operations Planning, and streamlining the supply chain \nprocesses such as sourcing, production planning, raw material procurement etc.  \n▪\nConsolidated data repository led to flagging of inventory accounting discrepancies of €10M, that helped streamlining the accounting and \nprovisioning modules\n▪\nAutomated data consolidation processes helped save up to 40 FTE-hours per month\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174941+05'30'",
+            "modDate": "D:20241114174941+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\nProduct Costing Data\n(Business Control)\nProduction Constraints\n(Operations)\nSales Forecast\n(Sales)\nInventory Write-off Analysis\n(Inventory Accounting)\nCurrent Inventory\n(Data Warehouse)\nMacro based update system to extract data from all \nsources, and structure in described format with a \nsingle button click\nNet Inventory Calculation\nProduction lead time analysis is applied with \nspecific lead times to each product category\nSupply vs Demand Analysis to determine the \ninventory quantities at each warehouse based on \nproduction constraints and lead times\nNet Inventory + Supply & Demand effect rolled up \nfor all months with a VBA code-based update \nsystem for storing inventory snapshots for forecast \naccuracy calculation\nInputs\nIntermediate Analysis\nOutput\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174941+05'30'",
+            "modDate": "D:20241114174941+05'30'",
+            "trapped": ""
+        },
+        "content": "OVERVIEW OF CURRENT INVENTORY LEVELS AND FORECAST OF FUTURE REQUIREMENTS\nILLUSTRATIVE\nMacro based buttons to update \nthe model \nMonthly Inventory forecast at \nwarehouse and product category \nlevel\nOverview of Current Inventory \nlevels\nLocation\nMonth 1 (FCST) Month2 (FCST) Month 3 (FCST) Month 4 (FCST) Month 5 (FCST) Month 6 (FCST)\nWarehouse 1\n€ 10,895,208\n€ 10,153,855\n€ 10,613,370\n€ 15,113,948\n€ 15,113,948\n€ 15,113,948\nWarehouse 1 (Excluding Provision)\n€ 4,970,330\n€ 3,955,680\n€ 4,409,613\n€ 6,375,636\n€ 6,375,636\n€ 6,375,636\nProduct Line 1\n€ 5,924,878\n€ 6,198,175\n€ 6,203,757\n€ 8,738,312\n€ 8,738,312\n€ 8,738,312\nProduct Line 2\n€ 3,230,658\n€ 2,630,276\n€ 2,467,637\n€ 2,467,637\n€ 2,467,637\n€ 2,467,637\nProduct Line 3\n€ 464,104\n€ 297,756\n€ 297,756\n€ 595,597\n€ 595,597\n€ 595,597\nProduct Line 4\n€ 1,275,567\n€ 1,027,647\n€ 1,644,219\n€ 3,312,401\n€ 3,312,401\n€ 3,312,401\nWarehouse 2\n€ 109,122,180\n€ 98,947,325\n€ 88,312,737\n€ 73,177,353\n€ 58,041,751\n€ 42,905,931\nWarehouse 2 (Excluding Provision)\n€ 107,122,180\n€ 96,947,325\n€ 86,312,737\n€ 71,177,353\n€ 56,041,751\n€ 40,905,931\nProduct Line 1\n€ 6,201,175\n€ 6,206,757\n€ 8,741,312\n€ 8,741,312\n€ 8,741,312\n€ 8,448,299\nProduct Line 2\n€ 2,633,276\n€ 2,470,637\n€ 2,470,637\n€ 2,470,637\n€ 2,470,637\n€ 5,044,302\nProduct Line 3\n€ 300,756\n€ 300,756\n€ 598,597\n€ 598,597\n€ 598,597\n€ 611,462\nProduct Line 4\n€ 1,030,647\n€ 1,647,219\n€ 3,315,401\n€ 3,315,401\n€ 3,315,401\n€ 3,417,606\nProduct Line 5\n€ 3,000\n€ 3,000\n€ 3,000\n€ 3,000\n€ 3,000\n€ 595,806\nProduct Line 6\n€ 3,000\n€ 3,218\n€ 3,436\n€ 3,654\n€ 3,872\n€ 4,090\nProduct Line 7\n€ 98,950,325\n€ 88,315,737\n€ 73,180,353\n€ 58,044,751\n€ 42,908,931\n€ 24,784,365\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (358).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114174941+05'30'",
+            "modDate": "D:20241114174941+05'30'",
+            "trapped": ""
+        },
+        "content": "MONTHLY INVENTORY ACTUALS VS FORECAST PERFORMANCE\nMonthly Review of Inventory \nActuals vs Forecasted expenses\nILLUSTRATIVE\n5\nLocation\nMonth 1\nMonth 2\nForecast\nActuals\nDelta\nVariance\nForecast\nActuals\nDelta\nVariance\nWarehouse 1\n€ 10,895,208\n€ 11,590,091\n€ 694,883\n6.0%\n€ 10,153,855\n€ 9,901,026\n-€ 252,829\n-2.6%\nProduct Line 1\n€ 5,924,878\n€ 6,922,878\n€ 998,000\n14.4%\n€ 6,198,175\n€ 5,892,517\n-€ 305,658\n-5.2%\nProduct Line 2\n€ 3,230,658\n€ 2,827,214\n-€ 403,444\n-14.3%\n€ 2,630,276\n€ 2,818,108\n€ 187,832\n6.7%\nProduct Line 3\n€ 464,104\n€ 559,999\n€ 95,895\n17.1%\n€ 297,756\n€ 279,123\n-€ 18,633\n-6.7%\nProduct Line 4\n€ 1,275,567\n€ 1,280,000\n€ 4,433\n0.3%\n€ 1,027,647\n€ 911,278\n-€ 116,369\n-12.8%\n"
+    }
+]

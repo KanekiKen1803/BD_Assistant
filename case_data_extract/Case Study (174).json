@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135341+05'30'",
+            "modDate": "D:20241114135341+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nCreated a comprehensive supply management model to help generate purchase \norders  and prevent out of stock (OOS) situations and improve service levels\nSpecialty Food Manufacturer\n(Material Requirement Planning)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135341+05'30'",
+            "modDate": "D:20241114135341+05'30'",
+            "trapped": ""
+        },
+        "content": "ORDER PLANNING FOR PE-OWNED SPECIALITY FOOD MANUFACTURER\nSITUATION\n▪Recently implemented ERP system was not a good fit for the company’s business processes. Hence, the purchase orders  generated from the system were \nnot optimum leading to frequent stock outs and low service levels\n▪Merilytics partnered with the company to create a comprehensive supply management model to help generate purchase orders  and prevent out of \nstock (OOS) situations, and improve service levels\n▪Created an easy-to-use supply management model customized to suit the company’s unique requirements\n▪Estimated the net product needs of the company by taking into consideration the demand forecast, future product expirations, safety stock and open purchase \norders (POs)\n▪Generated the purchase orders to be placed based on the supplier lead time, supplier cycle time  and net product needs\nVALUE ADDITION\nIMPACT\n▪The customized supply management model helped the company to improve their PO placing activities leading to higher service levels\nABOUT THE CLIENT\nCompany was a PE-owned specialty food manufacturer\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (174).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135341+05'30'",
+            "modDate": "D:20241114135341+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nProduction/ Ordering \nschedule\nCurrent inventory \nposition\nFinal sales forecast\nSafety stock levels\nExpiring inventory\n-\nNet available inventory\n=\nLead time,\nCycle time for production\nProduction\n/ Order \nscheduling \nmodel\nOpen work orders for \nproduction\nMinimum order quantity \n(MOQ) adjustment\nFinal Production/ \nOrdering schedule\nOutput of the Supply Chain model\nMETHODOLOGY USED TO ESTIMATE FINAL PURCHASE ORDER SCHEDULE\n"
+    }
+]

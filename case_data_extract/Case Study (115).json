@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWeb-based commission tool\n1\nBuilt a centralized web-based tool to reduce the manual efforts of consolidating \ndata in excel sheets from ~100 centers and streamlined the processing of \ncommissions\nCosmetic medical service provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build a centralized web-based tool for the central / regional mangers to input & validate the commission \ndata, enable the Finance team to generate a consolidated report and process appropriate payments. Existing process of \nconsolidating the performance data through excel sheets for ~110 centers every month is not sustainable and prone to errors.\nCosmetic medical service provider needs a web-based \ncommissioning  tool\n2\nYour value is enhanced. \n•\nYou have reduced the manual effort for the Finance Team in processing the commissions, by ~60%\n•\nYou have eased the process of data input and validation for the Center Managers / Regional Directors, and reduced errors\nWEB-BASED COMMISSION TOOL\nKEY RESULT   \n•\nReduced effort by ~60%\nVALUE LEVERS PULLED\n•\nCommission model\n•\nExcel VBA macros\n2\nYou turn to Accordion. \nWe partner with your team to build a centralized web-based tool to reduce the manual efforts of consolidating data in excel \nsheets from ~100 centers and streamline the processing of commissions, including:\n1)\nDeveloping a centralized tool where the Center Managers and Regional Directors can login and update the data for their \ncenters and the Finance Team can review the consolidated data along with the estimated commissions in a clean format and \nprocess them \n2) Application to provide a custom view to the Center Managers & Regional Directors with restricted access to only the \ninformation of the centers within their purview, thus maintaining the confidentiality of the information provided\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nExisting process of consolidating the performance data through excel sheets for ~110 centers every month was not sustainable in the long run and was \nprone to manual mistakes\n•\nDeveloped a centralized tool where the Center Managers and Regional Directors can login and update the data for their centers and the Finance Team can \nreview the consolidated data along with the estimated commissions in a clean format and process them \n•\nApplication also provided a customized view to the Center Managers & Regional Directors with restricted access to only the information of the centers \nwithin their purview, while maintaining the confidentiality of the information provided\nSituation\n•\nClient had an opportunity to streamline the exiting commission payment process that is based on the data collected from the Center Managers and \nRegional Directors using Excel files (~110 Centre Managers and ~10 Regional Directors)\n•\nPartnered with the client to build a centralized web-based tool for the central / regional mangers to input & validate the commission data and enable the \nFinance team to generate a consolidated report and process the appropriate payments\nCollating information through a centralized tool to estimate \nmonthly commissions\n3\nImpact\n•\nReduced the manual effort for the Finance Team in processing the commissions, by ~60%\n•\nEased the process of data input and validation for the Center Managers / Regional Directors, and reduced errors\nWeb-based commission tool\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCommissions estimation: Admin screen to initiate cycle\n4\nProvision for the Admin to initiate \nthe payroll cycle by providing the \nstart and end dates for the center \nmanagers and regional directors to \ninput the required data\nFlexibility for the admin to refresh \nthe headcount report or region to \ncenter mapping directly using the \napplication\nAbility to input custom name for the \npayroll cycle\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCommissions Application: Admin screen to review status\n5\nFlexibility for the Admin to \napprove/reject the payroll data \nprovided\nAbility to view the status for \neach center and download \nthe same into an Excel file to \nreview\nAbility to effortlessly navigate \nbetween different reports\nFlexibility for the admin to reject the details \nprovided by the center manager or regional \ndirector and send an email to the user with \ncomments\nAdmin can send reminders to input \nthe data and access the data from \nprevious cycles for comparison\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (115).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123915+05'30'",
+            "modDate": "D:20241114123915+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCommissions application: User view to input data\n6\nFlexibility to select from the \ndropdown to effortlessly input the \ndata\nAbility to effortlessly navigate \nbetween different reports\nAbility to \nprovide \ncomments for \nthe details \nprovided\nCenter level data would be auto-\npopulated from the database in \nthe backend based on the \nselection to expedite the process \nfor the user\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer acquisition analytics\n1\nAnalyzed digital customer acquisitions and their digital footprint to identify \nacquisition channel, and tracked their spend across channels (digital & non-\ndigital) every week to estimate LTV and ROI by channel\nHealthy food company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to analyze new customer base each week, segment them based on the promotions that have been applied on the \nfirst transaction and estimate their weekly spend going forward. At present, you want to understand the impact of the company’s \nmarketing spend across various channels and track it on a weekly basis.   \nHealthy food company needs customer acquisition analysis\n2\nYour value is enhanced. \nYou have the ability to evaluate the impact of marketing spend over various platforms and estimate ROI across various channels. \nYou have started to invest more in paid media and affiliate channels as they were identified as the most profitable channels. \nCUSTOMER ACQUISITION ANALYSIS\nVALUE LEVERS PULLED\n•\nCustomer acquisition \ncohort analysis\n•\nEstimate LTV and ROI \nchannel\n2\nYou turn to Accordion. \nWe partner with your team to analyze digital customer acquisitions and their digital footprint to identify acquisition channel and track \ntheir spend across channels (digital & non-digital) every week to estimate LTV and ROI by channel, including:\n1) Analyzing transactional data to review various promotional campaigns that have been run over the time period by combining \nPOS information and the digital footprint of the customer (tracked by third party platform) \n2) Prioritizing the order of the promotions as there are multiple promotions applied on the same transaction \n3) Assigning customer acquisition cohort based on the priority and estimating customer spend and ROI by channel \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\nData\nOutcome\nAnalyzed transactional data to review various \npromotional campaigns\nPrioritized the order of the promotions as there are \nmultiple promotions applied on the same transaction\nAssigned customer acquisition cohort based on the \npriority of channels/spend\nEstimated customer LTV and average spend per week \ngoing forward, by different acquisition channel cohorts\n01\n02\n03\n•\nItem-transaction level data for 4 years (2014-\n18)\n•\nData from Amplitude, a product analytics \nplatform for web and mobile, that tracks \ncustomer digital footprint\n•\nIn case of multiple acquisition sources \nmapped to a new customer transaction, \norder of priority of source was applied as \nfollows, Paid Media, Affiliates, email sign-\nups, influencers, partnerships, in-store \nactivations, customer referrals\n•\nTransactions mapped to Referral codes, \npromotion codes (influencers, partnerships, \nemails)\n•\nIdentified source of acquisition for digital \ntransactions, e.g., paid media, organic search, \naffiliates etc.\n•\nEach newly acquired customer is \nassigned a single cohort, i.e., source \nof acquisition\n•\nEstimated total net revenues across digital and \nnon-digital channels each week for customers \nfor every acquisition channel\n•\nEstimated ROI of various acquisition \nchannels based on customer spend and \nattrition over time\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTotal revenue from \ncustomers who were \nacquired through “Paid \nMedia” in the \nacquisition week\nTotal revenue from \ncustomers who were \nreactivated through \n“Paid Media” in the \nacquisition\nAverage LTV of customer \nacquired/reactivated via “Paid \nMedia”\nCustomer \nacquisition \nweek\nCustomer acquisition analysis – Example for “paid media” channel\n4\nWeek\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTotal customers who were acquired through various \ncustomer cohort in the acquisition week\nCustomer \nAcquisition Week\nSlicers to estimate Acquisition \ncount at various \nMarket/Location/Channel levels\nCustomer \nacquisition \nCohort\nCustomer acquisition analysis – Example for “paid media” channel\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (238).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104443+05'30'",
+            "modDate": "D:20241115104443+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAvg. LTV of customers that were \nacquired through various customer \ncohort in the acquisition week\nCustomer \nAcquisition Week\nSlicers to estimate Acquisition \ncount at various \nMarket/Location/Channel levels\nCustomer \nacquisition \nCohort\nCustomer acquisition analysis – example for “paid media” channel\n6\nILLUSTRATIVE\nWeeks\n"
+    }
+]

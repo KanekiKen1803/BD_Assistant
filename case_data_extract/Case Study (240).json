@@ -1,0 +1,242 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 0,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse & BI \ninfrastructure implementation\n1\nDeveloped Data Lake and BI infrastructure to integrate data from 8 Practice \nManagement System(PMS), 2 Marketing data sources, and managed PMS \nmigration during acquisition to provide a consistent, comprehensive and \nexhaustive Analytics/ Reporting solution using Power BI, to further accelerate the \ndata visibility for acquired entities \nOrthodontic care provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 1,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build comprehensive and scalable cloud data warehouse by integrating source systems across all the \npractices into a central data repository to provide better transparency and insights to business performance. You have \nadopted a profit-sharing model with the acquired Practices, and they lacked visibility into their Business performance due to \ndifferent granularity of data in multiple systems and absence of single source of truth for reporting. Additionally, you were facing \nchallenges with reporting data during the migrating of acquired Practice Management Systems (PMS) to the existing core PMS \nsystems.\nOrthodontic care provider needs Enterprise data warehouse & \nBI infrastructure implementation\n2\nYour value is enhanced. \nThe integration period for incorporating practices into the reporting suite was decreased from ~6 months to ~1 month, enabling \nyou to accelerate acquisition speed by ~200%. The Management dashboard provided real-time visibility on the operational \nperformance of all practices with metrics like Patient Adds, Aligner Mix, Net Production, etc. It has saved an effort of 50-60 man-\nhours on the monthly basis. Multiple business logic issues were addressed during data exploration and validation, including mis-\naccounting of Adjustment data, incorrect logic to count New Patient Add, etc.\nDATA MANAGEMENT AND BI \nINFRASTRUCTURE SETUP\nKEY RESULT   \n•\nSaved an effort of 50-\n60 person-hours on the \nmonthly basis \n•\nReporting suite was \ndecreased from ~6 \nmonths to ~1 month\n•\nEnabling you to \naccelerate acquisition \nspeed by ~200%. \nVALUE LEVERS PULLED\n•\nSetup Data Warehouse \ninfrastructure\n•\nPractice Performance \ntracking and reporting\n2\nYou turn to Accordion. \nWe partner with your team to provide enterprise level visibility into acquired practices business performance and reducing the \nturn-around time to integrate acquired practices data into Management reporting, which further accelerated the monthly \nacquisitions rate, including:\n1) Integrating data for 45 practices from 08 different Practice Management source systems into CDMs (Revenue, Contract, \nPatient and Appointment)\n2) Building the Management dashboard to monitor key operational performance of all practices; Marketing dashboards to \nanalyze the spend on multiple digital marketing channels; and HR dashboard to make informed decisions regarding \nworkforce including recruitment, retention, diversity and inclusion\n3) Creating consolidated and uniform Practice rating system by assigning the scores to individual KPIs for all Practices\n4) Developed a framework to ensure a seamless migration of data from acquired PMS systems to existing PMS systems for \nthe reporting suite, including transition date parameterization, data field mapping between the systems, control of data \nflow at the data table and metric levels in the Clean zone, etc.\n5) Providing consulting support on optimizing Azure resource costing, exception monitoring using Power Automate and \nsetting up Dataddo tool for Facebook Ads data integration\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 2,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated data for 45 practices from 08 different Practice Management source systems into CDMs (Revenue, Contract, Patient and Appointment)\n•\nBuilt the Management dashboard to monitor key operational performance of all practices; Marketing dashboards to analyze the spend on multiple digital \nmarketing channels; and HR dashboard to make informed decisions regarding workforce including recruitment, retention, diversity and inclusion\n•\nCreated consolidated and uniform Practice rating system by assigning the scores to individual KPIs for all Practices\n•\nDeveloped a framework to ensure a seamless migration of data from acquired PMS systems to existing PMS systems for the reporting suite, including \ntransition date parameterization, data field mapping between the systems, control of data flow at the data table and metric levels in the Clean zone, etc.\n•\nProvided consulting support on optimizing Azure resource costing, exception monitoring using Power Automate and setting up Dataddo tool for Facebook \nAds data integration\nSituation\n•\nClient has adopted a profit-sharing model with the acquired Practices, and they lacked visibility into their Business performance due to different granularity \nof data in multiple systems and absence of single source of truth for reporting. Additionally, the client was facing challenges with reporting data during the \nmigrating of acquired Practice Management Systems (PMS) to the existing core PMS systems.\n•\nPartnered with the client to build comprehensive and scalable cloud data warehouse by integrating source systems across all the practices into a central \ndata repository to provide better transparency and insights to business performance.\nEnterprise data warehouse and BI infrastructure setup for \nhealthcare provider\n3\nImpact\n•\nThe integration period for incorporating practices into the reporting suite was decreased from ~six months to ~one month, enabling the client to accelerate \nacquisition speed by ~200%\n•\nThe Management dashboard provided real-time visibility on the operational performance of all practices with metrics like Patient Adds, Aligner Mix, Net \nProduction, etc. It has saved an effort of 50-60 man-hours on the monthly basis.\n•\nMultiple business logic issues were addressed during data exploration and validation, including mis-accounting of Adjustment data, incorrect logic to count \nNew Patient Add, etc.\nENTERPRISE DATA WAREHOUSE \n& BI INFRASTRUCTURE \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 3,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse – High level design\n4\n2\nAzure DataLake  \nStorage\nIngest\nStore\nModel &\nServe\nAzure\nFunctions\nDataVisualization\nAzureSQL\nAzureAnalysis  \nServices\nAzure Data\nFactory\nData Visualization\nCollate and ingest data from data sources using Azure Data Factory and/or Azure Function either to Azure Data Lake or Azure SQL Database\nConsolidate and harmonize the data and push the data into Analysis Services for data modellingpurposes\nBuild operational reports and analytical dashboards on top of Azure Analysis Services to derive insights from thedata\nAzure Data Lake to serve as “single data repository” across the organization, required data combined with other types to generate 3600 view of the customer\nAzure DevOps – Version Control & Code RepositorySystem\nAzure Logic Apps – Workflow managed Service to execute automated ETLactivities\nData Sources\nOther Flat Files\nDATA SOURCES\nDATA STORAGE & PROCESSING\nDATA VISUALIZATION\n1\n2\n3\n4\n5\n6\n1\n2\n1\n3\n4\n5\n6\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 4,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse – Low level design – PMS \nintegration\n5\nStorage account\nAzure Data\nFactory\nADF - 1\nA\nADF - 2\nE\nAzure SQL server\nPower BI\nDashboards\nK\nOrthoFi (API)\nArchival Storage\n(.bak/.Parquet/.csv\nfiles)\nAzure analysis services\nF\nJ\nOrtho2Edge(API)\nDolphin  \n(SQL Server)\nLinked Servers\nOrtho2Edge\nOrthoFi\nWave\nDolphin\nOasys\nOrthoTrac\nCloud9\nCloud9\nRAW ZONE                        CLEAN ZONE\nReceive .bak files\nFact  \nTable\nDim  \nTable\nDim\nTable\nDim\nTable\n         Star  \n       Schema\n      \nReporting Tables\nAGGREGATE ZONE\nSQL serverVM\nCloud9 DBs\n*Data \nquality  \nchecks\napplied\nH\nG\nCDM\n* Identify Primary KData quality checks to be applied (Few examples):\n1.\nEY Column and correct any NULL valuesin data\n2.\nCheck for poor data quality by identifying duplicate values indata\n3.\nApply Slowly Changing Dimensions (SCD-Type2) to save any historical changes to data\n4.\nCheck for any NULL in Modified Date columns used as key to get incremental data\nParq\nuet\nfiles\nData Lake Storage\nDATA SOURCES\nTops (Front-end \nextract)\nOasys (SQL \nServer)\nC\nReceive .csv files\nD\nB\nI\nWave (API)\nOrthoTrac \n(SQL Server)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 5,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach (01/02)\n6\nProject Plan\nKPI Mapping\nData Validation\nDevelop Data \nPipelines\nReceived access to the Azure resources and individual data sources which are required to integrate in the Azure \nData Warehouse \nReviewed the Data Infrastructure requirements and created the infrastructure document developed by the Data \nManagement  team\nBuilt a Project Plan for first 12 weeks of the project before implementation\nValidated the source data with the existing reports and documented the findings\nBuilt the Azure data pipelines to extract raw data from data sources, load the data in staging tables, perform \ntransformations and finally load the data in the data warehouse\nAccess Setup\nHLD and LLD\nIdentified the KPIs and data points based on reporting requirements\nDevelop CDM\nIntegrated data from multiple sources to Common Data Models based on required granularity of data\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 6,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach (02/02)\n7\nDevelop \nDashboard\nCreated wireframes on Figma and aligned with stakeholders on the visualization\nDeveloped report specific data models using Azure Analysis service\nDeveloped Power BI dashboard, released for UAT and subsequently published in Production Environment (after \nincorporating UAT feedbacks)\nDevelop \nWireframe\nDevelop Data \nModel\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 7,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExecutive KPI summary\n8\nILLUSTRATIVE\nLast 8 weeks \ntrend for \nselected KPI \n(Here, it is New \nPatient Adds)\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 8,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nConsolidated practice scorecard\n9\nILLUSTRATIVE\nDifferent \nweightage given \nto all KPIs (Net \nProduction, New \nPatient Exam, etc.) \nto calculate Total \nscore\nPractices with \nsame Total score \nare assigned with \nsame Rank\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 9,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPeople demographic view\n10\nHeatmap view \nbased on the \nnumber of team \nmembers from \nthe region\nYear 1\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 10,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nHeadcount movement view\n11\nProvided visibility \non Terminations \nbased on \nInvoluntary and \nVoluntary reasons\nYear 1\n"
+    },
+    {
+        "page": 12,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (240).pdf",
+            "page": 11,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151830+05'30'",
+            "modDate": "D:20241114151830+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMarketing spend dashboard\n12\nThe dashboard provided \noverview of spend related \nKPIs on the Marketing \nchannels\nMonth 1 to Month 13 (Last 13-month view)\nMonth 1 to Month 13 (Last 13-month view)\nDat\ne 1\nMonth 1\n"
+    }
+]

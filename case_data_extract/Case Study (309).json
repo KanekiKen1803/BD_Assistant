@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164635+05'30'",
+            "modDate": "D:20241114164635+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nRisk Reporting\nConsumer Financial Services\nRisk and profitability reporting and analytics to reduce \ndefault, fraud & compliance risk\n• Tableau\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164635+05'30'",
+            "modDate": "D:20241114164635+05'30'",
+            "trapped": ""
+        },
+        "content": "CREDIT MODELING AND RISK ANALYTICS FOR A FINANCIAL SERVICES COMPANY\nSITUATION\n▪\nCompany wanted support in tracking delinquency rates and charge-offs along with the risk profile of the consumers being approved for financing\n▪\nMerilytics partnered with the company to perform risk and profitability analytics to reduce default, fraud & compliance risk and generate higher \nROI\n▪\nRisk Analytics: Deployed automated reports that monitor several risk and profitability metrics at various frequencies (weekly and monthly level)  \nand  by tenure months, segment & funding tranche using visualization tools such as Tableau. The metrics monitored include:\n•\nEarly performance indicators: Missed first payment, approval and funding rate, credit score distribution\n•\nBorrowing balance: delinquency rate, forbearance rate\n•\nFraud indicators: fraud closure rate, previous inquiry rate \n•\nProfitability: cash flow at various stages of payment cycle\n▪\nCompliance Analytics: Used text mining on contracts to identify underwriting issues and ensure compliance with statutory requirements. Used \nNLP tools to evaluate if call center representatives are complying with mandatory disclosures and avoiding blacklisted words and phrases\nVALUE ADDITION\nIMPACT\n▪\nFacilitated client to monitor and benchmark risk metrics real-time against targets and respond to systematic and seasonal changes in \nfundamental business drivers\n▪\nReduced legal risk from underwriting errors and non-compliance to statutory requirements \nABOUT THE CLIENT\nClient was a financial services company that provides financing to consumers making purchases at stores across United States\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164635+05'30'",
+            "modDate": "D:20241114164635+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nILLUSTRATIVE\nCLIENT WAS ABLE TO MONITOR VARIOUS METRICS THROUGH \nAUTOMATED DASHBOARDS (1/3) \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164635+05'30'",
+            "modDate": "D:20241114164635+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nCLIENT WAS ABLE TO MONITOR VARIOUS METRICS THROUGH \nAUTOMATED DASHBOARDS (2/3) \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (309).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164635+05'30'",
+            "modDate": "D:20241114164635+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nCLIENT WAS ABLE TO MONITOR VARIOUS METRICS THROUGH \nAUTOMATED DASHBOARDS (3/3) \nILLUSTRATIVE\n"
+    }
+]

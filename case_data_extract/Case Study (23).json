@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPower BI reporting project\n1\nBuilt a reporting suite on Power BI for Accounting & Finance domain that included \nRevenue, Accounts Receivables, Billings, Commissions & Accounting functions\nHealthcare out-of-network solutions company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to set up the new reporting suite on Power BI for Accounting & Finance domains that includes Revenue, \nAccounts Receivables, Billings, Commissions & Accounting functions to have a better visibility into the company’s  \nperformance.\nHealthcare out-of-network solutions company needs “better \ncoverage” of its financial performance\n2\nYour value is enhanced. \n•\nYou have consistent and standard KPIs captured across different reports/business functions and an automated BI reporting \nprocess with access to nearly real time data\n•\nYou have better visibility into the financial performance of the company and its reporting, based on cleansed and validated data\n•\nYou also have a central data access management to enable easy distribution of reports across the company\nACCOUNTING AND FINANCIAL \nREPORTING\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nAutomated ETL \nprocesses\n•\nData cubes and ready-\nto-serve data marts \n•\nPower BI based \nfinancial dashboard\n2\nYou turn to Accordion. \nWe partner with your team to streamline the BI reporting suite to provide more visibility into the financial  performance, including:\n1)\nAnalyzing the accounting system (Quick Books Online) and billing system (Invoices and payments data) to identify the relevant \nKPIs and cleanse the data\n2) Building automated ETL processes to load the accounting data daily from QuickBooks in the integrated database using API \nconnection\n3) Developing data cubes on the integrated database and creating ready-to-serve data marts for analytical and reporting purposes\n4) Developing automated Power BI dashboards on top of these data cubes to analyze the financial performance\n5) Incorporating automated data validation and reconciliation rules at every ETL step across the entire process to ensure accuracy \nand consistency in data\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the Accounting system (Quick Books Online) and Billing system (Invoices and payments data) to identify the relevant KPIs and cleanse the data\n•\nBuilt automated ETL processes to load the accounting data daily from QuickBooks in the integrated database using API connection\n•\nDeveloped data cubes on the integrated database and created ready-to-serve data marts for analytical and reporting purposes\n•\nDeveloped automated Power BI dashboards on top of these data cubes to analyze the performance of the company performance\n•\nIncorporated automated data validation and reconciliation rules at every ETL step across the entire process to ensure accuracy and consistency in data\nSituation\n•\nClient had an opportunity to streamline their BI reporting suite to provide more visibility into the company’s  performance\n•\nPartnered with the client to set up the new reporting suite on Power BI for their Accounting & Finance domains that includes Revenue, Accounts \nReceivables, Billings, Commissions & Accounting functions\nBusiness intelligence infrastructure design and implementation\n3\nImpact\n•\nConsistent and standard KPIs across different reports/business functions and automated BI reporting process with access to latest data until the previous \nday\n•\nImproved visibility in the financial performance of the company and reporting based on cleansed and validated data\n•\nImplemented central data access management and enabled easy distribution of reports across the company\nPower BI reporting project\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nPrior reporting processes\nData Sources\nReporting Layer\nSQL Database\nExcel downloads from \nQuickBooks Online\nManual cleansing & \nharmonization of data\nBusiness Reports\n•\nInvoice report\n•\nAR reports\n•\nPayments reports\n•\nCommissions \nreport\nData Structures\nFinancial reports\n•\nBalance Sheet\n•\nP&L reports\nObservations on prior reporting plan:-\n▪\nFile processing was I/O intensive operation and slowed the \nperformance of the system. Also, possibility of files being \ncorrupted in transmitting\n▪\nCreating Financial reports was very cumbersome as raw data \nfrom QuickBooks online needed to be transformed to develop the \nrequired Financial reports\n▪\nManagement of data accesses was cumbersome and time \nconsuming to provision new accesses\nData, Reporting \nand Analytics\n▪Lack of consistency of data sources across different reports\n▪Lack of consistency and documentation on KPIs, formulae\n▪Prone to errors as the data is manually updated \n▪Lack of availability of real-time data \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nNew BI infrastructure implemented\nRevenue Summary\nAccounting system\nTransactional data\nData Sources\nData ingest and synthesis\nData visualizations\nData Views\nIntegrated Database \nInvoices\nBudget/Forecast\nPayments\nAccounting\nBudget/Forecast data\nAutomated \nETL process\nAutomated \nETL process\nCustomer Economics\nAccounting Summary\nAccount Receivables\n▪Built automated ETL process to load accounting data from QuickBooks in the Integrated database using their API connection and configured e-mail alerts/notifications to monitor \nthe overall ETL process\n▪Transformed the transaction data and developed ready-to-serve data marts for analytical and reporting purposes. Developed Power BI dashboards on top of these data views \nto monitor and track the business performance\n▪Incorporated automated data validation and reconciliation rules at every ETL step across the entire process to ensure accuracy and consistency in data\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nRevenue summary dashboard\nILLUSTRATIVE\nRevenue \nsummary at a \nclient/sub \nclient level\nRevenue \ntrends over \ntime\nKPI Tray\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nAccounts receivables dashboard\nILLUSTRATIVE\nWaterfall chart to \nprovide a snapshot \nof the Revenue \nsummary value \nchain\nTotal A/R bucketed \nby customer and \nage of the invoice\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n8\nCustomer economics dashboard\nILLUSTRATIVE\nToggle to \nchange \nbetween KPIs\nComparison \nwith budgets \nand PY \nnumbers\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (23).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150444+05'30'",
+            "modDate": "D:20241114150444+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n9\nAccounting dashboard\n9\nKPI cards \nwith \ncomparison \nto budgets\nP&L statement \nwith PY & \nbudget \ncomparison \nwith flexibility \nto look at each \nline-item level\n"
+    }
+]

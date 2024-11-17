@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFinancial reporting\n1\nBuilt a centralized financial (P&L) reporting and generated individual reports for \nvarious locations\nIndoor skydiving company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to create a robust and automated report to enhance the insight generation on the performance of each \nlocation. You are facing challenges in gauging the financial performance of their respective locations as the centralized company \nlevel reporting was ambiguous due to expenses not categorized appropriately.\nIndoor skydiving company needs to dive into its financial \nreporting\n2\nYour value is enhanced. \n•\nYou have streamlined the process of reporting month-end financials including Revenue, COGS, OPEX, Overhead and \nEBITDA which helped save multiple manhours of back-and-forth between RDs and accounting team.\n•\nRegional Directors received first-hand visibility into the financial performance of their locations which enabled them to \ntake strategic decisions promptly\nFINANCIAL REPORTING\nKEY RESULT   \n•\nReduced the entire \nprocess of getting \naccess to 1-2 weeks \nearlier\nVALUE LEVERS PULLED\n•\nFinancial metrics \nreporting\n•\nAutomated PDFs for P&L\n2\nYou turn to Accordion. \nWe partner with your team to build a centralized financial (P&L) reporting and generate individual reports for various \nlocations, including,\n1)\nLeveraging data pipelines built on SSIS package to export ‘General Ledger’ data from Intacct and transforming the data to \ncreate a single source of truth for all the financial reporting\n2) Categorizing the GL transactions available at account, department, and location into various revenue and expense categories, \nto standardize and consolidate the GL data for all locations\n3) Building location level financial reporting by leveraging the categorized data and provided the flexibility to RDs to visualize and \nanalyzing revenue, COGS, OPEX, Overhead and EBITDA of their respective locations\n4) Generating automated PDFs of P&L statements for each of the regions and locations that were leveraged by the RDs for their \ninternal meetings\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nLeveraged data pipelines built on SSIS package to export ‘General Ledger’ data from Intacct and transformed the data to create a single source of truth for \nall the financial reporting\n•\nCategorized the GL transactions available at account, department, and location into various revenue and expense categories, to standardize and \nconsolidate the GL data for all locations\n•\nBuilt location level financial reporting by leveraging the categorized data and provided the flexibility to RDs to visualize and analyze Revenue, COGS, OPEX, \nOverhead and EBITDA of their respective locations\n•\nGenerated automated PDFs of P&L statements for each of the regions and locations that were leveraged by the RDs for their internal meetings\nSituation\n•\nRegional Directors (RDs) / Managers of more than 30 locations were facing challenges in gauging the financial performance of their respective locations as \nthe centralized company level reporting was ambiguous due to expenses not categorized appropriately\n•\nPartnered with the client to create a robust and automated report to enhance the insight generation on the performance of each location\nFinancial reporting for a skydiving company\n3\nImpact\n•\nStreamlined process of reporting month-end financials including Revenue, COGS, OPEX, Overhead and EBITDA which helped save multiple manhours of \nback-and-forth between RDs and Accounting team\n•\nRegional Directors received first-hand visibility into the financial performance of their locations which enabled them to take strategic decisions promptly\nFinancial reporting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology / Process flow\nAccounting \nPlatform\nData Warehouse\n1\n2\n3\nReporting DB\nReporting Data \nCube\n4\nExcel Report\n5\nJournal Entry data from Sage Intacct are exported and pushed in Data Warehouse through SSIS Package\n1\nAccounting Data is transformed and aggregated using SQL query and pushed into Reporting DB\n2\nPDF\nTabular models/cubes built using transformed data on SQL Server Analysis Services for faster data analysis\n3\nTabular models/cubes were leveraged to build the required Excel reports\n4\nUsed Macro to generate PDF format from the Excel report\n5\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProfit and loss summary (all locations) \nP&L\nBudget\nBudget\n% of Revenue\nMonth\nYTD\nMonth (LY)\nPrior YTD\nMonth\nYTD\nMonth\nYTD\nMonth (LY)\nPrior YTD\nMonth Bud\nBud YTD\n01-Revenue\n$             11,532,384 \n$    50,352,369 \n$             11,779,318 \n$     47,690,418 \n$          8,835,539 \n$    36,780,690 \n100.0%\n100.0%\n100.0%\n100.0%\n100.0%\n100.0%\n02-Electricity\n$                   742,745 \n$       3,189,595 \n$                   655,509 \n$        3,066,446 \n$              658,779 \n$       2,771,026 \n6.4%\n6.3%\n5.6%\n6.4%\n7.5%\n7.5%\n03-Royalties\n$                   204,693 \n$          817,386 \n$                   106,082 \n$           316,422 \n$                45,171 \n$          185,709 \n1.8%\n1.6%\n0.9%\n0.7%\n0.5%\n0.5%\n04-Other COS\n$                   293,244 \n$       1,318,257 \n$                   275,162 \n$        1,233,544 \n$              281,853 \n$       1,175,363 \n2.5%\n2.6%\n2.3%\n2.6%\n3.2%\n3.2%\nTotal Direct Costs of Sales\n$               1,240,681 \n$       5,325,238 \n$               1,036,754 \n$        4,616,412 \n$              985,803 \n$       4,132,098 \n10.8%\n10.6%\n8.8%\n9.7%\n11.2%\n11.2%\nGross Profit\n$             10,291,702 \n$    45,027,131 \n$             10,742,564 \n$     43,074,005 \n$          7,849,736 \n$    32,648,592 \n89.2%\n89.4%\n91.2%\n90.3%\n88.8%\n88.8%\nGross Profit Margin\n89.2%\n89.4%\n91.2%\n90.3%\n88.8%\n88.8%\n05-Personnel costs\n$               2,843,342 \n$    12,007,823 \n$               2,798,229 \n$     11,107,427 \n$          2,328,003 \n$       9,714,293 \n24.7%\n23.8%\n23.8%\n23.3%\n26.3%\n26.4%\n06-Rent\n$                   912,548 \n$       3,361,934 \n$                   767,766 \n$        2,951,429 \n$              620,539 \n$       2,481,473 \n7.9%\n6.7%\n6.5%\n6.2%\n7.0%\n6.7%\n07-Prop_Use Tax\n$                   233,539 \n$          854,735 \n$                   219,134 \n$           892,209 \n$              167,215 \n$          710,627 \n2.0%\n1.7%\n1.9%\n1.9%\n1.9%\n1.9%\n08-Other Facilities Expense\n$                     93,257 \n$          405,912 \n$                     94,844 \n$           384,270 \n$                51,317 \n$          216,393 \n0.8%\n0.8%\n0.8%\n0.8%\n0.6%\n0.6%\n09-Repairs & Maintenance\n$                   183,933 \n$          782,979 \n$                   308,381 \n$           899,351 \n$              169,610 \n$          711,396 \n1.6%\n1.6%\n2.6%\n1.9%\n1.9%\n1.9%\n10-Technology\n$                   160,844 \n$          680,802 \n$                   137,052 \n$           565,052 \n$              106,397 \n$          447,839 \n1.4%\n1.4%\n1.2%\n1.2%\n1.2%\n1.2%\n11-Insurance\n$                   300,028 \n$       1,196,403 \n$                   309,772 \n$        1,159,128 \n$              296,933 \n$       1,241,105 \n2.6%\n2.4%\n2.6%\n2.4%\n3.4%\n3.4%\n12-Uniforms & Flight Gear\n$                     67,702 \n$          294,787 \n$                     68,729 \n$           291,958 \n$                49,414 \n$          207,364 \n0.6%\n0.6%\n0.6%\n0.6%\n0.6%\n0.6%\n13-T&E\n$                   103,802 \n$          292,119 \n$                     51,398 \n$           311,398 \n$                76,080 \n$          315,550 \n0.9%\n0.6%\n0.4%\n0.7%\n0.9%\n0.9%\n14-Team Building\n$                        5,044 \n$             22,995 \n$                     12,923 \n$              34,322 \n$                  9,090 \n$             37,838 \n0.0%\n0.0%\n0.1%\n0.1%\n0.1%\n0.1%\nTotal Operating Expenses\n$               5,645,540 \n$    22,929,912 \n$               5,419,472 \n$     21,296,812 \n$          4,391,889 \n$    18,235,656 \n49.0%\n45.5%\n46.0%\n44.7%\n49.7%\n49.6%\nEBITDA\n$               4,646,163 \n$    22,097,219 \n$               5,323,092 \n$     21,777,193 \n$          3,457,847 \n$    14,412,935 \n40.3%\n43.9%\n45.2%\n45.7%\n39.1%\n39.2%\n% of Rev\n40.3%\n43.9%\n45.2%\n45.7%\n39.1%\n39.2%\nEBITDA (excl. Royalty Expense)\n$               4,850,855 \n$    22,914,605 \n$               5,429,174 \n$     22,093,615 \n$          3,503,018 \n$    14,598,644 \n42.1%\n45.5%\n46.1%\n46.3%\n39.6%\n39.7%\n% of Rev\n42.1%\n45.5%\n46.1%\n46.3%\n39.6%\n39.7%\nP&L \nsummary at \nan \norganization \nlevel \nincluding all \nlocations and \nregions\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProfit and Loss Summary – Location level\nLocations Selected\nLoc 1\nCY Location P&L $'000s\nBudget\n% of revenue\nversus last year\nversus budget\nBudget\n% of revenue\nversus last year\nversus budget\nMonth\nMonth (LY)\nMonth\nMonth\nMonth \n(LY)\nBudget \nCY\n$\n%\n$\n%\nYTD CY\nYTD PY YTD CY\nYTD CY\nYTD PY YTD CY\n$\n%\n$\n%\nRevenue\nProduct 1\n246 \n273 \n270 \n57.7%\n60.1%\n61.7%\n(27)\n-9.9%\n(24)\n-8.9%\n1,084 \n1,108 \n1,087 \n58.4%\n59.1%\n60.0%\n(24)\n-2.2%\n(3)\n-0.3%\nProduct 2\n18 \n20 \n20 \n4.3%\n4.4%\n4.5%\n(2)\n-8.9%\n(2)\n-7.8%\n75 \n67 \n70 \n4.0%\n3.6%\n3.9%\n7 \n11.1%\n4 \n6.0%\nProduct 3\n36 \n10 \n12 \n8.6%\n2.1%\n2.7%\n27 \n278.3%\n24 204.6%\n110 \n48 \n53 \n5.9%\n2.6%\n2.9%\n62 \n129.4%\n57 \n106.3%\nProduct 4\n9 \n15 \n15 \n2.2%\n3.4%\n3.5%\n(6)\n-39.8%\n(6)\n-39.8%\n39 \n97 \n84 \n2.1%\n5.1%\n4.7%\n(57)\n-59.2%\n(45)\n-53.4%\nProduct 5\n12 \n14 \n14 \n2.8%\n3.1%\n3.1%\n(2)\n-15.2%\n(2)\n-14.2%\n52 \n63 \n57 \n2.8%\n3.4%\n3.1%\n(11)\n-17.9%\n(4)\n-7.8%\nProduct 6\n18 \n21 \n21 \n4.3%\n4.6%\n4.8%\n(3)\n-14.0%\n(3)\n-13.0%\n84 \n96 \n89 \n4.5%\n5.1%\n4.9%\n(12)\n-12.5%\n(5)\n-5.3%\nProduct 7\n7 \n22 \n9 \n1.6%\n4.9%\n2.2%\n(15)\n-69.4%\n(3)\n-28.0%\n47 \n59 \n30 \n2.5%\n3.1%\n1.6%\n(12)\n-20.7%\n17 \n57.0%\nProduct 8\n76 \n79 \n76 \n17.9%\n17.4%\n17.4%\n(3)\n-3.2%\n0 \n0.3%\n352 \n336 \n341 \n19.0%\n17.9%\n18.8%\n16 \n4.7%\n12 \n3.4%\nProduct 9\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n(0)\n-100.0%\n0 \n0.0%\nProduct 10\n3 \n0 \n0 \n0.7%\n0.0%\n0.0%\n3 \n0.0%\n3 \n0.0%\n13 \n(0)\n0 \n0.7%\n0.0%\n0.0%\n13 -530289.2%\n13 \n0.0%\nProduct 11\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\nRevenue\n426 \n454 \n437 \n100.0%\n100.0%\n100.0%\n(28)\n-6.2%\n(11)\n-2.6%\n1,856 \n1,874 \n1,811 \n100.0%\n100.0%\n100.0%\n(19)\n-1.0%\n45 \n2.5%\nElectricity\n19 \n25 \n27 \n4.4%\n5.5%\n6.1%\n(6)\n-25.3%\n(8)\n-30.1%\n92 \n111 \n111 \n5.0%\n5.9%\n6.1%\n(18)\n-16.5%\n(18)\n-16.5%\nRoyalties\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\nOther COS\n14 \n13 \n14 \n3.2%\n2.8%\n3.2%\n1 \n7.6%\n(0)\n-2.7%\n64 \n55 \n58 \n3.5%\n2.9%\n3.2%\n9 \n16.5%\n7 \n11.5%\nTotal Direct Costs of Sales\n32 \n38 \n41 \n7.6%\n8.3%\n9.3%\n(5)\n-14.3%\n(8)\n-20.7%\n157 \n166 \n168 \n8.4%\n8.8%\n9.3%\n(9)\n-5.5%\n(12)\n-6.9%\nGross Profit\n394 \n417 \n397 \n92.4%\n91.7%\n90.7%\n(23)\n-5.5%\n(3)\n-0.7%\n1,699 \n1,708 \n1,642 \n91.6%\n91.2%\n90.7%\n(9)\n-0.6%\n57 \n3.5%\nGross Profit Margin\n92.4%\n91.7%\n90.7%\n91.6%\n91.2%\n90.7%\nPersonnel costs\n108 \n99 \n112 \n25.3%\n21.8%\n25.6%\n9 \n9.0%\n(4)\n-3.6%\n377 \n385 \n463 \n20.3%\n20.5%\n25.6%\n(8)\n-2.0%\n(86)\n-18.5%\nRent\n22 \n22 \n22 \n5.1%\n4.8%\n5.0%\n0 \n0.0%\n(0)\n-0.0%\n87 \n87 \n87 \n4.7%\n4.6%\n4.8%\n0 \n0.0%\n(0)\n-0.0%\nProp_Use Tax\n3 \n4 \n3 \n0.6%\n0.8%\n0.6%\n(1)\n-25.9%\n0 \n1.2%\n11 \n16 \n12 \n0.6%\n0.8%\n0.6%\n(5)\n-32.7%\n(1)\n-8.0%\nOther Facilities Expense\n1 \n1 \n2 \n0.2%\n0.3%\n0.4%\n(1)\n-54.6%\n(1)\n-56.7%\n7 \n7 \n6 \n0.4%\n0.4%\n0.4%\n(0)\n-0.3%\n0 \n5.4%\nRepairs & Maintenance\n10 \n7 \n3 \n2.4%\n1.5%\n0.7%\n3 \n49.0%\n7 225.9%\n23 \n14 \n13 \n1.3%\n0.7%\n0.7%\n10 \n73.6%\n10 \n79.6%\nTechnology\n3 \n2 \n3 \n0.8%\n0.5%\n0.8%\n1 \n41.2%\n0 \n4.2%\n13 \n12 \n14 \n0.7%\n0.6%\n0.8%\n1 \n9.6%\n(1)\n-3.8%\nInsurance\n15 \n15 \n14 \n3.6%\n3.4%\n3.3%\n0 \n0.4%\n1 \n7.1%\n58 \n56 \n59 \n3.1%\n3.0%\n3.3%\n2 \n2.8%\n(1)\n-2.3%\nUniforms & Flight Gear\n2 \n3 \n2 \n0.5%\n0.6%\n0.5%\n(0)\n-18.2%\n0 \n2.7%\n8 \n11 \n8 \n0.4%\n0.6%\n0.5%\n(2)\n-23.2%\n(0)\n-1.8%\nT&E\n8 \n1 \n4 \n1.9%\n0.2%\n0.8%\n7 \n928.5%\n4 \n124.0%\n9 \n5 \n15 \n0.5%\n0.3%\n0.8%\n4 \n84.7%\n(6)\n-40.6%\nTeam Building\n0 \n1 \n0 \n0.0%\n0.1%\n0.1%\n(0)\n-83.7%\n(0)\n-70.8%\n0 \n2 \n1 \n0.0%\n0.1%\n0.1%\n(1)\n-78.5%\n(1)\n-75.4%\nTotal Operating Expenses\n203 \n184 \n192 \n47.6%\n40.5%\n43.9%\n19 \n10.2%\n11 \n5.8%\n724 \n703 \n792 \n39.0%\n37.5%\n43.7%\n21 \n2.9%\n(68)\n-8.6%\nEBITDA\n191 \n232 \n205 \n44.8%\n51.2%\n46.8%\n(42)\n-17.9%\n(14)\n-6.8%\n975 \n1,005 \n851 \n52.5%\n53.6%\n47.0%\n(30)\n-3.0%\n124 \n14.6%\n% of Rev\n44.8%\n51.2%\n46.8%\n52.5%\n53.6%\n47.0%\nEBITDA (excl. Royalty \nExpense)\n191 \n232 \n205 \n44.8%\n51.2%\n46.8%\n(42)\n-17.9%\n(14)\n-6.8%\n975 \n1,005 \n851 \n52.5%\n53.6%\n47.0%\n(30)\n-3.0%\n124 \n14.6%\n% of Rev\n44.8%\n51.2%\n46.8%\nLocation level P&L \nstatements are \ngenerated for each \nlocation\n6\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (118).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124251+05'30'",
+            "modDate": "D:20241114124251+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nProfit and Loss Summary – Region level\nLocations Selected\nLoc 1, Loc 33, Loc 28, Loc 18, Loc 25\nRegion Selected\nRegion 1\n2023 Location P&L $'000s\nBudget\n% of revenue\nversus last year\nversus budget\nBudget\n% of revenue\nversus last year\nversus budget\nMonth\nMonth (LY)\nMonth\nMonth\nMonth \n(LY)\nBudget \nCY\n$\n%\n$\n%\nYTD 2023YTD 2022YTD 2023\nYTD 2023YTD 2022YTD 2023\n$\n%\n$\n%\nRevenue\nProduct 1\n858 \n973 \n953 \n52.8%\n55.2%\n55.8%\n(114)\n-11.8%\n(94)\n-9.9%\n3,880 \n4,023 \n4,062 \n54.3%\n56.7%\n56.5%\n(143)\n-3.6%\n(182)\n-4.5%\nProduct 2\n74 \n78 \n76 \n4.5%\n4.4%\n4.5%\n(4)\n-5.3%\n(3)\n-3.5%\n337 \n294 \n321 \n4.7%\n4.1%\n4.5%\n43 \n14.6%\n16 \n4.9%\nProduct 3\n142 \n73 \n74 \n8.7%\n4.2%\n4.3%\n69 \n93.9%\n68 \n92.7%\n366 \n222 \n232 \n5.1%\n3.1%\n3.2%\n144 \n64.9%\n134 \n57.5%\nProduct 4\n95 \n110 \n111 \n5.8%\n6.2%\n6.5%\n(15)\n-13.9%\n(16)\n-14.5%\n460 \n519 \n519 \n6.4%\n7.3%\n7.2%\n(60)\n-11.5%\n(59)\n-11.4%\nProduct 5\n40 \n53 \n52 \n2.5%\n3.0%\n3.0%\n(12)\n-23.5%\n(11)\n-21.9%\n170 \n201 \n190 \n2.4%\n2.8%\n2.6%\n(31)\n-15.4%\n(19)\n-10.2%\nProduct 6\n74 \n95 \n93 \n4.5%\n5.4%\n5.5%\n(21)\n-22.5%\n(19)\n-20.8%\n363 \n354 \n371 \n5.1%\n5.0%\n5.2%\n9 \n2.6%\n(8)\n-2.2%\nProduct 7\n7 \n25 \n12 \n0.4%\n1.4%\n0.7%\n(18)\n-72.6%\n(5)\n-43.3%\n56 \n74 \n43 \n0.8%\n1.0%\n0.6%\n(18)\n-24.4%\n13 \n30.7%\nProduct 8\n326 \n354 \n339 \n20.0%\n20.1%\n19.8%\n(29)\n-8.1%\n(13)\n-3.8%\n1,469 \n1,400 \n1,454 \n20.5%\n19.7%\n20.2%\n68 \n4.9%\n14 \n1.0%\nProduct 9\n0 \n1 \n0 \n0.0%\n0.0%\n0.0%\n(0)\n-38.6%\n0 \n0.0%\n2 \n3 \n0 \n0.0%\n0.0%\n0.0%\n(1)\n-40.0%\n2 \n0.0%\nProduct 10\n11 \n(0)\n0 \n0.7%\n0.0%\n0.0%\n11 \n-72771.7%\n11 \n0.0%\n47 \n1 \n0 \n0.7%\n0.0%\n0.0%\n46 \n5103.3%\n47 \n0.0%\nProduct 11\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\n0 \n0 \n0 \n0.0%\n0.0%\n0.0%\n0 \n0.0%\n0 \n0.0%\nRevenue\n1,626 \n1,761 \n1,709 \n100.0%\n100.0%\n100.0%\n(135)\n-7.7%\n(82)\n-4.8%\n7,148 \n7,091 \n7,192 \n100.0%\n100.0%\n100.0%\n57 \n0.8%\n(43)\n-0.6%\nElectricity\n99 \n103 \n112 \n6.1%\n5.9%\n6.6%\n(4)\n-4.3%\n(13)\n-11.9%\n438 \n429 \n476 \n6.1%\n6.1%\n6.6%\n9 \n2.0%\n(38)\n-8.0%\nRoyalties\n22 \n24 \n22 \n1.3%\n1.3%\n1.3%\n(2)\n-8.0%\n(1)\n-3.1%\n95 \n101 \n96 \n1.3%\n1.4%\n1.3%\n(6)\n-6.0%\n(2)\n-1.8%\nOther COS\n54 \n58 \n59 \n3.3%\n3.3%\n3.4%\n(4)\n-6.5%\n(5)\n-7.8%\n240 \n227 \n247 \n3.4%\n3.2%\n3.4%\n13 \n5.8%\n(7)\n-2.9%\nTotal Direct Costs of Sales\n174 \n185 \n193 \n10.7%\n10.5%\n11.3%\n(10)\n-5.5%\n(19)\n-9.6%\n772 \n757 \n819 \n10.8%\n10.7%\n11.4%\n16 \n2.1%\n(47)\n-5.7%\nGross Profit\n1,452 \n1,577 \n1,516 \n89.3%\n89.5%\n88.7%\n(125)\n-7.9%\n(64)\n-4.2%\n6,376 \n6,334 \n6,372 \n89.2%\n89.3%\n88.6%\n42 \n0.7%\n4 \n0.1%\nGross Profit Margin\n89.3%\n89.5%\n88.7%\n89.2%\n89.3%\n88.6%\nPersonnel costs\n431 \n429 \n485 \n26.5%\n24.3%\n28.4%\n3 \n0.6%\n(54)\n-11.1%\n1,678 \n1,681 \n2,045 \n23.5%\n23.7%\n28.4%\n(3)\n-0.2%\n(367)\n-18.0%\nRent\n233 \n235 \n231 \n14.4%\n13.3%\n13.5%\n(1)\n-0.5%\n2 \n1.1%\n934 \n941 \n924 \n13.1%\n13.3%\n12.8%\n(7)\n-0.8%\n10 \n1.1%\nProp_Use Tax\n32 \n33 \n31 \n2.0%\n1.9%\n1.8%\n(1)\n-3.8%\n1 \n1.8%\n127 \n141 \n133 \n1.8%\n2.0%\n1.9%\n(14)\n-9.8%\n(6)\n-4.6%\nOther Facilities Expense\n7 \n8 \n8 \n0.4%\n0.5%\n0.5%\n(1)\n-12.1%\n(1)\n-7.4%\n34 \n31 \n33 \n0.5%\n0.4%\n0.5%\n3 \n11.0%\n1 \n4.1%\nRepairs & Maintenance\n26 \n33 \n23 \n1.6%\n1.9%\n1.4%\n(7)\n-21.8%\n3 \n11.0%\n89 \n87 \n98 \n1.2%\n1.2%\n1.4%\n2 \n1.9%\n(9)\n-9.2%\nTechnology\n29 \n13 \n17 \n1.8%\n0.7%\n1.0%\n16 \n126.1%\n13 \n75.8%\n83 \n61 \n70 \n1.2%\n0.9%\n1.0%\n22 \n35.9%\n12 \n17.2%\nInsurance\n58 \n58 \n58 \n3.6%\n3.3%\n3.4%\n0 \n0.1%\n0 \n0.6%\n236 \n210 \n245 \n3.3%\n3.0%\n3.4%\n26 \n12.6%\n(8)\n-3.3%\nUniforms & Flight Gear\n10 \n9 \n9 \n0.6%\n0.5%\n0.5%\n0 \n3.2%\n1 \n12.6%\n37 \n39 \n36 \n0.5%\n0.6%\n0.5%\n(2)\n-5.4%\n1 \n2.6%\nT&E\n26 \n3 \n9 \n1.6%\n0.2%\n0.5%\n23 \n805.1%\n17 \n183.5%\n60 \n18 \n39 \n0.8%\n0.3%\n0.5%\n42 \n231.0%\n21 \n53.5%\nTeam Building\n1 \n2 \n1 \n0.1%\n0.1%\n0.1%\n(1)\n-34.9%\n(0)\n-15.8%\n3 \n5 \n6 \n0.0%\n0.1%\n0.1%\n(1)\n-27.4%\n(2)\n-42.2%\nTotal Operating Expenses\n978 \n935 \n975 \n60.2%\n53.1%\n57.0%\n44 \n4.7%\n4 \n0.4%\n3,780 \n3,629 \n4,059 \n52.9%\n51.2%\n56.4%\n152 \n4.2%\n(278)\n-6.9%\nEBITDA\n474 \n642 \n541 \n29.1%\n36.5%\n31.7%\n(168)\n-26.2%\n(67)\n-12.5%\n2,595 \n2,705 \n2,314 \n36.3%\n38.2%\n32.2%\n(110)\n-4.1%\n282 \n12.2%\n% of Rev\n29.1%\n36.5%\n31.7%\n36.3%\n38.2%\n32.2%\nEBITDA (excl. Royalty \nExpense)\n496 \n666 \n564 \n30.5%\n37.8%\n33.0%\n(170)\n-25.6%\n(68)\n-12.1%\n2,690 \n2,806 \n2,410 \n37.6%\n39.6%\n33.5%\n(116)\n-4.1%\n280 \n11.6%\n% of Rev\n30.5%\n37.8%\n33.0%\nSelected Region \nand Locations \nwithin that \nregion\nRegion level P&L \nstatements are \ngenerated for each \nregion\n7\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130209+05'30'",
+            "modDate": "D:20241114130209+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt a report for tracking Paper Claims over the time for client’s RCM team and  \nidentified insurance companies with high paper claims count and paper claim \nrates by joining data from the clearing house with client’s claims data\nLong-Term Acute Care (LTAC) Healthcare Provider\n(Paper Claims Analysis - Revenue Cycle Management)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130209+05'30'",
+            "modDate": "D:20241114130209+05'30'",
+            "trapped": ""
+        },
+        "content": "PAPER CLAIMS ANALYSIS\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a Long-Term Acute Care (LTAC) healthcare provider and has facilities in over 80 cities across the U.S.\n2\n▪\nPaper claims, when compared to electronic claims, are processed slowly, difficult to track, prone to more inaccuracies/omissions, need significant physical \npaper and storage cost, and have higher overhead and labor costs. Due to all these reasons, client needed to negotiate with the insurance companies to accept \nelectronic claims instead of papers. However, client lacked the visibility into paper claims data.\n▪\nMerilytics partnered with the client to build a comprehensive paper claims report and identify insurance companies (payers) with high paper claims.\n▪\nIntegrated the client’s claims & billing data with clearing house’s (Third party that send claims from care provider to insurance companies) claims data to \ncapture all billing, payment and insurance details of claims.\n▪\nPerformed data cleanup and designed a methodology to accurately count paper claims in case of resubmissions.\n▪\nBuilt a comprehensive monthly report that tracks the count of paper claims sent vs. the total count of claims; and paper claim rate by region, facility, \ninsurance type, insurance plan etc.\n▪\nIdentified the top payers (insurance companies) with high number of paper claims and those with high paper claim rate.\n▪\nThe report helped client have discussions with the insurance companies and to negotiate on the mode of claim submission. Overall, the paper claim rate \ncame down from ~19% to ~12% post these negotiations based on the report.\n▪\nIt also helped the client’s claims team in submitting the paper claims faster and improving the cash flow by identifying the insurance plans that always require \npaper claims and scheduling the claim submissions accordingly.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130209+05'30'",
+            "modDate": "D:20241114130209+05'30'",
+            "trapped": ""
+        },
+        "content": "APPROACH & METHODOLOGY\n3\nLow Cost per claim\nHigh Cost per claim\nProcessing takes 1-2 days\nProcessing takes 4-6 weeks\nAutomated payment posting \nby electronic system\nPayment posting done \nmanually\nLower Denial Rate\nHigher Denial Rate\nEasy to track on web portals\nDifficult to track\nPAPER CLAIMS\nELECTRONIC CLAIMS\nData Integration\nIntegrated claims \ndata with \nclearing house \ndata\nData Cleanup\nReport Creation\nPayer \nIdentification\nDevised \nmethodology to \nclean data and \naccount for \nresubmissions \nBuilt a \ncompressive \nreport to track \npaper claims \ncount and rate\nIdentified the \ninsurance \ncompanies with \nhigh paper \nclaims\nReport Design - Approach\nComparison of Paper vs. Electronic Claims\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130209+05'30'",
+            "modDate": "D:20241114130209+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1\n4\nILLUSTRATIVE\n366\n325\n436\n297\n296\n352\n272\n288\n300\n230\n251\n268\n23.8%\n20.0%\n20.7%\n16.1%\n16.1%\n20.8%\n19.9%\n16.7%\n16.0%\n10.6%\n11.7%\n13.5%\n0.0%\n5.0%\n10.0%\n15.0%\n20.0%\n25.0%\n0\n100\n200\n300\n400\n500\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\n% Paper Claim Rate\nPaper Claim Count\nPaper Claims Trend\nPaper Claim Count\n% Paper Claim Rate\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (133).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130209+05'30'",
+            "modDate": "D:20241114130209+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2\n5\nILLUSTRATIVE\n600\n576\n506\n358\n354\n324\n252\n242\n95\n17\n16.9%\n18.2%\n29.6%\n36.7%\n24.7%\n38.6%\n41.6%\n13.5%\n11.8%\n11.1%\n0.0%\n5.0%\n10.0%\n15.0%\n20.0%\n25.0%\n30.0%\n35.0%\n40.0%\n45.0%\n0\n100\n200\n300\n400\n500\n600\n700\nIns-1\nIns-2\nIns-3\nIns-4\nIns-5\nIns-6\nIns-7\nIns-8\nIns-9\nIns-10\n% Paper Claim Rate\nPaper Claim Count\nInsurance Company\nPaper Claims (#, Rate) for top 10 Insurance Companies\nPaper Claim Count\n% Paper Claim Rate\n"
+    }
+]

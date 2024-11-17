@@ -37,17 +37,47 @@ def analyze_transcript(transcript: str, config) -> str:
     # Define the prompt template
     openai_api_key = config["OPENAI_API_KEY"]
     prompt_template = """
-    Analyze the following transcript and extract structured insights:
-    1. Company Profile: Get company name and summarize the company's key attributes (e.g., industry, scale, market segment, key technologies).
-    2. Pain Points: Highlight the challenges or issues the company is facing. Include explicit and inferred points seperately.
-    3. Relevant Domains: Specify the functional areas or domains these challenges belong to.
-    4. Broad Solutions: Suggest how such problems are typically addressed in the industry.
-    6. Specific Solutions: Suggest how clients specific problem could be solved.
+    I work in a business/data consulting firm. I will provided a transcript between my firm and potential client.
+    Please analyze this client conversation transcript and provide detailed information on. Please dont be vague and this summary should be upto the mark
+    Also if something is not mentioned in the transcript and could not be inferred from the transcript or problem, do not fill it:
 
+    1. Client Profile and overview
+    - Company Name - This is important and should be inferred correctly
+    - Current business context
+    - Industry-specific challenges mentioned
+    - Any specific metrics or data points shared
+
+    2. Core Problems & Pain Points
+    - Primary challenges explicitly stated
+    - Underlying/implicit problems
+    - Impact of these problems on their business
+
+    3. Critical Details
+    - Budget constraints (if mentioned)
+    - Timeline requirements
+    - Technical specifications
+    - Regulatory/compliance requirements
+    - Existing systems or processes
+    - Key stakeholders involved
+
+    4. Solution Requirements
+    - Must-have features/capabilities
+    - Desired outcomes
+    - Success metrics mentioned
+    - Any specific constraints or limitations
+
+    5. Additional Context
+    - Competitive factors
+    - Market conditions
+    - Internal organizational dynamics
+    - Past attempts to solve the problem
+    - Detailed information on how similar problems are generally solved
+
+Please quote relevant parts of the transcript when identifying these points.
     Transcript: {transcript}
 
-    Respond in JSON format with keys: "Company Profile", "Pain Points", "Relevant Domains", "Broad Solutions", Specific Solutions".
-    The response should only be json format that I can directly convert to json file from string.
+    Respond in JSON format with keys: "Company Profile", "Pain Points", "Critical Details", "Solution Requirements", Additional Context".
+    The response should only be json format that I can directly convert to json file from string. Also don't reduce the conetent in json, the content should be as enriched as it would have been if we were returning textual data simply
     """
 
     # Create the LangChain PromptTemplate
@@ -127,7 +157,26 @@ def client_info_fun(client_name: str,config, **client_details):
         )
 
     # inputs = {"question":"Generate a summary of of client {client_name}, covering it's industry positioning, ownership, target market segment, latest available key metrics, strategic focus areas, and the primary technologies or tools they use."}   
-    inputs = {"question":f"Generate a summary of of client {client_name}, covering it's industry positioning, ownership, target market segment, latest available key metrics, strategic focus areas, and the primary technologies or tools they use."}
+    inputs = {"question":f"""Generate a summary of of client {client_name},Given the following client background, generate a detailed profile of the client that covers:
+
+1. **Industry Positioning**: Analyze and summarize the client’s position within their industry, including their competitive edge and unique selling propositions. Consider their market share, reputation, and industry standing.
+
+2. **Ownership and Business Structure**: Provide an overview of the client’s ownership (e.g., privately held, publicly traded, family-owned) and organizational structure (e.g., subsidiaries, global operations).
+
+3. **Target Market Segment**: Describe the primary market segment(s) the client targets, including customer demographics, business size (e.g., SMBs, enterprise), and industries they cater to.
+
+4. **Key Metrics**: Include key performance indicators such as annual revenue, employee count, geographical presence (markets they serve globally or regionally), and growth metrics (e.g., year-over-year growth, market expansion).
+
+5. **Strategic Focus Areas**: Identify the client’s strategic focus areas, such as innovation, operational efficiency, customer experience, or digital transformation, and their key business priorities.
+
+6. **Technologies and Tools**: List the primary technologies, tools, or platforms the client uses in their operations (e.g., SaaS products, AI/ML tools, ERP systems, marketing platforms).
+
+7. **Challenges and Opportunities**: Identify any major challenges the client faces (e.g., market competition, technological gaps, operational inefficiencies) and opportunities for growth or market expansion.
+
+**Data Sources**: Where possible, extract relevant and up-to-date information from reliable online sources, including company websites, financial reports, news articles, and industry analyses. For each detail provided, include reference links or sources for transparency and credibility.
+
+Ensure that the profile you generate is data-driven, objective, and reflects the most recent developments related to the client.
+"""}
     response = crew.kickoff(inputs=inputs)
     return response.raw  
 

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190839+05'30'",
+            "modDate": "D:20241114190839+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Integration and Reporting\n1\nBuilt an Azure based pipeline to handle data from POS systems using webhook \nAPI and REST API, and built Power BI based reports\nHospitality Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190839+05'30'",
+            "modDate": "D:20241114190839+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned and built an Azure-based solution to act as a single platform that holds all the booking related financial information\n•\nData available as messages through Webhook, was intercepted by Azure Functions, the message (JSON file) was flattened and ingested into database. \nHistorical data was made available through SFTP/FTP folder, using off-the-shelf connector, files were saved and then read to load the data into database \n•\nDeveloped a methodology to combine data from SkyTouch and AppFolio (POS Systems) and consolidate into a single structure to be shared for \nbenchmarking. Benchmarking data was reloaded into the database for further processing and sharing with third-party aggregator\n•\nDeveloped key metrics covered i.e., revenue, length of stay, occupancy for current  and future bookings and competitor occupancy, and deployed through \nPower BI reports, for easier tracking and monitoring\nSituation\n•\nClient’s POS systems were not integrated and generating daily operational reports was time consuming. Reports were developed on Excel and distributed \non email leading to overhead.\n•\nMerilytics partnered with the client to build a cloud-based pipeline to facilitate data integration and reporting\nData Integration and Reporting for a Hospitality Company\n2\nImpact\n•\nRemoved the manual step of sharing and receiving benchmarking data by automating the process end-to-end\n•\nAuto refresh Power BI dashboards eliminated the need to export reports from POS portals and manually copy data daily across Excel files for building reports\n•\nProvided insightful reports by combining data from the POS systems with competition data and providing trends across time\nData Integration and Reporting\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190839+05'30'",
+            "modDate": "D:20241114190839+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n3\nPOS 2\n•\nCaptures live data from bookings\n•\nCentral repository used for revenue estimation\n•\nExported via a Webhook which pushes data to the \npipeline based on booking activity\n•\nIngested using Azure functions\n•\nStores leasing related documentation\n•\nActs as data source for long-term bookings \nstored on POS 1\n•\nData exported via a REST API\n•\nIngested using Azure Data Factory into SQL \nServer\nPOS 1\nSkyTouch\nAppFolio\n•\nRetrieved point in time reservation \ndata as a one-time activity\n•\nCaptured live changes to the \nreservations from Webhook API\n•\nCreated history of changes to a \nreservation capturing the change \nand the time of change\n•\nMaintained the latest status of the \nreservation and provided \ninformation at a point in time\n•\nRetrieved reservation information \nfor each point in time\n•\nCalculated metrics such as Length \nof Stay (LOS), occupancy and \nrevenue from booking information\nRetrieve data\nTransform Data\nProvide Reporting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (42).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114190839+05'30'",
+            "modDate": "D:20241114190839+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApplication Architecture\n4\nData Sources\nData Storage & Processing\nData \nVisualization\n1\nUse Azure Function to capture data from \nwebhook API\nStaging SQL \ndatabase\nAzure Functions\nPOS1 webhook API\nPOS2 REST \nAPI\nCompetition \ndata on SFTP\nPower BI\nPOS1 historic \ndata\nAzure Data Factory\nAzure Functions\nAzure Data Factory\nAzure Data Lake \nStorage\n1\n3\n2\n4\n9\n5\n6\n7\n8\n2\nIngest historic POS1 data in SFTP to SQL \nServer and data lake using ADF\n3\nUse Azure function to refresh POS2 data \nevery hour using REST API\n4\nIngest competition data in SFTP to SQL Server \nand data lake every week\n5\nStore JSONs from POS1 in data lake, parse the \nJSONs and store the tabular data in SQL \nServer\n6\nStore historic data in SQL Server and the CSV \nfile in data lake\n7\nStore the data from POS2 API in data lake as \nCSV and in SQL Server tables\n8\nStore weekly extracts of competition data on \ndata lake as CSV and in tables in SQL Server\n9\nTransform data on SQL Server and use on \nPower BI for reporting\nA\nA\nData from both POS systems is cleansed, \ntransformed, mapped and standardized for \nfurther processing.\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154332+05'30'",
+            "modDate": "D:20241114154332+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Mapping and Cleansing –\nQuickBooks to NetSuite Implementation\n1\nMigrated data from QuickBooks to NetSuite by mapping, cleansing, and \nconsolidating customer, suppliers and services data\nBackground and Medical Screening Services Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154332+05'30'",
+            "modDate": "D:20241114154332+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the data format and data schema requirements at NetSuite and identified the mandatory and non-mandatory fields required for transition\n•\nPerformed comparison for appropriate data elements, to standardize the taxonomy, hierarchy, identifiers etc. across systems, using QuickBooks as a \nprimary source and developed separate set of tables for Customers, Suppliers and Items/Services with appropriate mappings\n•\nConsolidated data from other internal systems and performed cleansing operation to provide standardized data for migration. Discussed with key \nstakeholders from Finance team and identified list of new items which need to be populated in NetSuite\n•\nCreated final data schema in the form of ready to upload tables with the cleansed data populated for direct migration into NetSuite\nSituation\n•\nInvoicing process is executed outside of QuickBooks (Accounting System) due to lack of integration with other systems. Invoices are summarized prior to \nbeing uploaded into QuickBooks and granular level data is omitted in the invoice\n•\nGranular details and exhaustive list of Customers, Suppliers and Services are not available, leading to challenges in migrating to new accounting system \n(NetSuite)\n•\nPartnered with client to explore, map, cleanse, consolidate and migrate the Customers, Suppliers and Services data from QuickBooks to NetSuite \nData mapping and cleansing – NetSuite implementation for PE-\nowned BGV software firm\n2\nImpact\n•\nComparative analysis helped team identify key gaps in older systems and addressed them during the cleansing and mapping process\n•\nConsolidation of data across systems helped reduce time required for creating an exhaustive list of Customers, Suppliers and Services/Items\n•\nCreated data schema and populated the standardized data after validation, which served as ready to migrate solution for client and simplified the migration \nprocess. \n•\nAchieved the results in 30 days and hence helped the Accounting team to migrate their systems without affecting regular operations\nData Mapping and Cleansing – \nQuickbooks to Netsuite \nImplementation\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154332+05'30'",
+            "modDate": "D:20241114154332+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPlan for data mapping and cleansing\n3\nData Identification for \nNetSuite\nData Schema and \nData Dictionary \nfor NetSuite\nStatic Maintenance \nfields\nQuickBooks Data\nCleansing & \nStandardization\nTransition and \nDevelop Data \ntables for NetSuite\n•\nIdentified mandatory \nand non-mandatory \nfields based on NetSuite \nand QB templates \n•\nIdentified and finalized \nexisting data sources for \nCustomers, Suppliers \nand Items\n•\nCreated intermediate \ndata schema for \nrequired datasets\n•\nPerformed use-case \nbased data quality \nchecks on QB data\n•\nPerformed data \nreconciliation across the \nsource data tables and \ndestination data tables \n(for NS)\n•\nIdentified and \nshowcased gaps in older \nsystems and worked \nwith Finance team to \nrectify them\n•\nCreated ready to access \ndata schema in existing \nData warehouse and \nprovided access to \nmigration team\n•\nCreated Data dictionary \nand Schema diagram to \nenable Business users to \nunderstand the field \nmapping between older \nsystems and new system\nData Population\nSupport Tables\nTransition\n•\nCreated final data tables for \nmigration after finalizing and \nmatching data types, character \nlimits and field types with \nNetSuite\n•\nDeveloped programs to \nperform cleansing and \nconsolidation process and \nimported final sanitized data\nSupport\n•\nCreated set of static \nmaintenance tables for \nfields that are user inputs \nand need supporting tables \nprior to importing data into \nNetSuite\n•\nCreated relationship \nbetween the QB and NS \ntables to showcase how \nthey connect with main \nCustomer, Supplier and \nItems/Services tables\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (26).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114154332+05'30'",
+            "modDate": "D:20241114154332+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFinal proposed data schema for migration from QB to NetSuite\n4\nKey points related to Data Schema:\n▪\nItems, Suppliers and Customers are \nmain tables for migration\n▪\nSuppliers and Customers details are \nnot present in single tables and hence \nneeded Supporting tables such as \nContacts, to provide ability to store \nmore information\n▪\nPrimary key and Foreign Key are \ndefined for each of the main tables and \nsupporting tables\n▪\nInvoice data can be populated with \nrelevant details based on these \nstandardized identifiers\n"
+    }
+]

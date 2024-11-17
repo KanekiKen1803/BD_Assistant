@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191104+05'30'",
+            "modDate": "D:20241114191104+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nProduct, volume price mix\nOphthalmic device \nmanufacturer\n▪Identified revenue drivers and calculated their impact at \nthe SKU level and the various combination of the region \nand product hierarchies\n▪Built executive level dashboards to provide executive \nteam with a clear real-time visibility into the Impact of \nPrice, volumes and Product Mix \n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191104+05'30'",
+            "modDate": "D:20241114191104+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE DRIVERS ANALYSIS FOR AN OPTHALMOLOGIC MANUFACTURING GIANT\nSITUATION\n▪\nThe client sold products in over 100 countries leading to huge data capture, however, they lacked a clear visibility on the factors driving the \nrevenues, especially because of a continuous change in the product catalogue in the last two years. \n▪\nMerilytics partnered with the CFO to define the revenue drivers and develop a robust model, to get a directional view of the impact of these \ndrivers.\n▪\nWorked closely with the Senior Management Team to identify the right data sets, cleanse the data and map the products\n▪\nDefined the revenue drivers; Price, Volume & Product Mix and calculated the impact of these drivers at the SKU level and aggregated the impact \nto the combination of region & product hierarchies\n▪\nBuilt executive level dashboards with the flexibility to filter by region and product hierarchy, so the user could view the impact of drivers for \npreferred selections\n▪\nAutomated the entire update process, so that the executives can get a real time visibility on the revenue trends and the impact of revenue drivers\nVALUE ADDITION\nIMPACT\n▪\nOur analysis helped the client’s executive team to get a clear real-time visibility of the Impact of Price, volumes and Product Mix and is part of \nthe strategy discussions\n▪\nClient was able to identify and drill down into the regions/categories which had a negative impact due to product mix and take appropriate \nactions\nABOUT THE CLIENT\nClient is a leading ophthalmic device manufacturer across the Globe and wanted to understand the Impact of revenue drivers as part of strategic planning\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191104+05'30'",
+            "modDate": "D:20241114191104+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY TO CALCULATE THE IMPACT OF REVENUE DRIVERS\n3\n▪\nImpact of Price: Assuming the overall volume sales and volume shares remain constant, the change in overall revenues due to the change in commodity prices from time A \nto time B\n▪\nImpact of Volume: Assuming the commodity prices and volume shares remain constant, the change in overall revenue due to the change in volume sales from time A to \ntime B\n▪\nImpact of Product Mix: Assuming the commodity prices and overall volume sales remain constant, the change in the overall revenues due to the change in volume shares \nfrom time A to time B\nRevenue (R) - 𝑃 × 𝑉\nPrice (P)\nVolume (V) - 𝑄 × 𝑆\nRevenue has 2 major drivers \ni.e., Price and Volume\nRevenue Driver 1\nIn a product hierarchy, the volume \nat the most granular level could \nbe calculated as the share of the \nselected commodity, of the \nOverall Quantity \nOverall Quantity \n(Q)\nShare of the \nselected \ncommodity (S)\n2\n3\nRevenue Driver 2\nRevenue Driver 3\n1\n• RA,B – Revenue at time A and time B\n• PA,B – Price at time A and time B\n• VA,B – Volume Sales at time A and time B\n• QA,B – Overall Quantity at time A and time B\n• SA,B – Volume share of a commodity at time A and time B\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191104+05'30'",
+            "modDate": "D:20241114191104+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPACT OF REVENUE DRIVERS – POWER BI DASHBOARD\n4\nFlexibility to \nfilter by \nRegion and \nProduct \nGroup \nhierarchy\nFlexibility to \nselect a period\nImpact of Drivers ($, %) for the \nselected filters at a Month, Quarter \nand YTD level\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (421).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191104+05'30'",
+            "modDate": "D:20241114191104+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPACT OF REVENUE DRIVERS – POWER BI DASHBOARD\n5\nILLUSTRATIVE\nFlexibility to \nfilter by \nRegion and \nProduct \nGroup \nhierarchy\nFlexibility to \nselect a period\nTabular \nview\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103337+05'30'",
+            "modDate": "D:20241115103337+05'30'",
+            "trapped": ""
+        },
+        "content": "MARKETING AND PATIENT BEHAVIOR ANALYTICS\nSITUATION\n▪\nThe client did not have real-time visibility into the performance of the practices or impact of marketing efforts as the data was sourced \nfrom multiple systems and the process of creating the reports/dashboards was manual\n▪\nMerilytics partnered with the client to set up a robust reporting environment and build advanced analytical models to track customer \nacquisition metrics to determine impact of marketing efforts\n▪\nDesigned and set up a robust data warehouse consolidating the data from various sources such as Pronto, Sikka, UltiPro etc. and that \nwould serve as the single source of truth\n▪\nDefined KPIs on patient behavior to support Marketing analytics, and understand/track the performance of the practices\n▪\nBuilt analytical models to understand the leads and patient behavior so that the client’s Marketing team is equipped to make data driven \ndecisions quicker\n▪\nBuilt robust Tableau and Excel based Business Intelligence interface to provide real-time visibility into performance and so that the team \ncan track and take decisions immediately\nVALUE ADDITION\nIMPACT\n▪\nProvided real-time visibility into customer acquisition metrics and patient behavior, and equipped the Marketing team with access to \ncritical data helping them make decisions faster. \n▪\nReduced Marketing team’s effort in preparing for the monthly review board meetings from 2 weeks to 2 days\nABOUT THE CLIENT\nClient is a rapidly expanding network of dental clinics in Canada managing around 400 practices\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103337+05'30'",
+            "modDate": "D:20241115103337+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE BREAKDOWN TO ESTIMATE MARKETING TARGETS FOR NEW CUSTOMER \nACQUISITION\n2\nDisplayed the impact of various factors on the \nYoY revenue change, and split revenue impact \nby existing, new and reactivated customers, \nhelping the Marketing team produce targets \nfor new customer acquisition\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103337+05'30'",
+            "modDate": "D:20241115103337+05'30'",
+            "trapped": ""
+        },
+        "content": "GROSS NEW PATIENTS SUMMARY\n3\nProvided visibility into \nthe new patients \nacquired and churned \npatients. Also, compared \nthe cumulative journey \nwith the annual targets. \nProvided visibility into \nthe performance of \nMarketing Managers \nbased on the YoY Gross \nNew Patients acquired in \nthe period.\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103337+05'30'",
+            "modDate": "D:20241115103337+05'30'",
+            "trapped": ""
+        },
+        "content": "MARKETING EXPENSES REVIEW\n4\nILLUSTRATIVE\n$0K\n$100K\n$200K\n$300K\n$400K\n$500K\n$600K\n$700K\n$800K\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nExpenses Actuals vs Prior Year\n2018\n2019\n$0K\n$1,000K\n$2,000K\n$3,000K\n$4,000K\n$5,000K\n$6,000K\n$7,000K\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nCumulative Expenses vs Prior Year\n2018 Expenses\n2019 Expenses\nTarget\n$0.0\n$10.0\n$20.0\n$30.0\n$40.0\n$50.0\n$60.0\n$70.0\n$80.0\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nCost Per Acquisition vs Prior Year\n2018 Cost / Acq.\n2019 Cost / Acq.\n62%\n1%\n1%\n1%\n9%\n3%\n2%\n20%\n1%\nMarketing Expenses\nAd, Promos & S & M Expense Other\nBrand Development\nCommunity\nInternal Marketing\nLicense & Subscriptions\nMarketing - Other\nMarketing - Year End\nWebsite Expenses\nYellow Pages & Sensis\nProvided the flexibility \nto view the analysis at \nan overall, province, \nmarketing manager and \npractice level\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (46).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103337+05'30'",
+            "modDate": "D:20241115103337+05'30'",
+            "trapped": ""
+        },
+        "content": "ADDITIONAL ANALYSES LEADING TO ACTIONABLE INSIGHTS\n5\nILLUSTRATIVE\nANALYZED AND PROVIDED INSIGHTS INTO THE PATIENT BEHAVIOR TO HELP THE MARKETING TEAM PLAN VARIOUS ACTIVITIES\nProblem Statement\nMerilytics value-add\nKey findings/Potential use-case\nPatient re-attachment analysis: \nWhat are they key drivers for patients to \nswitch practices? \nWhat is true network level New \nPatients? \n• Performed a de-duplication exercise and uniquely \nidentified patients across client practices\n• Identified behavior patterns for patients who visited 2 or \nmore client practices in their lifetime based on their \ntransactions, dental procedures, same practice group \nreferrals, etc.\n• Supported the Marketing team to compare the insights and validate \nthrough a market survey conducted by a vendor\nPatient LTV analysis: \nWhat is the average lifetime value of a \npatient? \nWhat drives high revenue/frequency?\n• Analyzed patient behavior to compare patient LTV across \nsegments and understand key drivers for high revenue/visit \nfrequency\n• Enhanced visibility into the estimated revenue from a patient based on the \nhistorical behaviour to drive the marketing team budgeting decisions\nPatient cohort analysis: \nTo provide a quick overview on the \npatient traffic over past couple of years\n• Analyzed patient traffic to identify the unique number of \npatients that are visiting the practices on a monthly basis\n• Identified Active Patient Base based on the last visit date \n• Ability to track gross new patient flow, to determine benefits of marketing \nefforts\nRevenue attrition analysis: \nWhat share of revenue is retained \nthrough existing patient base?\nWhat is the gap in revenue that could be \nfilled by acquiring new patients?\n• Created practice cohorts based on their association with \nclient’s practice and analyzed revenue retained over \nsubsequent years\n• Analyzed the revenue attrition from patients that visited a \npractice for the first time for an emergency treatment \n• Marketing team leveraged the results to revise the annual New Patients \ntargets \n"
+    }
+]

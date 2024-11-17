@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt a dashboard to track the performance of the new products launched, \nalong with the effect of cannibalization on other products of same category\nCannibalization and New Product Performance Dashboard\n(Cosmetics Manufacturer)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "NEW PRODUCT LAUNCH DASHBOARD FOR A COSMETICS MANUFACTURER\nSITUATION\n▪The client lacked visibility in tracking the sales performance of the newly launched products and its comparison with the sales of the current products. \nThe current reporting requires various manual interventions to map the SAP retail sales data to the internal mapping files and lacks the level of detail \nrequired by the business.\n▪Merilytics partnered with the client to build an automated PowerBI dashboard that provides visibility into retail sales related metrics and quantify the \ncannibalization effect of the newly launched products at various cuts such as region, affiliate, retailer, channel, store etc..\n▪Collaborated with the Finance Team to create a standardized mapping of the products with the Applications and Major Categories to be leveraged in the \ndashboard\n▪Leveraged the historical retail sales of the category along with the new product Retail Sales from SAP to calculate the dollar lift in sales in period of the \nlaunch of the New Product and its performance overtime\n▪Calculated the dollar Cannibalization/Halo effect leveraging the changing YOY mix of business percentage in the post vs pre launch period of the new \nproduct\nVALUE ADDITION\nIMPACT\n▪The client could comprehend retail sales data of a new product or campaign across different categories on a weekly basis (rather than monthly), \nenabling them to make well-informed decisions regarding campaign launches and product sales\n▪The dashboard provided the visibility into the cannibalization effect of the newly launched product on the other products in the same category, allowing \nthem to course correct the campaigns\nABOUT THE CLIENT\nClient is a US-based cosmetics manufacturer and seller with a global presence\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "OVERALL APPROACH & METHODOLOGY\n3\nProduct level \nretail sales data\nDownload the \nproduct level retail \nsales data from SAP \nat a set frequency\nAggregation of \nRetail Sales \ndata\nAggregate the \nproduct level retail \nsales data using \nPower Query\nUpload the \ndata onto a \nshared folder\nOnce aggregated, \nupload the data \nonto a shared \nfolder\nUpdate the \nmapping files\nUpload the retailer \ngroup mapping \nfiles to the shared \nfolder\nPowerBI \ndashboard\nRefresh the \nPowerBI dashboard \nlinked to the \nshared folder to \ndisplay the latest \ndata\n1 Retail sales\n2 Shared folder\n3 Aggregation\n4 Mapping files\n5 Dashboard\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: WEEKLY SALES SUMMARY VIEW OF THE NEW PRODUCT LAUNCH\nSDLF CLUSTER\n4\nThis view provides \nthe weekly retail \nsales trend of a new \nproduct, and its \npercentage share \nwithin that sub-\ncategory \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2: IMPACT OF NEW PRODUCT LAUNCH BY VARIOUS SEGMENTS\nSDLF CLUSTER\n5\nImpact of new product \nlaunch on the existing \nSKUs within a product \ncategory\nImpact of new product \nlaunch on the existing \nSKUs within a product \napplication\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (369).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Merilytics Overview",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180328+05'30'",
+            "modDate": "D:20241114180328+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 3: CANNIBALIZATION EFFECT DUE TO NEW PRODUCT LAUNCH\nSDLF CLUSTER\n6\nDollar cannibalization \nimpact based on the \nYoY revenue growth of \nproducts excluding new \nproduct\nILLUSTRATIVE\n"
+    }
+]

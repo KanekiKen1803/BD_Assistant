@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103921+05'30'",
+            "modDate": "D:20241115103921+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData virtualization strategy design\n1\n• Diagnosed the existing data infrastructure, uncovering integration gaps and inefficiencies \ndue to data silos across various acquired entities.\n• Recommended a Data Mesh architecture leveraging Data Virtualization to provide \naccessible, reliable, and real-time data integration without the need for a centralized data \nwarehouse.\n• Developed a decentralized data strategy that empowers business units to own and \nmanage their data, enhancing data consistency and decision-making.\nClient is a U.S.-based company that provides variety of experiences related to \nboating, dining, and transportation, particularly in coastal areas and major cities in US. \nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103921+05'30'",
+            "modDate": "D:20241115103921+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nTourism and Marine transport company needs to hedge its data \narchitecture\n2\nYour value is enhanced. \nWith our solution, your organization now benefits from a modern, flexible data architecture. The Data Mesh and virtualization \napproach provide a single source of truth, real-time insights, and improved decision-making capabilities, aligning your data \nstrategy with your business goals. This setup has drastically cut down on the overhead of managing centralized data and allowed \nyour teams to leverage data as an asset without the constraints of traditional data management approaches.\nDATA MANAGEMENT\nKEY RESULT   \n•\n100% automation of \ndata integration \n•\nReduced infrastructure \ncosts by 60% through \nthe adoption of Data \nVirtualization and \nData Mesh architecture\nVALUE LEVERS PULLED\n•\nData Virtualization\n•\nData Mesh\n•\nData Governance\n2\nYou turn to Accordion. \nWe partner with your team to address the complexities of integrating diverse data sources across your organization. Rather \nthan pushing towards a traditional centralized data warehouse with intricate ELT processes, we propose a Data \nVirtualization solution aligned with a Data Mesh architecture. This approach avoids the pitfalls of centralized data \nwarehousing, offering a more agile, scalable, and cost-effective data strategy tailored to your unique needs.\n1)\nWe assess your current data sources and infrastructure, identifying gaps and challenges in integrating data across your \norganization’s diverse systems.\n2) Working closely with your business teams, we design a Data Mesh architecture, emphasizing decentralized data ownership and \ngovernance empowering each business unit to take responsibility for its data ensures that the data is accurate, reliable, and \nmeaningful within its specific context.\n3) The design allows data from different systems to remain where it is while still being accessible and integrated in real-time \nthrough virtualization, ensuring data consistency and eliminating the need for heavy data movement and transformations.\nPicture this…\nYou’re looking for an optimal architecture for data and reporting to be centrally available on a real-time basis. But with data \nscattered across various acquired companies and systems—like Microsoft Dynamics GP, NPS, UKG, and Anchor—you find \nyourself facing the challenge of building a centralized data warehouse. The complexity and inconsistency due to differing \nbusiness definitions across your business units lead to fragmented and delayed reporting.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103921+05'30'",
+            "modDate": "D:20241115103921+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach - Diagnostic phase\n3\nEXPLORATION\nASSESSMENT\nDESIGN\nDOCUMENTATION & \nRECOMMENDATION \n▪\nIdentified  data sources, servers \nand other third-party systems\n▪\nAccessed client’s data systems to \ndeep-dive and explore the data \ndirectly\n▪\nDeveloped an understanding of \nexisting infrastructure and data \nflows\n▪\nConducted technology stakeholder \ninterviews to understand current-\nstate data sources\n▪\nConnected with functional heads to \nunderstand the desired future state \nof reporting\n▪\nDefined existing process flows \nand workflows for every data \nsystem\n▪\nIdentified current process and \ndata gaps by assessing existing \nmetrics and data quality across \nfunctional areas including finance, \nsales & marketing, operations, etc.\n▪\nAssessed data governance \nprocesses to document data \ncapture methodology\n▪\nReviewed existing reports to \nidentify automation and \nenhancement opportunities\n▪\nDesigned a Data Virtualization \nstrategy using Data Mesh to \nreplace centralized ELT and \ntraditional data warehousing.\n▪\nDeveloped a data access \nframework that empowers \nbusiness units to manage their \ndata as a product, enhancing \ngovernance.\n▪\nCreated an adaptable \nenvironment with Data \nVirtualization tools for seamless, \nreal-time data integration \nwithout centralization.\n▪\nEstablished a decentralized, \ndomain-oriented reporting suite \nthat aligns with the specific needs \nof each functional area, including \nfinance, operations, sales & \nmarketing, and more.\n▪\nCreated high-level and low-level \narchitecture diagrams showcasing \nthe Data Mesh and Virtualization \nframework.\n▪\nCreated data flow and sample \nworkflows for all source systems \nfor ease of reference\n▪\nProvided recommendations on \ndata framework to establish a \nsingle source of truth and enable \nactionable reporting\n▪\nAdvised on enhancing data \ngovernance models to ensure data \nquality, security, and compliance \nwhile enabling agile decision-\nmaking.\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103921+05'30'",
+            "modDate": "D:20241115103921+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Sources\nReporting (Tableau/Power BI/Other)\nCurrent state data architecture – Data Mesh\n4\nReport 1\nReport 2\nData Pipelines & Integration\nHELM\nNPS \nData\nOperations\nRevenue\nMarketing\nFinance\nHR\nOther Sources\nKey observations\nTransformed & Standardized Reporting\nD\nA\nT\nA \nG\nO\nV\nE\nR\nN\nA\nN\nC\nE\nRawTables\nReporting \nTables\nData is spread across multiple sources \n(Redshift and other data sources), leading to \nchallenges in data governance, integration, \nand consistent reporting.\nThe Marketing team has developed an isolated \ndata infrastructure on AWS, creating silos and \nlimiting data sharing and unified analysis \nacross the organization.\nThe absence of a single source of truth has \nled different business units to generate their \nown reports directly from raw data, resulting \nin inconsistent KPIs, varied business rules, \nand fragmented reporting standards.\nThere is a need to establish clear ownership \nand responsibilities for managing the \nreporting suite and ensuring consistent data \ngovernance across all business units.\nA\nB\nC\nReport 3\nC\nA\nD\nD\nAWS Redshift Database\nB\nAWS Glue\nA\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (113).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103921+05'30'",
+            "modDate": "D:20241115103921+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Sources\nOutputs (Tableau/Power BI/Other)\nFuture state data architecture – Data Mesh\n5\nDynamic Pricing\nOperations Reporting\nProfit Cube\nMonthly Reporting \nReal Time Data Products/Applications\nData Mesh (Trino & StarRocks)\nData Pipelines & Integration\nOrchestration \nTransformed & Standardized Reporting\nRaw\nOthers\nOthers\nD\nA\nT\nA \nG\nO\nV\nE\nR\nN\nA\nN\nC\nE\nDimension Tables\nFact Tables\nViews\ndbt transformations \nSilver\nUse Trino to directly connect with \ndatabases and sources via JDBC \nconnectors, replacing traditional ELT \nprocesses and reducing the need for \nintermediate storage \nLeverage StartRocks as a Lakehouse to \nsupport the Data Mesh architecture, \nproviding a scalable and centralized \nplatform for managing data across various \ndomains\nOrganize data into virtual views within the \nData Mesh, including layers such as Raw, \nSilver, and Reporting, to enhance data \nquality and consistency without physically \ntransforming or moving the data.\nUtilize dbt for data transformation and Git \nfor version control, to establish a robust \nframework for developing, managing and \nscaling data transformation workflows in \ndata mesh\nLeverage an orchestration tool to manage \nend to end data workflows within data \nmesh.\nEstablish a data governance committee \nconsisting of a Governance Lead, Domain \nData Stewards, and implementation teams \nto oversee and guide the Data Mesh \nstrategy, ensuring adherence to governance \nstandards and optimizing data value across \nthe organization \nA\nB\nC\nA\nC\nD\nD\nE\nE\nF\nDirect Connect to Trino\nintegrated to StartRocks using ETL tool\nB\nF\nHELM\nNPS \nData\nOperations\nRevenue\nMarketing\nFinance\nHR\nOther Sources\nRecommendations\n"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSales dashboard\n1\nBuilt a reporting suite to track sales performance and help identify gaps in sales \npipeline on a real-time basis\nOriginal equipment manufacturer (OEM) for electric vehicles\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for a comprehensive reporting suite to track sales performance and identify gaps in sales pipeline. Currently, \nyou lack real-time visibility into sales team performance it is relied on Excel reports with long turnaround times at a monthly \ncadence.\nOEM enterprise needs a cutting-edge sales dashboard\n2\nYour value is enhanced. \nYour real-time availability of the dashboards saved around 40 man-hours/week to develop reports, and the new discount \nframework helped the team reduce the overall discount offered by 2 percentage points\nSALES DASHBOARD\nKEY RESULT   \n•\n40 man-hours/week \nsaved\nVALUE LEVERS PULLED\n•\nSales cycle time\n•\nCustomer discounting\n•\nSales team \nproductivity\n2\nYou turn to Accordion. \nWe partner with your team to built a reporting suite to track sales performance and help identify gaps in Sales Pipeline on a \nreal-time basis, including:\n1)\nAnalyzing Salesforce data and collaborating with the Data Engineering team to help set up data for the reporting suite on \nSnowflake data warehouse\n2) Defining KPIs and building self-service reporting suite on Tableau with dashboards that provide real-time visibility into:\n•\nActual Order Intake (OI) vs. Budget\n•\nOrdering Intake Forecast for next 4 months\n•\nStatus of high value opportunities in Sales Pipeline\n•\nSales Team Productivity\n3) Identifying ~80% of the order intake is entered in Salesforce just 1 week ahead of opportunity closing and suggesting the best \npractices\n4) Identifying customers that were offered higher/lower discount compared to the existing guidelines and designing a new \ndiscounting framework \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed Salesforce data and collaborated with client’s Data Engineering team to help set up data for the reporting suite on Snowflake data warehouse\n•\nDefined KPIs and built self-service reporting suite on Tableau with dashboards that provide real-time visibility into:\n•\nActual Order Intake (OI) vs. Budget\n•\nOrder Intake Forecast for next 4 months\n•\nStatus of high value opportunities in Sales Pipeline\n•\nSales Team Productivity\n•\nIdentified that ~80% of the order intake is entered in Salesforce just 1 week ahead of opportunity closing and suggested the best practices\n•\nIdentified customers that were offered higher/lower discount compared to the existing guidelines and helped the team design a new discounting framework \nSituation\n•\nClient lacked real-time visibility into Sales Team performance as they relied on Excel reports with long turnaround times and at a monthly cadence\n•\nPartnered with the client to develop a comprehensive reporting suite to track Sales performance and help identify gaps in sales pipeline\nForecasting AR – collections for a facility services provider \n3\nImpact\n•\nReal-time availability of the dashboards saved around 40 man-hours/week to develop reports\n•\nThe new discount framework helped the team reduce the overall discount offered by 2 percentage points\nSales Dashboard\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nMethodology/Approach\nData Sources\nData Ingestion and Modification Layer\nReporting Layer\nExcel Extracts\nTableau Prep\nDefining KPIs and Creating \nDashboards\nDashboards are published \nonline for real-time \naccessibility to stakeholders\nDesigning the Data \nModel for the \nDashboards\nContains Salesforce Data\nSQL DB\nTableau Desktop\nTableau Online\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nSales executive summary\nILLUSTRATIVE\nFilter pane to provide \nflexibility to change \ntimeframe, sales region, \nproduct & customer \ncategories\nTable to show Top-15 \naccounts by their OI \nactuals\nClustered bar chart to \nshowcase monthly \ncomparison between \nOrder Intake (OI) \nactuals vs. budget\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nTeam productivity\nILLUSTRATIVE\nKPI cards display \nOI by different \naccount types, \naverage at FTE\nTree-map and \ntable \nshowcasing the \nproductivity of \neach salesperson\nVisual to show \nthe monthly team \nproductivity\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (84).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200448+05'30'",
+            "modDate": "D:20241114200448+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nSales cycle time\nILLUSTRATIVE\nTable to find time spent \non each of the Top-20 \norders\nVisuals to showcase sales \ncycle time by customer \nclassifications\n"
+    }
+]

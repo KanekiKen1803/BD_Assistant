@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180435+05'30'",
+            "modDate": "D:20241114180435+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nData warehouse Implementation and Campaign \nManagement System Integration\nYoga Fitness Chain\nBuilt a robust data warehouse on AWS Redshift by mirroring \nthe CRM/POS databases from Zenoti and enabled \nintegration with the email marketing cloud on Klaviyo by \nsetting up a consent management process and segmenting \nthe customer data for targeted communication. \n▪Data Warehouse setup on AWS\n▪Integration of Zenoti DW to \nRedshift on AWS\n▪Establishment of a consent \nmanagement system in Redshift \n▪Integration of transformed \ncustomer data into Klaviyo email \nmarketing cloud to enable \ncustomer segmentation and \ntargeted emails based on \ncustomer behavior\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180435+05'30'",
+            "modDate": "D:20241114180435+05'30'",
+            "trapped": ""
+        },
+        "content": "SITUATION\n▪\nClient was using a Zenoti as their CRM/POS system and Vimeo as their On-demand video platform along with the marketing platforms – Klaviyo \n(Email marketing) and Attentive (Text/SMS marketing). However, there was no integration among these systems making it difficult to leverage data \nacross systems and perform targeted marketing for potential customers.\n▪\nMerilytics partnered with the client to set up an AWS Redshift DW, mirrored Zenoti DW using ETL pipelines, and set up a consent management \nsystem to integrate and reconcile consent data from multiple sources on AWS Redshift.\n▪\nBuilt a sustainable and scalable cloud-based data infrastructure on AWS Redshift to mirror the CRM databases from Zenoti as a readily available \nsingle source of truth for reporting or analysis.\n▪\nCreated data pipelines from the CRM system to the cloud DW using a serverless architecture on AWS and established an integrated consent \nmanagement and write-back system involving 3 data sources – CRM, Email Cloud (Klaviyo) and SMS cloud (Attentive).\n▪\nSegmented customers using their profile information and their interactions with the client’s yoga studios and online platform (purchases, visits etc.) \nfor targeted marketing email communication from the email marketing cloud platform.\nVALUE ADDITION\nIMPACT\n▪\nMirroring the Zenoti DW in client’s AWS account enabled the client to have easy access to reliable and reconciled data for quick reporting purposes. \nThis new AWS Datawarehouse supported by serverless architecture helped client in significant cost reductions in maintaining the DW and a significant \nreduction in payments (~8K USD per month) to vendor for the analytics platform built on the vendor DW.\n▪\nIntegrated consent management process ensured that the consent data that came through different point of entries are centrally managed and \nwritten-back to relevant systems based on reconciled consent status.\n▪\nSetup built to enable daily processing of CRM/POS data on a serverless architecture provided inputs to the email marketing cloud for customer \nsegmentation.\nABOUT THE CLIENT\nClient is a yoga fitness chain in the U.S. with around 200 locations across the country, and presence in Live and On-demand platforms.\n2\nDW IMPLEMENTATION & CAMPAIGN MANAGEMENT SYSTEM INTEGRATION FOR \nA YOGA FITNESS CHAIN\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (37).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114180435+05'30'",
+            "modDate": "D:20241114180435+05'30'",
+            "trapped": ""
+        },
+        "content": "APPLICATION ARCHITECTURE AND DATA MANAGEMENT\n3\nPrimary Data \nSources\nData Storage & Processing\nDestination \nSource\nAWS Lambda\nAWS Redshift DW\n1\n4\n5\n6\n3\n9\n1\n2\n3\n4\n5\n6\n8\n7\n2\n8\nCRM/POS system\nEmail marketing \nsystem\nText/SMS marketing \nsystem\nOn-demand video \nplatform\nRead from Zenoti DW containing \nCRM/POS data using Python jobs on \nAWS Glue\nUnload the data (incremental changes) \ninto AWS S3 buckets\nIncremental data load to target DW on \nAWS Redshift\nRead data from source systems \n(Klaviyo/Attentive/Vimeo) using AWS \nLambda functions/API calls\nWrite the input consent data into AWS \nRedshift Staging tables using stored \nprocedures\nAWS Glue and AWS Lambda triggers ETL \nnotification using AWS SNS\nConsent management process and \ntransformation of data for customer \nsegmentation\nData load to Zenoti/Klaviyo to update \nreconciled consent status and \ncustomer attributes for segmentation\n6\n"
+    }
+]

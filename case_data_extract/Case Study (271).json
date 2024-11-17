@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155827+05'30'",
+            "modDate": "D:20241114155827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse infrastructure development \n1\n• Performed a comprehensive evaluation of the database infrastructure, focusing \non CPU, memory, and I/O utilization\n• Analyzed 160+ stored procedures and optimized long-running queries\n• Implemented robust monitoring & alerting systems enabling proactive detection \nand resolution of performance issues\nElevator components manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155827+05'30'",
+            "modDate": "D:20241114155827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to improve the health and performance of their data warehouse, enhancing their capability to swiftly and \neffectively leverage data for decision-making and operational efficiency. Currently, there is major performance issues within \ndata warehouse environment including bottlenecks in ETL processes, slower query response times, and general \ninefficiencies because of increasing volume and complexity of data from multiple sources.\nElevator components manufacturer needs to “boost” the data \nwarehouse performance\n2\nYour value is enhanced. \n•\nYou have cleansed, validated, and consistent data across various entities of the company in a centralized location, which eased \naccess to perform multiple analyses (including recent acquisitions previously not reported) on a real-time basis\n•\nYou have a simplified unstructured data from multiple sources, homogenized data fields across tables, and a robust data \ndictionary built to help you leverage the data warehouse and easily perform any ad-hoc analytics\nDATA WAREHOUSE INFRASTRUCTURE \nDEVELOPMENT\nKEY RESULT   \n•\nReduced ETL runtime by \n22%\n•\nReduced database size \nby 150 GB \nVALUE LEVERS PULLED\n•\nDW diagnostic\n•\nQuery optimization\n•\nMonitoring and alerts\n2\nYou turn to Accordion. \nWe partner with your team to conduct infrastructure assessment, data processing and query and monitoring and alerting \nsystems, including:\n1) Performing a comprehensive evaluation of the database infrastructure, focusing on CPU, memory, and I/O utilization. \nEnhancing disk and file configurations to boost I/O throughput and minimize contention\n2) Analyzing 160+ stored procedures and optimize long-running queries, converted BLOB data types to standard types, \nand applied techniques like index creation on high traffic tables with >1M records and stored procedure retirement to \nenhance performance\n3) Implementing robust monitoring and alerting systems to ensure database health, data integrity, and security, enabling \nproactive detection and resolution of performance issues\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155827+05'30'",
+            "modDate": "D:20241114155827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the data on sales, orders, and estimates (Oracle, SQL Server, MySQL), content management data (Docuware), CPQ data (Tacton) and enterprise \nsurvey data (Survey Monkey) to identify the relevant KPIs based on the business requirements\n•\nBuilt an on-premises data warehouse (based on Microsoft SQL Server) connecting different data sources through data pipelines, transforming raw data to \ngenerate the KPIs identified\n•\nCreated a tabular data model on SQL Server to create ready-to-serve data marts for analytical and reporting purposes\n•\nDeveloped automated Tableau dashboards that feed off the data warehouse, providing business stakeholders with real-time access to data and analyses \n•\nIncorporated automated data validation and reconciliation rules across the entire ETL process to ensure accuracy and consistency of data leveraged for \nreporting\nSituation\n•\nClients group consists of eight different entities spread across the US, Canada, and Europe. There was a need to streamline the BI reporting infrastructure \nin order to facilitate tracking of performance across different entities via a single source of truth\n•\nPartnered with the client to set up an on-premises enterprise data warehouse and develop automated Tableau dashboards to analyze their sales, orders, \nand operational data. The new infrastructure enabled a seamless inclusion of data from new entities to the reporting suite\nData Warehouse Infrastructure for an Elevator \nComponents Manufacturer\n3\nImpact\n•\nEnterprise data warehouse implementation enabled the availability of cleansed, validated, and consistent data across various entities of the company in a \ncentralized location, which eased access to perform multiple analyses (including recent acquisitions previously not reported) on a real-time basis\n•\nEnhanced reporting process enabled reliable performance reporting of existing and new entities with consistent, accurate, and current information\n•\nSimplified unstructured data from multiple sources, homogenized data fields across tables, and built a robust data dictionary to help the business users \nleverage the data warehouse to easily perform any ad-hoc analytics\nData Warehouse Infrastructure \nDevelopment \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155827+05'30'",
+            "modDate": "D:20241114155827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImplemented  BI infrastructure\n4\nData Source for New Entities\nPayroll Data\nCRM and Sales Pipeline Data \nSales and Finance Data\nEnterprise Survey Data\nContent Management Data\nCPQ Solution Data\nInges\nt\nOn-Prem Storage\nModel & Serve\nIngest – SSIS is the ETL tool used for \ndata migration from data sources to the \ndata warehouse\nOn-prem Storage – Redundant and \nscalable data storage to store \nstructured and unstructured data\nSQL Database – General purpose \ndatabase to stage the data and perform \nany transformations to create reporting \ntables\nPrimary Data\nConsolidated Data\n- V6\nSales and Orders Data\n- V9\nSales and Orders Data\nData Warehouse\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (271).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155827+05'30'",
+            "modDate": "D:20241114155827+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach for data validation and reconciliation\n5\nSTAGING DATABASE\nPRODUCTION \nDATABASE\nREPORTING DATABASE\nPRIMARY DATA\nSOURCE SYSTEMS\n1. Captured data from the source \nsystems as is, into the staging \ndatabase using SSIS packages, API \nconnections, and Python jobs\n2. Assigned appropriate data \ntypes and appended the data \ninto a production database\n3. Trimmed the data to five years, \ncleansed the data for \ninconsistencies, removed duplicates, \nrenamed columns to business \nintuitive names, and consolidated \ndata across entities\nFact Tables\nDimension Tables\nReporting Tables\nETL \nProcess\n4. Created reporting tables for \nmultiple business areas using fact \nand dimension tables, used for \nbuilding analyses or reports in \nTableau\n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse & automated \nRCM reporting solutions\n1\nIncreased monthly collections rate by 25% (lift of ~USD 10-15 Mn per month) & \nimproved the efficiency in clinic operations by deploying Enterprise Data \nWarehouse  solution and automated BI Reporting suite for RCM & Clinic Ops \nfunctions\nPediatric healthcare company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to streamline and automate the RCM reporting suite through automated data pipelines (to ingest revenue \nand payments data from EMR/EHR systems into a central data warehouse) and develop comprehensive and customized \nPower BI dashboards, to provide real-time visibility. Currently, the data consolidation process from multiple EMR/EHR systems \nand report preparation is manual and data validation across systems is challenging.\nPediatric healthcare company needs a “playground to house” \nits data warehouse\n2\nYour value is enhanced. \n•\nReal-time availability of RCM KPIs helped in monitoring and tracking of operational and financial performance.\n•\nBased on these KPIs, you can make strategic decisions related to revenue cycle management and business operations, which \ncan further enhance the monthly collections rate, reduced denials, improved clinic ops efficiencies \n•\nYou have a scalable Azure based data warehouse to help in onboarding and integrating newly acquired practices with minimal \neffort and provides visibility into acquired business in short span of time\nENTERPRISE DATA WAREHOUSE & \nAUTOMATED RCM \nKEY RESULT   \n•\nIncrease collection \nrate by 25% (lift of \n~USD 10-15 Mn per \nmonth)\nVALUE LEVERS PULLED\n•\nDelta Live Tables from \nDatabricks\n•\nEnterprise Data \nWarehouse\n•\nRCM Dashboards on \nPower BI\n2\nYou turn to Accordion. \nWe partner with your team to increase monthly collections rate & improve the efficiency in clinic operations by deploying \nEnterprise Data Warehouse solution and automated BI Reporting suite, including:\n•\nSetting-up automated pipelines and ingesting data from multiple source systems (eCW, TriMed, Office Practicum, WayStar) into \na central data platform in Azure.\n•\nLeveraging Delta Live Tables in Azure Databricks to load data into raw, clean and aggregate zones. Developing corporate data \nmodels to analyze data in aggregate zone.\n•\nBuilding a robust self-serve dashboards in Power BI to enhance visibility across the business including key RCM indicators, \nappointment/visits, cash collections, patient care & P&L\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSet up automated pipelines and ingested data from multiple source systems (eCW, TriMed, Office Practicum, WayStar) into a central data platform in Azure.\n•\nLeveraged Delta Live Tables in Azure Databricks to load data into raw, clean and aggregate zones. Developed corporate data models to analyze data in \naggregate zone.\n•\nBuilt robust self-serve dashboards in Power BI to enhance visibility across the business including key RCM indicators, Appointment/Visits, Cash Collections, \nPatient care & P&L\nSituation\n•\nThe client relied on Revenue Cycle Management (RCM) system-based reporting to track its business performance. However, the data consolidation \nprocess from multiple EMR/EHR systems and report preparation was manual and data validation across systems was challenging\n•\nPartnered with the client to i) streamline and automate the RCM reporting suite through automated data pipelines (to ingest revenue and payments data \nfrom EMR/EHR systems into a central data warehouse); and ii) develop comprehensive and customized Power BI dashboards, to provide real-time visibility.\nEnterprise Data Warehouse & Automated RCM ,Clinic Ops, \nValue-Based Care Reporting for Pediatric Healthcare Provider\n3\nImpact\n•\nAvailability of real-time RCM KPIs helped in monitoring and tracking of operational and financial performance.\n•\nBased on these KPIs, management was able to make strategic decisions related to revenue cycle management and business operations, which further \nenhanced the monthly collections rate, reduced denials, improved clinic ops efficiencies \n•\nScalable Azure based data warehouse helped in onboarding and integrating newly acquired practices with minimal effort and provided visibility into acquired \nbusiness in short span of time\nEnterprise Data Warehouse & \nAutomated RCM \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management Architecture Design\nTriMed\nLinked Servers\neCW (California)\neCW (Texas)\neCW (Florida)\nWaystar (Texas)\nOffice Practicum\nWaystar (California)\nWaystar (Florida)\nADP\nPlanful\nPayors\nNiceIncontact\nAzure Data \nFactory\nStorage Account\nLookup Activity \n(Control File)\nExecute COPY \nDATA Activity from \nSource to Landing\nFor each loop\nControl File \n(list of table names)\nADF - 1\nADF - 2\nLanding Zone \n(Parquet files)\nWeb Activity – \nkicks-off DLT \nPipeline on \nDatabricks\nRaw Zone\nClean Zone\nAggregate Zone\nDLT Pipeline – \nIngests data from \nLanding Zone, \ncreates DLT in Raw & \nClean Zones\nDatabricks Notebook \n– Create \nFact/Dimension \ntables\nPower BI \nDashboards\nPartitioned\nA\nB\nC\nD\nE\nE\nE\nF\nG\nH\nI\nJ\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM dashboard – Accounts receivable\nILLUSTRATIVE\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (211).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144150+05'30'",
+            "modDate": "D:20241114144150+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRCM dashboard – Denial management\n6\nILLUSTRATIVE\n"
+    }
+]

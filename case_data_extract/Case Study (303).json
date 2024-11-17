@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163942+05'30'",
+            "modDate": "D:20241114163942+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nData Extraction from PDF Files\nHealthcare Provider\nDesigned an automated process using Optical Character \nRecognition (“OCR”), to read and extract journal data from \nPDF files and ingest into SQL tables in a database\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163942+05'30'",
+            "modDate": "D:20241114163942+05'30'",
+            "trapped": ""
+        },
+        "content": "2\nDesigned an automated process using Optical Character Recognition \n(“OCR”), to read and extract journal data from PDF files and ingest into \nSQL tables in a database\nHealthcare Provider\n(Data Extraction from PDF Files)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163942+05'30'",
+            "modDate": "D:20241114163942+05'30'",
+            "trapped": ""
+        },
+        "content": "AUTOMATED PDF DATA EXTRACTION USING OCR FOR A HEALTHCARE PROVIDER\nSITUATION\n▪The client was manually updating journal adjustments from PDF files into its financial system for financial reporting purposes, and the \nprocess was manual and time consuming\n▪Merilytics partnered with the client to build a semi-automated process using Optical Character Recognition (“OCR”) to convert data \nfrom scanned PDF files (> 1,000 pages per pdf) into excel and then ingest into a central data warehouse for further processing and \nfinancial reporting\n▪Converted the source scanned pdf files (i.e., text cannot be copied directly) to computer vision images, and generated a data frame for \nextraction by identifying the row and column dimensions of the data tables\n▪Developed custom Python code using Tabula and Pandas libraries to create an OCR script to read numbers/text from the data frame\n▪Cleansed the data to handle spaces, blanks and similar characters (such as “zero”, O, D etc.) and extracted the cleansed data into Excel \nfile before ingesting into Azure Synapse Data Warehouse\nVALUE ADDITION\nIMPACT\n▪Automation process was institutionalized and led to accurate financial reporting for the client, as the process was able to extract data from \nmore than a 1,000 pages within a few minutes and significantly reduced the time spent and scope for human error\n▪Availability of journal adjustments improved the data accuracy and completeness by a factor of 80%\nABOUT THE CLIENT\n3\nClient is a U.S.-based leading specialty women’s health physician group offering patient care in Obstetrics and Gynecology\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163942+05'30'",
+            "modDate": "D:20241114163942+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nDATA EXTRACTION PROCESS DESIGN\nData Source\n1,000+ pages of PDF \ndocuments available \nin shared network \nfolder\nData Processing\nCustom OCR Python \ncode using Tabula & \nPandas libraries was \ndeveloped for data \nextraction\nData Storage\nCleansed data is saved \nin the Dedicated SQL \nPools of the Azure \nSynapse Analytics \nData Cleaning\nData is extracted in \nExcel and cleansed for \nhandling spaces, blanks, \nsimilar shaped \ncharacters (0, O, D, etc.)\nA\nB\nC\nA\nB\nC\nThe Posted Adjustment journals were scanned images published as pdf files. Analyzed the dimensions of columns and rows to create lines around the \ntext/numbers and created data frame\nExtracted data using Python code to read and store the data into Excel spreadsheet. Ran the semi-automated process for all the pdf files shared\nValidated the data against the subtotal and cleansed data discrepancies to prepare accurate data to be ingested into Data Warehouse\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (303).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163942+05'30'",
+            "modDate": "D:20241114163942+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: IMAGES OF PDF DOCUMENTS (SOURCE AND OUTPUT)\n5\nILLUSTRATIVE\nPDF DOCUMENTS\nDATA FRAME OUTPUT\n"
+    }
+]

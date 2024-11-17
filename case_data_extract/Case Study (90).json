@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCollections Score Modeling\n1\nCreated a score to rank the workflows generated when customers miss their \npayments thereby helping in reducing the number of defaults\nConsumer Finance Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed and identified attributes that impact payments/customer defaults such as Customer credit scores, Application & Funding data, Behavioral data, \nInteraction data, #dishonors, loan application type, employment status of the customer etc.  \n•\nDeveloped iterative models in phases, first for generating the probability of default for a workflow (PD) and second for generating decrease in the \nprobability of default due to a successful call interaction (PD diff * Prob. of answering call)\n•\nDeployed all the models in Azure to run daily to rank the customers with missed payments for the collection team to prioritize\n•\nDeveloped pipelines to monitor model performance and data drift to run on a weekly basis and raise triggers to identify model retraining\nSituation\n•\nClient’s collections team was responsible for reaching out to customers who missed their payments and getting them back on track to successful payment. \nWith the growing customer base, collections team’s time had become a limited resource.\n•\nPartnered with the client to build a scoring model leveraging historical data that would rank the workflows (customers with missed payments) based on \nprobability of default to help the collections team prioritize among customers and reduce defaults\nCollection score model for a consumer finance firm\n2\nImpact\n•\n30% Lift in Gini coefficient for PD model compared to the static model clients were using to prioritize customers with missed payments. This indicates that \nour model separates the default and non default customers 30% better than the static model.\n•\nCustomers in the top decile were observed to have a lower propensity to default (45% vs. 20%) when call interaction outcome was included as input to the \nmodel \nCollection score model \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n3\nDecrease in probability of customer defaulting if \nthere will be a successful call interaction\nPhase 2A (PD Diff)\nProbability of successful call interaction when the \ncall is attempted\nPhase 2B (PA)\nPhase 1 (PD)\nProbability of the customer defaulting in the next 6 \nmonths when they miss a payment\nConsidered customers data at the stage of \napplication, funding and their behaviour over the \ncourse of loan payments and the outcome of \nworkflow call interaction \nBuilt an ML model with over 45k workflows. \nRanking of workflows resulted in lowered \ncumulative default rates, 26% decrease in top 10% \nranked workflows\nConsidered previous workflow data, application, \nfunding and behavioural data\nBuilt a model with 16k workflows which has the \nbest recall of 83%  and AUC (Area Under Curve) – \n0.66 \nConsidered customers data at the stage of \napplication, funding and their behaviour over the \ncourse of loan payments \nBuilt an ML (XGBoost) model with over 53k missed \npayment events and 61 features resulting in lift of \n30% in Gini Score compared to static model in use\nDeployed models on Azure pipeline which runs daily at scheduled time for newly created workflows\n▪\nDays Past Due (DPD): No. of days since the last missed payment\n▪\nProbability of Default (PD): Likelihood of an account going to 90DPD in next 6 months\n▪\nLoss Given Default (LGD): Losses when the customer defaults\n▪\nWorkflow: Record of a customer with a missed payment. These are generated daily and \nwill be created if a customer with due date on the previous day did not make the \npayment\n▪\nExpected Credit Loss (ECL):  = Balance x PD x LGD \n▪\nExpected Recoverable Amount (ERA): = Balance – ECL\n▪\nRanking is based on impact of call action:  (ERA (call answered) – ERA (call \nunanswered)) * Probability of answering the call\nKey Terminologies \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCollections score architecture\n4\nCollection-Score-1,2A,2B\n(Daily)\nPerformance Monitoring \nPipeline (Weekly)\nDrift Monitoring Pipeline \n(Weekly)\nExtract workflows \n(customers with \noverdue payment)\nRank the \ncustomers based \non model outputs \nand upload to \ndatabase\nPipeline run \nsummary\nPipeline summary \nnotification\nPipeline run \nsummary\nPipeline summary \nnotification\nPipeline run \nsummary\nPipeline summary \nnotification\nExtract workflows \nwith overdue \npayment for the \nmost recent 6-\nmonth-old week\nCreate GINI \ncoefficient for the \nworkflows \nCreate data drift \nand concept drift \nmetrics\nTrigger Model \nRetraining\nExtract workflows \nwith overdue \npayment for the most \nrecent 6-month-old \nweek and last week\nData Factory Pipelines\n(Collection-Score-DF)\nClient Database \n(SQL Server)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData reports\n5\nData Quality Report\nData Quality reports are \ngenerated for each phase \nat different stages of \ndevelopment to ensure \ndata cleaning and feature \nengineering\nData funnels are \nmaintained through the \ndevelopment to keep \ntrack of data used for \ntraining and development\nData Funnel\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPhase 1 (PD)\n6\n0.6\n0.1\n0.4\n0.0\n0.2\n0.3\n0.5\n0.7\n0.8\n0.9\n1.0\n30%-\n40%\nPD (%)\n0%-\n10%\n10%-\n20%\n20%-\n30%\n40%-\n50%\n50%-\n60%\n60%-\n70%\n70%-\n80%\n80%-\n90%\n90%-\n100%\nPredicted\nIdeal\nReliability Curve (Ideal vs. Predicted Probability by Decile)\nReliability curve to see how \nthe model is calibrated with \nrespect to ideal distribution\nXGBClassifier ML \nmodel\nStatic PD matrix \n(currently in use)\nReceiver Operating Characteristic\nROC curve for the ML model compared with \nstatic model in use. Lift in Gini of 30% . Gini is \nthe measure for how well the model can \ndifferentiate default vs non default accounts. \nThis shows that the XGBClassifier model can \nseparate the default customers from non \ndefault customers 30% better than the static \nmodel. \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPhase 2A (PD Diff)\n7\n0.000\n0.100\n0.200\n0.300\n0.400\n0.500\n0.600\n0.700\n0.800\n0-10%\n10%-20% 20%-30% 30%-40% 40%-50% 50%-60% 60%-70% 70%-80% 80%-90% 90%-100%\nDefault Rates per Deciles\nPhase1\nPhase2\nDefault rates at different \ndeciles after ranking the \nworkflows. Last decile has \nhigh default rate for phase 2 \nindicating it deprioritizes \nworkflows that do not \nrespond to call action\nCumulative default rate is \ntaken for top 10% (based \non rank) workflows till \n100% where the default \nrate converges. Evidence \nof decreased default rate \nwhen ranked based on \nModel outcome\n0.000\n0.100\n0.200\n0.300\n0.400\n0.500\n0.600\nTop 10% Top 20% Top 30% Top 40% Top 50% Top 60% Top 70% Top 80% Top 90%\n100%\nDefault Rates per decile (Cumulative)\nPhase1\nPhase2\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPhase 2B\n8\nCumulative default rate is \ntaken for top 10% (based on \nrank) workflows till 100% \nwhere the default rate \nconverges. Evidence of \nmarginal decrease in \ndefault rate using phase 2B \nmodel\nDefault rates at different \ndeciles after ranking the \nworkflows. Lower Default \nrate in last workflows \nindicative of self healing \naccounts. \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (90).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114201250+05'30'",
+            "modDate": "D:20241114201250+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDeployment on data factory\n9\nAzure Data Factory \npipeline which runs \ndifferent models and \ncaptures the pipeline \nsuccess or issues \nNotification email sent \nwith pipelines execution \nstatus \nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCall center and agent performance \nanalytics\n1\nBuilt a comprehensive self-serve automated Power BI dashboard to provide \nenterprise level visibility into call center units’ performance and agents’ \nperformance \nPediatric healthcare provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nPicture this…\nYou’re looking for a cloud-based data lake in Azure for call center ERP system and an automated call center dashboard on \nPower BI to provide real time insights into the call center performance. Currently, there is no visibility into enterprise level call \ncenter units’ performance and agents' performance because of disintegrated systems and lack of data driven analytics capabilities.\nPediatric healthcare provider needs comprehensive visibility \ninto its call center's performance\n2\nYour value is enhanced. \nYour dashboard provides quick overview on call center performance at enterprise level and generated real time insights for \nthe operations team. You were able to get insights on high/low performing agents and subsequentially made changes in the \nteam. You have also identified schedule inefficiency and agent level efficiency metrics for the call center.\nCALL CENTER AND AGENT \nPERFORMANCE ANALYTICS\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nCall Center Analytics\n•\nData Management\n•\nPower BI Dashboard\n2\nYou turn to Accordion. \nWe partner with your team to build a comprehensive self-serve automated Power BI dashboard to provide enterprise level \nvisibility into call center units’ performance and agents’ performance, including:\n1)\nBuilding an enterprise data lake on Azure Data Factory using Delta live tables and Databricks to integrate Nice InContact (Call \nCenter system) data and ingested the call center & agent performance data in central data lake\n2) Developing a comprehensive self-serve dashboard on Power BI for the call center by splitting the KPIs into two categories – \ncall center level and agent level. This would help in providing detailed insight into their performance.\n3) Performing data quality checks and validation to ensure proper reporting on Nice InContact front-end and the Power BI \ndashboard\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt an enterprise data lake on Azure Data Factory using Delta live tables and Databricks to integrate Nice InContact (Call Center system) data and \ningested the call center & agent performance data in central data lake\n•\nDeveloped a comprehensive self-serve dashboard on Power BI for the Call Center by splitting the KPIs into two categories – Call Center Level and Agent \nLevel. This helped in providing detailed insight into their performance \n•\nPerformed data quality checks and validation to ensure proper reporting on Nice InContact Front-end and the Power BI dashboard\nSituation\n•\nClient lacked visibility into enterprise level call center units’ performance and agents' performance because of disintegrated systems and lack of data \ndriven analytics capabilities. Client was looking for enterprise level Call Center Dashboards for the Operations Leadership team to make data driven \ndecisions \n•\nPartnered with the client to set up a cloud-based data lake in Azure for Call Center ERP system and develop an automated call center  dashboard on Power \nBI to provide real time insights into the call center performance\nCall center and agent performance analytics for pediatric \nhealthcare provider\n3\nImpact\n•\nThe dashboard provided quick overview on Call Center performance at Enterprise level and generated real time insights for the Operations team\n•\nOperations Manager and Team Supervisors were able to get insights on high/low performing Agents and subsequentially made changes in the team\n•\nIdentified Schedule inefficiency and Agent level efficiency metrics for the Call Center\nCall center and agent \nperformance analytics\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nNice InContact\nLinked Servers\nAzure Data Factory\nStorage Account\nLookup Activity \n(Control File)\nExecute COPY DATA \nActivity from Source \nto Landing\nFor each loop\nControl File \n(list of table names)\nADF - 1\nADF - 2\nLanding Zone \n(Parquet files)\nWeb Activity – kicks-\noff DLT Pipeline on \nDatabricks\nRaw Zone\nClean Zone\nAggregate Zone\nDLT Pipeline – Ingests data \nfrom Landing Zone, creates \nDLT in Raw & Clean Zones\nDatabricks Notebook – \nCreate Fact/Dimension \ntables\nPower BI \nDashboards\nPartitioned\nA\nB\nC\nD\nE\nE\nE\nF\nG\nH\nI\nJ\n4\nData management architecture design\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nA\nB\nC\nD\nE\nF\nH\nG\nI\nJ\nFrom the Master Pipeline, looks up the tablenames from the control file from a specific location in the landing zone\nFor each tablename as an output of Lookup activity, initiates a “COPY ACTIVITY” command to copy data from Source to the Landing zone \nCOPY Activity to extract data from source tables and converts it into Parquet format and stores the file in the Landing zone of the storage account\nThe Master Pipeline kicks-off a Web Activity which initiated DLT Pipeline which in turn triggers the DLT notebook in Raw and Clean Zone\nThe DLT Pipeline reads the Parquet files in the Landing Zone and creates DLT tables for all the source files in Raw Zone and the Clean Zone \nIntermediate Partitioned Tables are created to hold Quarantine Records which fail the Data Quality checks. Once the data is corrected, the records are reprocessed \nto be available in Clean Zone.\nData structures in the Clean Zone are merged into summary tables. E.g., Call Summary & Agent Summary tables which will contain data about Call Volumes and \nAgent calls from Nice InContact\nSummary tables are derived after the individual clean tables are created \nFact/Dimension Tables are created in the Aggregate Zone using Summary tables in Clean Zone \nSeparate schema where the KPIs and metrics are computed is accessed by Power BI through Azure Databricks connection and displayed in the visuals\n5\nData management architecture design\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n6\nFeatures: Summary \ndashboard provides \nExecutive level overview \non Call Center Units \nPerformance and Agents \nperformance\nKPIs: Queue Offered, \nTotal Inbound Handled, \nAbandoned Calls, \nCallback Requested, \nActive FTE, Calls per \nhour, etc.\nDatasources: Nice \nInContact\nILLUSTRATIVE\nCall center summary \n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n7\nFeatures: Call Center \nOverview dashboard \ntracks key performance \nindicators for call center \nunits and provides \nflexibility to view the \nperformance by Call type, \nRegion, etc.\nKPIs: Callback Request, \nSuccess Rate, Call \nTransferred, etc.\nDatasources: Nice \nInContact\nILLUSTRATIVE\nCall center overview\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nAgent performance details\n8\nFeatures: Agent \nPerformance detail \ndashboard tracks key \nperformance indicators \nfor call center agents and \nprovides flexibility to view \nthe performance by Call \ntype, Region, Supervisor \netc.\nKPIs: Avg. Hold Time, Talk \nTime>30 sec etc.\nDatasources: Nice \nInContact\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nUnique and repeat call summary\n9\nFeatures: Unique and \nRepeat call summary \nprovides insights on no. of \nunique calls and repeat \ncalls by the Call Center \nbusiness units and tracks \nthe First Call Resolution \nrate (FCR%) KPI – which \nis key indicator of Call \nCenter performance\nKPIs:  Unique Calls, \nRepeat Calls, FCR%\nDatasources: Nice \nInContact\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n10\nFeatures: Inbound Calls \ndetail view double clicks \non Inbound calls by \ntracking Inbound Handled \ntime duration, Inbound \ncalls in SLA and out SLA, \nCalls per hour by Agent, \netc.\nKPIs:  Calls per hour, \nInbound Handled Time, \netc.\nDatasources: Nice \nInContact\nInbound calls detail (1/2)\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (191).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141529+05'30'",
+            "modDate": "D:20241114141529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\n11\nFeatures: Queue Offered \nCalendar Heat Map \nprovides visibility into total \nQueue offered day wise in \nselected period, so that \nExecutive can get insights \non daily spike or lows for \nthe Inbound calls volume\nKPIs:  Queue Offered\nDatasources: Nice \nInContact\nInbound calls detail (2/2)\n"
+    }
+]

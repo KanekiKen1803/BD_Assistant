@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪Identified the costs involved in Linehaul operations and allocated these costs to \nindividual shipments\n▪Evaluated margin % for each customer to understand their profitability and \nidentify outlier customers\n▪Identified frequent offenders (customers) claiming lower weight, volume / class \nwhile placing the orders\nCustomer Analytics (B2B)\n(LTL (Less-Than-Truckload) shipping services company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER ANALYTICS (B2B) FOR LTL SHIPPING SERVICES COMPANY\n▪\nIdentified the costs involved in shipping, devised a logic to appropriately allocate trip / terminal level costs to individual shipments and calculated the \nrevenue margin at a shipment and customer level.\n▪\nAnalyzed all the shipments with re-weighs/inspections and calculated the change in revenue due to incorrect shipment information provided by the \ncustomers.\n▪\nBuilt an automated self-service analytics platform on Power BI to:\n−\nTrack customer profitability (margin, revenue, costs)\n−\nMonitor inactive customers        \n−\nTrack frequent defaulters causing revenue impact due to wrongful claims (in Weight/Volume/Class)\nVALUE ADDITION\nIMPACT\n▪\nThe dashboard provided visibility into the profitability and enabled the client to have efficient pricing negotiations with customers and implement any \noperational changes to optimize the revenue margins.\n▪\nTracking Customer Activity has enabled the client to take necessary measures to improve customer retention.\n▪\nRevenue impacted due to wrongful claims is now quantified and monitored at a customer level, enabled the client to take preventive measures and potentially \nreduce revenue loss of USD 500k per month.\nABOUT THE CLIENT\nClient provides LTL (Less-Than-Truckload) shipping services to businesses across all major metro cities in the U.S. \nSITUATION\n▪\nClient lacked visibility into profitability of the customers due to complexity in identifying and distributing all related costs such as Linehaul, Pickup, Delivery, \nDock, Maintenance, Drayage, Deadhead etc. Also, there was no insight into the customers (defaulters) who frequently claim incorrect weight or volume of \nshipments while ordering.\n▪\nMerilytics partnered with the client to build a reporting suite to track customer performance and identify frequent defaulters.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "Collaborated with client to understand all the costs involved in \nshipping and integrated the cost data from various data sources\nBuilt a robust self-serve analytics suite to track all these key \nmetrics and visually showcasing the insights from the analysis. \nDeployed the dashboard on Power BI service for executives and \noperations team that is refreshed every 04 hours\n01 \n02 \n03 \n04 \n05 \nApproach\nDevised logic to appropriately allocate trip / \nterminal level costs to a shipment based on its \nvolume and miles traveled and calculated \nprofitability metrics (margin %) and identified \ncustomers with negative margins\nAnalyzed shipment reweighs/inspections and quantified the revenue \nimpact due to wrongful claims by the customer on weight / volume / \nclass of the shipment. Identified frequent defaulters by % shipments with \nrevenue change and % revenue change\nIdentified customers without activity by last order \ndate and calculated other service metrics such as \nOn-Time delivery % etc.\n3\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nIdentifies customers with \nno activity. Each inactive \nperiod bucket can be \nfurther drilled through to \nsee the customer details \nunder that bucket\nIdentifies the top \ncustomers with negative \nmargin\n4\nEXHIBIT 1 - CUSTOMER SUMMARY\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nSummarizes all financials \n(Revenue, Cost, Margin) \nand service metrics (On-\nTime Delivery %) at a \ncustomer level\n5\nEXHIBIT 2 - CUSTOMER DETAILS\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nShows the trend of % \nshipments that have a \nrevenue change due to \nreweigh or inspection \ndone\n6\nEXHIBIT 3 - INSPECTIONS TREND\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (224).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114145753+05'30'",
+            "modDate": "D:20241114145753+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\nIdentifies top defaulters \nby ‘% change in revenue’ \ndue to reweighs or \ninspections. These \ncustomers are quoting \nincorrect shipments \ndetails (volume or weight \nor class) while ordering, \nleading to potential \nrevenue loss for the client\n7\nEXHIBIT 4 - INSPECTION SUMMARY BY CUSTOMER\n"
+    }
+]

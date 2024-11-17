@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt a reporting suite to track the RCM collections and status of follow-up with \npayers. Analyzed the collection performance of each vendor and reconciled the \ncollection claims by vendors. Analyzed the performance of the inhouse \ncollection team in collecting the billed amount from different parties.\nLong-Term Acute Care (LTAC) Healthcare Provider\n(Collection effort and efficiency tracker - Revenue Cycle Management)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "COLLECTION EFFORTS AND EFFICIENCY TRACKER\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a Long-Term Acute Care (LTAC) healthcare provider with facilities in over 80 cities across the U.S.\n2\n▪RCM collections is a key function of Healthcare service providers as it directly impacts the company’s profitability. Client didn’t have direct visibility into \nthe collection performance (turn-around of collection, status of follow-ups etc.) of the teams responsible for collections (internal RCM collection team, \nRCM collection vendors)\n▪Merilytics partnered with the client to build a comprehensive collection effort and efficiency reporting suite\n▪Integrated the Balance, Collections, Vendor Placement and Collectors follow-up data and performed data cleanup & formatting for analysis and reporting\n▪Designed an exhaustive list of metrics (collections, collection rate, return rate, recovery rate, time for first pay, write-offs etc.) to track the performance of \n3rd party collection vendors in a monthly refreshable vendor scorecard report, and take necessary actions to accelerate the collections\n▪Automated the vendor invoice reconciliation (comparing vendor invoice claims with client collection data) to highlight any discrepancy in invoice from the \nvendor\n▪Devised a logic to track the performance of the internal RCM team based on efforts spent in collection (calls performed vs. assigned) and efficiency of \nfollow-ups (balance collected) and created a monthly refreshable report to provide collector level visibility\n▪Client leveraged the vendor scorecard to re-negotiate the terms of contracts with each vendor and added a new vendor to enhance the collection \nperformance. Overall collection from vendors increased by ~$7.5M in 6 months after the report was published\n▪Identified ~$5M/year of overclaimed collection from vendor invoice reconciliation, leading to savings of ~$800K/year in commissions\n▪Based on the report to track the inhouse RCM team performance, the client was able to identify top accounts which need action from the team based on \npending AR\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "Vendor Placement Data\nVendor Invoice\nCollections Data\nFollow-up Data\nAR Data\nIntegrated \nData\nWeekly \nWrite-offs \nReport\nMonthly \nVendor Invoice \nReconciliation\nAnnual \nVendor \nClaims \nReconciliati\non\nVendor \nScorecard\nRCM \nCollection \nEfforts \nTracker\nTracks the collection \neffort on all the bills and \nhighlights bills with high \npending AR\nTracks performance of \nall the vendors in the \nform of a monthly \nscorecard\nValidate vendor invoice \nwith collections to \nidentify discrepancies in \nclaims made by vendors\nReconcile all the vendor \nclaims as a part of year \nend vendor audit \nTracks the write-offs \nmade by a vendor on a \nweekly basis\n3\nAPPROACH AND METHODOLOGY\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nEXHIBIT 1: VENDOR SCORECARD – COLLECTIONS SUMMARY\nVendor Scorecard – To track \nthe performance metrics of \nvendors (Collections, \nRefunds, Recoupments, \nWrite-offs, Balance of Bills \nplaced and returned by \nvendor) on a month-on-\nmonth basis\nILLUSTRATIVE\nS. No.\nMetrics\nOct\nSep\nAug\nJul\nJun\nMay\nApr\nMar\nFeb\nJan\nA\nStarting Placement Balance\n$409,198 $374,356 $344,063 $307,810 $279,382 $249,498 $224,481 $198,121 $166,225 $135,261 \nB\nNew Placement Balance\n$43,201 \n$49,942 \n$49,884 \n$53,057 \n$39,664 \n$43,879 \n$35,862 \n$42,616 \n$52,678 \n$51,330 \nC\nReturned Placement Balance\n($8,238)\n($11,282) ($15,804) ($13,709)\n($8,248)\n($11,311)\n($7,605)\n($14,510) ($17,417) ($16,895)\nD\nTotal Transactions Between \nPlacement Date and Return Date\n($1,412)\n($3,818)\n($3,787)\n($3,095)\n($2,988)\n($2,684)\n($3,240)\n($1,746)\n($3,365)\n($3,471)\nCollections by Vendor($)\n($2,231)\n($2,282)\n($2,544)\n($2,700)\n($2,407)\n($2,700)\n($2,539)\n($2,035)\n($2,942)\n($2,203)\nCollections (Others)($)\n($740)\n($868)\n($1,175)\n($1,155)\n($1,143)\n($1,058)\n($530)\n($686)\n($556)\n($1,139)\nRecoupments($)\n$584 \n$124 \n$361 \n$824 \n$824 \n$728 \n$474 \n$703 \n$387 \n$127 \nRefunds($)\n($25)\n($614)\n($820)\n($326)\n($137)\n($215)\n($933)\n($247)\n($531)\n($851)\nSystem Adjustments($)\n$598 \n$2 \n$389 \n$210 \n$62 \n$543 \n$257 \n$237 \n$169 \n$75 \nManual Adjustments($)\n($100)\n($211)\n($210)\n($32)\n($197)\n($85)\n($310)\n($201)\n($171)\n($121)\nDenials Write-offs($)\n$502 \n$31 \n$212 \n$84 \n$10 \n$103 \n$341 \n$483 \n$279 \n$641 \nE\nEnding Placement Balance\n$442,749 $409,198 $374,356 $344,063 $307,810 $279,382 $249,498 $224,481 $198,121 $166,225 \n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nEXHIBIT 2: VENDOR SCORECARD – COLLECTION RATE, RETURN RATE & COMPLETION FACTORS\nILLUSTRATIVE\nCollection rate and return rate \ntrends show what percent of \ninitial balance the vendor is \ncollected and returned to the \nclient respectively every month\nThis chart tracks the Completion \nfactor and return rate for by \ndifferent age buckets of accounts \nplaced with vendor\nCompletion Factor –  Placement \nBalance recovered or returned in \nthe month as percentage of \nPlacement Balance from previous \nmonth\nCumulative Completion Factor – \nAR recovered or returned by the \nvendor as % of starting Placement \nBalance\nCumulative Return Rate – AR \nreturned by the vendor as % of \nstarting Placement Balance\n0\n5\n10\n15\n20\n$60,000.0M\n$40,000.0M\n$20,000.0M\n$80,000.0M\n$100,000.0M\nSep\nApr\nOct\nJan Feb Mar\nMay Jun\nJul Aug\nNov Dec\nCollection rate\nCollection\nCollection Rate Trend - Last 12 Months\n0\n2\n4\n6\n8\n10\n12\n14\n$20,000.0M\n$30,000.0M\n$40,000.0M\n$50,000.0M\n$60,000.0M\n$70,000.0M\n$80,000.0M\n$90,000.0M\nOct\nJan\nFeb Mar Apr May Jun\nJul\nAug Sep\nNov Dec\nReturn rate\nAmount\nReturn Rate Trend - Last 12 Months\n$40,035.0M\n$1,300,067.0M\n$778,033.0M\n$34,030.0M\n$1,000,000.0M\n$800,000.0M\n$0.0M\n$200,000.0M\n$1,200,000.0M\n$400,000.0M\n$600,000.0M\n$1,400,000.0M\n$356,794.0M\nVendor1 Vendor2 Vendor3 Vendor4 Vendor5 Vendor6\nDebit\n$153,210.0M\nWrite-offs by Vendor\n0\n10\n20\n30\n40\n50\n60\n70\n80\n17\n18\n19\n20\n31-60\n0-30\n61-90\n91-120\n121-\n150\n151-\n180\n211-\n240\n181-\n210\n241-\n270\nAvg of CumulativeCompletion Factors\nAvg of Cumulative Return Factor\nAvg of Completion Factors\nCompletion Factor and Return Rate (Last 24 Months)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "6\nEXHIBIT 3: VENDOR SCORECARD – RECOVERY TRENDS\nILLUSTRATIVE\nRecovery Rate \n(percentage of initial \nplaced balance \ncollected by the \nvendor) – shows the \nshare of collection \nby age at time of \nplacement and payer\nWeighted Average \ndays to first pay \nshows the how quick \nthe vendor acts after \nreceiving the bill \nfrom client\n0\n50\n100\n150\n200\nJan\nJul\nFeb\nJun\nDec\nNov\nApr\nMar\nAug\nMay\nSep\nOct\nFirst Pay Month\nAvg. Days to First Pay\nAvg. Days to First Pay\n0\n20\n40\n60\n80\n100\n120\n140\nPayer1\nPayer3\nPayer7\nPayer2\nPayer4Payer5\nPayer9\nPayer6\nPayer8\nPayer10\nWeighted Avg. Days to 1st Payment by Top 10 Payers\n66\n69\n64\n67\n60\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n0\n10,000\n20,000\n30,000\n40,000\n50,000\n60,000\n70,000\n181-270\n1-2 yr\n0-180\n271-365\n2 yr+\nCollection\nRecovery Rate\nInitial Placement Balance\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n0\n20,000\n40,000\n60,000\n80,000\n100,000\n120,000\n140,000\n160,000\nInitial Placement Balance\nRecovery rate\nCollection\nRecovery Rate by Age at Time of Placement\nRecovery Rate by Payer\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "7\nEXHIBIT 4: MONTHLY VENDOR INVOICE RECONCILIATION\nILLUSTRATIVE\nClient Number\nGross \nCharges\nVendor \nClaim\nCollections from \ntransaction data\nVariance in \nPayments\nCollections at \naccount level\nCommission \nClaimed by Vendor\nVariance in \nCommission\nComments\nClient Number 01\n$299,005 \n$126,336 \n$34,047 \n$92,289 \n$34,047 \n$13,265 \n$9,690 \nRecoupments worth $92k made after list date not recorded by Vendor\nClient Number 02\n$242,348 \n$0 \n($45,990)\n$45,990 \n($45,361)\n$0 \n$4,829 \nRecoupments worth $46k not recorded by Vendor after list date.\nClient Number 03\n$204,436 \n$59,356 \n$29,856 \n$29,500 \n$29,856 \n$6,232 \n$3,098 \nRecoupments worth $29k made after list date not recorded by Vendor\nClient Number 04\n$198,248 \n$29,990 \n$8,990 \n$21,000 \n$8,990 \n$3,149 \n$2,205 \nRecoupments worth $21k made after list date not recorded by Vendor\nClient Number 05\n$434,347 \n$25,828 \n$5,525 \n$20,303 \n$5,525 \n$2,712 \n$2,132 \nRecoupments worth $20k made after list date not recorded by Vendor\nClient Number 06\n$101,926 \n$20,828 \n$7,363 \n$13,465 \n$20,828 \n$2,187 \n$1,414 \nRecoupments worth $13k made after list date not recorded by Vendor\nClient Number 07\n$17,154 \n$13,169 \n$4,976 \n$8,193 \n$4,976 \n$1,383 \n$860 \nRecoupments worth $8k made after list date not recorded by Vendor\nClient Number 08\n$139,131 \n$7,543 \n$2,593 \n$4,951 \n$2,593 \n$792 \n$520 \nRecoupments worth $5k made after list date not recorded by Vendor\nClient Number 09\n$5,123 \n$885 \n$228 \n$657 \n($429)\n$119 \n$88 \nRecoupments worth $657 made after list date not recorded by Vendor\nClient Number 10\n$158,836 \n$30,663 \n$30,011 \n$652 \n$30,011 \n$3,220 \n$68 \nRecoupments worth $652 made after list date not recorded by Vendor\nManual validation of \nall ‘overclaimed’ \naccounts from \nautomatic \nreconciliation\nAutomatic \nreconciliation of all \nvendor claims in a \nmonth - compared \nwith client collection \ndata\nClient Number\nBill Number\nInsurance ID\nReconciliation Flag\nVariance Type\nInvoice \nMonth\nGross Charges\nPlacement Date\nPayments\nMonthly \nAmount\nCollections \nafter \nplacement\nAccount Number 1\n3\nInsurance 01\nCompleted\nMatched\nJan\n$12,342\n4-Dec\n$1,020\n$2,031\n$1,020\nAccount Number 2\n4\nInsurance 02\nCompleted\nMatched\nJan\n$12,444\n4-Feb\n$1,023\n$3,200\n$1,023\nAccount Number 3\n5\nInsurance 03\nCompleted\nMatched\nJan\n$43,223\n3-Mar\n$1,026\n$4,369\n$1,026\nAccount Number 4\n6\nInsurance 04\nCompleted\nMatched\nJan\n$321,451\n9-Sep\n$1,029\n$5,538\n$1,029\nAccount Number 5\n7\nInsurance 05\nCompleted\nOver Claimed\nJan\n$45,682\n12-Aug\n$1,032\n$6,707\n$1,272\nAccount Number 6\n8\nInsurance 06\nNeeds Validation\nUnder Claimed\nJan\n$123,414\n4-Jan\n$1,035\n$7,876\n$273\nAccount Number 7\n9\nInsurance 07\nCompleted\nMatched\nJan\n$2,323\n2-Apr\n$1,038\n$9,045\n$1,038\nAccount Number 8\n10\nInsurance 08\nCompleted\nMatched\nFeb\n$32,311\n4-Apr\n$1,041\n$10,214\n$1,041\nAccount Number 9\n11\nInsurance 09\nCompleted\nUnder Claimed\nFeb\n$129,832\n12-Apr\n$1,044\n$11,383\n$274\nAutomated Reconciliation of vendor claims\nList of overclaimed accounts along with comments after manual validation\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (132).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114130102+05'30'",
+            "modDate": "D:20241114130102+05'30'",
+            "trapped": ""
+        },
+        "content": "8\nEXHIBIT 5: RCM COLLECTION EFFORTS TRACKER\nILLUSTRATIVE\nAccount Number\nInsurance\nAge Date\nVendor\nAge Date \nBalance\nAge Date + 90 Age Date + 90 \nBalance\nTotal Comments \nin 90 Days\nTotal Comments Comments/\nMonth\nAccount \nType\nFacility\nDistrict\nAccount # 6541\nABCDE\n8/1\nVendor 1\n$45,663\n10/30\n$83,244\n23\n560\n187\nType-A\nFacility 1\nDistrict 1\nAccount # 6542\nABCDE\n8/1\nVendor 2\n$34,667\n10/30\n$12,314\n24\n47\n16\nType-B\nFacility 2\nDistrict 2\nAccount # 6543\nABCDE\n8/1\nVendor 3\n$413,455\n10/30\n$324,553\n25\n356\n119\nType-A\nFacility 3\nDistrict 3\nAccount # 6544\nABCDE\n8/1\nVendor 4\n$134,315\n10/30\n$42,343\n26\n126\n42\nType-C\nFacility 4\nDistrict 4\nAccount # 6545\nABCDE\n8/2\nVendor 5\n$314,141\n10/31\n$123,444\n27\n98\n33\nType-A\nFacility 5\nDistrict 5\nAccount # 6546\nABCDE\n8/2\nVendor 1\n$134,556\n10/31\n$41,334\n28\n444\n148\nType-B\nFacility 6\nDistrict 1\nAccount # 6547\nABCDE\n8/2\nVendor 2\n$43,566\n10/31\n$42,313\n29\n248\n83\nType-D\nFacility 7\nDistrict 2\nAccount # 6548\nUEBDD\n8/2\nVendor 3\n$54,252\n10/31\n$132,444\n30\n245\n82\nType-B\nFacility 8\nDistrict 3\nAccount # 6549\nUEBDD\n8/3\nVendor 4\n$26,246\n11/1\n$42,144\n31\n312\n104\nType-E\nFacility 9\nDistrict 4\nAccount # 6550\nUEBDD\n8/4\nVendor 5\n$63,757\n11/2\n$63,242\n32\n168\n56\nType-B\nFacility 10\nDistrict 5\nAccount # 6551\nUEBDD\n8/4\nVendor 1\n$51,412\n11/2\n$112,124\n33\n256\n85\nType-A\nFacility 11\nDistrict 1\nTracks the collection \neffort on all the bills by \nRCM team based on \nnumber of follow-up \ncomments recorded and \nshows bills with high AR \nto ramp-up efforts on \nthem, by different age \nbuckets\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134431+05'30'",
+            "modDate": "D:20241114134431+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse implementation & BI reporting \non Microsoft fabric\n1\nBuilt a centralized Data Warehouse leveraging Microsoft Fabric and Medallion \nArchitecture and developed comprehensive BI Reporting suite\nPharmaceutical group purchasing organization (GPO)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134431+05'30'",
+            "modDate": "D:20241114134431+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for setting up a Microsoft Fabric-based enterprise data warehouse & BI reporting solution to enable data-\ndriven decision-making.\nPharmaceutical group purchasing organization (GPO) \ncompany needs data warehouse implementation & BI reporting \non Microsoft fabric\n2\nYour value is enhanced. \nYou have the robust enterprise data warehouse and BI reporting suite on Microsoft Fabric provided enhanced visibility into the \nrevenue drivers and business performance, leading to more informed data-driven decision-making. You have pre-built reporting \nmarts in gold layer of data warehouse reduced the Power BI dashboard refresh time by ~80% (from Avg. ~10 mins to < 2 mins). You \nhave also automated pipelines and data source integration enabled to reporting to refresh daily as opposed to the earlier monthly \nschedule and also helped save ~60 person-hours a month.\nFINANCIAL PLANNING AND ANALYSIS\nKEY RESULT   \n•\n>99% forecast accuracy\n•\n50% accelerated \nforecast\nVALUE LEVERS PULLED\n•\nDBT Analysis\n•\nConsolidation of \nPortal reports\n•\nVariance Analysis\n2\nYou turn to Accordion. \nWe partner with your team to build a centralized Data Warehouse leveraging Microsoft Fabric and Medallion Architecture \nand developed comprehensive BI Reporting suite, including:\n1)\nAssessing the data systems and set up a workspace under Microsoft Fabric capacity F64 based on the data size and \ncomputation requirements\n2) Building pipelines to ingest data from multiple source systems – Adaptive Planning, Existing SQL Server on Azure VM, and \nSharePoint using APIs and data flows to create a single central repository of the data, the Bronze layer within Microsoft Fabric, \nwith OneLake serving as the data storage solution\n3) Cleaning the raw data from Bronze layer into the Silver layer and further transformed the cleaned data into a reporting-ready \nGold layer in the Microsoft Fabric data warehouse, using Fabric Data flows, Pipelines and Notebooks\n4) Developing automated Power BI dashboards on top of the reporting tables in Gold layer in the Fabric data warehouse to track \ncritical KPIs across different functions and deployed them to a Power BI app accessible to the end users\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134431+05'30'",
+            "modDate": "D:20241114134431+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAssessed the data systems and set up a workspace under Microsoft Fabric capacity F64 based on the data size and computation requirements\n•\nBuilt pipelines to ingest data from multiple source systems – Adaptive Planning, Existing SQL Server on Azure VM, and SharePoint using APIs and data \nflows to create a single central repository of the data, the Bronze layer within Microsoft Fabric, with OneLake serving as the data storage solution\n•\nCleaned the raw data from Bronze layer into the Silver layer and further transformed the cleaned data into a reporting-ready Gold layer in the Microsoft \nFabric data warehouse, using Fabric Data flows, Pipelines and Notebooks\n•\nDeveloped automated Power BI dashboards on top of the reporting tables in Gold layer in the Fabric data warehouse to track critical KPIs across different \nfunctions and deployed them to a Power BI app accessible to the end users\nSituation\n•\nClient was grappling to identify the factors (manufacturers, members, products) driving their revenue growth (administrative fees minus rebates) and \ncould not make strategic decisions due to a lack of automated reporting and dispersal of data across various systems.\n•\nPartnered with the client to set up a Microsoft Fabric-based enterprise data warehouse & BI reporting solution to enable data-driven decision-making\nFabric data warehouse implementation for healthcare GPO\n3\nImpact\n•\nThe robust enterprise data warehouse and BI reporting suite on Microsoft Fabric provided enhanced visibility into the revenue drivers and business \nperformance, leading to more informed data-driven decision-making\n•\nThe pre-built reporting marts in gold layer of data warehouse reduced the Power BI dashboard refresh time by ~80% (from Avg. ~10 mins to < 2 mins)\n•\nThe automated pipelines and data source integration enabled to reporting to refresh daily as opposed to the earlier monthly schedule and also helped save \n~60 person-hours a month\nPHARMACEUTICAL GROUP \nPURCHASING ORGANIZATION (GPO)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134431+05'30'",
+            "modDate": "D:20241114134431+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI architecture prior to Fabric implementation\n4\nPower BI semantic model\nDefining KPI measures and \nbuilding the required \nvisualizations\nData visualization\nOther Flat \nFiles data \n(e.g., HR data \nfiles etc.)\nExisting SQL database (Midas, \nWholesaler, vendor data)\nData sources\nExcel & CSV \nextracts\n2\n3\n1\nImport data from existing SQL database into Power BI\n2\nStore Excel extracts containing raw data from Adaptive Planning, Salesforce and HR data systems in SharePoint\n3\n1\nEstablish connection between SharePoint folders containing Excel extracts and Power BI\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (167).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114134431+05'30'",
+            "modDate": "D:20241114134431+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCurrent reporting flow after Fabric implementation \n5\nPower BI Semantic Model\nDefining KPI Measures \nand building the required \nvisualizations\nData visualization\nIngest and store\nOther Flat \nFiles data \n(e.g., HR \ndata files \netc.)\nExisting SQL database \n(Midas, Wholesaler, vendor \ndata)\nData sources\n4\nIngest raw data from Adaptive (through API), Salesforce, HR data files, and existing SQL database into a Bronze Data Lakehouse using notebooks, pipelines, and data flows\nThe raw data from the Bronze layer is cleansed, standardized, and structured as tables into Silver Data Lakehouse\n2\nThe cleansed data from the silver layer is refined to meet specific downstream business and analytics requirements into Gold Data Lakehouse in star schema\n3\n1\nPipelines\nDataflow \nGen2\nNotebook\nBronze data \nLakehouse\n(Raw data)\nOne Lake\nSynapse data \nengineering\nSilver data \nLakehouse\n(Clean Data)\nSynapse data \nengineering\nGold data \nLakehouse\n(Transformed \nData & \nReporting \nViews)\nSynapse data \nengineering\nPipelines\nDataflow \nGen2\nNotebook\n1\n2\n3\nThe transformed reporting data from Gold Data Lakehouse is imported to build Power BI semantic model for visualizations and all reporting requirements  \n4\nMicrosoft \nFabric\nExcel & \nCSV \nextracts\nILLUSTRATIVE\n"
+    }
+]

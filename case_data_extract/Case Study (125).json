@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125148+05'30'",
+            "modDate": "D:20241114125148+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDelivery and Pick-up Analysis\n1\nIdentified actionable opportunities for revenue improvement by analyzing the \nhistorical delivery & pick-up data, routes associated, and benchmarking against \nthe pricing of 3rd party carriers\nTesting, Repair & Calibration services provider for Industrial Equipment\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125148+05'30'",
+            "modDate": "D:20241114125148+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for analysis of the current logistics pricing, benchmarked against 3rd party carriers and identified actionable \nopportunities for revenue increase. Currently, you deliver/picks-up equipment that is rented out to the customers, and there is an \nopportunity to have a deeper understanding of the logistics revenues. The current logistics processes are not optimized, and the \npricing is sub-optimal compared to other 3rd party logistics carriers, leading to revenue leakage.\nManufacturing company needs delivery and pick-up analysis\n2\nYour value is enhanced. \nYou have identified actionable opportunities to increase delivery & pick-up revenues by ~60% through optimized pricing. You have \nleveraged the analysis to revise rate agreements for delivery & pick-up with customers based on the analysis and insights.\nDELIVERY AND PICK UP ANALYSIS\nKEY RESULT   \n•\n~60%  delivery and \npick-up revenue\nVALUE LEVERS PULLED\n•\nBing Maps API \n•\nIncremental revenue \nimpact\n2\nYou turn to Accordion. \nWe partner with your team to Identify actionable opportunities for revenue improvement by analyzing the historical delivery & \npick-up data, routes associated, and benchmarking against the pricing of 3rd party carriers, including:\n1)\nLeveraging Bing Maps API for analyzing distance between the company’s base location and customer location against each \ninvoice for different products and services departments\n2) Assessing the existing delivery charges/mile by bucketing the invoices into different distance tiers and benchmarking it against \nleading 3rd party carriers\n3) Estimating the incremental revenue impact by optimizing the logistics charges by different distance brackets\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125148+05'30'",
+            "modDate": "D:20241114125148+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nLeveraged Bing Maps API for analyzing distance between client’s base location and customer location against each invoice for different products and \nservices departments\n•\nAssessed the existing delivery charges/mile by bucketing the invoices into different distance tiers and benchmarked against leading 3rd party carriers\n•\nEstimated the incremental revenue impact by optimizing the logistics charges by different distance brackets\nSituation\n•\nThe client delivers/picks-up equipment that is rented out to its customers, and there was an opportunity to have a deeper understanding of the logistics \nrevenues. The current logistics processes were not optimized, and the pricing was sub-optimal compared to other 3rd party logistics carriers, leading to \nrevenue leakage\n•\nPartnered with the client and analyzed the current logistics pricing, benchmarked against 3rd party carriers and identified actionable opportunities for \nrevenue increase\nDelivery & pick-up analysis for B2B industrial service provider\n3\nImpact\n•\nIdentified actionable opportunities to increase delivery & pick-up revenues by ~60% through optimized pricing\n•\nClient leveraged the analysis to revise rate agreements for delivery & pick-up with Customers based on the analysis and insights\nDelivery and Pick-up Analysis\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125148+05'30'",
+            "modDate": "D:20241114125148+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & Methodology\n4\nIdentification of the optimal delivery charge per mile for the in-house deliveries\nIdentify the unique start and end points for all \nthe in-house and third-party deliveries\nIdentify the latitude and longitude of all the start \nand end points to calculate distance using Bing \nMaps API\nCalculate the delivery charge per mile for different distance \nbuckets for both in-house and third-party  invoices which have a \ndelivery charge\nIdentify optimal delivery charge per \nmile using third-party values as \nbenchmark\nCalculate the potential revenue gain for the in-house delivery \ninvoices for which no delivery fee was charged using optimal \ndelivery charge per mile\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (125).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114125148+05'30'",
+            "modDate": "D:20241114125148+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRecommended delivery charge per mile and potential revenue gain\n5\nILLUSTRATIVE\nCalculating existing and recommended delivery charge per mile\nDistance Range (Mile) Existing Delivery Charge/Mile ($) Avg. third party Charge/Mile ($)\nRecommended Charge/Mile for Delivery ($)\n0-100\n4.52\n4.86\n4.75\n100-300\n3.56\n4.05\n3.87\n300-500\n2.20\n3.06\n2.88\n500-700\n1.67\n2.45\n2.25\n700-1000\n1.20\n1.80\n1.65\n1000+\n0.98\n1.45\n1.25\nBased on an agreed % discount \non average third-party charges\nCalculating potential revenue gain in delivery charges\nDistance Range (Mile)\n#In-house invoices without delivery fee\nTotal distance (miles)\nRecommended Charge/Mile for Delivery ($)\nPotential Revenue Gain\n0-100\n1200\n15,000\n4.75\n$71,250 \n100-300\n250\n12,000\n3.87\n$46,440 \n300-500\n300\n8,700\n2.88\n$25,056 \n500-700\n1500\n121,000\n2.25\n$272,250 \n700-1000\n1600\n186,000\n1.65\n$306,900 \n1000+\n2100\n144,000\n1.25\n$180,000 \nBased on the recommended \ncharge / mile above, the \npotential revenue gain ($) is \nestimated to show the impact\n"
+    }
+]

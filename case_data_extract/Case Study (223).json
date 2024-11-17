@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBI infrastructure and reporting\n1\n• Consolidated data from multiple data sources such as ERP system, Google \nAnalytics, POS system etc. to create a single source of truth platform for \nreporting and analytics\n• Built data cubes and executive dashboards to disseminate the information to \nkey stakeholder\n(Apparel Retail brand)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nWorked directly with the ERP (Infor M3 ERP) databases and POS system (Y2 POS) to identify and use the required data for the data cubes\n•\nBuilt a data warehouse to transform the raw data from the ERP to meaningful business information based on business logic\n•\nBuilt data cubes for tracking Sales, Procurement cost, Freight, Inventory, Production and Supply Chain performance\n•\nDesigned and built 20 distinct dashboards on Power BI to track performance by department and provide critical information to the C-Suite\n•\nDeveloped streamlined automated process for daily update of the Datamart, Data cubes and Power BI dashboards\nSituation\n•\nThe company exports its products to 15 countries and has over 50 retail stores globally. It did not have clear visibility in the performance of its business \nwith limited and error-prone reporting. \n•\nPartnered with the client to design and build their data cubes and executive level dashboards which are updated automatically daily\nBI infrastructure design & implementation for a luxury \nretail brand\n2\nImpact\n•\nOur dashboards provide reliable and accurate reporting for the company, replacing their error-prone reporting infrastructure\n•\nThe timely information enables the retail team to monitor performance and take preventative actions where needed\n•\nSingle and updated source of truth enables the executive team to track critical KPIs related to procurement, manufacturing and sales \nBI INFRASTRUCTURE AND REPORTING\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBusiness intelligence architecture\n3\nData sources\nETL\nData warehouse\nBI reporting\nInfor M3 ERP database\nBudget data in spreadsheets\nData validation, cleansing, \ntransformation and loading in \nMicrosoft SQL server\nSet up daily data refresh \nprocesses to extract the \nlatest data from Infor M3 \nERP\nBuild a data warehouse to \ntransform the raw data from \nthe ERP to meaningful \nbusiness information\nBuild multi-dimensional data \ncubes on SSAS to allow \nusers to locate and analyze \ndata effectively.\nDesign and deploy executive \ndashboards on power BI  \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nStreamlined data structures and developed enterprise DW and customized \nreports\n4\nReports\nAfter\nParameters\nDatabase \nstructures\nBefore\n▪Most reports generated manually on Excel\n▪Time consuming process affecting team’s efficiency\n▪Incomplete or inaccurate data due to multiple data \nsources \n▪Automated reports for individual functional teams like \nMarketing, Strategy planning, Executive dashboards etc \npublished on Power BI \n▪No manual intervention\n▪Reconciled and consistent reports as it captures data \nfrom all sources\nERP database\nCloud planning \nsystems\nPOS Systems\nBudget data in \nspreadsheets\nEnterprise data \nwarehouse\nSales\nBudget/Forecast\nLabor\nInventory\nData marts\nMarketing data sources\nSales cube\nForecast \ncube\nInventory \ncube\nProduction \ncube\nCost\n Cube\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRetail performance dashboards - Example\n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (223).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104417+05'30'",
+            "modDate": "D:20241115104417+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSales performance dashboards - Example\n6\nILLUSTRATIVE\n"
+    }
+]

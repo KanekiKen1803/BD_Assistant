@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nReporting Infrastructure Set-up (BI Reporting)\n(Apparel Rental Brand)\nCreated standard data definitions across departments such as, laundry, packing, shipping, \netc., streamlined the existing reporting structure for the warehouse & labor performance, \nand migrated reports to Tableau\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "SETUP OF REPORTING INFRASTRUCTURE\nIMPACT\n▪Harmonization of the data definitions improved the consistency and reliability of the reports\n▪Implementation of Tableau streamlined the overall reporting infrastructure and enabled easy distribution of reports to the respective owners with \nappropriate encapsulation(e.g., floor managers having access only to performance data and not wage related data)\n▪Thorough vetting of the data received from the new vendors, helped in reducing the effort needed in transition and ensured that the updated reports \nwere accurate and reliable for decision making by the Executive Team\nABOUT THE CLIENT\nThe client is a major U.S. based apparel rental brand\nSITUATION\n▪The client lacked a streamlined BI reporting infrastructure and consistent KPI definition across the departments such as, laundry, packing, shipping, etc., \nthat led to issues in tracking labor reporting performance\n▪Merilytics partnered with the client to streamline existing Excel and Google based reporting sheets, standardized data definitions and migrated the \nreporting structure to Tableau\n▪Created a data dictionary and updated all the current reports to reflect the standardized data definitions\n▪Developed automated reports to track live performance of the warehouse, i.e., volume processed (shipments sent out, dresses cleaned, etc.) per hour, \nto be used by the floor managers and the overall historical performance reports for the Executive Team\n▪Updated the existing Labor model, to include new factors such as seasonal ramp in incoming orders, to help make hiring decisions based on workflow \nforecasts for the future weeks\n▪Partnered with the client in vetting the data from a new vendor and helped in finding and fixing issues such as missing hours, wages, etc. \n▪Transitioned the existing Excel and Google sheets-based reports to Tableau which enabled the creation of Live performance trackers to monitor \nperformance\nVALUE ADDITION\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nMTD as of Week ending 05/25/19\nQTD as of Week ending 05/25/19\nYTD as of Week ending 05/25/19\nMetrics\n2019\n2018\nYoY %\nBudget\n% var\n2019\n2018\nYoY %\nBudget\n% var\n2019\n2018\nYoY %\nBudget\n% var\nShipments\n306,007 \n202,520 \n51%\n320,888 \n-5%\n306,007 \n202,520 \n51%\n320,888 \n-5%\n1,416,678 \n920,263 \n54%\n1,428,033 \n-1%\nInbound Units\n646,797 \n439,961 \n47%\n699,850 \n-8%\n646,797 \n439,961 \n47%\n699,850 \n-8%\n3,000,256 \n1,603,399 \n87%\n3,177,306 \n-6%\nICQA Units\n40,016 \n27,820 \n44%\n49,142 \n-19%\n40,016 \n27,820 \n44%\n49,142 \n-19%\n312,019 \n178,965 \n74%\n333,529 \n-6%\nTotal Headcount\n1,456 \n1,053\n38%\n1,365 \n7%\n1,456 \n1,053 \n38%\n1,365 \n7%\n2,281 \n1,417 \n61%\n1,113 \n105%\nFT headcount\n629\n395\n59%\n841 \n-25%\n629\n395 \n59%\n841 \n-25%\n670 \n424 \n58%\n802 \n-16%\nTemp Headcount\n890 \n659 \n35%\n524 \n70%\n890 \n659 \n35%\n524 \n70%\n1,808 \n1,040 \n74%\n312 \n480%\nTotal Hours\n137,999 \n103,051 \n34%\n162,235 \n-15%\n137,999 \n103,051 \n34%\n162,235 \n-15%\n645,283 \n467,750 \n38%\n708,899 \n-9%\nFT Hours\n74,908 \n47,576 \n57%\n101,545 \n-26%\n74,908 \n47,576 \n57%\n101,545 \n-26%\n325,374 \n237,769 \n37%\n516,252 \n-37%\nTemp Hours\n63,092 \n55,475 \n14%\n60,690 \n4%\n63,092 \n55,475 \n14%\n60,690 \n4%\n319,909 \n229,981 \n39%\n192,647 \n66%\nDirect Hours\n103,132 \n78,867 \n31%\n130,190 \n-21%\n103,132 \n78,867 \n31%\n130,190 \n-21%\n484,399 \n357,584 \n35%\n567,363 \n-15%\nSupport Hours\n26,225 \n19,974 \n31%\n23,312 \n12%\n26,225 \n19,974 \n31%\n23,312 \n12%\n117,820 \n90,380 \n30%\n100,891 \n17%\nTraining hours\n5,805 \n2,506 \n132%\n4,636 \n25%\n5,805 \n2,506 \n132%\n4,636 \n25%\n26,011 \n9,246 \n181%\n19,873 \n31%\nHoliday & Vacation hours\n2,837 \n1,704 \n66%\n4,097 \n-31%\n2,837 \n1,704 \n66%\n4,097 \n-31%\n17,053 \n10,540 \n62%\n20,771 \n-18%\nOvertime – Hours\n9,299 \n6,512 \n43%\n4,606 \n102%\n9,299 \n6,512 \n43%\n4,606 \n102%\n33,928 \n25,102 \n35%\n20,043 \n69%\nTotal Dollars \n$2,246,875 \n$1,706,996 \n32%\n$2,492,940 \n-10%\n$2,246,875 \n$1,706,996 \n32%\n$2,492,940 \n-10%\n$10,511,632 \n$7,707,879 \n36%\n$10,841,582 \n-3%\nFT Dollars\n$1,255,943 \n$830,733 \n51%\n$1,525,547 \n-18%\n$1,255,943 \n$830,733 \n51%\n$1,525,547 \n-18%\n$5,466,547 \n$4,003,294 \n37%\n$7,775,923 \n-30%\nTemp Dollars\n$990,932 \n$876,263 \n13%\n$967,393 \n2%\n$990,932 \n$876,263 \n13%\n$967,393 \n2%\n$5,045,085 \n$3,704,585 \n36%\n$3,065,658 \n65%\nOvertime Dollars\n$222,330 \n$165,863 \n34%\n$104,738 \n112%\n$222,330 \n$165,863 \n34%\n$104,738 \n112%\n$825,918 \n$621,345 \n33%\n$453,582 \n82%\nWage Rate \n$16.28 \n$16.56 \n-2%\n$15.37 \n6%\n$16.28 \n$16.56 \n-2%\n$15.37 \n6%\n$16.29 \n$16.48 \n-1%\n$15.29 \n7%\nWage Rate – FT\n$16.77 \n$17.46 \n-4%\n$15.02 \n12%\n$16.77 \n$17.46 \n-4%\n$15.02 \n12%\n$16.80 \n$16.84 \n0%\n$15.06 \n12%\nWage Rate - Temp\n$15.71 \n$15.80 \n-1%\n$15.94 \n-1%\n$15.71 \n$15.80 \n-1%\n$15.94 \n-1%\n$15.77 \n$16.11 \n-2%\n$15.91 \n-1%\nWage Rate - Overtime\n$23.91 \n$25.47 \n-6%\n$22.74 \n5%\n$23.91 \n$25.47 \n-6%\n$22.74 \n5%\n$24.34 \n$24.75 \n-2%\n$22.63 \n8%\nThese KPIs are summarized at MTD, QTD and \nYTD levels and compared against last year \nand budget values\nTracked four key metrics, Volume (incoming \nand outgoing shipments), headcount, labor \nhours and wage rates\nLABOR ACTUALS VS. BUDGET REPORT\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nExecutive level summary of KPIs with sparklines showing the recent trend and \nthe comparison to budget for two different warehouses at different locations\nOPERATIONS EXECUTIVE PERFORMANCE DASHBOARD\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nDivision level \nsummary of KPIs \nat a WTD (Week \nto date) and day \nlevel\nLast 4-week \ntrends of \nimportant metrics \nsuch as Shipments \nper \nhour(productivity \nof the \nwarehouse), \novertime and \nshare of support \ndepartments.\n1. UPH - Units per hour, measures the productivity of each department.\nDAILY OPERATIONS PERFORMANCE TABLEAU DASHBOARD\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (230).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114150555+05'30'",
+            "modDate": "D:20241114150555+05'30'",
+            "trapped": ""
+        },
+        "content": "6\nProductivity or UPH \n(Units Per Hour) \nsummarized by \nDepartment and \nEmployee\nEmployees are \ncategorized and color-\ncoded based on their \nperformance relative to \nthe goal\n1. UPH - Units per hour, measures the productivity of each department.\nLIVE UPH1 TRACKER TABLEAU DASHBORD\n"
+    }
+]

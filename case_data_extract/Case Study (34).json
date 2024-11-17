@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172538+05'30'",
+            "modDate": "D:20241114172538+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nAnalyzed pricing and products data for ~300 local and national competitors from \nvarious third-party sources and competitor websites, to evaluate potential pricing \nopportunities and identify potential markets to penetrate\nCompetitor Analysis\n(Yoga Fitness Chain)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172538+05'30'",
+            "modDate": "D:20241114172538+05'30'",
+            "trapped": ""
+        },
+        "content": "COMPETITOR PRICING ANALYSIS\nSITUATION\n▪\nThere was a need to incorporate competitive intelligence into its pricing decisions by understanding how the competitors are pricing in \nvarious US locations and how prices are evolving over time\n▪\nMerilytics partnered with the company to extract pricing data from competitors’ websites and other third-party sources, and build a \ncomprehensive model to evaluate the pricing opportunities of the company across locations\n▪\nExtracted the prices of different products offered by ~300 competitors (including national and local competitors) present across various \nlocations in the U.S. and provided flexibility to slice the competitor pricing data into different segments, i.e., by city, by DMA region, by \nstate, across cities with company’s presence, etc.\n▪\nModel provided the flexibility to view the absolute prices of competitors, specific competitors’ price premium to company, YoY change in \nprices for the competitors across various locations, etc.\n▪\nAnalyzed the presence of competitors across various U.S. locations, to gain a perspective on the potential locations for the company to \nenter locations where the company is facing higher competition and competitors’ perception on the growth/potential markets.\nVALUE ADDITION\nIMPACT\n▪\nEnabled the client to identify the markets with potential pricing opportunity, and devise their pricing strategy accordingly\n▪\nHelped identify new potential markets to enter, markets where more studios could be opened and markets with least or maximum \ncompetition\nABOUT THE CLIENT\nThe client is a PE-owned fast-growing fitness studio chain across the U.S with more than 100 locations\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172538+05'30'",
+            "modDate": "D:20241114172538+05'30'",
+            "trapped": ""
+        },
+        "content": "ASSESSMENT OF ABSOLUTE PRICES/PRICE PREMIUM TO COMPETITORS\n3\nOutput depicting the absolute prices \nof competitors across cities with the \ncompany’s presence. Flexibility to \nview prices by city, by DMA region, by \nstate is provided.\nOutput depicting the price \npremium of competitors vs. \ncompany in Chicago. \nFlexibility to view price \npremium by city, by DMA \nregion, by state is provided.\nOutput indicating the competitors’ price premium in comparison to company\nLegend :\nState\nIllinois\nPrice significantly less than Company\nDMA Region\nChicago\nCity\nCHICAGO\nPrice significantly higher than Company\nPrice premium percentage in comparison with Company\nPrice >>>\nCompetitors\nNumber of Studios\nProduct 1\nProduct 2\nProduct 3\nProduct 4\nProduct 5\nAvg. Price of National Competitors\n2%\n-1%\n5%\n4%\n23%\nAvg. Price of Local Competitors\n-22%\n-26%\n-26%\n-28%\n-20%\nCompany\n13\n0%\n0%\n0%\n0%\n0%\nCompetitor-1\n17\n0%\n-1%\n1%\n-2%\n17%\nCompetitor-2\n3\n14%\n19%\n26%\n35%\n76%\nCompetitor-3\n1\n-21%\nna\n-32%\n-32%\n-34%\nCompetitor-4\n1\n38%\nna\n51%\n53%\n234%\nCompetitor-5\n10\n0%\n-10%\n-10%\n-13%\n8%\nCompetitor-6\n7\n25%\n27%\n37%\n41%\n188%\nCompetitor-7\n1\n-21%\nna\n-18%\n-23%\n-14%\nCompetitor-8\n9\n-18%\n-35%\n-29%\n-23%\n-23%\nCompetitor-9\n1\n-51%\nna\nna\nna\n-41%\nPrice close to Company\nState\nALL\nDMA Region\nALL\nCity\nCommon Cities\nAverage price by pack, by competitor in the selected city\nPrice >>>\nCompany Name\nNo. of Studios\nProduct 1\nProduct 2\nProduct 3\nProduct 4\nProduct 5\nAvg. Price of National Competitors\n$ 8\n$ 38\n$ 72\n$ 132\n$ 171\nAvg. Price of Local Competitors\n$ 7\n$ 29\n$ 52\n$ 94\n$ 120\nCompany\n130\n$ 8\n$ 40\n$ 71\n$ 130\nna\nCompetitor-1\n123\n$ 8\n$ 39\n$ 72\n$ 128\n$ 159\nCompetitor-2\n7\n$ 10\n$ 47\n$ 89\n$ 176\nna\nCompetitor-3\n2\n$ 7\nna\n$ 48\n$ 88\nna\nCompetitor-4\n1\n$ 12\nna\n$ 107\n$ 200\nna\nCompetitor-5\n40\n$ 8\n$ 36\n$ 64\n$ 113\nna\nCompetitor-6\n19\n$ 11\n$ 50\n$ 97\n$ 183\nna\nCompetitor-7\n1\n$ 7\nna\n$ 58\n$ 100\nna\nCompetitor-8\n22\n$ 7\n$ 26\n$ 50\n$ 100\n$ 153\nCompetitor-9\n4\n$ 4\nna\nna\nna\nna\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172538+05'30'",
+            "modDate": "D:20241114172538+05'30'",
+            "trapped": ""
+        },
+        "content": "ASSESSMENT OF PRICE PREMIUM BY COMPETITOR\n4\nOutput depicting the \nprice premium of a \nspecific competitor to \nCompany across \nvarious cities with \nCompany’s presence\nOutput depicting the YoY \nprice change carried out \nby competitors across \ncities with Company’s \npresence\nOutput indicating the Company’s price premium vs. a specific competitor\nOutput indicating the YoY price change by competitors\nLegend :\nSelect Competitor\nCompetitor-1\nPrice significantly less than Company\nPrice significantly higher than Company\nPrice Premium against Company by City\nPrice >>>\nMemberships\nCities\nNo. of Studios\nProduct 1\nProduct 2\nProduct 3\nProduct 4\nProduct 5\nAll Company's cities\n110\n12%\nna\n0%\n-3%\n20%\nAvon\n0\nna\nna\nna\nna\nna\nClark\n6\n4%\nna\n-13%\n-16%\nna\nEast Greenwich\n0\nna\nna\nna\nna\nna\nHaddonfield\n10\n12%\nna\n-1%\n-3%\n14%\nKirkland\n2\n12%\nna\n0%\n-3%\nna\nManhasset\n14\n0%\nna\n0%\n0%\n0%\nMclean\n2\n12%\nna\n0%\n-3%\n29%\nMemphis\n1\n12%\nna\n-5%\n-5%\nna\nMill Valley\n1\n0%\nna\n-2%\n-19%\nna\nMorgan Hill\n2\n11%\nna\n22%\n26%\n33%\nMurrysville\n2\n27%\nna\n3%\n4%\n46%\nPeachtree City\n1\n8%\nna\n12%\n-5%\nna\nPrice close to Company\nSelect choice of comparison\nCommon cities\nAverage YoY price change across all locations by pack, by competitor\nPrice >>>\nCompetitor's Name\nNo. of Studios\nProduct 1\nProduct 2\nProduct 3\nProduct 4\nProduct 5\nCompany\n130\n8%\n9%\n5%\n8%\nna\nCompetitor-1\n123\nna\nna\n6%\n9%\nna\nCompetitor-2\n7\n12%\n19%\n35%\nna\nna\nCompetitor-3\n2\nna\nna\nna\nna\nna\nCompetitor-4\n1\nna\nna\nna\nna\nna\nCompetitor-5\n40\n24%\n15%\n16%\n10%\nna\nCompetitor-6\n19\n16%\n15%\n15%\nna\nna\nCompetitor-7\n1\nna\nna\nna\nna\nna\nCompetitor-8\n22\n-6%\n18%\n-2%\nna\nna\nCompetitor-9\n4\nna\nna\nna\nna\nna\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (34).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172538+05'30'",
+            "modDate": "D:20241114172538+05'30'",
+            "trapped": ""
+        },
+        "content": "LOCATIONS OF COMPANY AND COMPETITORS\n5\nILLUSTRATIVE\nPresence of Company \nand competitors on a \nmap, to gain a \nperspective on the \npotential regions for the \ncompany to consider, \nlocations where there is \nhigh competition, etc.\nPresence of Company and competitors across the U.S.\n"
+    }
+]

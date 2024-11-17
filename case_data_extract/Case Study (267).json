@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer sentiment analysis\n1\n• Analyzed customer survey data to understand overall customer sentiment and \nidentify improvement areas\n• Built a robust automated dashboard in Power BI to track the customer \nsatisfaction and identify key trends by restaurant, region, etc.\nRestaurant chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to consolidate sales and survey data, analyze the customer feedback data, and set up automated self-serve \ndashboards in Power BI that provide insights into customer sentiment. Currently, you lack visibility into the sentiment of \ncustomers and their overall dining experience in the restaurants, due to unstructured survey questionnaires and untimely reporting \nof survey data.\nRestaurant chain needs to analyze customer feeds\n2\nYour value is enhanced. \n•\nTimely reporting of customer sentiment enabled you to identify restaurants with poor customer satisfaction scores and specific \nareas of improvement for each restaurant\n•\nThe strategic changes and initiatives driven by the customer sentiment reporting helped you to improve overall customer \nsatisfaction, boosting net sales by ~3% ($1.5M) in a quarter\nCUSTOMER SENTIMENT ANALYSIS\nKEY RESULT   \n•\nNet sales boosted by \n~3%($1.5M) per quarter\nVALUE LEVERS PULLED\n•\nCustomer sentiment \nmetrics - BM% (bad \nmemory) & TB% (top \nbox)\n•\nConsolidated data \nmodel\n•\nStructured survey \nquestionnaires\n•\nSelf-serve BI \nDashboard\n2\nYou turn to Accordion. \nWe partner with your team to analyze customer survey data to understand overall customer sentiment and identify improvement \nareas, including:\n1)\nIntegrating sales data with survey data (in TableSafe & Medallia applications) and creating a consolidated data model for \nreporting on SQL server\n2) Structuring the survey questionnaires by classifying the questions into different categories, such as atmosphere, hospitality, \nattentiveness, brand, F&B, etc.\n3) Designing two customer sentiment metrics – BM% (bad memory) & TB% (top box) and analyzing the survey data to identify \nkey sentiment trends\n4) Building a self-serve, robust automated dashboard in Power BI to track all key sentiment insights and providing timely \nreporting to all stakeholders\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated sales data with survey data (in TableSafe & Medallia applications) and created a consolidated data model for reporting on SQL server\n•\nStructured the survey questionnaires by classifying the questions into different categories, such as atmosphere, hospitality, attentiveness, brand, F&B, etc.\n•\nDesigned two customer sentiment metrics – BM% (bad memory) & TB% (top box) and analyzed the survey data to identify key sentiment trends\n•\nBuilt a self-serve, robust automated dashboard in Power BI to track all key sentiment insights and provide timely reporting to all stakeholders\nSituation\n•\nClient lacked visibility into the sentiment of customers and their overall dining experience in the restaurants, due to lack of structured survey \nquestionnaires and timely reporting of survey data \n•\nPartnered with the client to consolidate sales and survey data, analyze the customer feedback data, and set up automated self-serve dashboards in Power \nBI that provide insights into customer sentiment\nSentiment analysis for restaurant chain\n3\nImpact\n•\nTimely reporting of customer sentiment enabled the client to identify restaurants with poor customer satisfaction scores and specific areas of improvement \nfor each restaurant\n•\nThe strategic changes and initiatives driven by the customer sentiment reporting helped the client to improve overall customer satisfaction, boosting net \nsales by ~3% ($1.5M) in a quarter\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\nTop Box Responses\n(top response)\nOffline Survey \nData\nOnline Survey \nData\nSales Data\nConsolidated Data Model\nETL on SSIS\nCustomer Sentiment \nDashboard\n1\n2\n10\n7\n6\n5\n4\n3\n9\n8\nBad Memory Responses\n(bottom two responses)\nCUSTOMER SURVEY SCALE\nDATA\nARCHITECTURE\nSENTIMENT KPIs\nBad Memory (BM) % \n= \nNumber of Bad Memory Responses\nTotal Number of Responses\nTop Box (TB) % \n= \nNumber of Top Box Responses\nTotal Number of Responses\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer sentiment summary\nBad Memory (BM) % at \neach question level \nrepresents the customer \ndissatisfaction within \ndifferent parameters of \ndining experiences, such \nas atmosphere, \nattentiveness, brand, food \nand beverage value, and \nhospitality\nILLUSTRATIVE\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer sentiment trend\nThis chart \ntracks the \ncustomer \nsentiment trend \nby week and \ncompares it \nwith prior years\nILLUSTRATIVE\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer sentiment by restaurant\nThis chart helps \nidentify restaurant \nperformance based \non customer \nsentiment:\nLow performance \n(high BM% & low \nTB%)\nHigh performance \n(low BM% & high \nTB%)\nILLUSTRATIVE\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (267).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155243+05'30'",
+            "modDate": "D:20241114155243+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey factors influencing customer sentiment\nThis charts helps \nidentify key \nfactors \ninfluencing overall \ncustomer \nsatisfaction\nILLUSTRATIVE\n8\n"
+    }
+]

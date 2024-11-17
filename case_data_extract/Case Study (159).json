@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133414+05'30'",
+            "modDate": "D:20241114133414+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBuilt data pipeline infrastructure using Azure Databricks & SQL in a Sandbox \nenvironment for an AI-Powered Virtual Makeup Application to provide analytics \ndashboard hosted on Tableau server\nDigital Experience Analytics\n(Cosmetics Manufacturer)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133414+05'30'",
+            "modDate": "D:20241114133414+05'30'",
+            "trapped": ""
+        },
+        "content": "DIGITAL EXPERIENCE ANALYTICS FOR COSMETICS MANUFACTURER\nSITUATION\n▪Client launched an AI-powered Virtual Try-On Application in all their stores all over the world but lacked visibility into the customer engagement with \nthe product application\n▪Merilytics partnered with the client to build a structured data pipeline, set up automated reporting suite and built self-serve Tableau dashboards to \ntrack customer engagement on the Try-On application\n▪Identified all the major Click To Action (CTA) events and the associated measure / parameter on the application to track the customer journey and \nsuggested KPIs which would help understand the customer behavior.\n▪Conducted comprehensive User Acceptance Testing post the application development team configuring the analytics tags for a user journey\n▪Setup an automated data pipeline infrastructure to ingest the data from SFTP to SQL server using a python script and stored procedures executing in Azure \nDatabricks which ensured the tracking of KPIs on a daily basis\n▪Built a robust automated self-serve dashboard on the client tableau server to track the KPIs at a Store/Region/Application/Time period level\nVALUE ADDITION\nIMPACT\n▪The streamlined analytics & testing process helped the client roll out any new feature faster in the Virtual Try On Application leading to shorter \ndeployment time\n▪Implemented and automated Tableau dashboard that enabled the client to arrive at key business decisions by leveraging the key metrics related to \ncustomer behavior/engagement\nABOUT THE CLIENT\nClient is one of the largest Cosmetics Manufacturers with a global presence\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133414+05'30'",
+            "modDate": "D:20241114133414+05'30'",
+            "trapped": ""
+        },
+        "content": "Exploration Phase\n01\n▪Tracked the customer journey in the virtual makeup \napplication and identified the key Click To Action Events for \na particular use case.\n▪Suggested Key Metrics to be tracked in the Tableau \ndashboard based on the business requirements\nTesting Phase\n▪Tracked/Monitored the analytics tags for each \nuse case to support the client's application \ndevelopment team during testing phase\n▪Reported bugs to the development team in \ncase of any deviation from the expected \nbehavior\nVisualization Phase\n▪Created multiple views & charts in the Tableau \nworksheets capturing various key metrics\n▪Published the dashboard to the Tableau server \nwhich automatically refreshes on a daily basis\n02\n04\n03\nData Transformation Phase\n▪Setup an automated data pipeline from SFTP to SQL using a \nPython script in Azure Databricks\n▪Developed multiple SQL scripts as a stored procedure to \nprocess the raw data and calculate the key metrics to be \nvisualized in Tableau dashboard\n▪Scheduled SQL stored procedures to automate the \ncalculations daily\nMETHODOLOGY/ APPROACH\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133414+05'30'",
+            "modDate": "D:20241114133414+05'30'",
+            "trapped": ""
+        },
+        "content": "Data Source\nData Ingestion Layer\nReporting \nLayer\nMulti part JSON \nfiles pushed to \nSFTP daily\nIngest to ADF\nData Prepared for \nTableau Reporting in \nAzure SQL Server\nARCHITECTURE DIAGRAM\n4\nAutomated Process\nSpark batch in \nAzure \nDatabricks\nTableau Dashboard \nhosted in client server\nData loaded to Azure \nData Lake Storage\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (159).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133414+05'30'",
+            "modDate": "D:20241114133414+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1 – CUSTOMER ENGAGEMENT DASHBOARD - OVERALL EXPERIENCE\nILLUSTRATIVE\n5\nBar charts tracking \ntop-products based \non multiple \ndimensions\nTracks Key Metrics \naround customer \nexperience for Make \nup Looks feature\n"
+    }
+]

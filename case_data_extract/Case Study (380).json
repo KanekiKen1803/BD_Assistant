@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181819+05'30'",
+            "modDate": "D:20241114181819+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA WAREHOUSE IMPLEMENTATION & BI REPORTING\nSITUATION\n▪Client had information stored in multiple disjoint databases which made data reconciliation and reporting very difficult and tedious\n▪Client partnered with Merilytics to create a robust data warehouse that will be the single source of truth for sales, marketing, and customer data \nand built dashboards to enable management get a holistic view of the key trends\n▪Built a sustainable and scalable cloud-based data infrastructure on Azure which provides a readily available single source of truth for reporting or \nanalysis\n▪Performed a data reconciliation exercise to understand the current variance and identify reliable sources of data for the data warehouse\n▪Established a unique customer identification mechanism that would help the marketing team understand customer behavior \n▪Built self-service dashboards on Tableau to provide insights into trends in sales performance, marketing spend, and customer engagement\nVALUE ADDITION\nIMPACT\n▪The consolidated single repository for all sales, marketing, and customer data enabled the client to have easy access to reliable and reconciled data for \nreporting purposes\n▪The reconciliation exercise helped in providing accurate and reliable data for consumption\n▪The self-service Tableau dashboards provided quick access to KPI trends through visualizations for key performance metrics \n▪Unique customer identification mechanism helped the marketing team understand customer behavior and evaluate performance of promotion campaigns\nABOUT THE CLIENT\nClient is one of the fastest growing restaurant chains in Saudi Arabia, with more than 300 branches\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181819+05'30'",
+            "modDate": "D:20241114181819+05'30'",
+            "trapped": ""
+        },
+        "content": "2\n• Daily ELT processes to support multiple data sources and perform data \nloads on to the data lake \n• Daily incremental loads using pipelines in data factories to check last 10 \ndays of data from Aloha & SDM\n• Mobile engagement data on an hourly basis is accessed from Adjust \nthrough Amazon S3 and website data is captured daily by Google API\n• “Ready-to-serve” reporting infrastructure for visualization using Tableau\n• Provide quick self-serve reporting and data access to business users\nData lake processes\nReporting Processes\nData warehouse processes\n• Daily ELT process to integrate data lake with data warehouse using data \nfactory pipelines. Data processing to create data marts with clean fact \nand dimension level information.\n• Alerts and notifications over email to check for successful loads for each \npipeline and audit checks to ensure accurate data transfer. \n• Customized tabular model to support the reporting requirements\nALOHA\nMarketing \ndata\nCall Centre \n(SDM)\nSOLO\nAdjust\nGoogle \nAnalytics\nData Sources\nData Storage and Processing\nReporting\nOnline Reporting\nOn-premise Reporting\nELT Process\nDaily\nAzure Data lake\nScalable centralized repository is refreshed daily to store \ndata from multiple sources\nAzure Data Marts\nStore Sales, Marketing and customer information from \nmultiple sources in an easy to retrieve structure\nAzure Analysis \nservices\nMulti-dimensional data cubes allows users to analyze data \nin a faster and an effective manner\nConnections\nELT Process\nDaily\nAzure Data Warehouse\nAPPROACH & METHODOLOGY\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181819+05'30'",
+            "modDate": "D:20241114181819+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nSales, # Orders and Average ticket size trends over time\nSales, # Orders and Average ticket size growth trends over time\nILLUSTRATIVE\nEXHIBIT #1: SALES TRENDS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (380).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181819+05'30'",
+            "modDate": "D:20241114181819+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nILLUSTRATIVE\nRetention trends by customer cohort \nCustomer Lifetime Value\nEXHIBIT #2: CUSTOMER RETENTION TRENDS\n"
+    }
+]

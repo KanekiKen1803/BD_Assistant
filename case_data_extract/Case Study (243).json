@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer Retention and LTV analysis\n1\nAnalyzed retention trends and the drivers of retention across customer segments \nto understand customer purchase behavior and, also assess the impact of \nincentives on customer retention.\nDigital Parking Spot Reservation Service Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nEvaluated retention and lifetime periods for each of the customer segments and categorized customers into active, resurrected and lapsed based on the \nretention period and purchase frequency\n•\nEvaluated behavioral attributes (LTV, Incentive usage, Lifetime bookings, etc.) for above segments across years and customer segments\n•\nBuilt a Looker dashboard to report the trends in customer acquisition and retention, LTV trends of customer cohorts and real-time tracking of customer \nstatus\n•\nBuilt a super-user dashboard on Looker to report the trends in the number of power users (>5 bookings in a month) and their growth and retention over the \nmonths\nSituation\n•\nClient wanted to understand its customer behavior by analyzing purchase trends, lifetime value of customers and analyzing the retention of their power \nusers\n•\nPartnered with the client to study the customer purchase behavior, define the retention and lifetime periods for different customer segments to understand \nthe drivers of customer retention and set up these analyses on a Looker BI dashboard that can be refreshed regularly\nReporting infrastructure set-up on looker\n2\nImpact\n•\nStatistical method of defining retention and lifetime periods enabled the client to better understand the customer behavior \n•\nIdentified that the impact of incentives on resurrections, revenues and purchase rates is minimal / ineffective. This helped the Executive team to get better \ninsights into customer incentive programs.\n•\nOur analysis identified key drivers of performance enabling management team to identify poor performers and proactively take action to prevent attrition\n•\nTranslating the analyses to a Looker dashboard that can be refreshed regularly provided management easy access to track various KPIs on a monthly basis \nCustomer Retention and LTV \nanalysis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\n▪\nDefined retention period as the time \ntaken (in weeks) to complete ~90% of the \ncumulative bookings\n▪\nEvaluated Lifetime period as the time \ntaken by the customers to generate ~90% \nof their total revenue \n▪\nThe above metrics were evaluated for \neach of the customer segments. \n▪\nSegmented customers into new, retained \nand resurrected by week based on the \nretention and lifetime periods\n▪\nSegmented customers into active (who \nnever lapsed), lapsed, resurrected based \non their activity in their lifetime to study \nthe deterioration \n▪\nAssessed the share of different segments \nof users utilizing incentives every week\n▪\nStudied the repurchase rates of users \nwho made bookings with incentives vs. \nwithout incentives\n01\nRETENTION & LIFETIME PERIOD \nEVALUATION\n02\nSEGMENTATION OF CUSTOMERS\n03\nIMPACT OF INCENTIVES ON USER \nBEHAVIOR\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRetention period and lifetime period evaluation\n4\nCumulative frequency plot by \nperiod between two \nconsecutive bookings \n0\n10\n20\n30\n40\n50\n60\n70\n80\n90\n100\n0\n2\n4\n6\n8\n10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78\nPeriod between consecutive bookings (in weeks)\nCumulative bookings (%)\n90%\n26\n24\n27\n0\n10\n20\n30\nSegment 1\n26 months\nSegment 2\nLifetime period (In months)\nSegment 3\nTime period (in months) taken by users to generate corresponding revenue%\nCumulative \nrevenue (%)\n50% of all \nusers\n60% of all \nusers\n70% of all \nusers\n80% of all \nusers\n90% of all \nusers\n100% of all \nusers\n50%\n3\n5\n8\n12\n17\n44\n60%\n4\n7\n10\n13\n20\n45\n70%\n6\n9\n12\n16\n22\n45\n80%\n7\n10\n13\n18\n24\n46\n90%\n8\n12\n15\n20\n26\n46\n100%\n9\n12\n16\n21\n28\n47\nMatrix to evaluate the time taken by the \ncustomers to reach their expected \nrevenues\nGraph showing the time taken by the \ncustomers to reach their expected revenues\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nImpact of incentives\n5\nOverall\nRevenue per customer ($)\nSegment 3\nSegment 1\nSegment 2\n+25%\n+41%\n-11%\n+24%\nBar graph to compare the LTV \nof customers who used and \ndid not use incentives for their \nfirst purchase. \nWithout Incentive\n40%\n50%\n60%\n70%\n80%\n90%\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\n22\n24\n26\n28\n30\n32\n34\n36\n38\n40\n42\n44\n46\n48\n50\n52\n54\n56\n58\n60\nNumber of purchases\nShare of users (%)\nShare of incentive users with next booking(%)\nShare of users without incentives with next booking(%)\n17%\n10%\n9%\n0%\n2%\n4%\n6%\n8%\n10%\n12%\n14%\n16%\n18%\nRetained\nShare of customers (%)\nNew\nResurrected\nOverall\nShare of new, retained \nand resurrected \ncustomers using \nincentives\nPlot comparing the \nrepurchase rates of \ncustomers with and without \nincentives\n$37\n$54\n$26\n$32\n$46\n$77\n$23\n$39\n$0\n$50\n$100\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer purchase behavior\n6\nBar graph comparing the \nrevenue generated by active, \nresurrected and lapsed \ncustomers\nDeterioration of customer \nbased on their activity in their \nlife-time  \n18.6%\n17.4%\n18.9%\n19.4%\n50.5%\n62.4%\n32.9%\n44.5%\n30.9%\n20.2%\n48.2%\n36.1%\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\nSegment 3\nShare of revenue (%)\nSegment 1\nOverall\nSegment 2\nActive\nResurrected at least once\nLapsed and never came back\n$366\n$1,110\n$150\n$294\n$67\n$104\n$39\n$53\n$21\n$26\n$15\n$20\n$0\n$500\n$1,000\n$1,500\nRevenue per customer ($)\nSegment 3\nOverall\nSegment 1\nSegment 2\n-82%\n-91%\n-74%\n-82%\nActive\nResurrected at least once\nLapsed and never came back\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLooker dashboard - Retention analyses\n7\nSplit and YoY growth of \nnew, existing and lapsed \nusers by month\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLooker dashboard - Trends in customer purchase behavior of active users\n8\n1.\nCustomers acquired during the period Jan 2016 – Oct 2017 and active for 24 months \nperiod are considered\n2.\nShares (%) are calculated with respect to the customers acquired in a month\n3. Revenue per active user = Revenue generated by active users in their lifetime / The \ntotal number of active users\n4. Bookings per active user =Total bookings by active users in their lifetime / The \ntotal number of active users\nNumber of \nactive \ncustomers by \nmonth and their \nshare in total \nusers acquired \nby month\nTotal revenue \n($ & %) of \nactive users \nby acquisition \nmonth\nTrends in \nrevenue per \ncustomer and \nYoY growth for \nactive users \nfrom 2016-17 \nindicating \ndeterioration\nTrend in \nbookings per \ncustomer for \nactive users \nfrom 2016-17 \nindicating \ndeterioration\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (243).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114152155+05'30'",
+            "modDate": "D:20241114152155+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLooker dashboard - Monthly & yearly trends for power users\n9\n1. Power users are the users with at least 05 bookings in any month of their lifetime\nMonthly retention rate of \npower users\nTrends in power user \nbehavior by year\nTrends in power user behavior \nby month for trailing 12 months \nperiod\nILLUSTRATIVE\n"
+    }
+]

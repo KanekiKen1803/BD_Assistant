@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181343+05'30'",
+            "modDate": "D:20241114181343+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nIntegrated data from internal applications (loan system, Google Analytics, Zendesk) \ninto Microsoft Dynamics 365, to improve the marketing team’s outreach and \ncampaign effectiveness\nFinancial services company\n(Data Integration and Reporting)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181343+05'30'",
+            "modDate": "D:20241114181343+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA INTEGRATION FOR A FINANCIAL SERVICES COMPANY\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is an online personal loan provider offering short/medium-term secured and unsecured loans.\n2\n▪A marketing automation technology initiative was launched to derive insights and target customers in the existing loan system (finPower), and address \nnew customer queries online (Google Analytics and Zendesk)\n▪Partnered with the client to integrate data from internal applications (finPower, Google Analytics, Zendesk) to Microsoft Dynamics 365, to improve the \nmarketing team’s outreach and campaigns\n▪Analyzed data structures of existing systems and finalized field mapping methodology to populate data in Dynamics 365 \n▪Created entities in the target application (Dynamics 365) and maintained data quality and consistency\n▪Developed fully automated data pipelines in Azure to ingest data from finPOWER, Google Analytics and Zendesk to Dynamics 365\n▪Developed data resilience and reconciliation mechanisms within the pipelines to ensure failures/successes are notified\n▪Documented the process for future reference and to support future enhancements\n▪Integration of customer financial information with customer engagement data in Dynamics 365 enabled the marketing team to develop a detailed \ncustomer segmentation analysis\n▪Cross linkages across systems enabled the marketing team to create targeted campaigns and increase marketing ROI\n▪The marketing team was able to pitch their products according to customer needs\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (377).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181343+05'30'",
+            "modDate": "D:20241114181343+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nAPPLICATION ARCHITECTURE & DATA CLEANSING\nPrimary Data \nSources\nData Storage & Processing\nDestination \nSource\nAzure Data Lake Storage\nAzure Data Factory\nAzure Logic Apps\nStaging SQL Database\nAzure Functions\nLoan \nManagement \nSystem\n1\n2\n3\n4\n5\n6\n7\n8\n9\nRead SQL database containing \nfinPOWER data using Azure Data \nFactory\nRead Google Analytics API and Zendesk \nAPI using Azure functions\nStore API outputs to storage account in \nfolders organized by date/hour\nAppend the API output to data with \nincremental values in staging database\nRead staging database tables \n(incremental and staging) using ADF to \nupdate the entity\nUpdate staging tables with latest \nvalues from Dynamics 365\nUpdate missing values tables/views \nbased on reconciliation in staging \ndatabase\nUpdate and insert values in Dynamics \n365 based on unique GUID\nPull data from Dynamics 365 entities \nafter every refresh to compare with \nincremental data\n1\n2\n3\n4\n5\n6\n7\n8\n9\n"
+    }
+]

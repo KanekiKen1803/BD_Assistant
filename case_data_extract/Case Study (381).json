@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "LEASE MARKET TRENDS ANALYSIS FOR REAL ESTATE SERVICES FIRM\nSITUATION\n▪Client lacked visibility into the latest market trends in lease and sale deals for office spaces based out of the U.S.\n▪Merilytics partnered with the client to identify the rental and sales trends for office spaces in New York and Dallas markets and later extended the \nanalysis to top-30 markets from 2016-2021 to understand the impact of COVID\n▪Identified trends in Lease market for the top-30 markets by various attributes such as property type, lease type, tenure etc. and analyzed the impact of \nCOVID\n▪Devised a methodology to estimate the lease value, created custom mappings for lease types and improved fill rates using a combination of certain cost \nrelated attributes \n▪Performed data diagnostic analysis to understand the data quality and identified the key caveats/data gaps for the client \nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is one of the world’s largest commercial real estate service firms offering services across the real estate value chain with presence in the U.S. and multiple countries \nacross the world\n1\n▪The key sub-markets and popular lease types/tenure duration identified from the analysis helped the client in focusing on high revenue generating \nlocations and better market planning in closing out future lease deals\n▪Insights from the data diagnostic analysis were leveraged by the client to kickstart a data reconciliation exercise to improve data quality and fill rates\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "APPENDIX – LEASE TYPE CLASSIFICATION AND DESCRIPTIONS\n2\nLease Type Group\nLease Type\nDefinition\nGross\nGross & TE\nFixed Rent covers all property expenses. All the auxiliary costs handled by Builder.\nGross\nFixed Rent covers all property expenses except Electricity Charges\nGross plus Electric\nFixed Rent covers all property expenses. All the auxiliary costs except electricity \ncost are handled by Builder.\nFull-Service Gross\nFixed Rent covers all property expenses. All the auxiliary costs handled by Builder.\nModified Gross\nAdj. Gross\nFixed Rent covers all property expenses. All the auxiliary costs except the ones \nmentioned in contract are handled by Builder.\nModified Gross\nFixed Rent covers all property expenses. All the auxiliary costs except the ones \nmentioned in contract are handled by Builder.\nPlus utilities & janitorial\nPlus Utilities & janitorial\nAssumed to be Gross + Utilities + Janitorial. \"Maintenance Cost\" and \"Utilities \nExpenses\" are separate\nNNN\nNet Net Net\nOnly rent is fixed. Property expenses are charged based on usage. Additional \nexpenses include Taxes, Maintenance Cost, Operating Fixed Expenses, Insurance, \nElectricity Charges and utility cost\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY\nCustom mapping for 5 lease type groups (Gross, Modified Gross, \nNet Type, Plus additional expenses and Others).\nDevised methodology to estimate annual rent based on the type \nof lease.\nNormalized the rent related attributes to improve the fill rates to \ncalculate the annual rent for as many leases as possible.\nEstimated the average annual rent for leases active during 2016-\n21 by sub-market, property class, etc. for NY and Dallas Markets\nTenure analysis for active and new leases during 2016-21 period\nExtended the rental analysis for top-30 markets\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 1: SHARE OF LEASES TRENDS BY LEASE TYPE FOR OFFICES – TOP-30 MARKETS\n4\n7%\n7%\n7%\n7%\n7%\n7%\n6%\n6%\n6%\n6%\n6%\n6%\n17%\n18%\n19%\n20%\n21%\n22%\n70%\n68%\n67%\n65%\n65%\n64%\n1%\n1%\n1%\n67,214\n2017\n66,021\n2018\n2019\n67,923\n1%\n2020\n1%\n100%\n2021\n2016\n59,248\n63,108\n65,286\n1%\nNet Type\nGross\nModified Gross\nOthers\nPlus additional Expenses\nReduction in share of \nGross Type leases is \naccounted for the \nincreases in share of Net \nType leases.\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 2: SHARE OF NEW LEASES TRENDS BY TENURE FOR OFFICES – TOP-30 MARKETS\n5\nILLUSTRATIVE\n24%\n24%\n24%\n24%\n25%\n19%\n33%\n33%\n31%\n30%\n29%\n28%\n39%\n39%\n40%\n41%\n41%\n49%\n4%\n4%\n100%\n0%\n2021\n1%\n2016\n0%\n0%\n2017\n1%\n2018\n12,079\n5%\n8,925\n2019\n11,661\n2020\n1%\n4%\n3%\n11,697\n11,845\n9,429\n4%\n0-3 Years\n3-5 Years\n5-10 Years\n10-15 Years\n15-20 Years\n20+ Years\nThere has been a significant \nincrease in share of new leases \nwith lesser tenure period\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (381).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181932+05'30'",
+            "modDate": "D:20241114181932+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT 3: DISTRIBUTION OF ACTIVE LEASES IN 2016-21 PERIOD BY MARKET FOR OFFICES\n6\nILLUSTRATIVE\nNote: Map is shown for indicative purpose only and is not to scale\n1,500 Leases (#)\nHawaii\nSan Diego\nPheonix\nDenver\nPortland\nSeattle\nDallas/Fort Worth\nHouston\nTampa\nAtlanta\nCharlotte\nSt Louis\nMinneapolis/St Paul\nChicago\nColumbus (OH)\nLos Angeles\nSan Francisco\nSilicon Valley\nVentura\nOrange County\nPittsburgh\nNorthern Virginia\nWashington D.C\nSuburban Maryland\nBaltimore\nPhiladelphia\nCentral New Jersey\nNorthern New Jersey\nFairfield County\nNew York\nMajority of the leases are \nconcentrated in Northeast and \nSouthwest coasts.\nS. No\nMarket\nTotal Leases (#)\n1\nNew York\n13,383\n2\nLos Angeles\n11,853\n3\nSan Diego\n7,232\n4\nNorthern Virginia\n6,914\n5\nHouston\n5,844\n6\nChicago\n5,734\n7\nDenver\n4,808\n8\nDallas/Fort Worth\n4,570\n9\nWashington D.C.\n4,253\n10\nOrange County\n3,429\n11\nSan Francisco\n3,414\n12\nSuburban Maryland\n3,134\n13\nPhiladelphia\n3,077\n14\nAtlanta\n3,056\n15\nNorthern New Jersey\n2,976\n16\nSeattle\n2,763\n17\nCentral New Jersey\n2,602\n18\nCharlotte\n2,549\n19\nBaltimore\n2,366\n20\nPhoenix\n2,287\n21\nPittsburgh\n2,169\n22\nMinneapolis/St Paul\n1,899\n23\nHawaii\n1,831\n24\nSilicon Valley\n1,768\n25\nFairfield County\n1,753\n26\nSt Louis\n1,563\n27\nPortland\n1,523\n28\nColumbus (OH)\n1,517\n29\nTampa\n1,499\n30\nVentura\n1,454\n"
+    }
+]

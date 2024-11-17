@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPredictive analytics\n1\n• Built a predictive model to identify key factors that impact customer retention to \nimprove customer targeting\n• Partnered with the client’s sales team to customize communication for various \ncustomer groups to improve acquisition efficiency, driving greater than 10pps \nhigher retention rates across the target cohort\nHealth & wellness firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for the key features of existing high-value customers and building a predictive model to identify prospective high-\nvalue customers. Currently, you identify potential high-value customers who had taken the self-assessment survey on the \nwebsite but did not convert to a sale.\nHealth and wellness company needs predictive analytics\n2\nYour value is enhanced. \n•\nYou have customers targeted by the model had 10% higher retention rates than the regular customer base, leading to ~5% \nincrease in revenues. You also have customized communication helped improve customer acquisition and retention, leading to \n~10% higher customer lifetime value (CLTV).\nPREDICTIVE ANALYTICS\nKEY RESULT   \n•\n10% higher retention \nrates \n•\n~5% increase in \nrevenues\n•\n~10% higher customer \nlifetime value \nVALUE LEVERS PULLED\n•\nPredict high value \nprospect customer\n2\nYou turn to Accordion. \nWe partner with your team to build a predictive model to identify key factors that impact customer retention to improve customer \ntargeting, including:\n1)\n Building multiple classification models to identify key pre-conversion features of current high value customers\n2) Using various modeling & optimizing techniques, identifying the best performing model for each subset of customers\n3) Identifying the potential high value customers and enabling the sales team to customize their marketing pitch to acquire these \ncustomers\n4) Identifying list of customers to re-target based on their prior website interactions and questionnaire responses\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt multiple classification models to identify key pre-conversion features of current high value customers\n•\nUsing various modeling & optimizing techniques, identified the best performing model for each subset of customers\n•\nIdentified the potential high value customers and enabled the client’s sales team to customize their marketing pitch to acquire these customers\n•\nIdentified list of customers to re-target based on their prior website interactions and questionnaire responses\nSituation\n•\nThere was a need to identify potential high-value customers who had taken the self-assessment survey on the client’s website but did not convert to a sale\n•\nPartnered with the client to identify key features of existing high-value customers and built a predictive model to identify prospective high-value customers\nIdentifying high-value customers for re-targeting\n3\nImpact\n•\nCustomers targeted by the model had 10% higher retention rates than the regular customer base, leading to ~5% increase in revenues\n•\nCustomized communication helped improve customer acquisition and retention, leading to ~10% higher Customer Lifetime Value (CLTV)\nPredictive Analytics\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach\n4\nDATA EXPLORATION AND \nCLEANING\n▪Explored, identified, and cleaned the client data sources to make the data usable for modeling\nFEATURE ENGINEERING\n▪Performed Statistical Tests (Correlation, P-test, T-test, ANOVA, Chi-squared) to identify key pre-conversion customer features for \nthe model\n▪Built new features (pill frequency, BMI, etc.) based on the existing features to increase the number of features in the model\n▪Incorporated the categorical variables into the model, converting them to numbers using different encoding techniques (dummy \nencoding, level encoding)\n▪Built a base model using a simple classifier. Then, tested multiple algorithms on multiple subsets of data and optimized the output \nfor these various models using techniques (cross validation, hyper-parameter tuning, etc.) to arrive at the best performing model \nfor each subset of data\nMODEL BUILDING \n& TESTING\nMODEL DEPLOYMENT & \nMAINTENANCE\n▪Generated and shared a list of potential high value customers and then collaborated with the sales team to create customized \ncommunication to improve acquisition\n▪Continued to monitor the model performance to ensure expected accuracies and anticipated potential refreshes of the model\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology: Identifying key drivers of customer retention\n5\nExcluded features that have \nhigh correlation between each \nother \nQuestionnaire features\nFirst transaction features\nHeight \nWeight\nCardio exercise\nLung conditions\nHeart conditions\n….\n….\nOnly the questions relevant to \ndataset are considered\nNo. of pills \nNo. of pills per day\nNo. of morning pills\nNo. of night pills\nNo. of evening pills\n…\nDiscount (%)\nOrder value ($)\nReferral code\nExhaustive list of \nquestions converted into \nbinary variables \nFeatures selected by \nremoving correlated \nvariables\nQuestionnaire features\nFirst transaction features\nBMI\nCardio exercise\nLung conditions\nHeart conditions\n….\n….\nNo. of pills per day\nShare of morning pills (%)\nDiscount (%)\nOrder value ($)\nReferral code\nModel 1: CART\nQuestionnaire features\nFirst transaction features\nModel 2: Random Forest\nQuestionnaire features\nFirst transaction features\nModel 3: XGBoost\nQuestionnaire features\nFirst transaction features\nRetention drivers identified \nbased on the decision tree \nthat best segregates \nretained and non-retained \ncustomers\nRetention drivers identified \nbased on the aggregate \nresults of multiple decision \ntrees\nRetention drivers identified \nbased on the results from \nmultiple decision trees after \naccounting for unique \ncustomer sets\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (200).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142804+05'30'",
+            "modDate": "D:20241114142804+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIdentifying top respondents by retention probability\n6\n1.0K\n0.0K\n2.0K\nProbability for retention\n48%\n31%\n0%\n100%\n9%\n18%\n45%\n0.4K\n50%\n0.2K\n57%\n0.2K\n60%\n64%\n74%\n0.2K\n76%\n1.2K\n0.2K\n2.3K\n1.3K\n0.3K\n0.1K\n0.1K\n1.7K\n0.4K\nNo. of respondents\nChoosing the top 1,005 \n(12%) of respondents\nTotal respondents = 8,471\nDistribution of respondents by probability to retain\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPatient targeting & tracking unbilled orders\n1\n• Tracked patients by their eligibility for a re-supply of medical equipment and \ncreated a prioritized list of patients to help the client to better target those \npatients.\n• Also, tracked the latency involved in invoicing the Insurance Companies after \nthe product was shipped and tracked the unbilled orders by their status to \nprioritize the orders that are easy to resolve.\n(Medical equipment company)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nTracked monthly patient level eligibility, resupply and delivery of the product to understand lag time, potential missed revenue, etc.\n•\nProvided granularity by creating additional productivity metrics to track the efficiency of the CRM\n•\nTracked the ongoing integration of the CRM and the Billing systems by region, business unit and product to identify potential unbillable orders\n•\nTracked the unbilled orders by their statuses to identify the process inefficiencies which are driving these unbilled orders\nSituation\n•\nClient was facing an issue with unbilled orders because of the poor integration between CRM and Billing systems. They also had an opportunity to improve \ntheir CRM efficiency by effectively targeting patients for re-supply.\n•\nHelped drive the topline by identifying potential revenue leakages and by increasing the accuracy of patient target capabilities for resupply\nEffective patient targeting and minimizing unbilled orders \n2\nImpact\n•\nOur analyses helped the client to identify the major sources of unbilled orders and prioritize the integration between the CRM and Billing systems in those \nareas\n•\nClient was able to track eligible patients in real time sorted by lag time so that they can better prioritize the work-flow of the CRM \n•\nIt also enabled the client to assess the potential growth in topline sales and revenues directly improving the net revenue.\nPATIENT TARGETING & TRACKING \nUNBILLED ORDERS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\nCRM contacts the \neligible patients for \nresupply \nTeam ships the \nproduct if patient is \ncompliant\n‘Poor integration between \nCRM and Billing systems’ \nBilling/Invoicing \nSystem\nBill sent to Insurance Co.\nCRM to send all the \nrelevant documents to \nBilling/Invoice system\n•\nCreated a priority list of patients based on their eligibility, region, \nInsurance Co. etc. to target them for resupply.\n•\nCalculated the average time taken between patient eligibility and \nproduct shipment, to track the CRM efficiency improvement across \nmonths.\n•\nEstimated the potential lost revenue due to time lag between the \neligibility and resupply\n•\nTracked the latency involved in invoicing the Insurance Co. after the \nproduct was shipped and compared it across business units and \nbranches.\n•\nIdentified the processes causing most delay by tracking the unbilled \namounts by their status and prioritized them by ease of resolution\nClient’s process\nMerilytics Value Add\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nReport to track re-supplies to patients\n4\nTotal eligible \npatients to be \nresupplied in that \nmonth\nPatients who \nbecame eligible in \ncurrent month\nPercentage of \npatients re-\nsupplied within \n30 days of them \nbecoming \neligible\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTracking conversions over time\n5\nPercentage of \npatients \nresupplied \nwithin 30 days \nof their eligibility\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nReconciliation of orders and billing to track revenue leakage\n6\nNumber of \nUnbilled orders                      \n(Billed - \nShipped)\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPercentage of \nUnbilled orders                       \n(Billed - \nShipped) to \nTotal Shipped \norders\nNumber of \nUnbilled orders                       \n(Billed - \nShipped)\nReconciliation of orders and billing to track revenue leakage\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (390).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183053+05'30'",
+            "modDate": "D:20241114183053+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRecon report\n"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nClaims Denial Analysis\nLTAC Provider\n(Long-term acute care)\nAnalyzed claims denial data to identify denial reasons, \nmonitor and track denials leading to effective denial \nmanagement strategies and reduction in revenue loss, AR \n(accounts receivable) and bad debt.\nClaim denial analysis\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "ANALYZING CLAIM DENIALS TO MINIMIZE REVENUE LOSS AND \nACCELERATE CASH COLLECTIONS\nABOUT THE CLIENT\nClient is a healthcare services company that operates long-term acute-care hospitals and provides rehabilitation services across U.S. \nSITUATION\n▪\nClient wanted to analyze their Claim Denials to identify reasons for denials and recognize opportunities to prevent/correct the issues that \ncause denials \n▪\nMerilytics partnered with the Provider to understand, clean and analyze the denial data to build reports in order to track denials by insurer, \nhospital & region and help them develop effective denial management strategies\n▪\nDeveloped a methodology to bring all relevant claims for a patient together across the claims process. Created a mapping to assign denials by \ntechnical and clinical types using the reason codes (CARC/RARC)\n▪\nCleaned up the denials (835 claim remittance) data and integrated it to the billing data to analyze denied amounts and reasons\n▪\nBuilt reports / Dashboards on Design Studio (SAP) to track the top denial reasons, denied amount, turnaround time by payor, facility and region\n▪\nDeveloped a model to estimate the potential impact on cash and P&L for 2020 budget due to revenue cycle management initiatives \n▪\nDeveloped Payor score cards that drive on-going  Payor management and discussions during contract negotiations \nVALUE ADDITION\nIMPACT\n▪\nReduction in revenue loss, AR (accounts receivable) and bad debt caused by denials \n▪\nAccelerated cash collections from insurers due to proactive identification of bills for appeal or resubmission \n▪\nIncreased transparency into the denial data enabled the company to better monitor and track denials\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nHealthcare \nprovider\nInsurers\n835\n837\nClearing \nhouse\nSome challenges\nWhat is tracked?\n835\n837\n▪Data in 835 is encrypted and needs parsing – requires manual effort and delay in accessing data\n▪Multiple claims in a single 835 file – difficult to reconcile/track at a claim level\n▪Inconsistent filing across multiple insurers\n▪Duplicate submitted claims by insurers – needs deduplication\n▪Multiple RARC/CARC codes used for same reason at different locations/payors\n▪Identifying the actual contractual adjustments vs. denied claim amount\nDenied amount ($)\n# Days to Pay\nDenial Reasons by $ share\nDenial rate (%)\n▪Reason codes are classified into two types – Technical and Clinical Denials\n▪Technical Denial – related to administrative features of claim\n▪Clinical Denial – related to medical necessity or authorization\n▪835 files provide what charges were paid or denied and reason codes for denials (CARCs, RARCs)\n▪CARC (Claim Adjustment Reason Code) – Communicates a reason for a payment denial\n▪RARC (Remittance Advice Remark Code) – Provides additional info to what already said by CARC\n▪837 – Sent by Healthcare provider regarding claim information to payors (Insurance companies)\n▪835 – Sent by Payors regarding payment (remittance) information to the providers\nClaim and Remittance communication\nOutstanding AR ($)\n# Days to Closure\nTop Payors by $ share\nCollection rate (%)\nTop facilities by $ share\nBad debt and Write-offs\n835 DENIALS ANALYSIS – DATA OVERVIEW\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nASSIGNED CARC CODES TO EACH BILL AND IDENTIFIED TOP CARC CODES BY \nGROSS DENIED AMOUNT\n•\nTop 10 Technical CARCs by gross \ndenied amount\n•\nThe reasons are due to \nadministrative or technical \naspects of the claim\n•\nTop 10 Clinical/Both type CARCs \nby gross denied amount\n•\nClinical CARCs are of \nclinical/medical in nature such as \nnon-medical necessity or \nauthorization\n•\nA CARC is classified as ‘Both’ if it \nhas the features of both \nTechnical and Clinical CARC\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "5\nDENIAL REPORTING - IMPACT OF MULTIPLE REASONS ACROSS ALL PAYORS\nThe most frequent reasons \nbucketed into categories that \nneeds to be addressed \nproactively\nMetrics are compared against \nprevious periods to measure \nthe improvement\nThe reasons are segregated by \nthe owner/audience for \nimmediate action\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "6\nREPORTING/ANALYSIS\nDESCRIPTION\nPAYOR SCORECARD\nTracks the top insurers by various denial and collection metrics across different regions, facilities\nRCM DASHBOARD\nTracks all the key metrics related to Revenue Cycle Management on the BI tool and then further split into detail dashboards \nsuch ‘Billing’, ‘Sales & Marketing’, ‘Admissions’ etc.\nFLIP ANALYSIS\nAnalyze impact of flips (classification of patients from ‘Post Intensive Care (PIC)’ to ‘Site Neutral (SN)’ by Medicare and vice \nversa) on the average length of stay (ALOS), which would further impact the compliance for LTAC\n2020 P&L IMPACT ANALYSIS\nEstimate the potential impact on cash (reduction in AR), bad debt and write-offs due to Revenue Cycle initiatives that drive \nthe increase in overturn rates and reduction in denial rates\nMARKETING REPORTING\nTracks the marketing metrics (admits, referrals, conversion rate, overturn rate, days to auth, etc.) by month across various \nregions, facilities and payors\nJOINT QUALITY MEETING REPORTING\nThese presentations consolidate key metrics around referrals, utilization and quality, that would be presented to partner \nreferring facilities/insurers\nVENDOR INVOICE RECONCILIATION\nReconciles collections claimed by the third-party collection agency with the collection data to flag the bills that are \noverclaimed and validate the commission invoices\nOTHER REPORTING\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "APPENDIX\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "8\nDENIAL REPORTING - IMPACT OF MULTIPLE REASONS ISSUED BY EACH PAYOR\nList of Payors with the most \ndenied amount help the on-\nfield team to prioritize and \ninitiate further discussions\nFrequent reasons by each \nPayor to customize the \naction plan based on their \nhistorical denial behavior\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "9\n2020 P&L IMPACT ANALYSIS\nImpact of denials initiatives on Cash and P&L \nfor 2020 are estimated using target \nimprovements in key metrics such as ‘Denials \n% of Net Revenue’ and ‘Collections % on \nOutstanding denials’\nThe change in AR (Accounts \nReceivable) is estimated based on \nchange in the denials, average days \nto collect payments and  difference \ncollection rates of non-denials and \ndenials\nBased on the budgeted revenue \nand targets for these metrics, the \nreduction in reserves and bad debt \nis calculated to estimate the P&L \nimpact\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "10\nJOINT QUALITY REPORTING\nThe utilization is tracked based on Case Mix Index and Average Length \nof Stay (LOS) by payor types. The LOS is tracked against the benchmark \nGMLOS to comply with the standards. The discharge disposition \nindicates the condition of the patient at the time of discharge.\nShows Quality indices like NOWPU, \nCAUTI, CLABSI and Patient \nSatisfaction Index. These are \ntracked against region level and \ncompany level numbers to gauge \nthe hospital facility.\nShows the referrals by the \ntype of treatment unit and \nthe corresponding \nconversion rate\nShows referrals and admits of the \npatients with insurance as ‘Cigna’. \nShows the reasons for non-\nconversion of referrals.\nQuality report for the meeting \nbetween Cigna (Insurer) and New \nYork Hospital (Facility).\nAdditional \nExhibits for the \nother reports \n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (134).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104058+05'30'",
+            "modDate": "D:20241115104058+05'30'",
+            "trapped": ""
+        },
+        "content": "11\nSALES & MARKETING REPORT\nAvg. time to convert is the average number of days \ntaken to convert a referral to admit.\nAvg. time to Auth. is the average number of days \ntaken to get authorization from the insurer\nTracks patient Referrals, admits and conversion \nrate by referral month for any selected district, \nfacility or payor.\nAdditional Exhibits \nfor the other \nreports \n"
+    }
+]

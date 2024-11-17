@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData transformation & migration modeling \nfor Practice Management \n1\n•\nPartnered with the client to overcome challenges in migrating existing Practice Management data for \nMed Spas into their proprietary system via third-party partners\n•\nDeveloped an efficient and economical automated solution to alleviate the time-consuming and costly \nnature of the existing migration process\nElectronic health record (EHR) & practice management software provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to simplify the migration of Practice Management (PM) data, as current migration solutions are neither cost-\neffective nor streamlined for your customers’ needs\nHealthcare platform seeks a “seamless\" cure for costly data \ntransformation and migration\n2\nYour value is enhanced. \n•\nYou have streamlined the Practice Management data migration process, reducing costs for your customers by 90% and \ndecreasing data transformation and ingestion time by 95%, enabling faster onboarding\n•\nYou have also enhanced data accuracy by 15% to ensure high-quality PM data migration\n•\nAdditionally, you have eliminated the need for the technical team involvement in the end-to-end migration, freeing up resources \nand saving approximately 120 FTE-hours per month\n•\nYou have enabled the sales team to add $2.5M in annual revenue by enhancing their onboarding capacity\nDATA TRANSFORMATION & \nMIGRATION MODELING\nKEY RESULT   \n•\n90% reduction in \nmigration cost\n•\nPotential annual \nrevenue addition of \n$2.5M\n•\n95% faster ingestion \ntime\n•\n15% improvement in \ndata accuracy\nVALUE LEVERS PULLED\n•\nMigration modeling\n•\nExceptions reporting\n2\nYou turn to Accordion. \nWe partner with your team to develop an automated data transformation and migration solution to alleviate the time-\nconsuming and costly nature of the existing migration process, including:\n1)\nBuilding a single-click model using Python and Excel that simplifies the data transformation and ingestion process, saving \ntime and resources\n2) Providing Practice Management data outputs with >99% mapping between patients and appointments, enabling effective \ncommunication and patient reporting\n3) Generating automated detailed exceptions report to identify and address data quality issues, ensuring only high-quality data is \nimported\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n3\n•\nImport the patients and \nappointments datasets in a \npredefined input format to \nmaintain input consistency\n• Clean the input data to \navoid invalid/inaccurate \nvalues and maintain data \nsanctity\n• Carry out regular expression \nvalidations for each field value \nto comply with the output field \nformats\n• Provide visibility into the \nexecution progress through \nprogress bars to improve user \nexperience\n•\nTake inputs such as starting \nPatient ID, Duration, etc. from \nthe user to create an output \nfile that is readily ingestible \ninto target system\n•\nAllow flexibility for users to \nexport only relevant data in \nthe output. For example, \noption to export the cancelled \nappointments or not.\n• Use the generated patient IDs \nto map the input appointments \nwith the input patients\n• Account for the non-patient \nappointments separately \nbased on user inputs\n• Patients.csv: Contains the \npatients' data as per output \nspecifications\n• Appointments.csv: Contains \nthe appointments data as per \noutput specifications\n• Exceptions & Summary.xlsx: \nContains all data \ntransformations details and the \nreasons for purging specific \nrows/records during migration\nData cleaning & regex \nvalidations\nUser-defined inputs\nPatient ID generation & \nmapping\nFinal output\nUploading input datasets\n01\n02\n03\n04\n05\nThe approach for any EHR data transformation and migration model would consist of the five steps below:\nNote : All the models are designed to be case insensitive in terms of input column headers.\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nInput patients and appointments data\nInput Patient Data\n1.\nIdentifying columns that are \nideal for mapping \nAppointments to Patients. \nFollowing provides best match \n%:  CID, Email, CellPhone, \nBirthday, and Client Name.\n2.\nThis data is subjected to \nseveral data cleaning & \ntransformations to comply with \noutput data specifications.\nInput Appointment Data\n1.\nIdentifying columns that are \nbest for mapping Appointments \nto Patients. Following provides \nbest match %:  CID, Email, \nCellPhone, Birthday, and Name.\n2.\nThis data is subjected to several \ndata cleaning & transformation \nsteps to comply with output \ndata specifications.\nCID\nClientName\nAddress\nCity\nState\nPostal\nEmail\nCellPhone\nBalance\nGender\nBirthday\nDateCreated\n2011\nABC XYZ\nXytz Drive\nSpringdale\nTX\n33206\nabc@mail.com\n234-734-2321\n$4960\nM\n5/5/1988\n11/15/2016\n2012\nBCD WXY\nQwib Lane\nPinecrest\nTY\n86651\nag2@mail.com\n917-232-2394\n$55\nF\n6/30/1997\n1/17/2014\n2013\nABH BHJ\nZorn Avenue\nWillow\nCA\n45314\nge2@mail.com\n713-238-3231\n$100\nM\n6/27/1989\n8/28/2015\n2014\nABH NJA\nFyx Street\nOakwood\nAF\n75655\niu9@mail.com\n233-212-2311\n$1134\nM\n2/12/1987\n10/6/2014\n2015\nANH NJA\nVupx Avenue\nSunflower\nFQ\n72647\nag6@mail.com\n918-192-1239\n$3352\nF\n5/19/1998\n6/14/2019\n2016\nAMJ JKI\nVFUS Street\nSan Jose\nQD\n69021\nag4@rmail.com\n712-432-1283\n$2997\nM\n9/5/2000\n9/21/2019\n2017\nMJN KOI\nNizz Drive\nSanta Monica\nFR\n16384\nxyz@email.com\n817-927-2729\n$4414\nM\n4/14/1981\n8/7/2024\nCID\nName\nEmail\nCellPhone\nGender\nBirthday\nAppt_Date\nAppt_Status Service_Name\nStartTime\nStaff_Name\nLocation\n2011\nABC XYZ\nabc@mail.com\n234-734-2321\nM\n5/5/1988\n6/22/2020\nCancelled\nMeditation\n12:42\nSophia\nTest1\n2012\nBCD WXY\nag2@mail.com\n917-232-2394\nF\n6/30/1997\n2/1/2020\nInvoiced\nBotox\n10:12\nMason\nTest2\n2013\nABH BHJ\nge2@mail.com\n713-238-3231\nM\n6/27/1989\n5/9/2020\nInvoiced\nDiamondG\n7:11\nIsabella\nTest3\n2014\nABH NJA\niu9@mail.com\n233-212-2311\nM\n2/12/1987\n11/23/2019\nInvoiced\nCheck-up\n3:17\nEmma\nTest4\n2015\nANH NJA\nag6@mail.com\n918-192-1239\nF\n5/19/1998\n3/3/2020\nNo Show\nMeditation\n12:54\nIsabella\nTest7\n2016\nAMJ JKI\nag4@rmail.com\n712-432-1283\nM\n9/5/2000\n10/7/2020\nInvoiced\nDetox\n4:36\nSophia\nTest4\n2017\nMJN KOI\nxyz@email.com\n817-927-2729\nM\n4/14/1981\n11/17/2020\nInvoiced\nDetox\n18:14\nEthan\nTest4\n2014\nABH NJA\niu9@mail.com\n234-734-2321\nM\n2/12/1987\n9/22/2019\nInvoiced\nDiamondG\n18:59\nMason\nTest3\n2014\nABH NJA\niu9@mail.com\n917-232-2394\nM\n2/12/1987\n9/26/2019\nInvoiced\nCheck-up\n15:13\nEmma\nTest2\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nThe following framework aims to describe the model components and their relevance.\nModel snippet\nTRANSFORMATION AND MIGRATION\nINPUT\nPatients\nAppointments\nMODEL COMPONENTS  \nCritical factors that determine the performance of the model components\nconfig.py\nutils\nInstall Anaconda \nPackages.bat \nRun Model.bat\nOUTPUT\nPatients \nAppointments\nSummary & Exceptions\nSOP \ndocument \nRequirements.txt\nThe “config.py” file \ndefines all constants and \nvariables used in the \nmodeling process\nThe “Install Anaconda Packages.bat” file \ninstalls all prerequisite packages for the \nmodel and “Run Model.bat” file initiates \nthe model execution\nThe “utils” folder contains \nall functions essential for \nmodeling\nThe “SOP document” \nfolder provides \ninstructions for running \nthe model\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nOutput patients and appointments data\nOutput Patient Data\n1.\nPatient ID is a system-generated \nfield with starting patient ID as \nuser input.\n2.\nProvider Name, which is a \nmandatory field is provided by \nthe user as input., if not already \navailable in Input dataset.\n3.\nTo avoid information loss, the \nCID from the input data is \nrelocated to Custom Info 1.\nOutput Appointment Data\n1.\nIf a unique identification is found, \nthe Patient ID is generated after \nmatching with the patient's data.\n2.\nAll the non-mapped appointments \nare added to the exception file.\n3. The values in the ApptStatus in \nthe input file are used to generate \nthe entries for Is Cancelled, Is \nConfirmed, and Is No Show fields.\nPatient ID First Name\nLast Name\nAddress 1\nCity\nState\nZip\nBirthdate\nGender\nCell Phone\nEmail\nProvider Name\n243\nABC\nXYZ\nXytz Drive\nSpringdale\nTX\n33206\n5/5/1988\nM\n234-734-2321\nabc@mail.com\nJim\n244\nBCD\nWXY\nQwib Lane\nPinecrest\nTY\n86651\n6/30/1997\nF\n917-232-2394\nag2@mail.com\nJim\n245\nABH\nBHJ\nZorn Avenue\nWillow\nCA\n45314\n6/27/1989\nM\n713-238-3231\nge2@mail.com\nJim\n246\nABH\nNJA\nFyx Street\nOakwood\nAF\n75655\n2/12/1987\nM\n233-212-2311\niu9@mail.com\nJim\n247\nANH\nNJA\nVupx Avenue\nSunflower\nFQ\n72647\n5/19/1998\nF\n918-192-1239\nag6@mail.com\nJim\n248\nAMJ\nJKI\nVFUS Street\nSan Jose\nQD\n69021\n9/5/2000\nM\n712-432-1283\nag4@rmail.com\nJim\n249\nMJN\nKOI\nNizz Drive\nSanta Monica\nFR\n16384\n4/14/1981\nM\n817-927-2729\nxyz@email.com\nJim\nPatient ID\nAppointment Date\nProvider\nStart Time\nDuration\nIs Cancelled\nLocation\nReason\nIs Confirmed\nIs No Show\n243\n6/22/2020\nSophia\n12:42\n6\nFALSE\nTest1\nMeditation\nTRUE\nNULL\n244\n2/1/2020\nMason\n10:12\n25\nTRUE\nTest2\nBotox\nTRUE\nNULL\n245\n5/9/2020\nIsabella\n7:11\n12\nFALSE\nTest3\nDiamondG\nTRUE\nTRUE\n246\n11/23/2019\nEmma\n3:17\n38\nNULL\nTest4\nCheck-up\nNULL\nTRUE\n247\n3/3/2020\nIsabella\n12:54\n45\nNULL\nTest7\nMeditation\nTRUE\nNULL\n248\n10/7/2020\nSophia\n4:36\n14\nNULL\nTest4\nDetox\nNULL\nNULL\n249\n11/17/2020\nEthan\n18:14\n11\nTRUE\nTest4\nDetox\nNULL\nNULL\n243\n9/22/2019\nMason\n18:59\n41\nFALSE\nTest3\nDiamondG\nTRUE\nNULL\n245\n9/26/2019\nEmma\n15:13\n11\nNULL\nTest2\nCheck-up\nTRUE\nNULL\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nSummary & exceptions file\nAppointments Data Summary\n1.\nMatching Breakdown gives \ninformation about the match \npercentage between \nappointments and patients, \nas well as the non-patient \nappointments.\n2.\nPatients and Appointments \nare further broken down and \nsummarized based on type \nof data exception.\nPatient Field Exceptions\n1.\nThe invalid/inaccurate data is \nremoved from the cell, but the row \nis retained.\n2.\nException Description explains \nwhy the cell is blanked out.\n3. The Is Purged column indicates if \nthe row has been eliminated due to \nan exception, based on whether \nit's an exception in Mandatory or \nNon-Mandatory columns.\nNotes\n1. This sheet contains the appointment summary statistics, matching breakdown of appointments with patients and the breakdown of appointments and \npatients from the input to output transition.\n2. The cells highlighted in \"grey\" are the number of records that have been removed from the input appointments \nand patients datasets.\nBreakdown of Appointments\nMatching Breakdown\nBreakdown of Patients\nTotal Input Appointments\n20\nTotal Output Appointments (A)\n20\nTotal Input Patients\n20\nDuplicate Appointments\n0\nTotal Office Appointments (B)\n0\nDuplicate Patients\n0\nAppointment End Time Crossed EOD\n0\nTotal Unmatched Appointments (C)\n0\nPatients With Empty Required Fields\n0\nAppointments with Empty Required Fields\n0\nTotal Matched Appointments (D)\n20\nArchived/Inactive Patients\n0\nTotal Unmatched Appointments\n0\nMatch Percentage (%) ((D/(A-B+C))*100)\n100\nTotal Output Patients\n20\nTotal Output Appointments\n20\nInvalid Field Format Patients\n7\nInvalid Field Format Appointments\n5\nIndex\nCID\nClientName\nAddress\nCity\nState Postal\nEmail\nHomePhone\nCellPhone\nBalance Gender\nBirthday\nException Description\nIs Purged\n0\n2011\nABC XYZ\nXylz Drive\nSpringdale\nTX\n38098 abc@mail.com 234-734-2321\n234-734-2321\n4960\nM\n1986-02-14\nInvalid CellPhone Format\nNo\n0\n2011\nABC XYZ\nXylz Drive\nSpringdale\nTX\n38098 abc@mail.com 917-232-2394\n917-232-2394\n4960\nM\n1986-02-14\nInvalid HomePhone Format\nNo\n3\n2014\nDEF UVW\nFyx Street\nOakwood\nTX\n65146 def@mail.com\n713-238-3231\n713-238-3231\n-40\nM\n1989-11-30\nInvalid CellPhone Format\nNo\n7\n2018\nHIJ QRS\nTylp Lane\nSunflower\nTX\n13677 hij@gmail.com\n233-212-2311\n233-212-2311\n-55\nM\n1993-12-02\nInvalid CellPhone Format\nNo\n9\n2020\nJKL OPQ\nZyrk Drive\nBriarwood\nTX\n51694\njkl@mail.com\n918-192-1239\n918-192-1239\n-400\nF\n1995-04-25\nInvalid CellPhone Format\nNo\n11\n2022\nLMN MNO\nQuyz Avenue\nW Grove\nTX\n17221\nln@hmail.com\n712-432-1283\n712-432-1283\n349\nM\n1997-10-05\nInvalid CellPhone Format\nNo\n12\n2023\nMNO LMN\nXyzk Street\nLakeside\nTX\n73569 oln@hmail.com 817-927-2729\n817-927-2729\n54\nF\n1998-02-28\nInvalid HomePhone Format\nNo\n14\n2025\nOPQ JKL\nBlaz Lane\nP Valley\nTX\n90573 opl@hmail.com 234-734-2321\n234-734-2321\n109\nF\n2000-08-04\nInvalid HomePhone Format\nNo\nNotes\n1. This sheet contains all the patients with format issues in the field values.\n2. The \"Index\" column indicates the row number of the record in raw data. The error is there in the \"Exception Description\" Column against each record.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (178).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135817+05'30'",
+            "modDate": "D:20241114135817+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n8\n1) Acquired knowledge of the healthcare Industry:\no\nGained in-depth understanding of Electronic Health Record (EHR) systems and the types of data they manage\no\nEnhanced industry expertise through HIPAA certification, ensuring compliance with healthcare data privacy and security standards\n2) Enhanced working knowledge of Python:\no\nGained deeper insights into the features and functionalities of packages like pandas, numpy , tkinter , openpyxl and xlsxwriter.\no\nImproved proficiency in using Anaconda, Jupyter notebook and workflows for data migration and transformation.\no\nLearnt how to develop the code for creating batch files to automate a series of commands.\no\nLearnt how to decode regular expressions and use them in validating data fields based on their output requirements.\no\nLearnt how to automate creation of excel files from python code as per the output requirements.\nLearnings\n"
+    }
+]

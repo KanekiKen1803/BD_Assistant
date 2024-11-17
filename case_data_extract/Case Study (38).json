@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181706+05'30'",
+            "modDate": "D:20241114181706+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSchedule optimization\n1\nEvaluated the existing class schedule for various studios and recommended an \noptimal class schedule to maximize gross profit. Developed the optimization \nmodel leveraging GENOUD algorithm, taking into consideration ~200 variables\n(Yoga fitness chain)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181706+05'30'",
+            "modDate": "D:20241114181706+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDefined a consolidated schedule for each studio with ~200 variables (slots available) based on start time, end time and turn time\n•\nCalculated the attendance trends based on historical performance and estimated same class type and cross class type cannibalization based on \nincremental benefit from having multiple classes \n•\nCreated the optimal schedule by maximizing the total weekly gross profit using an advanced evolutionary optimization algorithm called ‘Genetic \noptimization using derivatives (GENOUD)’  subject to constraints such as minimum attendance per class and share of classes of each class type\nSituation\n•\nThe studios have relatively low utilization rates because of lower number of classes offered, leading to lower gross profits\n•\nPartnered with the company in evaluating the current schedule of the studios and recommending optimal schedule (for all class type offerings) for each \nstudio to maximize the gross profit \nClass schedule optimization for a yoga fitness chain\n2\nImpact\n•\nOptimal schedule recommendations helped the company identify the studios with high opportunity \n•\nImplementing the recommended schedule changes helped the company improve the gross profit by 30%-50% at high opportunity studios\nSCHEDULE OPTIMIZATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181706+05'30'",
+            "modDate": "D:20241114181706+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSchedule optimization methodology, constraints and algorithm used\n3\nOptimal schedule - Attendance by class type\nMonday\nTuesday\nWednesday Thursday\nFriday\nSaturday\nSunday\nStart time\nR1\nR2\nR1\nR2\nR1\nR2\nR1\nR2\nR1\nR2\nR1\nR2\nR1\nR2\n5:30 AM\n10\n9\n20\n10\n15\n18\n26\n0\n10\n9\n14\n10\n0\n0\n6:45 AM\n13\n11\n18\n25\n19\n13\n34\n0\n10\n13\n13\n18\n10\n0\n8:00 AM\n11\n10\n0\n14\n11\n9\n18\n0\n10\n10\n10\n28\n14\n16\n9:15 AM\n20\n16\n16\n22\n12\n20\n19\n12\n19\n22\n27\n9\n28\n32\n10:30 AM\n12\n9\n11\n13\n16\n9\n18\n13\n18\n14\n34\n19\n40\n20\n11:45 AM\n16\n11\n18\n23\n11\n16\n18\n8\n13\n26\n34\n25\n34\n23\n1:00 PM\n14\n12\n14\n12\n11\n12\n12\n14\n10\n15\n0\n10\n14\n11\n2:15 PM\n10\n12\n10\n9\n8\n9\n14\n10\n12\n12\n17\n11\n16\n17\n3:30 PM\n16\n18\n16\n17\n15\n14\n12\n14\n13\n9\n14\n17\n21\n14\n4:45 PM\n30\n10\n23\n25\n11\n31\n24\n19\n18\n13\n13\n9\n0\n10\n6:00 PM\n46\n23\n29\n52\n36\n21\n23\n28\n16\n24\n0\n0\n19\n11\n7:15 PM\n13\n21\n36\n12\n8\n15\n9\n17\n11\n0\n9\n13\n15\n9\n8:30 PM\n15\n12\n17\n12\n9\n11\n12\n12\n9\n11\n13\n0\n20\n13\n9:45 PM\n10\n10\n8\n9\n9\n10\n9\n8\n9\n0\n0\n0\n9\n0\nMaximize the total weekly attendance subject to the \nfollowing constraints:\n•\nMinimum attendance of 8 students per class\n•\nShare of specific classes has to cross respective \nminimum threshold values\nOptimization methodology:\n▪\nOptimized on R using GENetic Optimization Using \nDerivatives (GENOUD) which is an evolutionary \nsearch-based algorithm\n▪\nAlgorithm scheduled to run for 500 iterations; Each \niteration includes 1,000 different samples of 280 class \ntype combinations\n▪\nEach iteration would evolve based on the learnings \n(sample with maximum attendance) from the previous \niteration\nMultiple rooms \nwithin each \nlocation (R1/R2)\n•\nCount indicates estimated attendance\n•\nColor indicates class type (blank \nindicates no class scheduled)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (38).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181706+05'30'",
+            "modDate": "D:20241114181706+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nOptimal schedule suggests 61 unchanged classes, 38 classes with \ndifferent class types and 80 new classes\n4\nDistribution of changes to current schedule vs. optimal schedule, # of classes\n2\n61\n9\n15\n9\n14\n21\n12\n2\n11\n54\n18\n9\n25\n67\n26\n19\n28\n65\n38\n5\nClasses added in \nexisting slots \n(with new class \ntype)\nClasses \nunchanged\nClasses \nremoved \ncompletely\n3\nCurrent \nschedule\n7\nClasses \nremoved (due to \nclass type \nchange)\n38\n3\n7\n5\n104\n4\nOptimal \nschedule\nNew classes \nadded (in new \nslots)\n80\n4\nType A class\n179\nType B class\nType C class\nType D class\nOther\nILLUSTRATIVE\n"
+    }
+]

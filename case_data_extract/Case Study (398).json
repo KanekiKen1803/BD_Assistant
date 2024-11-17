@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLocation sales performance analysis\n1\nBuilt a comprehensive model to analyze demographic variables and site \ncharacteristics to identify key sales performance factors to lead the decisions for \nnew location openings and modifications to existing locations\nRestaurant chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the POS transactional data to identify the key performance metrics; Also analysed 21 demographic variables and 72 restaurant site characteristics.\n•\nIdentified the key demographic and site characteristics that would likely impact the restaurant performance using advanced algorithms such as Random \nForest and CART (Classification and Regression Tree).\n•\nSummarized the key actions that could be piloted by restaurant segment in order to improve the sales performance.\nSituation\n•\nClient wanted to understand the key factors that would impact the sales performance of the restaurants in order to scout for new locations and make \nchanges to existing locations.\n•\nPartnered with the client to build a comprehensive model to identify the key performance factors across different locations.\nLocation sales performance analysis for a restaurant chain\n2\nImpact\n•\nLeveraged insights to guide new location openings and modifications to existing locations (e.g., add to-go parking etc.) for higher sales performance.\nLocation sales performance \nanalysis\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExhibrandom forest algorithm - Methodology \n3\nTotal data set \nwith all \nfactors\nObjective: To identify the key determining factors using Random forest algorithm (n= 2,000)\nRandomly created 2,000 training \nsamples using combinations of data \npoints (restaurants) and variables \n(demographic and site characteristics)\nSample \n1,998\nSample 1\nSample 2\nSample 3\nSample \n1,999\nSample \n2,000\n3C\nP\n3C\nQ\n3DR\n3DS\n...\n...\n...\n...\n...\n...\n...\n...\n3\n3\nC\n3D\n2A\nX\n2A\nY\n2B\nX\n2B\nZ\n...\n...\n...\n...\n...\n...\n...\n...\n2\n2\nA\n2\nB\nGenerated a decision tree for each \nsample set (Sample 1, Sample 2, Sample \n3 etc.) based on variables (A,B,C,P,Q, X, \nY etc.) selected in a sample \nPlotted the frequency at which \neach factor (F1, F2 etc.) appears \non aggregate in the 2,000 decision \ntrees that RF algorithm generates\nFactors that appear with \nhigh frequency are used in \nCART analysis\nF7\nF4\nF2\nF6\nF5\nF3\nF1\nF10\nF9\nF\n8\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nRandom forest analysis suggest factors “a”, “b” and “c” impact revenue \nper 1,000 population\n4\n407\n404\n399\n387\n334\n330\n316\n296\n284\n278\n270\n267\n246\n231\n222\nFrequency1 of each demographic factor (Random forest algorithm), #\n1\nFrequency at which each demographic variable appeared as a determining factor when random forest algorithm plots 500 different \ndecision trees\nNot included in CART analysis\nNot picked up by CART \nalgorithm\nPicked up by CART algorithm\nTop-3 factors\nE\nP\nG\nF\nM\nL\nK\nA\nB\nC\nD\nH\nI\nJ\nN\nO\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nClassification and regression tree (cart) - Methodology \n5\nFactors \nconsidered for \nthe analysis:\n•\nA\n•\nB\n•\nC\n•\nD\n•\nE\n•\nF\n•\nG \n•\n…..\nInput criteria:\nMinimum size of \nparent node1: 6\nMinimum size of \nDaughter node2: \n2\nDetermined the factor with \nhighest level of significance \n: e.g., factor A\nTotal data \nset \nA1: Data set \nwith factor \nA as \nsplitting \ncriteria\nObjective: To determine the key drivers and extent of their impact on the dependent variable\nA2: Data set \nwith factor \nA as \nsplitting \ncriteria\nDetermined the factor with next \nhighest level of significance\nA1: e.g., >81\nA1-B1\nA1-B2\nA2-C1\nA2-C2\n...\n...\nCART Decision Tree\n...\n...\n...\n...\n...\nA2: e.g., <=81\n1\nMinimum size of data set required for further bifurcation to the next step\n2\nMinimum size of data set required for a daughter node to be created/ its parent node to be split \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCart analysis indicates that “b”, “c” and “e” impact revenue per \n1,000 population\n6\nB <= 36%\nH1 – 3\nM1 – 8\nL1 – 15\nB > 36%\nH1 – 14\nM1 – 8\nL1 – 1\nFactor B\nFactors C & E\nNumber of restaurants by performance1, #\nHigh perf1– 17\nMed. Perf1– 16\nLow perf1– 16\nAll restaurants\nC Score <81\nH1 – 0\nM1 – 1\nL1 – 10\nC Score >= 81\nH1 – 3\nM1 – 7\nL1 – 5\nE >= $548,000\nH1 – 0\nM1 – 3\nL1 – 1\nE < $548,000 \nH1 – 14\nM1 – 5\nL1 – 0\nMedium performance\nHigh performance\nLow Performance\n1 Restaurant are categorized as High, Medium and Low performance based on the percentile (top 33 as H, bottom 33 as L and the remaining \nas M) of dependent variable - revenue per 1,000 population. The number represents the count of restaurants. \nA\nB\nC\nD\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (398).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184003+05'30'",
+            "modDate": "D:20241114184003+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFinal restaurants categorization based on performance drivers\n7\n10\n0\n20\n25\n5\n15\n$K\nSegment C (Medium performance):  % Bachelors + education >0.36, Median Home Value >= $548,000\nSegment B (Medium performance):  % Bachelors+ education <=0.36, JI Score >= 81\nSegment A (Low performance):  % Bachelors+ education <= 0.36, JI Score < 81\nSegment D (High performance):  % Bachelors+ education >0.36, Median home value < $548,000\n‘Restaurant revenue per 1,000 population’ by restaurant and CART terminating nodes, $K\nRestaurant locations\n• Similar analysis (RF & CART) was done \non ‘site characteristics’ and accordingly, \nrestaurants were segmented\n• Key learning was that restaurants with \ngood patio visibility from primary road in \nareas with low-to-medium restaurant \ndensity are likely to have higher ‘revenue \n"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnterprise data warehouse implementation\n1\n• Designed and deployed an enterprise data warehouse in Azure Synapse. \n• Created corporate data models and developed reporting suite in Power BI.\nManufacturing Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for implementation of a comprehensive data management solution to integrate data from multiple ERP systems \nand set up a robust data and reporting infrastructure.\nManufacturing firm needs implementation of enterprise data \nwarehouse\n2\nYour value is enhanced. \nYou have data across the companies that is harmonized, cleaned and prepared to derive actionable insights for decision \nmaking. The previous manual efforts to create weekly and monthly booking/order reports were eliminated and are now \nupdated on a daily basis. You can track orders/bookings data for running daily operations and reliable AR/AP data closely. \nThe business operations gaps discovered during the development process helped the team initiate internal projects to \naddress such gaps.\nENTERPRISE DATA WAREHOUSE \nIMPLEMENTATION\nKEY RESULT   \n•\nEliminated manual \nefforts and business \noperations gaps\nVALUE LEVERS PULLED\n•\nAzure Synapse Data \nWarehouse \nimplementation\n•\nCorporate Data Models \n(CDMs) creation\n•\nData models creation \nusing fact and dim \ntables\n•\nExecutive level Power \nBI dashboards creation\n2\nYou turn to Accordion. \n•\nWe partner with your team to design and deploy an enterprise data warehouse in Azure Synapse and to create corporate data \nmodels and developed reporting suite in Power BI, including:\n1)\nDeveloping an enterprise data warehouse using Azure Synapse Analytics leveraging Azure Data Factory, Azure Data Lake and \ndedicated pool. \n2) Implementing dynamic pipelines with control table approach and created corporate data models (CDM) to house the data from \nmultiple ERPs.\n3) Analyzing ERPs’ order capturing mechanisms and created a standard reporting process for bookings and orders across the \ncompany.\n4) Collaborating with finance team to map GL accounts across the firm and create standard recognition and reporting process for \nrevenue, AR and AP.\n5) Developing executive level Power BI dashboards related to commercial, procurement and finance functions.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped an enterprise data warehouse using Azure Synapse Analytics leveraging Azure Data Factory, Azure Data Lake and dedicated pool. \n•\nImplemented dynamic pipelines with control table approach and created corporate data models (CDM) to house the data from multiple ERPs.\n•\nAnalyzed ERPs’ order capturing mechanisms and created a standard reporting process for bookings and orders across the company.\n•\nCollaborated with finance team to map GL accounts across the firm and create standard recognition and reporting process for revenue, AR and AP.\n•\nDeveloped executive level Power BI dashboards related to commercial, procurement and finance functions.\nSituation\n•\nThe client had multiple ERP systems in place driven by inorganic growth. In addition, there was a lack of transparency for commercial, procurement and \nfinance functions for the legacy entity and overall enterprise.\n•\nPartnered with the client to develop and implement a comprehensive data management solution to integrate data from multiple ERP systems and set up a \nrobust data and reporting infrastructure.\nEnterprise data warehouse implementation for a manufacturing \nfirm\n3\nImpact\n•\nData across the companies was harmonized, cleaned and prepared to derive actionable insights for decision making.\n•\nPrevious manual efforts to create weekly and monthly booking/order reports were eliminated and are now updated on a daily basis.\n•\nOrders/bookings data for running daily operations and reliable AR/AP data for closely tracking working capital were more easily tracked.\n•\nBusiness operations gaps discovered during the development process helped the team initiate internal projects to address such gaps.\nEnterprise Data Warehouse \nImplementation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management Architecture Design\n4\nData Sources\nData Storage & Processing\nData Visualization\nCloudSuite\nSynapse Analytics \n(Pipelines)\nIngest\nAzure Data Lake \nStorage\nStore\nSynapse Analytics \n(Dedicated SQL Pool)\nAzure Analysis \nServices\nModel and Serve\n1\nAzure Functions\nAzure \nLogic Apps\nAzure \nDevOps\n5\n(Formerly known as \nIQMS)\nExcel Reports\n2\n3\n4\nCollate and ingest data from data sources using Azure Synapse Analytics (Pipelines) and Azure Functions to Azure Data Lake Storage\nCleansed and transformed data can be combined with existing structured data, creating one hub for all the data with Azure Synapse Analytics\nBuild operational reports and analytical dashboards above dedicated SQL pool to derive insights, and use Azure Analysis Services to serve multiple users\n1\n2\n3\n4\n5\nAzure Functions - in absence of off-the-shelf connectors, Logic Apps – automated & scheduled workflows, DevOps – Code Repos, JIRA – Agile Project Mgt\nUsing the cleaned data, star or snowflake schema is designed and dim and fact tables are developed leading to data models with KPIs and Metrics\nPower BI \nDashboards\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Warehouse Design – Using CDM and Fact/Dim Tables\nControl Table \n(list of table names)\nAzure Synapse Studio \nBronze Zone\nSilver Zone\nStored Procedure \nto clean data\nAzure Data Lake\nData \nSource\nPolyBase\nGold Zone\nStaging Zone\n(Parquet files)\nDedicated SQL Pool\nData Warehouse\nStored Procedure \nto aggregate data\nDe-normalised\nCorporate Data Models\n(CDM)\nNormalised \nData tables\nInfor \nSyteline\nIQMS\nOrders\nAR/AP\nInventory\nGeneral \nLedger\nFact and Dimension \ntables\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (123).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124936+05'30'",
+            "modDate": "D:20241114124936+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Modeling & BI Reporting Suite\nData ingestion\nData cleaning \n         & \nCDM creation\nFact and Dim\nData models\n•\nConnected Azure Synapse to production servers' \ndatabases for both Infor Syteline and IQMS using \nself-hosted integration runtime on respective \nservers\n•\nOnly data tables required for business reporting are \ningested into the enterprise data warehouse\n•\nData is then cleaned, harmonized \nand prepared for reporting\n•\nKey data fields are identified \ncovering all the dimensions and \ndata cuts required, to be combined  \ninto a single table by functional \nrequirement called as Corporate \nData Models (CDMs)\n•\nCDMs are further broken down to logical \nseparation of data into fact and dim tables\n•\nAnalysis Services tabular data models are created by \ncreating relationships between fact and dim tables\n•\nData models are created based on Power BI \ndashboards, e.g., AR data model for AR dashboard\n•\nPower BI dashboards are created with \ndetailed raw data, trend pages and \nsummary pages to showcase the data \nfor deriving actionable insights\n•\nPower BI dashboards have live \nconnection to data models and are \nloaded within seconds\nPower BI \nDashboards\nPOWER BI \nREPORTING SUITE\n•\nAR/AP\n•\nBookings\n•\nOrders\n•\nRevenue\n•\nSpend\n6\n"
+    }
+]

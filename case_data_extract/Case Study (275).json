@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nContract Analytics leveraging Generative AI\n1\nDeveloped a Contract Analytics tool leveraging OpenAI GPT models to extract \nkey insights and clauses, offering an intuitive and user-friendly interface to query \ndirectly on the contractual repository. This substantially reduces the time and \neffort spent by legal professionals on contract scrutiny, enhancing efficiency and \noverall productivity\n(Multiple companies in Private Equity Firm Portfolio)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to develop a contract analytics tool by leveraging OpenAI GPT models, capable of analyzing contracts and \nenabling users to have interactive conversations based on the information present in the contracts. Currently, your portfolio  \ncompanies deal with a large variety of customer contracts and price variations and the sales, finance and legal teams spend \nsubstantial amount of time in reviewing and understanding key themes, risks and deriving insights from them.\nPrivate Equity first needs to build a OpenAI based contract \nanalytics tool\n2\nYour value is enhanced. \n•\nYou have a contract analytics tool resulting in potential savings of ~$10M by reducing time spent on manual data \ninterpretation, validation and scrutiny of complex clauses and strengthening data security with ring-fencing measures\n•\nYou have achieved ~95% accuracy for contract related queries, streamlining decision making by providing reliable revenue and \nchurn forecasting\n•\nYou have also safely harnessed the power of generative AI in the daily workflows without concerns of security and data privacy\nCONTRACT ANALYTICS LEVERAGING \nGENERATIVE AI\nKEY RESULT   \n•\n~$10M potential saving\n•\n~965% accuracy for \nqueries\nVALUE LEVERS PULLED\n•\nApp development\n•\nDocument chunking \noptimization\n•\nPrompt engineering\n•\nRetrieval Augmented \nGeneration\n•\nData Extraction using \nOCR techniques\n2\nYou turn to Accordion. \nWe partner with your team to develop a contract analytics tool leveraging OpenAI GPT models to extract key insights and \nclauses, offering an intuitive and user-friendly, including:\n1) Designing and developing an intuitive and user-friendly interface allowing direct queries on key insights and clauses on \n~1500 complex, multi-page contractual documents\n2) Implementing OCR functionality leveraging Azure Document intelligence ensuring high-precision data extraction from \nscanned contracts\n3) Deploying the platform securely on client’s Azure environment, with ring-fencing measures implemented to ensure data \nintegrity and confidentiality\n4) Enhancing response accuracy by optimizing context window, chunking size and Dynamic Top-K Tuning based RAG \nmethodology\n5) Implementing various features to engage users of the platform including searchable chat history, custom instructions, \nprompt guides, user feedback (like/dislike) and functionality to review response\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDesigned and developed an intuitive and user-friendly interface allowing direct queries on key insights and clauses on ~1500 complex, multi-page contractual \ndocuments\n•\nImplemented OCR functionality leveraging Azure Document intelligence ensuring high-precision data extraction from scanned contracts\n•\nDeployed the platform securely on client’s Azure environment, with ring-fencing measures implemented to ensure data integrity and confidentiality\n•\nEnhanced response accuracy by optimizing context window, chunking size and Dynamic Top-K Tuning based RAG methodology\n•\nImplemented various features to engage users of the platform including searchable chat history, custom instructions, prompt guides, user feedback (like/dislike) \nand functionality to review response\nSituation\n•\nClient’s portfolio companies deal with a large variety of customer contracts and price variations. The Sales, Finance and Legal teams spend substantial amount of \ntime in reviewing and understanding key themes, risks and deriving insights from the contracts\n•\nPartnered with the client to develop a contract analytics tool by leveraging OpenAI GPT models, capable of analyzing contracts and enabling users to have \ninteractive conversations based on the information present in the contracts.\nImplementing Generative AI chatbot for contract analytics \n3\nImpact\n•\nContract Analytics tool resulted in potential savings of ~$10M by reducing time spent on manual data interpretation, validation and scrutiny of complex \nclauses and strengthening data security with ring-fencing measures\n•\nAchieved ~95% accuracy for contract related queries, streamlining decision making by providing reliable revenue and churn forecasting\n•\nEnabled the organization to safely harness the power of generative AI in their daily workflows without concerns of security and data privacy\nCONTRACT ANALYTICS TOOL\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nInformation flow - Contract analytics solution \n4\nSales/Legal/ \nFinance Analyst\n1\nBrowser\n4\n3\nQuery Vector\nVector Documents\n5\n1\nLegal Analyst uploads contracts and send queries related to \ncontracts for information retrieval into the web browser\n2\nUploaded scanned contracts are sent to Azure AI Document \nIntelligence for text extraction\n4\nVectorized query is passed to Milvus DB for vector search and \nreturns relevant documents\n5\nVectorized query along with documents are then sent to Azure \nOpenAI for generating response\nUser Query\nQuery Embeddings\nUser Query + Vector Documents\nAI Generated Response\n6\n3\nApp Service\nQuery is sent to Azure OpenAI where they are vectorized based \non LLM embeddings\nSecure Azure \nOpenAI \nenvironment\nScanned \nContracts\nDigital \nContracts\nAzure AI \nDocument \nIntelligence\n2\n6\nAI generated response with the required information is returned \nto the user on the browser\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSample queries & AI generated response\nUSER ASKS QUESTION\nGEN-AI GENERATED RESPONSE\n• Does the renewal option for Company A specify that they \ncan reduce the number of units in subsequent subscription?\n✓Yes, the renewal option for Company A does specify that they can renew the subscription for any number of \nunits of the Licensor Software set forth in the Order Form for an additional annual Subscription Term.\n• Does the renewal option for Company A specify that they \ncan cut down on number of units from the current \nsubscription while renewing their subscription at the end of \nrenewal term?\n✓Yes, Company A  has the option to renew the subscription for any number of units of the Licensor Software set \nforth in the Order Form for an additional annual Subscription Term, regardless of the number of Named Users \ndeployed prior to the renewal.\n• What are the charges if Company B wants to renew their \nsubscription with additional number of units at the end of \nsubscription term?\n✓If Company B wants to renew their subscription with additional number of units at the end of the subscription \nterm, the annual Subscription Fee for each such renewal will be the result of multiplying (i) the Annual Renewal \nFee per Unit set forth in Exhibit A of this Order Form for the Licensor Software being renewed by (ii) the \ncorresponding Number of Units. The Annual Renewal Fee per Unit will increase by 2% per year over the prior \nyear’s Annual Renewal Fee per Unit regardless of the Number of Units renewed.\n• Does the renewal option for Company B specify that they \ncan cut down on number of units from the current \nsubscription while renewing their subscription at the end of \nrenewal term\n✓Yes, Company B  has the option to renew the subscription for any number of units of the Licensor Software set \nforth in the order form for up to 3 additional and consecutive annual Subscription Terms. If Veritas elects to \nrenew a number of units of Licensor Software less than the number of units of Licensor Software set forth in \nSection 1 of the order form, then the annual renewal Subscription fee will be reduced.\n• is there an automatic renewal of cloud services for \nCompany B ?\n✓No, there is no automatic renewal of cloud services for Company B . Following the end of the initial Term for the \nSubscription Software and Cloud Service, the Term will not renew unless renewed or extended by agreement in \nwriting between the parties. \n5\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nContract analytics : Comparison & research questions\nUser query\nContract\nAI response\nConfidence \nMetrics\n6\nILLUSTRATIVE\nChat session\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (275).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160303+05'30'",
+            "modDate": "D:20241114160303+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nContract analytics : Deep dive into clauses\nComparative \nquestion to \ncompare the \npenalty clauses for \n2 customers\nAI responded with \nthe comparison \nbetween the \ndowntime penalty \nclauses for \nCustomer A and \nCustomer B\n7\nILLUSTRATIVE\n"
+    }
+]

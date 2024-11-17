@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMarket intelligence analysis\n1\nAutomated process using UiPath to extract and compile a comprehensive list of \npet boarding companies including their varied details facilitating the data \nintegration into a new CRM system\nPet boarding company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou are planning to expand in the pet boarding space through acquisition and need a database of Pet boarding companies \nin the U.S. to make informed decisions for the business expansion. You are looking for an automated UiPath process to \nextract and compile a comprehensive list of pet boarding companies including their contact details and services offered, \nfacilitating seamless integration into the new CRM system.\nPet boarding company needs to \"un-leash\" a robust competitor \ndatabase \n2\nYour value is enhanced. \n•\nYou have an extensive database of ~26k pet boarding companies to  make informed acquisition decisions and improve the \nbrand presence\n•\nYou have also saved ~300 man-hours through overall automation of creating the database that would have otherwise been done \nmanually \nMARKET INTELLIGENCE ANALYSIS\nKEY RESULT   \n•\n~26k companies \ndatabase created\n•\n~300 man-hours saved \nthrough automation\nVALUE LEVERS PULLED\n•\nWeb scrapping \nautomation\n•\nData extraction and \ncleansing\n•\nUiPath automation\n2\nYou turn to Accordion. \nWe partner with your team to implement an automated process using UiPath to extract and compile a comprehensive list of \npet boarding companies along with  their varied details, including:\n1) Developing an automated UiPath processes to extract company related details for pet boarding companies across U.S. \nleveraging Google map URLs\n2) Performing market sizing exercise leveraging Yellow Pages to identify the unique pet boarding businesses in U.S.\n3) Creating a company level database with details such as # locations, google rating, # reviews, company category, \naddress, website and contact number\n4) Ensuring robust data coverage by targeting the optimal geographic levels (like city, ZIP Code etc.,) based on population \nchecks\n5) Building a validation layer involving de-duplication, sanity checks, missing records check etc. to ensure data integrity \nthroughout the extraction process\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped automated UiPath processes to extract company related details for pet boarding companies across U.S. leveraging Google map URLs\n•\nPerformed market sizing exercise leveraging Yellow Pages to identify the unique pet boarding businesses in U.S.\n•\nCreated a company level database with details such as # locations, google rating, # reviews, company category, address, website and contact number\n•\nEnsured robust data coverage by targeting the optimal geographic levels (like city, ZIP Code etc.,) based on population checks\n•\nBuilt a validation layer involving de-duplication, sanity checks, missing records check etc. to ensure data integrity through out the extraction process \nSituation\n•\nClient was planning to expand in the pet boarding space through acquisition and needed a database of Pet boarding companies in the U.S. to make \ninformed decisions for the business expansion\n•\nMerilytics developed an automated UiPath process to extract and compile a comprehensive list of pet boarding companies including their contact details \nand services offered, facilitating seamless integration into their new CRM system\nMarket intelligence for a pet boarding company \n3\nImpact\n•\nCreated an extensive database of ~26k pet boarding companies to help the client make informed acquisition decisions to improve their brand presence\n•\nOverall automation of creating the database has saved ~300 man-hours that would have otherwise been done manually \nMarket Intelligence Analysis\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach\n4\nProcess Flow Diagram\nContains the list of all \ncities, states in U.S.\n▪\nCreated an Excel file list of City-states \nin U.S. using U.S. census data\n▪\nZip codes were added to the cities \nwith population greater than to 500k \nto ensure maximum company \ncoverage\n▪\nThis list was used as an input file for \nthe UiPath process to extract the \nGoogle map URLs for Pet boarding \ncompanies\n▪\nDeveloped an UiPath automation \nprocess, to extract the URLs of all pet \nboarding companies from Google Maps \nfor all cities of U.S. to an Excel file\n▪\nUsed the same UiPath process to \npopulate another excel file to check if \nthe search for any input city failed. The \nfailed searches were run again in \nsecond run\n▪\nCreated the UiPath automation \nprocess, to extract the company details \nincluding avg. ratings, total reviews, \naddress, phone number, website etc. \nusing the URLs extracted in part - 1 and \nstored into an Excel file\n▪\nUsed the same UiPath process to \npopulate another excel file to check if \nthe search for any URL failed. The \nfailed searches were run again in \nsecond run\n▪\nThe final data was checked and \ncleaned thoroughly for any errors and \nduplications to create the final \ndatabase\n1. Created the UiPath input \nfile\n4. Checked and cleaned the output \nfile\n2. Extracted the company \nURLs using UiPath\n3. Extracted the company details \nusing UiPath\nUiPath process to \nextract  URLs for Pet \nboarding companies \nfrom Google maps\nPart-1 output \nfile with \ncompany  URLs\nFile capturing \nPass/Fail status of \nevery search for audit\nUiPath process \nto extract details \nfrom URLs\nPart-2 output file with \ncompany details after \ncleaning and checks\nFile capturing \nPass/Fail status of \nevery search for audit\nUI path input file \nwith City and State\nPart-1\nPart-2\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nUiPath extraction of pet boarding companies URLs (Process – 1) \n5\nUiPath Input\nUiPath Output\nIn Process-1 of the process we extracted the ~500k URLs for the pet boarding companies across US with population greater than 500k using UiPath. Since, google provided \nnearby search results which lead to duplicate URLs. we de-duplicated these URLs to get unique URLs which were used as inputs for Part-2 pertaining to extraction of \ncompany details using these URLs. This initial step cut the time for Process-2 by almost ~80%. \nZip code\nCity-State\nPopulation\nRegion\n60290\nChicago, IL\n8595191\nMidwest\n60291\nChicago, IL\n8595191\nMidwest\n60292\nChicago, IL\n8595191\nMidwest\n60293\nChicago, IL\n8595191\nMidwest\n60294\nChicago, IL\n8595191\nMidwest\n60295\nChicago, IL\n8595191\nMidwest\n60296\nChicago, IL\n8595191\nMidwest\n60297\nChicago, IL\n8595191\nMidwest\n60298\nChicago, IL\n8595191\nMidwest\n60299\nChicago, IL\n8595191\nMidwest\n60300\nChicago, IL\n8595191\nMidwest\n60301\nChicago, IL\n8595191\nMidwest\n60302\nChicago, IL\n8595191\nMidwest\n60303\nChicago, IL\n8595191\nMidwest\n60304\nChicago, IL\n8595191\nMidwest\n60305\nChicago, IL\n8595191\nMidwest\n60306\nChicago, IL\n8595191\nMidwest\n60307\nChicago, IL\n8595191\nMidwest\nMaps URL\nInput\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60290\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60291\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60292\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60293\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60294\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60295\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60296\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60297\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60298\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60299\nhttps://www.google.com/maps/place/The+County+Li\nne\nPet boarding facilities in Chicago, IL 60300\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (412).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114185930+05'30'",
+            "modDate": "D:20241114185930+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nIn Part-2 of the process we extracted the company details for ~26k companies by leveraging the Google map company URLs for the pet boarding companies extracted in \nProcess-1 which were then further cleaned in Excel and shared with client.\nCompany Name Avg. Rating\nNumber of \nRatings\nCompany category\nAddress\nCity-State\nWebsite\nContact Number\nCompany 1\n4.3\n37\nDog day care center\nW Wilshire Blvd, Oklahoma City, OK 73116, United States\nOklahoma City, OK 100203wags.com 123456778\nCompany 2\n4.3\n38\nPet Boarding\nW Wilshire Blvd, Oklahoma City, OK 73116, United States\nOklahoma City, OK 100203wags.com 123456778\nCompany 3\n4.3\n19\nPet groomer\nS 700 E, Sandy, UT 84092, United States\nSandy, UT\n100203wags.com 123456778\nCompany 4\n5\n1\nPet boarding service\nHobart, IN 46342\nobart, IN\n100203wags.com 123456778\nCompany 5\n4.4\n33\nDog trainer\nS Robertson Blvd, Los Angeles, CA 90034, United States\nLos Angeles, CA\n100203wags.com 123456778\nCompany 6\n5\n67\nPet boarding service\nChipmunk Trail, Grayling, MI 49738\nGrayling, MI\n100203wags.com 123456778\nCompany 7\n5\n2\nPet groomer\nBluff City Hwy, Bluff City, TN 37618\nBluff City, TN\n100203wags.com 123456778\nCompany 8\n4.8\n6\nKennel\nMarysville Rd, Ostrander, OH 43061\nOstrander, OH\n100203wags.com 123456778\nCompany 9\n4.1\n69\nPet boarding service\nJohnson Dr D, Pleasanton, CA 94588, United States\nPleasanton, CA\n100203wags.com 123456778\nCompany 10\n5\n40\nPet boarding service\nW Doak Rd, Manchester, TN 37355\nManchester, TN\n100203wags.com 123456778\nCompany 11\n4.4\n93\nPet groomer\nSouthside Blvd, Nampa, ID 83686, United States\nNampa, ID\n100203wags.com 123456778\nCompany 12\n4.4\n10\nDog day care center\nW Blaine St, Riverside, CA 92507, United States\nRiverside, CA\n100203wags.com 123456778\nCompany 13\n5\n5\nPet groomer\nStinson Dr, Jonesboro, LA 71251\nJonesboro, LA\n100203wags.com 123456778\nCompany 14\n4.7\n14\nPet boarding service\nWaterbury Rd, Prospect, CT 06712, United States\nProspect, CT\n100203wags.com 123456778\nCompany 15\n4.9\n362\nPet boarding service\nUS-64, El Prado, NM 87529, United States\nEl Prado, NM\n100203wags.com 123456778\nCompany 16\n5\n1\nDog day care center\nS Clark St Suite 300, Chicago, IL 60605\nChicago, IL\n100203wags.com 123456778\nCompany 17\n5\n20\nPet boarding service\nS Clark St Suite 300, Chicago, IL 60606\nChicago, IL\n100203wags.com 123456778\nCompany 18\n4.5\n25\nKennel\nMt Vernon Ave, Marion, OH 43302\nMarion, OH\n100203wags.com 123456778\nCompany 19\n4.5\n34\nDog trainer\nMt Vernon Ave, Marion, OH 43303\nMarion, OH\n100203wags.com 123456778\nCompany 20\n4\n19\nPet groomer\nMt Vernon Ave, Marion, OH 43304\nMarion, OH\n100203wags.com 123456778\nFinal Output\nILLUSTRATIVE\nUiPath extraction of pet boarding companies' details (Process – 2)\n"
+    }
+]

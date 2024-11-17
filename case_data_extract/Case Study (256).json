@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153859+05'30'",
+            "modDate": "D:20241114153859+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nIdentified and implemented appropriate changes to the client’s technology \nstack and data systems to simplify data flow and enable robust data \nmanagement and reporting capabilities \nRedesign & Implementation Of Technical Architecture \n(Premium Beauty & Wellness Brand)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153859+05'30'",
+            "modDate": "D:20241114153859+05'30'",
+            "trapped": ""
+        },
+        "content": "REDESIGN AND IMPLEMENTATION OF TECHNICAL ARCHITECTURE FOR PE-OWNED \nCOSMETICS COMPANY\n▪\nDeveloped a deep understanding of the client data systems - CRM, ERP and other in-house applications, and technical architecture, to audit the \noperational data flows \n▪\nConducted a comprehensive study of various data engineering tools in the market, presented a comparison matrix across several parameters \nincluding technical features, flexibility of use, scalability, source code version control and pricing \n▪\nDeveloped POC demonstration of top-3 tools to help client Technology team to make an informed decision \n▪\nDeployed the new technology stack for efficient data engineering in client environment \n▪\nDesigned and implemented final dashboard reports with the new architecture, and enhanced monitoring and tracking capabilities\nVALUE ADDITION\nABOUT THE CLIENT\nClient is a premium beauty & wellness brand in North America \nSITUATION\n▪\nClient operational functions involved multiple tools  and technologies, with convoluted workflows, leading to undue complexity and \ninefficiencies in data processing \n▪\nMerilytics partnered with the client to assess, identify and recommend appropriate technology stack to simplify the data flows and \ninfrastructure, and also enable more robust data management and reporting capabilities \nIMPACT\n▪\nEnabled client to move to a simpler technology stack, but with more reliable data flow and reporting infrastructure\n▪\nEnhanced monitoring capabilities and improved accuracy of reports, drove operational efficiency and improved decision-making process significantly\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153859+05'30'",
+            "modDate": "D:20241114153859+05'30'",
+            "trapped": ""
+        },
+        "content": "Feature\nBefore\nAfter\nTools and \nTechnologies\nMultiple tools were used for data management leading to a \ncomplex and unstable architecture\n• End-to-end ETL tool (Talend Data Management System) is \ndeployed, with ready to use connectors for multiple data sources, \ndestinations and supports various formats (CSV, XML, JSON, RDBMS \nand NoSQL databases) \n• Single application to connect, transform and load volumes of data\nEase of Use\nCode was written in Python/Java for the ETL process which \nwas time consuming and prone to errors\n• In-built capability of ETL job functions, which is workflow based \n(“drag and drop”) and less error prone \n• Workflow can be configured easily and scheduled to run at pre-\ndefined intervals\nSource Version \nControl\nETL job code was separately stored in a version control \nsystem and synchronization between the various \nenvironments (dev, pre-prod and prod) is managed manually\n• Ready configuration setting to any version control system\n• Synchronization between various environments is self-managed \nwithout any manual intervention\nCosts\nApart from the data sources, virtual machines had been \ndedicated to run Maxwell, Kafka (3 clusters) and Spark Jobs \non EMR cluster (3 clusters), leading to a cost of ~$50k per \nyear\nSingle high-end virtual machine replaced several hardware \ncomponents, thus reducing the cost by 50%\nMonitoring \ncapabilities\n• Monitoring of jobs was done on a separate application \n(Airflow) where all the ETL jobs were configured. \n• Tracking was made possible by pushing Slack notifications \nto the end users\nMonitoring and tracking capabilities were in-built into the ETL tool, \nand can interact with several notification applications including Slack\n3\nREDESIGN AND IMPLEMENTATION OF TECHNICAL ARCHITECTURE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153859+05'30'",
+            "modDate": "D:20241114153859+05'30'",
+            "trapped": ""
+        },
+        "content": "Technical Architecture (Before)\nEcommerce Application\nMaxwell\nKafka (3 instances)\nSpark Programs \non EMR Cluster\n(3 clusters)\nAWS Redshift Cluster\nERP\nAWS S3 \n(Simple\nStorage\nService)\nOrder Management System\nWarehouse Mgmt. System\nBI Tool\nETL Jobs\nETL Jobs\nETL Jobs\nEnd Users\nAd-hoc Data\nAirflow DAGs\n1\n2\n3\n• All ETL jobs were coded in \nPython/UNIX shell scripts and \nthey are managed in Airflow, a \ntool for describing, executing, \nand monitoring workflows\n• Due to the complex nature of \nETL jobs and usage of too many \ntechnology components, \nmonitoring and tracking  is time \nconsuming and error prone.\n• All transformation is done in \nRedshift cluster (configured for \ndense storage) using programs \nwritten in Redshift, which is \ninefficient and time consuming\n• The cost of maintaining the \ninfrastructure was high due to \ndedicated VMs, MapReduce and \nRedshift Clusters\n• Many users with Editor \nprivileges caused far too many \ndatasets and dashboards leading \nto ineffective monitoring & \ntracking of datasets\n2\n3\nData from Kafka (3 instances) flows to S3 bucket through Spark programs which run on EMR cluster (3 clusters)\nData from S3 is moved to Redshift cluster through COPY command\nAd-hoc data from Excel sheets are loaded and used in conjunction with existing datasets to create their own reports. Later, the combined datasets are \npublished and used by other users leading to several untraceable dashboard reports\n1\n4\nTECHNICAL ARCHITECTURE (BEFORE)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (256).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114153859+05'30'",
+            "modDate": "D:20241114153859+05'30'",
+            "trapped": ""
+        },
+        "content": "Technical Architecture (After)\nEcommerce Application\nAWS Redshift Cluster\nERP\nOrder Management System\nWarehouse Mgmt. System\nBI Tool\nEnd Users\nAd-hoc Data\nTalend Data Management Platform\nAWS S3\n1\n2\n• All ETL jobs were converted into \nworkflows in Talend using the “drag \nand drop” pre-defined objects, \nmaking it easier to visualize the jobs\n• All jobs could be viewed and \nmonitored in a single screen \n• Source code for all the jobs is \ngenerated automatically and can be \nconfigured to any version control \nsystem (GitHub, BitBucket etc.)\n• Provision to write and execute \nPython/Java code as part of the \nworkflows and supports complex \ntransformation of data\n• The TCO of new solution is much \nlower than existing infrastructure \n• Process changes ensured that all input \ndata is routed through the tool, \nensuring only approved datasets are \ncreated and users do not have editor \nprivileges\n1\n2\nEditor privileges for users was revoked and all input data was routed through Talend job\nData save in S3 and Redshift was created as parallel flow instead of sequential to reduce time for data loads\n5\nTECHNICAL ARCHITECTURE (AFTER)\n"
+    }
+]

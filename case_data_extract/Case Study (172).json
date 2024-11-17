@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135124+05'30'",
+            "modDate": "D:20241114135124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Warehouse and BI Implementation\n1\nBuilt robust and scalable Big Query based data warehouse by integrating source \nsystems across all business functions into a central data repository. Created an \nenterprise reporting suite on Looker and Power BI to track key performance \nmetrics across finance, sales, product, operations, and marketing\nHealth & Wellness Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135124+05'30'",
+            "modDate": "D:20241114135124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nConducted interviews with the business leaders to understand the requirements across functions such as Finance, Sales, Marketing, and Operations to \nunderstand and define key strategic performance metrics\n•\nBuilt pipelines on FiveTran to ingest data from multiple source systems (Shopify, Amazon, QuickBooks, Google Analytics, Blue Logistics etc.) to create a \nsingle centralized data repository on the BigQuery Data Warehouse\n•\nCreated user-friendly data marts for custom report building and created a single source of truth in the form of fact and dimension tables across functions \n•\nBuilt near real-time automated self-serve dashboards on Looker and Power BI to track the performance of near-term strategic initiatives and help inform \nbusiness decision-making\nSituation\n•\nClient had limited visibility into real-time business performance and relied on front-end reports provided by individual source systems. There was an \nopportunity in streamlining and automating the reporting to provide the executive leadership better transparency and insights into the business \nperformance.\n•\nPartnered with the client to build a robust and scalable BigQuery based data warehouse by integrating source systems across all business functions into a \ncentral data repository and created an enterprise reporting suite to track key performance metrics\nData warehouse and BI implementation for a health & \nwellness company\n2\nImpact\n•\nThe central automated repository with clean, sanitized, and transformed data helped in 80% reduction in person-hours needed for report preparation\n•\nHolistic dashboards provided better visibility into the business performance and flexibility to stakeholders to extract essential data as per requirements from \na central data repository\nDATA WAREHOUSE AND BI \nIMPLEMENTATION \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135124+05'30'",
+            "modDate": "D:20241114135124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExtract and Load\nData Sources\nCentralized Data Platform\nBusiness Intelligence\nData and BI architecture\n3\nSales\nFinanc\ne\nInventor\ny\nMarketing\nBudget and Marketing Files\nRaw Zone\nIngests raw data from source systems, to create \na golden copy and  maintain historical archives\nClean Zone + Aggregate Zone\nTransforms all NWB data assets into a single source of \ntruth\nData Publish \nModels\nDBT \nmodels\nDBT \nmodels\n▪Finance\n▪Operations\n▪Sales\n▪Marketing\n▪Customer\nReal-time Dashboards\nModels the data to support reporting and analytical \nrequirements \n▪S&OP Forecasting\n▪Budgeting \n▪Customer Behavior\n▪Attribution Modelling\n▪Pricing Analytics\n▪FP&A Analytics\n▪MBR/QBR\nAd-hoc Analytics\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (172).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114135124+05'30'",
+            "modDate": "D:20241114135124+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nFilter Panel\nMonthly Revenue Trends\nKey Performance \nMetrics\nDaily scorecard dashboard\n4\nILLUSTRATIVE\n"
+    }
+]

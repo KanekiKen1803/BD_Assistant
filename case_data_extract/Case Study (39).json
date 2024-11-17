@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182944+05'30'",
+            "modDate": "D:20241114182944+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPricing analysis\n1\nIdentified pricing related opportunities to maximize revenue and margins at the \nfranchise fitness clubs, based on competitor pricing trends, and price elasticity\nFitness company\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182944+05'30'",
+            "modDate": "D:20241114182944+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to analyze the competitor pricing landscape and price elasticities to identify potential opportunities to change the \nprices at a product and location level. Currently, pricing of the memberships at the franchise fitness clubs were highly varied and \nthere was an opportunity to explore pricing opportunities to maximize revenue and margins.\nFitness company needs comprehensive pricing analysis\n2\nYour value is enhanced. \nYou have identified pricing opportunities for membership dues at a club-level based on the competition, price elasticity and \ncurrent pricing. You have insights on benefits of ancillary services helped to devise strategies to further improve the share of \ncustomers opting for these services.\nPRICING ANALYTICS\nVALUE LEVERS PULLED\n•\nProduct price \narchitecture\n•\nPrice \nsensitivity/elasticity\n2\nYou turn to Accordion. \nWe partner with your team to identifiy pricing related opportunities to maximize revenue and margins at the franchise fitness clubs, \nbased on competitor pricing trends, and price elasticity, including:\n1) Analyzing the product-price architecture of the clubs to identify variability in pricing within network, including variability \nin tier pricing (across memberships), enrollment fee and ancillary services\n2) Estimating short-term and long-term price sensitivity/elasticity, by club and membership type, based on historical price \nchanges to understand the impact of these price changes on new customer acquisitions\n3) Analyzing impact of customer acquisition price segment on customer behavior and revenue metrics, such as tenure, \nLTV, churn etc. Additionally, analyzing the incremental benefit of ancillary services in terms of reduced churn and high \nLTV.\n4) Assessing the competitive market landscape by analyzing the price comparisons with key local and national competitors \nand integrated the learnings with the pricing analysis to identify relevant opportunities\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182944+05'30'",
+            "modDate": "D:20241114182944+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\nIdentify price \nchange \nevents\nRaw data\n• 283 clubs\n• 80 million rows \nof transaction \ndata\nClean data\n• 115 clubs\n• 45 million rows \nof transaction \ndata\nExcluded clubs opened in the last two \nyears as well as closed and elite clubs\nSelection of \nclubs that \nhad price \nchange \nevents in \nprevious \nyears and \nbefore\nCalculate price \nchange % for \neach event by \nmembership \ntype and club\nCalculate \nimpact in new \nmemberships \nfor each event \nby membership \ntype and club\n•Calculate event level \nsensitivity on new \nmemberships\n•Calculate average \nsensitivity for each \nlocation by taking \naverage across all \nevents at the club\nRevenue Impact of \nprice change\nSegment \nlocations by \nsensitivity and \nrevenue impact\nCalculation of Sensitivities and Aggregation\nIdentify \nprimary \nmembership \ntypes offered \nby each club\nDefine cut offs for \nsensitivity \nsegments\nNotes: 1. Avg. Price is calculated as Total Revenue / # Transactions for all the members starting their second month of membership\n             2 Sensitivity: % change of #new memberships per 1% increase in monthly dues (accounting for YoY growth in memberships)\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (39).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182944+05'30'",
+            "modDate": "D:20241114182944+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPricing opportunity identified at location-level based on \nprice sensitivity\n32%\n10%\n59%\nType 1\n63\n49%\n5%\n46%\n57\nType 2\n46%\n8%\n46%\nType 3\n13\nDistribution of price change events by sensitivity (3 \nmonths pre and post price change), % for each \nmembership type\nHighly Sensitive\nModerately Sensitive\nNot Sensitive\nClubs with potential price change opportunities for Membership Type 1:\nClub-level pricing \nopportunities \nidentified based on \nsensitivity to \nhistorical price \nchange events\nILLUSTRATIVE\n4\n"
+    }
+]

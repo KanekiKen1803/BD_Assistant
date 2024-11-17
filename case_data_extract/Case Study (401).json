@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nRedefined the pricing methodology to incorporate value-based pricing \nand built an end-to-end web-based pricing application to simplify \npricing process, improve efficiency and enhance transparency into the \npricing process\nPatient Engagement Solutions Company\n(Web-based Pricing Tool)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "PRICING APPLICATION FOR A PATIENT ENGAGEMENT SOLUTIONS COMPANY\nSITUATION\n▪Client was following a standard cost-based pricing approach which was very manual due to the dependency on multiple data sources and lack of \nvisibility into real-time inventory status and potential impact of footprint contracted, leading to significant revenue leakage\n▪Merilytics partnered with the client to re-define the pricing methodology and built a web-based pricing application to streamline the pricing \nprocess\n▪Analyzed the prescription data of partner Health Care Providers (HCPs) and categorized HCPs into deciles across each drug category based on \nspecialty (cardiology vs. oncology etc.) and prescription volume\n▪Devised a value-based pricing methodology that differentiated pricing across HCP prescription deciles and developed an intelligent pricing engine \nto identify the best-fit HCPs based on customer’s criteria and budget\n▪Streamlined pricing process and built an end-to-end web-based application that auto populates most data fields and generates the recommended \npricing options for the Corporate and Field Sales teams, thus, reducing the turn around time and improving the accuracy of the pricing options.\n▪Leveraged the Pricing tool as a key data source to identify contracted HCPs and provide an accurate view of available inventory\nVALUE ADDITION\nIMPACT\n▪Value-based pricing methodology has potentially improved the annual revenues by 5%\n▪Streamlining and automation of the Pricing process has reduced the time to create a pricing option by over 60%\n▪Deployment of Pricing application has led to new opportunities to improve operations such as real-time inventory tracking, blocking inventory \nbased on potential contracts, etc.\nABOUT THE CLIENT\nClient is a patient engagement solutions company based in the U.S which sells advertisement slots on devices in hospital locations \n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "▪Adlogic – to fetch the locations that are \ncurrently contracted\n▪Salesforce – to fetch historical pricing \ninformation of brands\n▪Symphony – to fetch prescription volumes \nacross all partner HCPs\n▪Historical ROI studies conducted by the \nclient\n▪Network forecast data across various \nprograms\n▪HCPs are categorized into deciles based on \ntheir historical prescribing power in each \ncategory\n▪Based on the category, target ROI & other \npricing inputs, price per HCP is determined \n▪Ability to apply premiums for HCPs with \nhigher prescription volume\n▪Identifies the best match of HCPs based on \npremiums, type of buy and other inputs\n▪Multiple options to select required Ad \nfootprint – by HCP list upload, by address or \nby coordinates\n▪Override capability for default Ad time & \nFrequency\n▪Auto-excludes competing brands in a \ncategory with a flexibility to the user to \ninclude\n▪Compare multiple pricing options across ~25 \nmetrics and export the best suited option to \nshare with the customer\nINTEGRATED MULTIPLE DATA SOURCES\nINCORPORATED VALUE-BASED PRICING \nMETHODOLOGY\nPROVIDED FLEXIBILITY TO ACCOMMODATE \nCUSTOM REQUESTS\nPRICING TOOL\nAPPROACH & METHODOLOGY FOR PRICING APPLICATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "4\nExpressJS\nREST API\nGateway\nLogin Service\nOther Services\nHTTPS\n<JSON>\nHTTPS\n<JSON>\nJSON Web \nToken\nEmail Service\nInput/output\nInput/output\nInput/output\nNodeJS \nPlatform\nAngular 9\nMiddleware\n1\n2\n3\nTECH STACK \nDETAILS:\nAngular 9.1.9\nMaterial 9.2.4\n1\n2\nNodeJS 8.5.5\nExpressJS 4.16.3\nNodemailer 4.6.8\nAuthorization: JWT with Cipher Text\nCryptography Algorithm: AES-257-cbc\n3\nSQL Server\nPRICING APPLICATION ARCHITECTURE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "A view of all the contracts \nthat were priced and their \nstatus\nAbility to filter the contracts \nacross various attributes to \neasily access the desired \ncontract\n5\nILLUSTRATIVE\nKEY FEATURES – CONTRACTS SUMMARY DASHBOARD\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "Tool connects with various \ndata sources such as \nSalesforce, Symphony, \nAdLogic etc. to identify the \navailable inventory across \ncontent types (programs) that \nmatch the customer criteria \n6\nILLUSTRATIVE\nKEY FEATURES – IDENTIFYING INVENTORY AS PER CUSTOMERS’ CRITERIA\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "Seamless \nnavigation across \nthe Configuring \noptions, viewing \nsummary of an \noption and \nComparing options \nmodules\nStreamlined & \nsimplified the \nprocess to price a \ncontract and \nprovided users \nwith exhaustive \npricing inputs\nQuick access to overall \ncontract value and key \nmetrics based on \nchanges in each step of \nthe process\nSmart engine to \nidentify best locations \nfor advertising based \non the budget and \nother user inputs \n(locations shown in \nsummary screen) \n7\nILLUSTRATIVE\nKEY FEATURES – CONFIGURE A PRICING OPTION\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "Seamless \nnavigation across \nvarious pricing \noptions\nApplication connects to \nvarious data sources to fetch \nthe historical price and ROI \ndetails that could be used as \na benchmark\nApplication estimates \nthe final price and \npotential ROI for the \ncontract\nHCPs are categorized \ninto deciles based on \ntheir performance and \ntool allows to charge \npremiums\n8\nILLUSTRATIVE\nKEY FEATURES – CREATE MULTIPLE PRICING OPTIONS\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "This section allows users \nto review key metrics of all \nthe pricing options\nSummary of all the key \nmetrics\nAbility to view and export \nthe list of locations for \nadvertising\n9\nILLUSTRATIVE\nKEY FEATURES – OPTION-WISE SUMMARY \n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (401).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114184601+05'30'",
+            "modDate": "D:20241114184601+05'30'",
+            "trapped": ""
+        },
+        "content": "Allows users to select \nsuitable options and \nexport the details for \nsharing with the client\nFlexibility to compare \noptions across more \nthan 25 metrics\nThis section allows users \nto compare pricing options \nacross key metrics\n10\nILLUSTRATIVE\nKEY FEATURES – COMPARE OPTIONS\n"
+    }
+]

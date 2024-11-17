@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDealer analytics\n1\nPartnered with the client to provide visibility into geographical distribution of the \ndealer base to identify potential opportunities for strategic relationship expansion. \nTracked visits by the sales team to help better manage relationship with preferred \ndealers with the help of an automated Power BI dashboard.\nAutomotive Accessories Manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt automated data pipelines to ingest, integrate, and transform the dealer data from CRM tool (Salesforce) into a central data repository. Additionally, \nautomated the process to assign the sales territory and dealer tier for the dealer accounts within Salesforce using reverse ETL process\n•\nAnalyzed geographical & brand distribution of dealer base, to help identify white spaces in terms of distribution coverage and potential expansion \nopportunities.\n•\nThe automated Power BI dashboard provided flexibility to track dealer visits in multiple geographies by various brand sales team representatives during \nvaried time periods and identify dealers at risk due to non-visit. \nSituation\n•\nClient had limited visibility into overall dealer base, and sales team visit-related metrics given the limitations of reporting in the CRM tool (Salesforce). \nThere was an opportunity to provide near real-time visibility into the existing dealer base and identify potential risks in the existing dealer relationships.\n•\nPartnered with the client to provide visibility into geographical distribution of the dealer base to identify potential opportunities for strategic relationship \nexpansion. Additionally, tracked visits by the sales team to help better manage relationship with preferred dealers with the help of an automated Power BI \ndashboard.\nDealer analytics for automotive accessories manufacturer \n2\nImpact\n•\nEnabled the client to have visibility into geographical distribution of the existing dealer base to identify potential opportunities for market expansion ($32M of \nthe total market size in a year) in 11 states \n•\nHelped identify areas where dealers were underserved and faced challenges, such as lack of support. The client was able to prioritize its resources and \nallocate sales team visits to address specific dealer needs\n•\nAutomation of assigning the sales territory and dealer tier eliminated 20 hours per month of manual effort and also enabled accurate auto-upgradation of \ndealer status as the relationship matures over time\nDEALER ANALYTICS\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData architecture\n3\n1\n2\n1\nCollate and ingest data from multiple sources using custom built Python script to a central data repository\nData Sources\nData Storage & Processing\nData Visualization\nModel & Storage\nInject\nCentral data repository\nSQL Server Database\nSQL Server Analysis Services \n3\nBuild analytical data models by leveraging Analysis Services (SSAS) to aggregate production data and calculate KPIs\n4\n1\nPython \nScripts\n3\n4\nDesign and implement Dealer Analytics Power BI dashboards to automate analysis and reporting\n2\n2\nLeverage Salesforce API through custom python code to reverse ETL dealer categories to Salesforce platform\nSalesforce API - \nPython Scripts\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nGeographical distribution dashboard\n4\nTrend of active \ndealers by \nperiod\nGeographical \ndistribution of \nexisting \ndealers \nYear 1\nYear 2\nYear 3\nYear 4\nYear 5\nYear 6\nYear 7\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBrand - wise distribution dashboard\n5\nBrand-wise \ndistributions of \nexisting \ndealers and \ntheir \ncategorization\nBrand wise \nstandard and \npreferred \ndealers\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (214).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114144515+05'30'",
+            "modDate": "D:20241114144515+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nVisit summary dashboard\n6\nVisit summary \nfor the brands \nand dealership \ntype \nVisit summary \nfor dealer \ncategories\nILLUSTRATIVE\n"
+    }
+]

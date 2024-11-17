@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\n1\nMinimum Baseline Demand Forecasting and Dispatch \nPlanning\n(Less-than-Truckload (LTL) Provider)\nEstimated the lane-wise baseline demand and provided a forward-looking dispatch \nplan to procure and pre-allocate transportation resources at lower cost and effort\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nDemand Forecasting and Dispatch Planning for a Less-than-truckload (LTL) provider\n2\nSITUATION\nVALUE ADDED\nIMPACT\n▪Client did not have visibility into their recurring \ndemand and were procuring all the necessary \ntransportation resources on an ad-hoc basis and at \nshort notice leading to relatively higher costs and \nsignificant man-hour investment from the planning \nteam.\n▪Partnered with the client to analyze the demand \npatterns for each lane and build a demand \nplanning tool which provided the forward-looking \nbaseline demand at each lane that can be planned \nfor in advance. \nINPUTS\n▪Analyzed the historical lane-day level dispatch \nvolumes and benchmarked the lanes based on their \nvolatility (very low to very high).  Calculated a \ncustom percentile for each volatility bucket across \neach day of the week based on the allowed over-\nforecast limit for the bucket. Captured the \nseasonality (weekly, yearly) of demand in each \nlane and arrived at the baseline demand for each \nlane-day.\n▪Built a time-series model to forecast the minimum \nbaseline demand for each lane based on the \nhistorical dispatch volumes.\n▪Integrated the option to view grouped or individual \nlanes based on a destination grouping provided by \nthe client. This yielded improved forecasts for \ngrouped lanes where individual lanes did not have \nsufficient dispatch activity for reliable planning.\n▪Developed and delivered a dispatch planning \nmodel using the time series forecast when the \nvolatility method predicted zero demand\nPROCESSING\n▪The dispatch planning tool enabled the client to \nidentify and plan for the baseline demand across \nlanes, at a potentially lower cost.\n▪The tool covers ~55% of the total dispatch volume \nand could potentially reduce their shipping costs by \nup to ~10%, in addition to the planning man-hours \nsaved.\n▪The client’s execution team could focus their efforts \non the procurement of additional transportation \nassets required for the day in lanes with higher \nvariability.\n▪The client was also able to identify terminals with \nsub-optimal performance in dispatch KPIs and take \nmeasures to improve operational efficiencies and \noptimize costs.\nOUTPUTS\nABOUT THE CLIENT: Client is a US based transportation and logistics solutions provider operating primarily in less-than-truckload (LTL) services.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nObjective\n▪Generate minimum baseline demand for each lane from the \nhistorical daily dispatch volumes using pattern recognition of \nrecurring consistent demand\nApproach\n▪Categorized the lanes into different volatility buckets (Very \nLow to Very High) based on variance in demand for each \nday of the week\n▪Identified threshold for minimum baseline demand by \nensuring that the over-forecast (OF) days1 for the lane-day \ncombination is within the limit f the volatility bucket\n▪Ran multiple limit OF days scenarios by excluding outliers to \ndetermine optimum combination of coverage2 and OF days\n▪Included seasonality (weekly, yearly) of demand as part of \nthe prediction\n▪Summarized the recurring baseline demand for each lane, \nby day of the week\nRecurring demand by lane, based on threshold identified\nLane\nMon\nTue\nWed\nThu\nFri\nSat\nSun\nLane 1\n1\n4\n2\n4\n3\n2\n0\nLane 2\n2\n2\n2\n2\n1\n0\n0\nLane 3\n1\n2\n2\n1\n2\n1\n0\nLane 4\n0\n2\n2\n1\n1\n0\n0\nLane 5\n2\n1\n1\n1\n2\n0\n0\nLane 6\n2\n2\n2\n2\n2\n0\n0\n……………..\nModel config3\nCoverage\nOverforecast volume\nOverforecast days\nConfig 1\n42.7%\n3.1%\n1.8%\nConfig 2\n45.4%\n3.6%\n2.2%\nConfig 3\n48.0%\n4.3%\n2.8%\nConfig 4\n45.9%\n3.7%\n2.3%\nConfig 5\n44.2%\n3.4%\n2.0%\nForecasting Using Historical Recurring Demand\nILLUSTRATIVE\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nForecasting Using Historical Recurring Demand: Methodology\n4\n• Analyze the trip patterns for each lane and \nday of the week, to identify the volatility in \ndemand across the each lane-day\n• Assessed the patterns for ~1.5 years data\n• Ran scenarios for allowed over-forecast \ndays by excluding outliers to determine min \nbaseline demand\n• Assessed manifest level data consisting of \norigin, destination, revenue, cost, PROs, \ndispatch ready time, dispatch time\n• Assessed PRO level data consisting of pick-\nup, drop-off, trip #, revenue\n• Merged the data sets to separate trips with \nmultiple stops into individual legs with \nmutually exhaustive set of PROs\n>\n>\n>\nDATA \nPROCUREMENT \nAND  CLEAN-UP\nDATA \nAGGREGATION\nTREND \nANALYSES\nBASELINE \nDEMAND \nRecurring demand by lane\nLane\nMon\nTue\nWed\nThu\nFri\nSat\nSun\nLane 1\n1\n4\n2\n4\n3\n2\n0\nLane 2\n2\n2\n2\n2\n1\n0\n0\nLane 3\n1\n2\n2\n1\n2\n1\n0\nLane 4\n0\n2\n2\n1\n1\n0\n0\nLane 5\n2\n1\n1\n1\n2\n0\n0\nLane 6\n2\n2\n2\n2\n2\n0\n0\n……………..\n• Aggregate the data by unique \nlane and ‘shipment ready \ndate’ to determine demand \ntime series for each lane\n• Create summary of recurring \ndemand at each lane, by \neach day\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nForecasting Daily Demand Using Time Series Models\n5\nILLUSTRATIVE\n•\nGenerate minimum baseline demand from the historical \ndaily dispatch volumes using time-series forecasting\nApproach\n•\nConsidered data for the same time window as pattern \nrecognition method, adding a calendar as an external \nregressor\n•\nIdentified time-series models suitable for the data e.g., \nSARIMAX, TBATS, FBProphet\n•\nCalculated the lane-wise lower bound of confidence \nintervals based on the acceptable over-forecast threshold \nfor the test dataset for the best model for each lane\n•\nForecasted the expected baseline demand for each lane for \nthe next two weeks\n•\nMerged results from the time-series forecast with the results \nfrom the pattern recognition method, giving priority to the \nlatter\nObjective\nForecasted minimum number of legs\nDate\nMin. # of legs\n01-Oct\n2\n02-Oct\n2\n03-Oct\n0\n04-Oct\n0\n05-Oct\n0\n06-Oct\n2\n07-Oct\n1\n08-Oct\n2\n09-Oct\n2\n10-Oct\n0\n11-Oct\n0\n12-Oct\n0\n13-Oct\n2\n14-Oct\n1\n15-Oct\n2\n0\n2\n4\n6\n8\n10\n12\n01-May\n01-Jun\n01-Jul\n01-Aug\n01-Sep\n01-Oct\nNumber of legs by day (May '20 - Oct '20)\nUpper\nLower\nTrip\nPredicted\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (338).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172320+05'30'",
+            "modDate": "D:20241114172320+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2023 Accordion / CONFIDENTIAL\nForecasting Daily Demand Using Time Series Models: Methodology\n6\nILLUSTRATIVE\n>\n>\nMODEL \nTRAINING\nAND \nEVALUATION\nFORECAST \nLANE WISE \nDEMAND\nLANE WISE \nBASELINE \nDEMAND\nDATA \nPREPROCESSING \nAND EXPLORATION\n>\n>\n• Clean up data by removing outliers, \nduplicates etc.\n• Identify daily demand for each lane\n• Check for patterns such as seasonality, \ntrends etc. in the lane data for the selected \nlanes\n• Identify time-series model suitable for the data \ne.g., SARIMAX, TBATS, FBProphet\n• Split the data into train and test and evaluate \nmodel performance using metrics like MAE, R-\nsquared\n• Select the best model for the data\n• Identify the lower and upper bound \nconfidence intervals based on acceptable \nover-forecast threshold for the best model for \neach lane\n• Estimate minimum demand using the lower \nbound\n• Create forecast using the optimal lower \nbound for each lane\n• Merge results from forecast with results \nfrom recurring demand analysis\n0\n2\n4\n6\n8\n10\n12\n1-May\n8-May\n15-May\n22-May\n29-May\n5-Jun\n12-Jun\n19-Jun\n26-Jun\n3-Jul\n10-Jul\n17-Jul\n24-Jul\n31-Jul\n7-Aug\n14-Aug\n21-Aug\n28-Aug\nLane 1 Time series forecast using Time Series Models – 0% over-forecast days\nLower bound\nUpper bound\nActual trips\nPredicted trips\n"
+    }
+]

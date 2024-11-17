@@ -77,10 +77,10 @@ def case_summary(document, api_key):
     prompt_template = """
     Analyze the following case study and extract structured insights for similarity search:
     1. Company Profile: Extract the company's name and summarize key details (e.g., industry, scale, market segment, key technologies used in the project).
-    2. Pain Points: Identify and list the challenges or issues the company faced. Include both explicit and inferred points separately.
+    2. Pain Points: Identify and list the challenges or issues the company faced. Include both explicit and inferred points separately. This should be in detail as context would be drawn.
     3. Relevant Domains: Specify the functional areas or domains that these challenges belong to (e.g., Data Analytics, Operational Efficiency, etc.).
     4. Broad Solutions: Provide broad details on how this specific company’s challenges were addressed in this case.
-    5. Specific Solutions: Mention specific details on how the problem was solved for this company.
+    5. Specific Solutions: Mention specific details on how the problem was solved for this company in detail,  fetch as much information as possible from the case study.
 
     Case Study: {case_study}
 
@@ -101,50 +101,121 @@ def case_summary(document, api_key):
     return response, llm_document
 
 
-
-
-
-# Function to process documents and build the FAISS vector store
-def process_documents_with_rate_limiting(documents, embedding, api_key, vector_store_path, delay=1):
-    total_documents = len(documents)  # Total number of documents
+def process_documents_with_rate_limiting(documents, embedding, api_key, vector_store_path, batch_size=10, delay=1):
+    """
+    Process documents with rate limiting, creating individual vector stores and merging them at the end.
+    
+    Args:
+        documents: List of documents to process
+        embedding: Embedding model to use
+        api_key: API key for the summarization service
+        vector_store_path: Path to save the final vector store
+        batch_size: Number of documents to process before creating an intermediate vector store
+        delay: Delay between processing each document (in seconds)
+    """
+    total_documents = len(documents)
     print(f"Total documents to process: {total_documents}")
     
-    combined_documents = []  # List to store all processed documents
-
+    vector_stores = []  # List to store individual vector stores
+    current_batch = []  # Current batch of processed documents
+    batch_counter = 1
+    
     for i in range(total_documents):
         doc = documents[i]
         
         try:
-            # Generate summary for the document using the case_summary function
+            # Generate summary for the document
             summary, doc = case_summary(doc, api_key)
             
-            # Create a new Document object to store both summary and original content
+            # Create a new Document object
             combined_document = Document(
                 page_content=summary,
-                metadata=doc.metadata  # Store original document content
+                metadata=doc.metadata
             )
             
-            # Append to the list of documents
-            combined_documents.append(combined_document)
+            # Add to current batch
+            current_batch.append(combined_document)
             
-            # Print progress update
+            # Print progress
             print(f"Processed document {i + 1}/{total_documents}")
             print(summary)
+            
+            # Create intermediate vector store when batch is full or at the end
+            if len(current_batch) >= batch_size or i == total_documents - 1:
+                if current_batch:  # Check if batch is not empty
+                    print(f"Creating vector store for batch {batch_counter}...")
+                    batch_db = FAISS.from_documents(current_batch, embedding)
+                    vector_stores.append(batch_db)
+                    current_batch = []  # Reset batch
+                    batch_counter += 1
         
         except Exception as e:
             print(f"Error processing document {i + 1}: {e}")
         
-        # Wait for the specified delay before processing the next document
+        # Rate limiting delay
         time.sleep(delay)
     
-    # Create the FAISS vector store using all accumulated documents
-    print("Creating and saving the FAISS vector store...")
-    db = FAISS.from_documents(combined_documents, embedding)
-    db.save_local(vector_store_path)
-    print("FAISS vector store saved successfully.")
+    # Merge all vector stores
+    print("Merging all vector stores...")
+    if vector_stores:
+        final_db = vector_stores[0]
+        for db in vector_stores[1:]:
+            final_db.merge_from(db)
+        
+        # Save the final merged vector store
+        print("Saving the merged FAISS vector store...")
+        final_db.save_local(vector_store_path)
+        print("FAISS vector store saved successfully.")
+    else:
+        print("No documents were successfully processed.")
+
+    return final_db
+
+
+# Function to process documents and build the FAISS vector store
+# def process_documents_with_rate_limiting(documents, embedding, api_key, vector_store_path, delay=1):
+#     total_documents = len(documents)  # Total number of documents
+#     print(f"Total documents to process: {total_documents}")
+    
+#     combined_documents = []  # List to store all processed documents
+
+#     for i in range(total_documents):
+#         doc = documents[i]
+        
+#         try:
+#             # Generate summary for the document using the case_summary function
+#             summary, doc = case_summary(doc, api_key)
+            
+#             # Create a new Document object to store both summary and original content
+#             combined_document = Document(
+#                 page_content=summary,
+#                 metadata=doc.metadata  # Store original document content
+#             )
+            
+#             # Append to the list of documents
+#             combined_documents.append(combined_document)
+            
+#             # Print progress update
+#             print(f"Processed document {i + 1}/{total_documents}")
+#             print(summary)
+        
+#         except Exception as e:
+#             print(f"Error processing document {i + 1}: {e}")
+        
+#         # Wait for the specified delay before processing the next document
+#         time.sleep(delay)
+    
+#     # Create the FAISS vector store using all accumulated documents
+#     print("Creating and saving the FAISS vector store...")
+#     db = FAISS.from_documents(combined_documents, embedding)
+#     db.save_local(vector_store_path)
+#     print("FAISS vector store saved successfully.")
 
 def read_json_files(folder_path):
     documents = []
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)  # Create the folder if it does not exist
+
     for file in os.listdir(folder_path):
         if file.endswith('.json'):
             file_path = os.path.join(folder_path, file)
@@ -206,7 +277,7 @@ def data_extraction_pipeline(config, paths):
     documents = read_json_files(paths["json_folder_path"])
 
     embedding = OpenAIEmbeddings(api_key=config["OPENAI_API_KEY"])
-    process_documents_with_rate_limiting(documents, embedding, api_key=config["OPENAI_API_KEY"])
+    process_documents_with_rate_limiting(documents, embedding, api_key=config["OPENAI_API_KEY"], vector_store_path=paths["vector_store_path"])
    
 
 def case_search(prompt, vector_store_path,config,top_n = 5):

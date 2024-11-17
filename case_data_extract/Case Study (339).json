@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172424+05'30'",
+            "modDate": "D:20241114172424+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nWage Analytics\n1\nAnalyzed client and market wages, recommended adjustments to improve \nconsistency in wages and ensure competitive wages\nEye Care Provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172424+05'30'",
+            "modDate": "D:20241114172424+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nGathered and consolidated market wages for non-clinical roles in healthcare and related industries from multiple publicly available sources\n•\nAnalyzed clinic level wages based on multiple factors such as job role, employee tenure, brand and market (DMA, state etc.)\n•\nIdentified multiple job roles with high variability in wages, less than 30% of hourly wages fall in Median ± $2 range\n•\nIdentified multiple segments (job role, tenure and market) where client’s median wage is ~20% lower than market median\nSituation\n•\nClient lacked visibility into the wage distribution for non-clinical roles and DMA (Designated Market Area) standards due to lack of data \nconsistency between their brands and limited access to market data\n•\nPartnered with the client to analyze client and market wages, and recommended wage adjustments to improve consistency in wages and \nensure competitive wages\n2\nImpact\n•\nProposed wage adjustments positioned the client in the 70th percentile of the market wages\n•\nAnalysis facilitated a data-driven dialogue between the client’s Talent Development team and brand/regional level stakeholders to investigate \nthe inconsistencies in wages for identified roles\nWage Analyses for an Eye Care Provider\nWage Analytics\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172424+05'30'",
+            "modDate": "D:20241114172424+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology & Approach\n3\nMarket data sources \nClient’s Wage \ndata\nAutomated/Manual\nData Extraction\nData Cleansing\nand Consolidation\nWage Analysis Model\nKey Findings\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172424+05'30'",
+            "modDate": "D:20241114172424+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSample Output: Wage Distribution by Role\n4\nSlicers are provided to \ndeep dive into brands, \nregions and clinics\nProvides visibility into \nwage consistency for \nspecific selection of \nslicers\nFlexibility to view details \nof outliers and facilitate \nfurther investigate\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (339).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114172424+05'30'",
+            "modDate": "D:20241114172424+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSample Output: Client Vs. Market Wage Comparison\n5\nSlicers are provided \nto deep dive into \nregions, clinics and \ntenure.\nWages were compared \nat multiple levels such \nas brand-role and \nmarket-role.\nILLUSTRATIVE\n"
+    }
+]

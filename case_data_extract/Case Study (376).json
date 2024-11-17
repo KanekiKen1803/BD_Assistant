@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181236+05'30'",
+            "modDate": "D:20241114181236+05'30'",
+            "trapped": ""
+        },
+        "content": "HEADCOUNT COST MODELLING FOR A HEALTHCARE PROVIDER \nSITUATION\n▪Client had limited visibility into how the high attrition and hiring of their clinicians and technicians was impacting productivity, revenue and costs. They \nalso wanted to gauge the impact of their hiring plan on site-wise contribution margin.\n▪Merilytics partnered with the client to forecast the future profitability of each facility for various scenarios of headcount growth based on historical data\n▪Developed an automated model that uses the current month actuals and historical trends of employee headcount, payroll data, training ramp up \ninformation and employee productivity to predict major P&L line items like site contribution margin, revenue and costs for the coming three months\n▪Further broke down the change in employee headcount into changes in worked hours, scheduled/planned hours, billed hours, cancelled (patient therapy) \nhours and new employee training hours on a monthly basis, which resulted in granular visibility into headcount utilization and its impact on profitability\n▪Performed a sensitivity analysis to gauge the impact of various levels of hiring and attrition rate combinations on site contribution margin\nVALUE ADDITION\nIMPACT\n▪Forecasting tool aided the management in making critical decisions regarding hiring trend and headcount growth of the organization\n▪Granular forecasts enabled the Management to identify the key sources of variances during their Monthly Operating Reviews\n▪The sensitivity analysis helped the client to understand the relationship between key growth drivers and P&L items such as costs, revenue and site \ncontribution\nABOUT THE CLIENT\nClient is a U.S.-based healthcare provider that offers Applied Behavior Analysis (ABA) therapy and related critical services to autistic children, adolescents, teens, and adults.\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181236+05'30'",
+            "modDate": "D:20241114181236+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n2\n▪Collected historical data from various \ndatabases (Central Reach, Paycom) which act \nas inputs to the forecasting model.\n▪Inputs included key operational metrics such \nas headcount, hiring, attrition, bookings, \ncancellations, billings.\n▪Created an automated data manipulation \nworkbook to enhance the quality of data.\n▪Sliced the data by various dimensions like \ntenure and region to increase the accuracy of \nforecast. \n▪Added features like indexation and scaling to \nnormalize inputs further improving the \nrobustness of the model.\n▪Created an automated forecasting model to \nprecisely predict the major P&L line items.\n▪Added an actuals vs forecast variance \nanalysis to compare monthly forecasts with \nactuals. \n▪Developed a sensitivity analysis to \nunderstand relationship between \nretention/attrition and site contribution.\nData Collection\nData Manipulation & Enhancement\nData Modelling\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181236+05'30'",
+            "modDate": "D:20241114181236+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – FORECASTING TOOL\nILLUSTRATIVE\n3\nNormalized inputs derived from \nprior month’s actuals and \nhistorical data used to forecast \n3 months forecast of major P&L \nline items such as revenue, cost \nof service and site contribution\nTab for one of the regions of \nservice\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181236+05'30'",
+            "modDate": "D:20241114181236+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 - ACTUAL VS FORECAST (AVF) VARIANCE ANALYSIS\nILLUSTRATIVE\n4\nComparison of forecasted key \nmetrics to actuals fetched from \nMOR for all regions\nComparison of forecasted key \nmetrics to actuals fetched from \nMOR for one region of service\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (376).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114181236+05'30'",
+            "modDate": "D:20241114181236+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 - SENSITIVITY ANALYSIS\nILLUSTRATIVE\n5\nSensitivity of site contribution in terms of $ value and as \na share of net revenue to attrition and hiring one and \nthree months forward\n"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123809+05'30'",
+            "modDate": "D:20241114123809+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nNETWORK AND TRAVEL ROUTE OPTIMIZATION\nCONSUMER SERVICES \nBuilt a networking and travel optimization model for \ndeveloping an efficient travel schedule for regional directors \nand identified an ideal home location for each region in \norder to help regional directors effectively commute to all \nthe assigned centres\n‘K-medoid’ clustering algorithm, \nTravelling Salesman Problem \nalgorithm , Travel time matrix\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123809+05'30'",
+            "modDate": "D:20241114123809+05'30'",
+            "trapped": ""
+        },
+        "content": "NETWORK AND TRAVEL ROUTE OPTIMIZATION FOR CONSUMER SERVICES COMPANY \nABOUT THE CLIENT\nClient is a Cosmetic Medical Services firm with more than 100 centers in the USA\nSITUATION\n▪\nThe treatment centers had to be allocated regions based on geographical factors, and  the regional directors would have to travel to the centers \nassigned to their region\n▪\nMerilytics partnered with the company to develop a complex networking and travel optimization model to develop a robust travel schedule for \nthe regional directors\n▪\nSegmented the 110 centers into 10 regions based on point-to-point distance between center locations using a ‘K-medoid’ clustering algorithm\n▪\nIdentified a home center that minimizes distance between locations (within a region) and home center\n▪\nDeveloped a robust travel schedule for the regional directors using the ‘Travelling Salesman Problem’ algorithm by building a “Travel time \nmatrix” based on drive time/flight time between any two locations and subject to multiple business constraints\nVALUE ADDITION\nIMPACT\n▪\nOur optimization model helped the client to create an efficient network of treatments centers classified in to regions with defined home \ncenters for each region\n▪\nDeveloped an efficient travel schedule for regional directors to enable them to effectively commute to all the centers assigned to their region \nunder various geographic and demographic constraints\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123809+05'30'",
+            "modDate": "D:20241114123809+05'30'",
+            "trapped": ""
+        },
+        "content": "The 110 treatment centers are \ncategorized into 10 regions \nwith each region having a \nhome center assigned \nILLUSTRATIVE\nNETWORK OF TREATMENT CENTERS SEGMENTED IN TO REGIONS\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (114).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114123809+05'30'",
+            "modDate": "D:20241114123809+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE REGION - 02\nT1\nT2\nT3\nT4\nT5\nT6\nT7\nT8\nT9\nT10\nT11\nConstraints/Assumptions:\n▪\nIf drive time between two locations is more than \n240 mins., then the mode of travel is assumed to \nbe ‘flight’\n▪\nBuffer time of two hours has been included for \neach flight journey\n▪\nThe travel time from the center to the nearest \nairport has also been included in flight time\nOptimal travel route for a regional \ndirector within the region was \ndetermined analogous to Travelling \nSalesman Problem\nTRAVEL ROUTE OPTIMIZATION WITHIN A REGION FOR THE REGIONAL MANAGER\n4\n"
+    }
+]

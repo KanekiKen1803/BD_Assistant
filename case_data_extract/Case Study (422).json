@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nRebates and Tracing Fee Analysis\n1\nIdentified excessive claims by designing a robust reconciliation process for \ndistributor rebates/fees and invoices by accounting for variances across \nquantity, price and customer dimensions\nOphthalmic surgical instruments manufacturing leader\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for opportunities to enhance profitability by understanding if you are overpaying rebates and fees to the \ndistributors, but you don’t have the mechanism to validate the claimed rebates and fees numbers.\nOphthalmic surgery instruments company needs “visibility” \ninto rebates and fees overpayments\n2\nYour value is enhanced. \n•\nYou have setup a streamlined Rebates and Tracing Analysis process, and now you have in-depth visibility into secondary \ninventory, contract price discrepancies, customer roster discrepancy. \n•\nYou reduced data extraction effort from PDF documents resulting in quarterly savings of 50-60 hours\n•\nYou were able to create an automated customer mapping process which saved over ~$500K in onetime cost.\n•\nYou have identified that you overpaid ~$900K in excess rebates and fees to distributors over a five-month period. \n•\nFurthermore, now you have blueprint and action plan to realize an additional ~$2M in savings, driving significant value \ncreation and operational efficiency improvements.\nREBATES AND TRACING FEE \nRECONCILIATION \nKEY RESULT\n•\n>$2M potential annual \nsavings\n•\n~$100K fees overpaid \nfor secondary sourced \nSKUs identified\n•\n~10K manhours saved in \ncustomers mapping\n•\n~50-60 manhours saved \nin extracting data \nfrom PDF documents\nVALUE LEVERS PULLED\n•\nInventory analysis\n•\nRebates analysis\n•\nTracing fees analysis\n•\nGen AI based PDF Data \nExtraction and \nGeocoding based \naddress matching and \nvalidation\n2\nYou turn to Accordion. \nWe partner with your team to accurately understand volume of overpayments and perform a comprehensive investigation \nincluding:\n1) Establishing a customer mapping methodology based on addresses leveraging geocoding API and LLMs, saving ~10K \nmanhours\n2) Extracting data from unstructured PDF documents saving ~50-60 manhours\n3) Developing a data model for transaction mapping to detect discrepancies between customer, SKUs referenced and \ncorresponding contracts\n4) Creating an inventory model to analyze volumes of secondarily sourced SKUs, along with associated fees and rebates\n5) Building a robust reconciliation methodology to analyze discrepancies in contract pricing, acquisition costs, and rebate \ncalculation methodologies.\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n3\nMethodology/Approach\nThe calculated rebates from the Contract Price, Rebates and Fees discrepancy model are pulled into the Inventory Analysis model to estimate the excess \nrebates claimed for the negative ending inventory SKUs\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n4\nMethodology/Approach - Generative AI for PDF Data Extraction\nGenerative AI for PDF Data Extraction \n•\nData Extraction: Extracted data from approximately 58 PDF documents containing a mix of scanned and digital pages using OpenAI’s GPT-4 model.\nImpact:\n•\nCompared to traditional OCR techniques and open-source Python libraries, the use of a single generative AI pipeline for extracting unstructured data from PDFs \nsignificantly reduced manual effort, saving an estimated 40–50 hours.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nMethodology/Approach - Generative AI for PDF Data Extraction\nGenerative AI for Geocoded Address Validation:\n•\nAddress Validation: Validated around 20,000 unique addresses utilizing OpenAI’s GPT-4 model.\nImpact:\n•\nCustomer address validation for 20,000 addresses using the GPT-4 model resulted in a time savings of approximately 500 hours of manual work.\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nRebates and fees differences\nILLUSTRATIVE\nRebate Analysis Bucket (Jan’24 – May’24)\nVariance\nRebate Variance – Overall\n$201,287 \n1.Driven by Contract Price or Acq. Cost or Rebates calculation mismatches\n$87,164 \n1.1. Only Contract Price mismatch\n$16,631 \n1.2. Only Acq. Cost mismatch\n$370 \n1.3. Both Contract Price and Acq. Cost mismatch\n$69,535 \n1.4. Rebates calculation by distributor mismatch\n$628 \n2. Driven by unmapped Customer-SKU transactions\n$114,123 \n2.1. Customer not available in Roster files\n$75,607 \n2.2. SKUs not available in Price List\n$38,515 \nFee Analysis Bucket (Jan’24 – May’24)\nVariance\nFee Variance - Overall \n$19,172 - $22,922\n1. Driven by Calculated Fee mismatch (Primarily sourced SKUs)\n$518 \n2. Driven by Fee claimed on secondarily sourced SKUs\n$18,651 \n3. Driven by Tracing transactions\n3.1. Considering no SKUs as secondarily sourced\n$3 \n3.2. Considering all SKUs as secondarily sourced\n$3,750 \nFee variance due to Price & Customer discrepancy\nRebate variance due to Price & Customer discrepancy\nDifferences arising \nbecause of \nmismatch in prices \nfor mapped \ncustomers\nDifferences due to \nunmapped \ncustomers\nInvestigation for \nfees variance\nDeep dive into \nreasons behind \nrebates variance\nDrivers of tracing \nfee variance\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nJan'24\nSKU No.\nSKU \nDescription\nExcess \nEnding \nInventory \n(#)\nSKU Per unit \nCost\n($)\nExcess \nEnding \ninventory \n($)\nAverage \nrebate per unit \n($)\nEstimated \nexcess \nRebates ($)\nEstimated \nFees ($)\nSKU 1\nDescription 1\n(400)\n1.50\n(600)\n0.85\n175.00\n229.00\nSKU 2\nDescription 2\n(3,472)\n8.90\n(30,901)\n0.13\n451.36\n28.00\nSKU 3\nDescription 3\n(572)\n4.60\n(2,631)\n0.71\n406.12\n418.00\nSKU 4\nDescription 4 \n(763)\n50.00\n(38,150)\n0.03\n22.89\n332.00\nSKU 5\nDescription 5\n(800)\n2.40\n(1,920)\n-\n-\n8.00\nDistributor\nSKU\nParameter\nJan'24\nFeb'24\nMar'24\nApr'24\nMay'24\nDistributor 1\nSKU 1\nBeginning Inventory (#) \n(A)\n4,500\n0\n5,000\n0\n0\nSKUs bought (#) (B)\n300\n8000\n10,500\n5,000\n1,500\nSKUs Sold (#)  (C)\n5,200\n3,000\n34,586\n15,084\n900\nEnding Inventory (#) \n(A+B-C)\n(400)\n5,000\n(19,086)\n(10,084)\n600\n7\nInventory variance\nILLUSTRATIVE\nMajor SKUs with negative ending inventory for \nDistributor 1 for the month of Jan’24\nInventory Variance over Months\nThorough Inventory \nanalysis for each \ndistributor and SKU\nSKU characteristics\nNegative ending \ninventory indicates \npotential \nsecondarily \nsourced SKUs\nEstimated excess \nrebates and fees \nassociated with \nsecondarily \nsourced SKUs\nNegative inventory \nreset to zero at the \nstart of the new \nmonth.\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (422).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191210+05'30'",
+            "modDate": "D:20241114191210+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n8\n1) Implementing Geocoding on scale\n2) Prompt Engineering required for the proper validation of mapped \naddresses\n3) Extracting structured data from unstructured sources like PDFs leveraging Gen AI\n4) Developing an inventory model to track daily position of inventory and \nidentify days where the inventory turned negative indicating the possibility \nof secondary sourcing\nLearnings\n"
+    }
+]

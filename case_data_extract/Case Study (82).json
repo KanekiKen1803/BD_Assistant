@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFinancial budgeting\n1\nCreated a top-down P&L budget and automated the process by setting up \nconnections between raw data, budget template and ERP system\nEducation management company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to improve granularity of the annual budget to enhance the accuracy of revenue and payroll forecasts. \nCurrently, the struggle is to effectively track, aggregate, and forecast key operational and financial metrics, resulting in \nsubstantial deviations from the budget targets. The inputs to the budget are compiled and entered manually, leading to inefficiency \nand lack of flexibility for dynamic updates. \nEducation management company needs to assess its budget \nallocation\n2\nYour value is enhanced. \n•\nYou have a new budget and FTE allocation algorithm with enhanced accuracy of forecasting revenue and payroll expenses by \nefficiently allocating students into classrooms and forecasting all the major line items at a classroom level and then rolling it up \nto the school and group level\n•\nYou have optimal allocation of students into classrooms that saved $3.5mn in annual payroll costs cutting down excess staffing \nand improving gross margin by 100bps\n•\nYou have more visibility into classroom-level occupancy, school-level operating metrics and variance analysis (Actuals vs \nBudget) to highlight corrective actions required to improve the business performance\nFINANCIAL BUDGETING\nKEY RESULT   \n•\nOptimal allocation \nhelped in saving \n$3.5mn\n•\nImproved gross margin \nby 100bps\nVALUE LEVERS PULLED\n•\nRoll-up budget model\n•\nFTE allocation \nalgorithm\n•\nMacro based automation\n2\nYou turn to Accordion. \nWe partner with your team to create a top-down P&L budget for the client and automate this process by setting up \nconnections between raw data, budget template and ERP system, including:\n1)\nDeveloping a budget model starting at classroom level which rolls up to school and department level to forecast revenue and \npayroll expense\n2) Creating a dynamic algorithm to optimally allocate student FTEs into classrooms under constraints such as operating capacity, \nstudent to teacher ratio, child-trigger ratio (min. no. of students that can afford a teacher), increasing the accuracy in \nestimation of revenue and payroll expenses\n3) Equipping the budget with end-to-end automation from various source files (from departments) to CSV mapping files to feed \nthe data into NetSuite\n4) Building a macro to generate enhanced outputs with financial and statistical metrics, year on year comparisons and variance \nvisualization for leadership consumption\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped a budget model starting at classroom level which rolls up to school and department level to forecast revenue and payroll expense.\n•\nCreated a dynamic algorithm to optimally allocate student FTEs into classrooms under constraints such as operating capacity, student to teacher ratio, \nchild-trigger ratio (min. no. of students that can afford a teacher), increasing the accuracy in estimation of revenue and payroll expenses.\n•\nEquipped the budget with end-to-end automation from various source files (from departments) to CSV mapping files to feed the data into NetSuite.\n•\nBuilt a Macro to generate enhanced school level Outputs with Financial and Statistical metrics, year on year comparisons and variance visualization for \nschool leaders’ consumption. \nSituation\n•\nThe client was struggling to effectively track, aggregate, and forecast key operational and financial metrics, resulting in substantial deviations from the \nschool budget targets. \n•\nTheir legacy budget had drivers at a very high-level (department/school level) without getting into granular modelling. The client also lacked processes/ \nmethods to accurately forecast payroll costs (function of enrolments), which is a very big expense to the business.\n•\nThe inputs to the budget were compiled and entered manually, leading to inefficiency and lack of flexibility for dynamic updates.\n•\nPartnered with the client to improve granularity of the annual budget to enhance the accuracy of revenue and payroll forecasts.\nAnnual budget for an education management company\n3\nImpact\n•\nThe new budget and FTE allocation algorithm enhanced the accuracy of forecasting revenue and payroll expenses by efficiently allocating students into \nclassrooms and forecasting all the major line items at a classroom level and then rolling it up to the school and group level. \n•\nThe optimal allocation of students into classrooms helped the client to save $3.5mn in annual payroll costs cutting down excess staffing, improving Gross \nMargin by 100bps.\n•\nProvided more visibility into classroom-level occupancy, school-level operating metrics and variance analysis (Actuals vs Budget) to highlight corrective \nactions required to improve the business performance.\nBudgeting\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n4\n01 \n02 \n03 \n04 \nRolling up the classroom estimates, built Revenue, Payroll and OpEx sections by school across months. Utilized these numbers to arrive at \nConsolidated School Level and Consolidated Group Level P&L Budget, summarizing by seasonality (Summers and Non-Summer).\nUtilized the budgeted Enrollment FTEs and classroom information to arrive at an optimum classroom level FTE allocation. Optimization was built \nin Excel under operating constraints such as classroom capacity, student to teacher ratio and child-trigger ratio. FTEs derived from this algorithm \nacts as the final FTE projection to be fed into the budget template at a classroom level.\nUsed Power Query to automate the import of raw data from source files. Built macros to generate CSV files containing financial (Gross Tuition, \nLabor Expenses, Admin Expenses, etc.) and statistical (FTE, RPS, Teacher Hours, etc.) metrics to be imported to NetSuite.\nBuilt a school level and group level Assumptions tab to allow user-driven inputs as well as calculated metrics from source data, such as FTE, \nRevenue Per Student, Wage Rates, Benefits etc.. Connected the Assumptions tab to intermediate calculations such as Staffing Model (for \npayroll), Pricing Model (for revenue), etc..\n05 \nEnhanced School Level output packages by reporting financial and statistical budget metrics by months, including chart for comparison with \npast years of KPIs. Built a macro to provide a lock functionality in the file, enabling the corporate team to have control over the budget numbers.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData flow from systems\n5\nRaw Data\nRaw data files -\n•\nClassroom detail\n•\nSchool key\n•\nPayroll history\n•\nPricing model\nEnrolment budget\nCSV \nmapping \nfiles\nSchool level \nbudget \noutputs\nUnit level budget\nAssumption\ns\nRevenue\nPayroll\nOperating \nExpenses\nFTE \nallocation \nalgorithm\nStatistical \nKPIs\nPY actuals\nImport\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nConsolidated – Group level budget\n6\nFull Year Budget\nActuals till Current \nMonth\n+\nBudget till EOFY\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nConsolidated school level outputs\n7\nOptionality to identify \noutliers\nBenchmarking\nCurrent Year against\nBudget\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (82).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114200231+05'30'",
+            "modDate": "D:20241114200231+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFTE – Optimum allocation to classrooms\n8\nTotal Student FTEs\ndiscarded in the\nallocation algorithm\nClassroom Level\nAllocation\nFinal FTE allocation\n"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124022+05'30'",
+            "modDate": "D:20241114124022+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccounting and FP&A Solutions \n1\n• Partnered with the client to reconcile POS transactions and the bank account \nstatements, to help track the cash flow and identify any unfair practices\n• Developed a Budgeting model to track actuals vs. budget revenues, and \naccordingly re-adjust the budget \n• Assisted the client in reporting EBITDA line items at a Business Unit/Business \nDivision level\nIndoor Entertainment Company in US\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124022+05'30'",
+            "modDate": "D:20241114124022+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIdentified all the relevant sources and payment types for the cash inflows in clients banking accounts and gathered information on individual banking \ntransactions\n•\nCreated a robust model for a 3-way reconciliation comparing the POS transaction data, the transaction amount processed by the payment merchants \nthrough POS channels and the bank account\n•\nLeveraged the client’s data warehouse and 3rd party payment merchant websites to extract the most granular transaction level data\n•\nAnalyzed the average difference in days between the amounts processed by the payment merchant and amount received in the bank account which was \nleveraged by the client to follow-up with the payment merchant \nSituation\n•\nThe client observed a large difference between the amount reflected in company’s bank statements as compared to the transaction data and wanted to \nunderstand the root cause of these differences\n•\nPartnered with the company to bridge the gap between POS transaction amount and the amount reflected in the bank account so that they can track the \ncash flow of the company and identify the source of unfair practices\nGross receipt reconciliation\n2\nImpact\n•\nThe client was able to track the money lost during the transactional journey from POS to the bank account and identify the root cause behind the same\n•\nReconciliation enabled the tracking of non-credit card transactions such as cash and cheque which was the major source of unfair practices earlier\nAccounting and FP&A Solutions \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (116).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124022+05'30'",
+            "modDate": "D:20241114124022+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nReconciliation of bank account with POS and payment merchants\n3\nReconciliation of amount processed \nthrough various channels by \npayment merchants with the \ncorresponding amount in the Bank \nAccount\nReconciliation of POS \ntransaction amount with the \namount in the Bank Statement\nReconciliation between Bank and POS\nTunnel\nDSR Date\nPayment Type\nAmount\nCheck\nCash Bank \nDate\n Bank Dollar \nAmount \n Bank \ndeposits vs \npayment \ninsider \n Payment \ninsider \nLocation 1\n12/29/2021 Master Card\n1,952.25\n           \n-\n                     \n12/31/2021\n1,952.25\n               \n(0.00)\n                   \n1,952.25\n           \nLocation 1\n12/30/2021 Master Card\n871.56\n               \n-\n                     \n1/1/2022\n871.56\n                  \n(0.00)\n                   \n871.56\n              \nLocation 1\n12/31/2021 Master Card\n2,106.77\n           \n-\n                     \n1/2/2022\n2,106.77\n               \n-\n                      \n2,106.77\n           \nLocation 1\n1/1/2022 Master Card\n1,410.85\n           \n-\n                     \n1/3/2022\n1,410.85\n               \n(0.00)\n                   \n1,410.85\n           \nLocation 1\n1/2/2022 Master Card\n1,368.34\n           \n-\n                     \n1/4/2022\n1,368.34\n               \n-\n                      \n1,368.34\n           \nLocation 2\n1/3/2022 Master Card\n1.86\n                   \n-\n                     \n1/5/2022\n1.86\n                       \n(0.00)\n                   \n1.86\n                  \nLocation 2\n1/4/2022 Master Card\n58.07\n                 \n-\n                     \n1/6/2022\n58.07\n                     \n0.00\n                    \n58.07\n                \nLocation 2\n1/5/2022 Master Card\n342.65\n               \n-\n                     \n1/7/2022\n342.65\n                  \n(0.00)\n                   \n342.65\n              \nLocation 2\n1/6/2022 American Express\n744.62\n               \n-\n                     \n1/8/2022\n744.62\n                  \n-\n                      \n744.62\n              \nLocation 2\n1/7/2022 American Express\n(174.97)\n             \n-\n                     \n1/9/2022\n-\n                         \n174.97\n                \n(174.97)\n            \nLocation 3\n1/8/2022 American Express\n1,016.27\n           \n-\n                     \n1/10/2022\n1,016.27\n               \n-\n                      \n1,016.27\n           \nLocation 3\n1/9/2022 American Express\n1,314.35\n           \n-\n                     \n1/11/2022\n1,314.35\n               \n(0.00)\n                   \n1,314.35\n           \nLocation 3\n1/10/2022 American Express\n809.95\n               \n-\n                     \n1/12/2022\n809.95\n                  \n-\n                      \n809.95\n              \nLocation 3\n1/11/2022 American Express\n467.94\n               \n-\n                     \n1/13/2022\n467.94\n                  \n-\n                      \n467.94\n              \nReconciliation between Bank and Payment Merchant\n"
+    }
+]

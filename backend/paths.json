@@ -1,9 +1,10 @@
 {
-    "pdf_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\Hackathon\\BD_Assistant\\CaseStudies",
-    "output_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\Hackathon\\BD_Assistant\\case_data_extract",
-    "json_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\Hackathon\\BD_Assistant\\case_data_extract",
-    "case_summaries_path": "C:\\Users\\ansh_lodhi\\Desktop\\Hackathon\\BD_Assistant\\case_summaries",
-    "vector_store_path": "C:\\Users\\ansh_lodhi\\Desktop\\Hackathon\\BD_Assistant\\VectorStore"
+    "pdf_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies",
+    "output_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\case_data_extract",
+    "json_folder_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\case_data_extract",
+    "case_summaries_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\case_summaries",
+    "vector_store_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\VectorStore",
+    "presentation_output_path" : "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\presentation.pptx"
 
   }
   

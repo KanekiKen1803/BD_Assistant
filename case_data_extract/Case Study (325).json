@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI infrastructure design & implementation\n1\n• Built Data Lake and Data Warehouse infrastructure to provide a consistent and \ncomprehensive data analytics and exhaustive reporting solution using ZOHO \nAnalytics. \n• Developed data validation and reconciliation mechanism to ensure data \nconsistency from the source data to the dashboard\nDental equipment manufacturer\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAssessed the business processes and the ERP (M2M) to identify the gaps in the data and cleansed the data.\n•\nBuilt an Enterprise Data Lake (based on Microsoft Azure) which acts a central repository of the data across different departments. (Finance, Sales, \nCustomer, Marketing, Product, HR etc.)\n•\nBuilt a Data Warehouse connecting Enterprise Data Lake to structure and transform the raw data leveraging Data Marts & Data Views\n•\nIncorporated automated data validation and reconciliation rules at every ETL step across the entire process to ensure accuracy and consistency in data.\n•\nDesigned and built performance dashboards (Global and US) on ZOHO Analytics for the sales team to be leveraged for field sales activities. Also built \nEmployee Productivity dashboard that measures the performance of the employees.\nSituation\n•\nClient has several performance reports which were updated manually and lacked consistency in the underlying data sources and data being reported \nacross different performance reports.\n•\nThe client uses multiple tools to track employee productivity which generates raw reports in different portals and various formats.\n•\nPartnered with the client to set up an Enterprise Data Lake, an integrated Data Warehouse and developed automated performance dashboards.\nBi infrastructure design and implementation for dental \nequipment manufacturer\n2\nImpact\n•\nIntegrated and automated BI reporting process including performance dashboards provided consistent and accurate performance KPIs across different \nteams in the organization.\n•\nImplemented Enterprise Data Lake and an integrated Data Warehouse that enables robust data analytics opportunities and scalability of the systems.\n•\nProvided a single dashboard view of employee productivity with an additional bifurcation of ‘WFO’ and ‘WFM’ and enabled the management to take business \ndecisions.\nBI INFRASTRUCTURE DESIGN & \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBi implementation framework\n3\n• Defined KPIs and Metrics for monitoring and tracking business performance  across Finance, Sales and Customer Service, at regular intervals; configured \nalerts & notifications to ensure proper follow-up action is initiated if large variance is observed.\n• Implemented Enterprise Data Lake (Microsoft Azure) as “Key-source-of-truth” for the company; function as single highly scalable and secure storage for the \ncompany’s data assets providing flexibility to hold different types of data (structured, un-structured and semi-structured data).\n• Integrated multiple Data Sources in the Data warehouse for a variety of use cases leading to analytics and reporting.\nData \ninfrastructure\nData Marts\nEnterprise Data Warehouse\nData Views\nData Sources\nData Synthesis\nData Visualization\nSales\nBudget/Forecast\nInventory\nCost\nCost Cube\nSales\nBudget/Forecast\nInventory Cube\nOLTP, CRM, RDBMS\nFlat files, CSV Files\nMade2Manage database\nWeb APIs\nETL Process\nETL Process\nEnterprise Data \nLake\nFlat files \nfrom Cloud \nstorage\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales performance dashboard (1/2)\n4\nILLUSTRATIVE\nTop Line user filters\nOverall sales performance \nKPIs\nMoM Revenue Trends\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nSales performance dashboard (2/2)\n5\nILLUSTRATIVE\nTop Line user filters\nHeatmap displaying revenue \ndistribution across states\nTop and bottom-20 customers based \non the overall revenue\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (325).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104939+05'30'",
+            "modDate": "D:20241115104939+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEmployee productivity dashboard\n6\nILLUSTRATIVE\nTop Line user filters\nWeekly trend of Productive hours and \nProductivity Score\nDaily Trend of Employee efficiency within \na week\n"
+    }
+]

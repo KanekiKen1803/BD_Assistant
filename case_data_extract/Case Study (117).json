@@ -1,0 +1,242 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 0,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData warehouse and executive reporting –\ndesign and implementation\n1\nConsolidated multiple source systems into an on-premise data warehouse, \ndeveloped comprehensive data models, and diagnosed key performance \nindicators (KPIs). Additionally, designed a Power BI reporting suite to provide the \nExecutive team with real-time insights and track essential performance metrics\nIndoor skydiving company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 1,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re seeking to develop a comprehensive reporting layer that enables quick business decisions and provides a daily \noverview of overall business performance. Integrated data from multiple source systems into a single data repository, \ndeveloped comprehensive data models, identified key performance indicators (KPIs), and designed a Power BI reporting \nsuite to provide the Executive team with real-time insights\nIndoor skydiving company needs a comprehensive \nreporting suite and a centralized data warehouse\n2\nYour value is enhanced. \n•\nEnabled client to implement a global data governance framework and a data warehouse solution that acts as a single source of \ntruth encompassing strong metadata management, automated quality & access controls, and consistency across all BI reporting \nand analytics\n•\nAutomated dashboarding suite with well-defined data models for key metrics enhanced visibility into business performance \nempowering leadership to make faster, data-driven decisions\n•\n70% reduction in man-hours with the creation of Intuitive Power BI dashboards enabling the business team to drill down into \nspecific areas that not only highlights potential issues but also equips the team with insights to take proactive actions, driving \ncontinuous improvement and long-term growth\nCONSUMER\nKEY RESULT   \n•\n70% reduction in \nperson-hours for \nreporting \n•\nEnhanced visibility \ninto business \nperformance enabling \ndata driven decision \nmaking\nVALUE LEVERS PULLED\n•\nData Pipelines to pull \ndata to a central \nwarehouse from \ndifferent source \nsystems\n•\nBI Reporting\n•\nPerformance Tracking\n2\nYou turn to Accordion. \nWe partner with your team to streamline and centralize data from fragmented sources like POS, CRM, Google Analytics, \nvendors, and Finance into an on-premise data warehouse. \n1)\nStreamlining the data ingestion process and created a centralized data repository from fragmented sources such as POS, CRM, \nGoogle Analytics, vendors, and Finance into an on-premise data warehouse\n2) Deploying automated daily data pipelines ensuring seamless integration and transformation of data with proactive monitoring \nand alerts to quickly address any issues\n3) Diagnosing key business performance metrics, by partnering with stakeholders to establish a standardized methodology, and \nbuilt data models and data marts that serve as a unified source for executive reporting and future ad-hoc analysis\n4) Creating a robust Power BI dashboarding suite delivering daily performance insights directly to executive stakeholders via \nemail, providing a snapshot of business trends alongside upcoming priorities\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 2,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n3\n01 \n02 \n03 \n04 \n05 \nData Diagnosis and KPI Identification – Diagnosed the centralized data to identify the relevant business performance metrics \nand collaborated with executive stakeholders to finalize the calculation methodologies\nData Retrieval and DW Design – The team undertook data retrieval from different sources and Data Warehouse design to \nensure accuracy and security of data. It involved setting up staging and production environments along with Entity-\nRelationship diagrams to keep the warehouse structure up to date with industry standards\nRequirement Gathering from Clients – The team engaged in detailed discussions with the client and engineering teams from \ndifferent vendors to identify specific requirements, including different data sources’ structure and data extraction capabilities\nPipeline Creation and Deployment – Established a pipeline from all the data sources to client's data warehouse (DW) using API \ncalls or data extracts through SFTP folders, and subsequently created data models for KPIs. Additionally, we implemented a \npipeline monitoring mechanism enabling pipeline failure alerts and consolidated pipeline reports daily\nBI Reporting (Performance Tracking) – Created Power BI reporting for executive stakeholders to track business performance and \nenabled daily emails. This process provided real-time insights into the pain points, enabling stakeholders to quickly adapt to \nchanging customer preferences and make informed decisions\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 3,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nHigh level data architecture (illustrative)\n4\nServe\nCode repository\nIngest\nStore\nSource systems\n(Data Pipelines)\nSQL Server (Staging)\n(Central repository)\nData Storage Layer\nInteract with the Data and \nVisualizations\nPrepare and Publish\nServer Login \nRLS\nBitbucket\nSQL Server Agent\n2\n1\n3\nCustom ETL Jobs\n1\nCollate and ingest data from various sources into the Staging database of SQL Server using SSIS or custom ETL jobs\n3\nDevelop visuals in Power BI and provide access to the data for downstream applications\n2\nPush the data into SQL Database, which will have different layers to store raw, cleaned, and aggregated data\nAd hoc Analysis\nRaw\nClean\nAggregate\nPublish\nBusiness \nRules\nData \nQuality \nchecks\nConsolidation\nReporting \nSchema\nCommon \nSchema\nMonitor\nSecurity\nOther source systems and flat \nfiles (e.g., Audit scores.)\nPower \nAutomate\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 4,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n5\nBusiness overview – Daily executive snapshot\nILLUSTRATIVE\nvs PY % cards to benchmark \nbusiness performance with \nlast fiscal year\nPerformance tracking at a \nproduct category level \nenabling real-time insights \ninto customer preferences\nCustomer satisfaction \nmetrics based on surveys \nand purchase patterns\nAbility to \nanalyze \nperformance \nmetrics for \ndifferent time \nperiods\nSummarized \nview for critical \nbusiness \nperformance \nmetrics on \ntraffic, website \nperformance, \nSales and \nRevenue Trends\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 5,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n6\nMonthly executive snapshot\nILLUSTRATIVE\nFlexibility to view metrics \nfor a selected dates and \nlocations\nTraffic related metrics \nprovide visibility into the \ncustomer interest\nCompliance related metrics \ncapturing adherence to the \nestablished practices\nCustomer Satisfaction \nratings based on Surveys\nSales break up at different \norganizational levels\nKey business performance \nmetrics with a traffic light \ncomparison with targets\nUpselling performance \nmetrics\nLegend\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 6,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n7\nWebsite performance analytics (1/2)\nILLUSTRATIVE\nFlexibility to slice and dice this data by \ndifferent date ranges\nCards capturing website performance metrics \n(AOV, Conversion Rate and Traffic)\nWebsite performance \ntracking at a day level \nenabling stakeholders to \ntrack customer preferences\nTrend charts to provide \nvisibility into customer \ndemand and website footfall\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 7,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n8\nWebsite Performance Analytics (2/2)\nILLUSTRATIVE\nFlexibility to slice and dice this data by \ndifferent dates and devices\nUser Journey funnel to help understand \ncustomer behaviour on the website and \nattrition pattern in the booking flow \nWebsite performance \ntracking at a device level \nenabling the comparison of \ndifferent versions (Mobile, \nDesktop, etc.) of the website\nUsers' trends chart to provide \nvisibility into customer \ndemand and website footfall\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 8,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n9\nWeekly Performance Review by Location\nILLUSTRATIVE\nStrategize and discuss next steps to \nimprove and drive revenue\nUnderstand the drivers of product wise \nperformance across focus locations\nFocus on \nunderperforming \nproduct categories \nto drive max value\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 9,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n10\nSales & Revenue Outlook vs Budget\nILLUSTRATIVE\nTrack product & location wise sales pipeline + \nrevenue performance for the current month\nStrategize plans to increase sales at \nlocations where the upcoming \nweeks pipeline is underperforming \ncompared to budget\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 10,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n11\nProduct Segment vs Session Analysis\nILLUSTRATIVE\nFlexibility to view metrics \nfor a selected week\nSold Inventory breakup by \nCustomer segment \nproviding visibility into \ncustomer preferences and \nInventory\n"
+    },
+    {
+        "page": 12,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (117).pdf",
+            "page": 11,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124142+05'30'",
+            "modDate": "D:20241114124142+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n12\nConsolidated Pipeline Health\nILLUSTRATIVE\nSummary of data pipeline health and job execution status captured \nat the top of the email\nPipeline job details, supplemented with the start/end times\nDuration and Avg. Duration Columns to help identify any \npatterns in pipeline delays necessitating actions\nOverview to help \nestimate the \nimpact of any \npipeline failures \nor delays\n"
+    }
+]

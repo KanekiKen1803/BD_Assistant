@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155459+05'30'",
+            "modDate": "D:20241114155459+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nServer Tip Allocation Model\n1\nBuilt a tip allocation model to better allocate the tip amounts to servers and server \nassistants based on their contribution to customer service\nMexican Food Restaurant Chain\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155459+05'30'",
+            "modDate": "D:20241114155459+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIntegrated the employee attendance (timesheet) information with the tips & sales data. Determined the overlap time spent by each server assistant \nsupporting the server. Calculated ‘Per Minute Tip Share Contribution’ based on the total time spent by the server\n•\nCalculated the total tip share amount for each server assistant using the per-minute tip share and the time spent by the server assistant\n•\nAny remaining tip amount (after sharing with server assistants) is awarded to the server\n•\nDeployed this automated tip allocation model in the SQL server and integrated it with the client’s payroll system\nSituation\n•\nAll the assistants to servers in client’s restaurants get a share of the total daily tips from the customers based on a legacy tip allocation process. This \nallocation process was not equitable and was subject to exploitation by the assistants as it didn’t account for the time spent by the assistants. For example, \nassistants who supported for just 1 minute used to get the same tip share as the ones who supported an hour with the server.\n•\nPartnered with the client to build a robust tip allocation model that accounts for the time spent by the server assistants\nTip Allocation Model for a Restaurant Chain\n2\nImpact\n•\nThe new tip allocation model helped the client reduce the discrepancies related to over-payment and under-payment of tips and ensured a fair share of tip \namounts to all servers and server assistants\n•\nThe model helped in ~39% better allocation of tips to servers (where the change is more than $1 per hour) with ~$200K redistributed tip amount (per quarter)\nServer Tip Allocation Model\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155459+05'30'",
+            "modDate": "D:20241114155459+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExisting Tip Share Approach\n3\n$1,000\nSales\n$120\nTips Received\nTip Share \n(Contribution from Server)\n= 5% of Net Sales done\n$50\nTip Share (5% of sales) is \ngiven to the server \nassistants (support roles)\n$70\nServer \nTake-Home \nTip\nTotal tip $ received \nfrom customers by the \nserver\n$2350\n$1150\n$750\n$750\nFixed 23% \nto Bartender\nFixed 47% to \nAssistant \nWaiter\nFixed 15% \nto Busser\nFixed 15% \nto Host\nBartender\nAssistant Waiter\nBusser\nHost\nTips paid to Server Assistants\nTip share amount paid to the support roles \n(server assistants)\nTip paid to Server\n$50\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (269).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114155459+05'30'",
+            "modDate": "D:20241114155459+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nEnhanced Tip Share Approach\n$1,000\nSales\n$120\nTips Received\nTip Share \n(Contribution from \nServer)\n= 5% of Net Sales done\n$50\nTip Share (5% of sales) is \ngiven to the server \nassistants (support \nroles)\n$2735\nServer \nTake-Home \nTip\nTips paid to Server Assistants\nTip share amount paid to the support roles \n(server assistants)\nTip paid to Server\n5 hours\nTime\nTime spent by the \nserver during the day\n$10/hour\nPer Hour Tip Rate\n= $0.167 per minute\n$235\n$1150\n$600\n$750\n47% x $10/hr x 0.5 \nhr\nBartender\nAssistant Waiter\nBusser\nHost\nOverlap time \nwith server\n0.5 hour\n23% x $10/hr x 5 \nhrs\n5 hours\n15% x $10/hr x 4 \nhrs\n4 hours\n15% x $10/hr x 5 hr\n5 hours\n$70\n$2265\n+\n$9265\n=\nRemaining Tip \nAmount\n= $50 - $27.35\nTotal tip $ received \nfrom customers by the \nserver\n4\n"
+    }
+]

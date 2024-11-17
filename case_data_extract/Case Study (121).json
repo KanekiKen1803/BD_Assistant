@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124714+05'30'",
+            "modDate": "D:20241114124714+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIntegration of Data Warehouse and HubSpot\n1\nDeveloped an automated process to integrate customer data from the Data \nWarehouse to the HubSpot to create and track email marketing campaigns\n(Indoor Skydiving Company )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124714+05'30'",
+            "modDate": "D:20241114124714+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nStandardized the customer data extracted through the client’s POS system and integrated the historical customer data in HubSpot using API connector\n•\nReal-time identification of the updates in the historical HubSpot data (such as contact/booking details) by creating an automated process to reconcile with \nlatest POS data \n•\nCaptured the near real-time updates to the HubSpot customer data by leveraging the HubSpot API connector\n•\nEnabled a streamlined Data Management and email marketing process for the client through HubSpot with availability of latest data in line with the source of \ntruth (Data Warehouse)\nSituation\n•\nClient didn’t have any mechanism to auto-generate email marketing campaigns for target customers as the storage process of the data related to the \ncurrent and prospective customers was manual\n•\nPartnered with the client to set up an automated process to integrate customer data from Data Warehouse to HubSpot through API Integration and enable \nthe creation of email marketing campaigns to target the customers\nData warehouse and CRM tool data integration\n2\nImpact\n•\nHelped the client generate additional annual revenue of ~$2.3M through ~10M emails sent through HubSpot email marketing tool\n•\nIntegration of customer data in HubSpot enabled the client to gain better insights into customer behavior, purchase history, and preferences\nIntegration of Data Warehouse \nand HubSpot\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (121).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114124714+05'30'",
+            "modDate": "D:20241114124714+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ approach\n3\nData \nWarehouse\n1\n3\nHubSpot\nData \nWarehouse\n4\n5\nHubSpot\nHubSpot\n6\nContacts data is downloaded from HubSpot and \npushed into DW (Datawarehouse)\n1\nContacts data from HubSpot is compared with \nthe POS data in DW to identify new marketing \ncontacts\n2\nNew marketing contacts data is pushed into \nHubSpot to generate a HubSpot contact ID \nwhich will be leveraged to map the contacts to \nthe relevant deals\n3\n2\nMarketing contacts data is downloaded along \nwith the newly generated HubSpot contact ID\n4\nDeals data corresponding to these contacts is \ngenerated in DW and pushed into HubSpot\n5\nUploaded marketing contacts and deals data is \nassociated with each other in the HubSpot\n6\nProcess to upload New Marketing Contacts and Deals in HubSpot \nData \nWarehouse\n7\n9\nHubSpot\nHubSpot\n8\nProcess to update existing Marketing Contacts and Deals data in HubSpot \nMarketing Contacts and Deals data is \ndownloaded from HubSpot and pushed in DW\n7\nMarketing contacts and deals data is compared \nwith the latest POS data in DW to identify any \nchanges\n8\nExisting marketing contacts and deals data is \nupdated in the HubSpot in case of any changes\n9\nILLUSTRATIVE\n"
+    }
+]

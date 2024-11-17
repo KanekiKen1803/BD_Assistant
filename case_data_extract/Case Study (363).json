@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "1\n▪Built a centralized data infrastructure using Smartsheet to gather raw data from multiple \ndata sources and stakeholders with minimum manual intervention\n▪Set up automated checks and notifications to identify inconsistencies in the data such as \nmissing entries, irregular formats etc. and immediately notify the relevant stakeholders\n▪Built an executive dashboard – Macro View, summarizing the key aspects of the business \ninitiatives in both TPO and TSA in a concise yet insightful manner\nMulti-channel Video Streaming & Satellite Service Provider \n(PMO Analytics )\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "PMO DASHBOARD FOR MULTICHANNEL VIDEO PROGRAMMING DISTRIBUTOR\nSITUATION\n▪Client had limited visibility into the progress made on the PMO initiatives across multiple verticals (with estimated savings of ~$5 Bn) due to lack of data warehouse \nand automated reporting suite. Client was spending significant person-hours to gather data and create aggregated monthly reports manually.\n▪Merilytics partnered with the client to develop a robust data architecture and create visuals for TPO (Transformation Program Office)  and TSA (Transition Service \nAgreement) initiatives in order to reduce the manual effort to showcase the overall performance of all business initiatives\n▪Built a centralized data infrastructure using Smartsheet to gather raw data from multiple data sources and stakeholders with minimum manual intervention \n▪Set up automated checks and notifications to identify inconsistencies in the data such as missing entries, irregular formats etc. and immediately notify the relevant \nstakeholders\n▪Created consolidated datasets for data across multiple categories such as financials, milestones, jeopardies etc. in the reporting tables for easy access to stakeholders \nto create Smartsheet reports and to facilitate data ingestion to the Power BI model\n▪Created multiple dashboards, such as Program Overview, Jeopardy Overview, Milestone Summary, Monthly overview, Financial Performance and Scorecards, and \nFinancial Outlook allowing users to track the overall status, jeopardies, and financial data. Added drill down filters to KPI level as well as annual and monthly level within \nthe dashboards to get detailed insights of revenue and savings achieved against the target.\n▪Built an executive dashboard – Macro View, summarizing the key aspects of the business initiatives in both TPO and TSA in a concise yet insightful manner\nVALUE ADDITION\nIMPACT\n▪The automated reporting suite helped the client save ~60 person-hours per month on creating the weekly and monthly reports manually\n▪The performance reports with daily data updates helped the BU stakeholders have improved visibility into the overall progress of initiatives, milestones, and financial \nperformance to take more informed decisions and reduce TAT to address jeopardies\n▪Blended Macro-View helped the Senior leadership team to present a comprehensive insight of the businesses’ present status and prospects\nABOUT THE CLIENT\nClient is a multichannel video programming distributor in the U.S. with 15M+ subscriber base\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n3\n▪Apart with the linkages with \nthe sheets, DAX formulas \nare written to aggregate \nmultiple key parameters\n▪Together they are used to \nshowcase the necessary \nnumbers using appropriate \nvisuals\nContains the project lists and their \nrespective statuses and performance \nInitiative Details\nMilestones\nPower BI Data \nModel\nData Flow Diagram\nFinance Data\nContains the initiatives list, its details \nand health related information\nContains the list of milestones, their \nstart date, due date and % complete \ninformation\nJeopardy/Disputes\nContains the jeopardy and disputes \nrelated information along with \nseverity and health details\nFinance data is stored in KPI log \nsmartsheet  on the monthly basis by \nthe respective data providers\nSmartsheet data source\nASNA data source\n▪The data from the data sources \nis imported as individual sheets\n▪These sheets are linked together \nbased on the relationships \nrequired with necessary keys\n▪Common datasets are \ndeveloped to combine multiple \ntables\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE\n4\nEXHIBIT #1 – SMARTSHEET ARCHITECTURE SETUP\nTPO smartsheet dashboard \nwhich has the links of various \nsmartsheets and links to \ninsert/update the data in the \nsmartsheet\nTSA smartsheet dashboard \nwhich has the links of various \nsmartsheets and links to \ninsert/update the data in the \nsmartsheet\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – PROGRAM OVERVIEW PRESENTING OVERALL STATUS\nILLUSTRATIVE\n5\nAllows users to \nselect a particular \nfunctional owner \nthat would drill \nthrough to their \nrespective \ninitiatives in the \nvisual\nAllows users to track the \nvariance between actuals \nand target by number of \ninitiatives in lying in \ndifferent categories\nPie graphs that help the \nusers track the status of \nthe progress of initiatives \nand their bottlenecks\nA tabular list of the \ninitiatives that show the \nprogress and have a drill \nthrough functionality to \nthe interactive graphs\nAllows users to track \nannual actuals vs target \nnumbers including the \nvariance ($)\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 – PROGRAM OVERVIEW PRESENTING OVERALL STATUS\n6\nILLUSTRATIVE\nAllow users to select a \nparticular initiative\nOther finance data related \nto the selected initiative\nKey accomplishments \nin the preceding \nmonth and the next \nsteps for the selected \ninitiative\nYTD and annualized \nactuals, target and other \ncosts\nMilestones and tasks \nassociated with the \ninitiative along with \ntheir due date and \nstatus\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #4 – ANALYZING FINANCIAL PERFORMANCE\n7\nILLUSTRATIVE\nThe bar graphs gives users \nan insight on the latest \nbenefits achieved as \ncompared to the targeted \nbenefits\nAllows user to track the \nbenefit targets annually \nand also at an overall \nlevel\nThe tabular chart gives a \ndetailed insight into the \nfinancial performance for \nthe rolling 3 months which \ndrill throughs to the \nvisuals above\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #5 – FINANCIAL OUTLOOK FOR THIS YEAR\n8\nILLUSTRATIVE\nILLUSTRATIVE\nSlicers are \nprovided to deep \ndive into specific \ninitiatives, their \nfunctional owners, \nand the category \nthey belong\nBar chart helps users \nkeep track of past as well \nas future variances in \nbenefit values.\nTabular list provides a detailed insight into the actuals achieved in \nthe previous months and expected actuals to be achieved in the \nfuture months with a drill through functionality to the visuals\nTarget 2.0\nLine graph \nprovides users an \ninsight into the \ntargeted values \nagainst the \ncalculated values \nexpected based on \npast performance. \nbar graphs \nexpressing the \ncumulative \ndifference of \nactuals to target\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (363).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175639+05'30'",
+            "modDate": "D:20241114175639+05'30'",
+            "trapped": ""
+        },
+        "content": "9\nLEARNINGS\n▪\nWe were able to get a better understanding on smartsheet architecture given this was the first project on smartsheet in Merilytics\n▪\nWe got a good understanding of various services and products offered by the client and the milestones that can be associated with the initiative\n▪\nOverall, it gave us a better idea of functioning of program management office\n"
+    }
+]

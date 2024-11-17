@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nImpact\nVital Proteins\nHealth supplements provider\nForecast revenue for the two main \ndigital channels Direct to \nConsumer (DTC) and Amazon\nRevenue forecasting\nForecasting results showed less \nthan 20% mean average error in \ntraffic predictions\nSUCCESS STORIES - SUMMARY\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "REVENUE FORECASTING FOR COLLAGEN-BASED HEALTH SUPPLEMENTS PROVIDER \nSITUATION\n▪Client’s Direct to Consumer (DTC) website revenue was on the decline and testing of a few strategies to increase revenue by forecasting revenues for \nupcoming months and next FY was needed\n▪Merilytics partnered with the client to build a revenue forecasting model to test different revenue improvement strategies\n▪Created an automated Revenue Forecasting Model with Marketing Spend, CVR and AOV as user inputs. Using the forecasted traffic, Conversion Rate \n(CVR), and Average Order Value (AOV), the model forecasted revenue for upcoming months and year\n▪As a fully online sales channel, DTC’s revenue was primarily driven by the Traffic to the website. Created time series forecasting scripts in Saturn cloud to \nforecast traffic for each marketing channel using fbProphet. The forecasting scripts leveraged historical traffic, historical spend and upcoming budgeted \nspend data from data lake and google sheets\n▪Provided the flexibility for users to include promotion impact sheet to account for revenue from future promotion campaigns. The user can enter the \ndetails of the planned promotion such as days, type and expected lift in CVR and traffic in this sheet.\n▪Scheduled the model to update automatically every month using scheduled jobs on Saturn Cloud, bringing the latest data and forecast revenue \nautomatically\nVALUE ADDITION\nIMPACT\n▪Using the model, the client would be able to strategize revenue improvement by using spend, CVR and promotions as levers\n▪The model provided more accurate predictions than conventional methods, taking growth and seasonality into consideration. The test results showed \nless than 20% mean average error in traffic predictions.\nABOUT THE CLIENT\nClient is a collagen-based health supplements provider with presence in U.S. and multiple countries across the world\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\n3\nTraffic\n(Forecasted)\nOrders\nSpend\nCVR\nRevenue\nAOV\n(User Input)\nPromo Impact on CVR\nAOV\n(Calculated)\nAverage Selling Price\nUnits per transaction\nOR\nOR\nLegend\nUser Input\nCalculated\nOutput\nForecasted\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – FORECAST INPUTS\nILLUSTRATIVE\n4\nUser inputs planned \nspend, which will be \nused to forecast \ntraffic\nInput CVR is used to \ncalculate the orders \nwhich is multiplied \nwith AOV to \ncalculate revenue\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – FORECAST OUTPUTS\nILLUSTRATIVE\n5\nSessions are forecasted based on historical \ntraffic, historical spend and user provided \nspend as inputs to predict website traffic \nSessions are multiplied by CVR to obtain or\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (293).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162557+05'30'",
+            "modDate": "D:20241114162557+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBITS #3 – FORECAST SUMMARY\nILLUSTRATIVE\n6\nOutput with forecasted revenue by \nchannel\n"
+    }
+]

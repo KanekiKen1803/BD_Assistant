@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161905+05'30'",
+            "modDate": "D:20241114161905+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nEmployee Utilization Dashboard\nDigital media broadcasting \nand company\nCollaborated with Corporate team to build a DOMO based \ndashboard to help them to track the employee utilization \nacross line of business\nTracking the employee's utilization \nfor elapsed months and forecasting \nthe  utilization for next 6 months\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161905+05'30'",
+            "modDate": "D:20241114161905+05'30'",
+            "trapped": ""
+        },
+        "content": "UTILIZATION DASHBOARD\nSITUATION\n▪In addition, the company wanted to track and monitor employee utilization across Line of Business, Project Types and Locations.\n▪Integrated the employee work hours data from Workday and project staffing data from NetSuite platforms into DOMO platform and created process \nflow to have unified view into work hours for elapsed months and allocated hours for future months.\n▪Tracking the Headcount, Employee utilization % and adherence to Timesheet submission across various Groups (created based on Location, Line of \nBusiness and Owner) in a consolidated dashboard.\n▪Forecasted employee’s utilization for the next 6 months based current project plan and staffing data.\n▪Tracked the Budgeted Hours vs. Actual Hours and vs. Allocated Hours of each employee on client’s billable projects for past months and future \nmonths respectively.\nVALUE ADDITION\nIMPACT\n▪Helped the client in tracking utilization % and identifying gaps in timesheets submission by employees.\n▪Ensured approval of timesheets on Workday platform is tracked and streamlined.\n▪Helped the client in estimate bandwidth needs for the next 6 months by LOB, Location and Project to ensure proactive resource management.\nABOUT THE CLIENT\nClient, digital media and broadcasting company in North America with various line of businesses operating across the globe had a challenge in tracking their employee’s utilization \nin an executive dashboard.\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161905+05'30'",
+            "modDate": "D:20241114161905+05'30'",
+            "trapped": ""
+        },
+        "content": "Overall utilization % of employees across Line \nof Business, Project Types, Location and Hub.\nEmployee's utilization at different project \ntypes and # of pending weekly timesheets \nsubmissions\nUTILIZATION DASHBOARD #1\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161905+05'30'",
+            "modDate": "D:20241114161905+05'30'",
+            "trapped": ""
+        },
+        "content": "Summary of Headcount, pending timesheets, timesheets submit % and timesheets approved % at different groups (created based on Location, Line of \nBusiness and Owner) to identify gaps in timesheets submission by employees and approvals by owners\nUTILIZATION DASHBOARD #2\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (288).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114161905+05'30'",
+            "modDate": "D:20241114161905+05'30'",
+            "trapped": ""
+        },
+        "content": "Forecasting the employee’s \nutilization for future 6 months \nbased on allocated hours on \nclient projects\nTracking the Budgeted Hours \nvs. Actual/Allocated Hours \nspent by employees on \nbillable client projects\nUtilization(%) Forecast for Future Months:\nActual vs. Sold Client Utilization(%) Forecast for Future Months:\nFORECAST UTILIZATION #3\n5\n"
+    }
+]

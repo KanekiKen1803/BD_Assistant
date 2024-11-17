@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nPerformed in-depth Appointments & Visits analytics to understand the \nsupply and demand gap in day to day operations of Clinics and to provided \nreal-time insights , by leveraging Enterprise EMR & Scheduling data in Data \nLake \nAppointments Analytics\n(Pediatric Healthcare Provider)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "APPOINTMENTS ANALYTICS FOR A PEDIATRIC HEALTHCARE PROVIDER\nSITUATION\n▪Client needed an automated enterprise level operations analytics dashboards for all clinics and regions to have real-time insights on supply & demand \ngap by tracking KPIs related to appointments, doctors' availability, slots utilization, etc. to further make data driven strategies to address the supply \ndemand gap proactively\n▪Merilytics partnered with the client to setup a suite of Appointments Dashboards, using data from multiple EHR systems, with drill-down functionality \nto region, clinic, and provider levels, with appropriate self-serve capability\nIMPACT\n▪Regional Managers identified top & bottom performing clinicians/clinics using the reporting suite) to optimize their schedules accordingly\n▪Business team was able to enhance their operations by leveraging the reporting suite to identify gaps and opportunities. Eg: Physician schedule \nunavailability for certain clinics\n▪Client was able to set process and compliance benchmarks for regions resulting from the homogenization of the regional patient service and internal \nprocesses\n▪Clinic teams were able to improve utilization rate by addressing No-Show repeat offenders and addressing optimization opportunities in the \nappointments schedule\nABOUT THE CLIENT\nClient is a pediatric healthcare provider with presence in U.S.\nVALUE ADDITION\n▪Setup automated data ingestion from the data sources (eCW, TriMed, & Mapping files) using Azure Data Factory and Pipelines as the Data Integration \ntechnology\n▪Developed analytics models for the identified KPIs. Performed in-depth data & dashboards functionality validation and provided visibility into different \nappointment statuses, along with the ability to view trends across key appointments indicators at an Enterprise level, and to view the numbers by \nvarious dimensions (EHR system, Visit Type, Region, Departments, etc.)\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "METHODOLOGY/ APPROACH\nSlot Status\nRetrospective \nMetrics\nAppointments\nProspective \nMetrics\nAppointment \nStatus\nAvailability \nMetrics\nExpected \nTraffic\nFilled Slots\nBlocked Slots\nOpen Slots\nCompleted\nCancelled\nNo-Show\nTime to Third Available \nAppointment\nOpen Slots\nUpcoming \nAppointments\nConfirmation \nStatus\nFeasibility to \nReschedule\nFill Rate\nSlot Utilization \nRate\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #1 – APPOINTMENTS SUMMARY\nPlot between \nprospective Time to \nThird available \nAppointment (TTA) \nindicating demand \nvs retrospective Slot \nUtilization Rate \nindicating Service \nLevel and actual \ntraffic at clinic level\nWaterfall chart \ndepicting the \nbreakdown of slots \nby the status of \nappointments \nscheduled in them\n4\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #2 – CLINIC PRODUCTIVITY\n5\nBreakdown of \nappointments and \nslots based on their \nstatus with drill-\ndown function \nwherever applicable\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #3 – NO SHOW DEEP DIVE\n6\nRepeat offender \npatient analysis for \nappointments No-\nShowed after \nbooking with drill-\ndown functionality\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #4 – OFFICE OVERVIEW\n7\nPayor Mix of \npatients with \ncompleted \nappointments in the \nselected date range\nBreakdown of \nappointments based \non the time when \nthey are booked \nwith respect to \nappointment \nscheduled time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #5 – VISIT LENGTH ANALYSIS\n8\nTrackers for visits \nunder 65 mins to \nidentify non-\ncompliance at clinic \nand clinician level\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (190).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141422+05'30'",
+            "modDate": "D:20241114141422+05'30'",
+            "trapped": ""
+        },
+        "content": "EXHIBIT #6 – APPOINTMENT AVAILABILITY\n9\nSick appointments \nthat can be \npotentially \nrescheduled to an \nearlier slot so that \nmore slots are open \nfor later \nappointments. Drill- \ndown functionality is \nprovided so that \nclinic teams can call \nthe patients for the \nrescheduling\nKPIs that given an \noverview of the \nprospective traffic in \nthe clinic. Drill \nthrough functionality \nis provided for the \nclinic team to \nchange the schedule \nif needed to increase \nthe traffic\nILLUSTRATIVE\n"
+    }
+]

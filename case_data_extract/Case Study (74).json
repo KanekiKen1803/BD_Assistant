@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nOrder to Cash Analysis\n1\nConceptualized and setup relevant Power BI reports to support the OTC (Order to \nCash) team in tracking the Open AR, Unapplied cash, Applied cash, credit \namounts, etc. on a day-to-day basis\nIndustrial Staffing Company \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAutomated and operationalized the AR aging reporting, thereby reducing the manual effort and increasing the flexibility to analyze the data by various cuts\n•\nSetup an Excel model to forecast the weekly cash collections bottom-up to define collection targets for each week, based on the past payment trends and \ncustomer terms\n•\nDeveloped the Unapplied Cash and Applied Cash reports to capture and analyze key drivers impacting the upward trend in unapplied cash with the \nflexibility to track week over week\nSituation\n•\nClient lacked comprehensive visibility into AR aging performance, and followed a manual process (4 hours per report) to deliver AR reports to relevant \nstakeholders across branches. Additionally, client’s visibility was restricted to point in time values for the AR performance as well as collector performance\n•\nPartnered with client to automate AR aging reporting, thereby reducing the manual effort and providing improved flexibility and accessibility to end-users\nOrder to cash performance analyses for a Staffing company\n2\nImpact\n•\nAutomation of AR reporting significantly reduced the manual time and effort going into the report creations by up to 80%. The AR analysis also helped \nproactively track the Collection performance of high-risk category customers to reduce bad debt.\n•\nBI dashboards provided visibility into the underperforming collectors and customers. It also helped in identifying learning opportunities from the better \nperforming segments\n•\nAdditionally, the weekly cash forecasting process provides the collectors a targeted list of customers to focus on, to achieve the weekly target\nOrder to cash performance analyses \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\nPhase 1\nPhase 2\nPhase 3\nBefore\nCurrent State\nCleaned and consolidated \nreporting of AR data – \nMapped the AR data with \nstandardized branch \nhierarchy and customer \nattributes\nWeekly Cash Forecast– \nSetup a bottom- up cash \nforecast model to define \ncollection targets for each \nweek, based on past payment \ntrends and invoice due dates\nApplied cash reporting–\nSetup automated reporting for \ntracking daily trends for \napplied cash, corresponding \nsplit applied to current due and \npast due invoices and payment \ntrends\nLive visibility into \nperformance - Enabled daily \nAR performance tracking by \nCollection Managers while \nalso ensuring ease of data \naccessibility \nDeveloped the daily AR \nreport – Automated BI \nreporting to track collection \nmetrics by region, account \ntype and collector\nWeekly expected customer \nlist for payment – Targeted \ncustomer list highlighting the \nexpected collections by \ncustomer to drive weekly \ncollections\nUnapplied cash reporting– \nSet up automated reporting for \ntracking daily trends for \nunapplied cash, key drivers for \ntrends and contribution by \ncustomer type \nImproved Collector \nefficiency – Ensured \nimproved visibility into \ncollector profiles and \ntargeted customer list\nCollector Profile dashboard – \nTracked collector profiles \nbased on overall open \namounts, past dues and past \ndue aging\n$350M+ Open AR across \n10K+ customer parent \naccounts managed by ~25 \ncollectors\nHighly manual mechanism \nof tracking the open AR, \nPast Due%, top customers \nto drive collections, etc.\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nSummary of Open AR and Past \nDue Aging with Flexibility to \ndrill down up to invoice level to \nensure targeted follow ups with \nkey offenders\nType 1\nType 2\nType 3\nType 4\nType 5\nType 1\nType 2\nType 3\nType 4\nType 5\nSummary of outstanding AR by various dimensions\n4\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nSummary of total and past due AR by collector\n5\nCollector Performance summary for Collection \nManagers \nCollector 1\nCollector 2\nCollector 3\nCollector 4\nCollector 5\nCollector 6\nCollector 7\nCollector 1\nCollector 2\nCollector 3\nCollector 4\nCollector 5\nCollector 6\nCollector 7\nCollector 1\nCollector 2\nCollector 3\nCollector 4\nCollector 5\nCollector 6\nCollector 7\nCollector 1\nCollector 2\nCollector 3\nCollector 4\nCollector 5\nCollector 6\nCollector 7\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCollector 1\nCollector 2\nCollector 3\nCollector 4\nCollector 5\nILLUSTRATIVE\nUnapplied cash summary\n6\nType 1\nType 2\nType 4\nType 5\nSummary of key \nfactors \ncontributing to \nthe Unapplied \nCash for the \nweek\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (74).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114195216+05'30'",
+            "modDate": "D:20241114195216+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nILLUSTRATIVE\nWeekly trending of unapplied cash\n7\nVisibility into Week over \nweek trending of open \npayments in $ and # as \nwell as performance \nmetrics such as Avg. \ndelay in payments (DPD) \nand Avg. time to close \npayments\n"
+    }
+]

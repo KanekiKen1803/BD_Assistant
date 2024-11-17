@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173336+05'30'",
+            "modDate": "D:20241114173336+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData Management\n1\n• Built a revamped data architecture including data lakes and a data warehouse \nto streamline data from various transactional, financial, and other third-party \ndata sources.\n• Created the visualization layer in PowerBI which included building new reports \nas well as re-factoring the existing reports to the new data warehouse.\nHealth & Wellness Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173336+05'30'",
+            "modDate": "D:20241114173336+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the CRM system, marketing partners (Facebook, Google, Bing, etc.), accounting system (QuickBooks), customer engagement systems (Zendesk, \nVonage, Trustpilot), and other partners (logistics, payments, etc.) to identify the relevant KPIs and cleanse the data\n•\nBuilt an Azure-based enterprise data warehouse connecting different data sources through data pipelines and transforming the raw data as per business \nrequirements\n•\nCreated tabular data models in Azure Analysis services to create ready-to-serve data cubes and developed automated Power BI dashboards (on top of the \nAzure Analysis services) to analyze the operational and financial performance\n•\nIncorporated automated data validation and reconciliation rules at every step across the ETL process to ensure accuracy and consistency in the  data\nSituation\n•\nThe client needed to streamline the BI reporting infrastructure in order to enable more efficient and reliable reporting\n•\nPartnered with the client to set up an Azure-based enterprise data warehouse and develop automated performance dashboards\nRevamping the Data Architecture to Enable Efficient Reporting \n2\nImpact\n•\nImplemented an enterprise data warehouse that enables the availability of clean and validated data off-the-shelf across the company on a real-time basis\n•\nIntegrated and automated the BI reporting process including performance dashboards with consistent and accurate performance KPIs across different \nfunctions of the business\n•\nImplemented central data access management and enabled easy distribution of reports to the respective owners\nData Management\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173336+05'30'",
+            "modDate": "D:20241114173336+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrior Reporting Processes\nOLAP Analysis\nData Visualization\nSQL Database\nData Sources\nExcel extracts from \npartner web portals\nReporting Layer\nObservations on prior reporting plan:\n▪\nExtracting data from different sources is time consuming, \ninefficient, and creates the possibility of files being corrupted \nduring transmission\n▪\nCreating financial reports was very cumbersome, as raw data \nfrom QuickBooks online needed to be transformed to develop \nthe required financial reports\n▪\nConstrained architecture: time consuming and inefficient  to \nadd a new data source with different data accessibility method\nOperational  Reports\nData Structures\nData, \nReporting, & \nAnalytics\n▪Lack of consistency of data sources across different reports\n▪Prone to errors as the data is manually updated \n▪Lack of availability of real-time data \n▪Data security challenges while extracting the data from different systems and reports distribution\nRun data science \nmodels in local systems\n•\nMarketing performance\n•\nFlash reports\n•\nCustomers analyses\n•\nFinancial reports\n•\nPayments \nreconciliation\n•\nCustomers \nsentiment analyses\nManual cleansing & \nharmonization of data\nAPIs for Mkt. Data\nExcel extracts \nfrom web portals\n•\nOutputs from data \nscience models\n3\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (346).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173336+05'30'",
+            "modDate": "D:20241114173336+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI Infrastructure Implementation\n▪\nBuilt an enterprise data warehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\n▪\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n▪\nCreated a tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes \n▪\nCreated data science models on Apache-spark platform and integrated them in Azure using Databricks, and created automated reporting to showcase the outcomes\n▪\nDeveloped Power BI dashboards on top of the analysis services to monitor and track business performance\nCRM System\nAccounting System\nMarketing Partners\nLogistic Partners\nData Sources\nIngest\nPrep & Train\nModel\nServe\nAutomated ETL Process with E-mail Alerts / Notifications\nPayment Partners\nOther Partners\nCustomer Engagement\nAzure Data \nFactory\nAzure SQL\nAzure Analysis \nServices\nAzure Data \nLakes\n4\n"
+    }
+]

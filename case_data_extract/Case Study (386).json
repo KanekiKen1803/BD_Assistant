@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182508+05'30'",
+            "modDate": "D:20241114182508+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nWeather analysis to drive growth strategy\n1\nAnalyzed the impact of weather catastrophic events on the business \nperformance and categorized revenue streams into recurring and \nnon-recurring to inform growth strategy.\nProperty restoration company that offers internal and external building \ndamage repairs and planned maintenance services\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182508+05'30'",
+            "modDate": "D:20241114182508+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou are in a property restore business with impact of external weather events, but you do not know what is the \ntrue impact of the weather events. You’re looking to understand how business is getting impacted by the weather \nevents and which businesses, geographies are least/most affected by the business and forecast future growth \nwith scenario analysis\nProperty restoration company needs to analyze impact of \nweather on their business\n2\nYour value is enhanced.\n• You were able to quantity that there was a 20-25% revenue addition due to impact of CAT events on your \nbusiness and identify business segments which are least/most impacted due to weather events.\n• You identified category/ type of CAT events that are impacting business revenues significantly across \ngeographies\n• You were able to estimate proportion of earnings that would be generated in normal weather scenario and \nadverse weather scenarios\nCONSUMER\nKEY RESULT   \n•\nIdentified 20-25% \nproportion of revenue \ndriven by catastrophic \nweather events\n•\nCategorized states \ninto low to high CAT \nimpact categories and \nidentified 7 CAT \nevents with high \npositive/ negative \nbusiness impact\nVALUE LEVERS PULLED\n•\nWeather data \nconsolidation at zip \ncode\n•\nExisting Dataset \nassessment\n•\nEvaluation of CAT \nevents impact on \nrevenue \n2\nYou turn to Accordion\nWe partner with your team to identify the impact of CAT (catastrophe) events across different business segments \nand geographies, including:\n1) Exploring different sources including government websites to extract weather data at zip code granularity and \nnormalization of event data\n2) Evaluating of impact of CAT events and their magnitude across states for different business segments\n3) Identifying key CAT events impacting the business revenue\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182508+05'30'",
+            "modDate": "D:20241114182508+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach\n33\nExtracted weather events data along with associated beginning and ending coordinates \nfrom NOAA weather\nMapped weather events with ZIP Code based on the coordinates leveraging API tools \n(Google Geo-coding API and Bing API)\nCompiled the two dataset and merged them to create a unified dataset containing \nweather evets along with respective ZIP codes\nAnalysis Approach\nClaims data for 2 years is considered for the analysis, based on the date of First notice \nof loss for the respective claims\nBuilt a Regression model considering claim amount as the dependent variable and \ncount of weather events as the independent variable. \nSignificant events are considered based on the 80% confidence level (p value < 0.2)\nIdentified Baseline revenue (gross revenue which could be generated without any \ncatastrophic weather event) and CAT Claim Revenue (revenue generated due to \nsignificant weather events)\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182508+05'30'",
+            "modDate": "D:20241114182508+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nOverall Impact Summary of CAT Events\n4\n$20.8 M\n$11.7 M\n$7.6 M\n$14.9 M\n$11.1 M\n$7.5 M\n42%\n49%\n50%\n36%\n38%\n40%\n42%\n44%\n46%\n48%\n50%\n52%\n$0.0 M\n$5.0 M\n$10.0 M\n$15.0 M\n$20.0 M\n$25.0 M\n$30.0 M\n$35.0 M\n$40.0 M\n2021\n2022\n2023 (Till May)\nWeather Impact on Revenue (%)\nRevenue ($)\nImpact of CAT events on revenue across years\nBaseline Revenue ($)\nWeather Impacted Revenue ($)\nWeather Impacted share (%)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (386).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114182508+05'30'",
+            "modDate": "D:20241114182508+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nImpact on business due to different CAT Events\n5\n0\n2\n4\n6\n8\n10\n$0K\n$500K\n$1,000K\n$1,500K\n$2,000K\n1\n4 7 10 13 16 19 22 25 28\n# Events\nRevenue ($)\nMonth\nImpact of Wildfire on State 1 \nRevenue\nRevenue\n#Wildfire Events\n0\n10\n20\n30\n40\n50\n60\n70\n80\n$0K\n$500K\n$1,000K\n$1,500K\n$2,000K\n1\n4 7 10 13 16 19 22 25 28\n# Events\nRevenue ($)\nMonth\nImpact of Flood on State 1 Revenue\nRevenue\n#Flood Events\n0\n20\n40\n60\n80\n100\n120\n140\n$0K\n$500K\n$1,000K\n$1,500K\n$2,000K\n1 4 7 10 13 16 19 222528\n# Events\nRevenue ($)\nMonth\nImpact of Hail on State 1 Revenue\nRevenue\n#Hail Events\n"
+    }
+]

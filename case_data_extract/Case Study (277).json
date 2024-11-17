@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nManaged Services for Private Equity Firm \nInvolving Data Capture and \nStandardization on Chronograph\n1\nEstablished a unified data environment in Chronograph by implementing robust \ndata standardization processes, ensuring a consistent and comprehensive \nfoundation for data analytics and reporting solutions\nPrivate Equity Firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nEstablished robust data validation process to identify anomalies in the Monthly Reporting Packs data, Investment Committee data, and Go-To-Market data \nbefore capturing in Chronograph, offering stakeholders convenient access to a diverse range of accurate financial information\n•\nCaptured non-standard MRPs shared by PortCos by standardizing the metrics and mapping those metrics to appropriate Global Metrics present in \nChronograph. Additionally, created new metrics in Chronograph to map any new KPIs reported by PortCos as per reporting requirement\n•\nSet up automatic reminders for deadlines and approvals while also maintaining a comprehensive audit history for accountability. This approach also allows \ndirect input with the ability to engage in interaction through comments for user-friendly collaboration\nSituation\n•\nThe sponsor was facing challenges in maintaining and supporting the data collection and storage of Monthly Reporting Packs (MRPs) of PortCos in \nChronograph due to varying data reporting templates which resulted in bandwidth utilization and error-prone unconsolidated reporting structure\n•\nPartnered with the client to set up standardized process of capturing MRPs and identify any non-standard reporting templates on an ongoing basis to take \nappropriate actions before capturing them on Chronograph. This enabled consolidation of standard and reliable data, facilitating generation of valuable \ninsights for improved decision-making and value creation\nManaged Services for a Private Equity Firm with AUM greater \nthan USD 100Bn\n2\nImpact\n•\nImproved data quality through robust and automated process enabling more informed decision-making based on accurate Chronograph data portraits\n•\nThe approach focused on providing a structured framework for future financial reporting, ensuring long-term efficiency and effectiveness\n•\nAchieved a ~75% reduction in the entire process of data collection and storage, saving approximately  ~180 – 200  manhours monthly\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData Extraction, Portrait Creation and Capturing Data in Chronograph\n3\nCreate portraits \nfor each file / sheet \nto capture data in \nChronograph\nMap the dates and \nscenarios (Actual/ \nBudget/ Pro-forma \netc.) for all \nportraits\nCapture the data \nand highlight to \nthe Deal team in \ncase of significant \nvariance\nVariance refers to the difference between values reported \nin current cycle compared to previous cycle for same \nperiod (Month/Quarter/Year)\nReview the Chronograph \ndashboard and data \ncaptured for sanity checks\nShare the data for the \nrelevant time period\nUpload the files to \nChronograph and \ncapture the data\nPortfolio \nCompany\nAccordion Team\nCreate/review the \nmapping for each line \nitem in all portraits \nwith Chronograph \nmetrics and set the \nperiod (Monthly, \nQuarterly, LTM) for \nreported data\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMulti Step Validation of Captured Chronograph Data\n4\nReview the \nChronograph \ndashboard and data \ncaptured for sanity \nchecks\nSubmit & Approve the \ndata capture \nhighlighting \nobservations, if any\nReceives an email \nnotifying that the data \ncapture for a particular \nPortCo has been \nsubmitted\nReviews the data \ncaptured in \nChronograph\nApprove the captured \ndata for the period\nNO\nYES\nUpdate \nRequired?\nAccordion Team\nUpdate the mapping/ \ncalculation in \nChronograph based on \nthe suggestions by \nDeal team\nDeal Team\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData Architecture Integrating Chronograph with Data Platform \n5\n1\nPortfolio Companies Data are uploaded / pushed and stored in Chronograph\n2\nData Stored on Chronograph can be integrated to any other database through API\n3\nData Stored on Chronograph can also be integrated through Chronograph Snowflake Plug-and-Play feature ‘Snowbank’\n4\nFund Accounting Data is uploaded in Snowflake Database through MDM\nPortCo data (Financials, \nTalent, Valuation etc.)\nFund Accounting \nData\nExcel\nPower BI\n5\n2\n4\n1\n3\n5\nData on Snowflake DB or any other DB leveraged to build various reports and BI dashboards\nReporting & Analysis\nSnowbank\nOther Database\n5\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExhibit #1 – Creation And Capturing Of Portrait From \nReporting Files\n6\nChronograph metrics to \nbe mapped\nMetrics to be mapped in \nspreadsheet/pdf containing \nPortCo data\nScenarios for Metrics like \nActual, Budget, etc\nFinancial statement/ Sheets in \nreporting pack\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (277).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114160519+05'30'",
+            "modDate": "D:20241114160519+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nExhibit #2 – Approval Workflow\n7\nEach PortCo could have \ndistinguish number of tasks to \ncapture & review the \nfinancials\nAssignee who would capture \nfinancials for a Task and \nwould receive a notification at \na defined cadence\nLayer of various reviewers for \neach Task\nILLUSTRATIVE\n"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "page": 0,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151611+05'30'",
+            "modDate": "D:20241114151611+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nAssessed the existing customer base to identify customers who made an \nupward journey (from low purchase frequency to high purchase frequency) \nthrough their association with the company, and estimated the customer \nlifetime value\nHealthy Food Company\n(Customer Journey Analysis)\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "page": 1,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151611+05'30'",
+            "modDate": "D:20241114151611+05'30'",
+            "trapped": ""
+        },
+        "content": "CUSTOMER JOURNEY ANALYSIS FOR A HEALTHY FOOD COMPANY\nSITUATION\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a healthy food company based out of U.S. that expanded into digital channels recently\n2\n▪There was a need to identify the impact of the digital channels before enhancing the focus and understand overall customer profiles in Retail, \nDigital and Omni channels\n▪Merilytics analyzed the existing customer base, segmented them based on value/frequency and identified drivers that lead to an upward customer \njourney including migration to digital channels and its cannibalization impact\n▪Analyzed transactional data for the past two years to segment the customers based on their Average Order Value and transaction frequency\n▪Identified differences in purchase behavior of High Value and Low Value customers that helped understand the fundamental difference in the way \nthe two segments transact with the company\n▪Segregated the customers who made the upward journey from customers who did not, to identify key points during the journey that led to the \nupward movement\n▪Evaluated the impact of introduction of new digital channels and estimated customer LTV and cannibalization effects\n▪Enabled higher customer LTVs by focusing on factors that drive the upward migration of a customer journey\n▪Enabled the company to invest into the digital channels without risk of cannibalization\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (239).pdf",
+            "page": 2,
+            "total_pages": 3,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114151611+05'30'",
+            "modDate": "D:20241114151611+05'30'",
+            "trapped": ""
+        },
+        "content": "Upward and Downward journeys \nwere identified based on the \ngradient of the rolling 3 period \n(R3P) avg. of transaction \nfrequency\nJourney patterns are identified \nbased on frequency gradient and \n#transactions (in initial periods)\n0\n1\n2\n3\n4\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\nAvg. frequency, #\nLife (in Periods)\nHigh-High\nLow-High\nHigh-Low\nLow-Low\nPhase-2\nPhase-3\nPhase-1\nAverage Frequency by journey pattern, over period of association, #\nCustomers who make an upward \njourney typically transition \nbetween 4-13 weeks after their \nfirst purchase\nAPPROACH & METHODOLOGY\n3\n"
+    }
+]

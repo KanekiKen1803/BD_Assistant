@@ -1,0 +1,202 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 0,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nServices\nData Warehouse And BI Infrastructure Design \nAnd Implementation\nWomen’s Healthcare \nProvider\nIntegrated both On-premises and Cloud Hosted EMR and \nPractice Management systems (eCW - eClinicalWorks,  \nOrchardSoft, Paycom, etc.) with Azure Synapse Data \nWarehouse environment and built a centralized reporting \ninfrastructure on Azure platform, to provide real-time \nvisibility into the business operations\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 1,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "2\nIntegrated both On-premises and Cloud Hosted EMR and Practice Management \nsystems (eCW - eClinicalWorks,  OrchardSoft, Paycom, etc.) with Azure Synapse Data \nWarehouse environment and built a centralized reporting infrastructure on Azure \nplatform, to provide real-time visibility into the business operations\nData Warehouse And BI Infrastructure Design And Implementation\n(Women’s Healthcare Provider)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 2,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "INTEGRATION OF EMR SYSTEM WITH AZURE DW FOR A WOMEN’S HEALTHCARE PROVIDER\nSITUATION\n▪Opportunity to revamp the reporting capabilities that provide the executive team better transparency and insights to business performance. Direct \naccess was not available to RCM and EMR data, and team relied on Enterprise Business Optimizer (EBO) or front-end reports provided by ERP systems\n▪Merilytics partnered with the client to build robust and scalable Datawarehouse by integrating EMR/RCM data from eCW, Lab data from OrchardSoft \nHarvest and Payroll data from Paycom/Dayforce. This data infrastructure was leveraged to build out operations and RCM dashboards on Power BI\n▪Analyzed both on-premises and Cloud based eCW data sources and developed end-to-end BI infrastructure for supporting multiple verticals and providing \ncentralized reporting solution\n▪Developed more than 180+ secure data processing pipelines on Azure Synapse for daily data capture. Created custom-coded ETL process for handling \nTransaction log shipping process for cloud hosted eCW integration using Azure VM\n▪Created user friendly data models for custom report building and created single source of truth in the form of facts and dimension tables across functions\n▪Developed Power BI Dashboards for RCM and Operations functions along with an executive dashboard encompassing critical KPIs across the company\nVALUE ADDITION\nIMPACT\nABOUT THE CLIENT\nClient is a U.S.-based leading specialty women’s health physician group offering patient care in obstetrics and gynecology\n3\n▪Significantly reduced manual and time-consuming data management processes by creating central repository that provides clean, sanitized, and \ntransformed data. Also, data integration from new verticals or regions became seamless.\n▪Reduction in time lag (from 2 days to 1 day) for data availability from eCW which further helped the business team to work with the latest data\n▪Provided better visibility into the business performance by creating advanced consolidated dashboards and provided flexibility to stakeholders to extract \nessential data as per requirements from a central data repository\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 3,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "PRIOR DATA ARCHITECTURE\n4\nObservations on prior architecture: \n▪Production database was hosted on Azure cloud for \nRegion 1 and on-premises server in Region 2\n▪Client was restoring data in the on-premises \nenvironment using incremental logs in Region 1 and \nfull database backup restore in Region 2\n▪Set of 3 databases were used for data movement using \nSSIS packages and stored procedures\n▪Data from reporting database was used to feed \n“paginated reports” (RDLs) on the Power BI reporting \nserver (on-premises)\n▪Difficulty in consolidating reports from two regions\neClinicalWorks \neCW Production \nDatabase server\n(hosted on Azure)\nSQL SERVER - 1\nPower BI \nPremium \nReporting server \n(on-premises)\nLog shipping - Daily\nProduction\nETL\nReporting\nData extracts \nfrom Power \nBI reports\nData preparation layer\nReporting layer\neCW Application layer\nREGION 1\neClinicalWorks \neCW Production \nDatabase server\n(On-premises)\nSQL SERVER - 2\nPower BI \nPremium \nReporting server \n(on-premises)\nFull Database restore\nProduction\nETL\nReporting\nData extracts \nfrom Power \nBI reports\nREGION 2\nData \nStructures\nReporting and \nAnalytics\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 4,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "Notes:\nRegion 1 – Cloud hosted eCW Server\n▪\nHosted two SQL Database on Azure VM, where the \nlog shipping process is carried on and restored the \nRegion 1 database.\n▪\nThe selected tables for reporting are copied into a \ncopy database.\n▪\nData pipelines are created to ingest data into Azure \nSynapse on daily basis.\n▪\nOverall restoring and data capturing time is reduced \nto 1 day due to faster compute power on cloud and \nselective copy process instead of complete database \nrestore.\nRegion 2 – On premises eCW Server\n▪\nIntegration runtime is installed on Azure VM which \ncreates link between Azure Synapse and Secondary \nserver on eCW (eCW doesn’t allow direct access to \nproduction from security standpoint).\n▪\nData pipelines are created to ingest data into Azure \nSynapse on daily basis.\nData from Azure Synapse is then further used for data \nmodeling and reporting. \nMETHODOLOGY/ APPROACH\n5\neCW Production Server \nOn Cloud (Region 1)\nLog shipping – target Database\nData pipelines in \nAzure Synapse\nAzure Synapse – SQL \nPool\nAzure Data Lake \nStorage\nLog Shipping\nSQL Server \nAgent jobs\nData pipelines in \nAzure Synapse\neCW Secondary Server\nOn premises (Region 2)\nSelf Hosted Integration \nRuntime\nIntermediate layer\nData Warehouse layer\neCW Application layer\nAzure VM\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 5,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "OVERALL DATA ARCHITECTURE FRAMEWORK IMPLEMENTED\n6\nModel\neClinicalWorks\neCW Production Database \nserver(hosted on Azure)\nAutomated \ndashboards for \nExecutive team\nAutomated Excel \ndashboards\nSecurity\nCustom ETL jobs and Code \nrepository\nMonitoring and Logging\nIngest\nStore\nSource systems\neClinicalWorks\neCW Production Database \nserver(on-premises)\nAS Production Database \nserver(on-premises)\nAllscripts\nHarvest/Copia Production \nDatabase server(on-premises)\nATS database (AWS Athena)\nOther source systems\nAzure Synapse \nAnalytics\n(Data Pipelines)\nAzure Data Lake \nStorage\n(Central repository)\nAzure Synapse Analytics\n(SQL Datawarehouse)\nPolyBase\nAzure Analysis Services\nPaginated reports \nfor Operations team\nPrep and Train\nServe\nAD\nAKM\nFunctions\nLogic \nApps\nDevOps\nMonitor\nInsights\nLog \nAnalytics\n2\n1\n3\n4\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 6,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE DASHBOARD – PRIOR TO DATA ARCHITECTURE IMPLEMENTATION\nILLUSTRATIVE\n7\nSeparate report for each Region \nwith no user selected slicers\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 7,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE DASHBOARD – AFTER DATA ARCHITECTURE IMPLEMENTATION\n8\nSingle dashboard \nfor all Regions with \nother data slicers\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 8,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE DASHBOARD – AFTER DATA ARCHITECTURE IMPLEMENTATION\n9\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (304).pdf",
+            "page": 9,
+            "total_pages": 10,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114164056+05'30'",
+            "modDate": "D:20241114164056+05'30'",
+            "trapped": ""
+        },
+        "content": "ILLUSTRATIVE DASHBOARD – AFTER DATA ARCHITECTURE IMPLEMENTATION\n10\nILLUSTRATIVE\n"
+    }
+]

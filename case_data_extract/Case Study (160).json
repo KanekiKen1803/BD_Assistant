@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "Formulated an excel based model to estimate & analyze the Market \nShare trends on a Product Category/Sub-category level for each \nRegion\nStrategy Category Model\n(Luxury Makeup Cosmetics Brand)\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "Strategy Category Model for Cosmetics Manufacturer\nSITUATION\n▪Client had to prepare the Retail Sales strategy for the next 3 years by analyzing the Market Share trends on a Product Category/Sub-category level for \neach Region based on the high-level Client Sales & Market growth projections with the historical market share data as the reference. \n▪Merilytics partnered with the client to build an automated excel model projecting the Market Share & Ranks for the brand from the next 3 years and \nprovided the flexibility to the client to make changes to the model with minimum effort\n▪Consolidated huge volume of data including the historical Market Share data & Client Sales data and extracted the required information for the model\n▪Built excel macros to calculate the Market & Client Sales projections on a Product Category/Sub-category level for each Region based on the high-level \nGlobal Market Growth projections & Client Sales projections\n▪Categorized the Sales projections to new/base products & focus/other products leveraging the historical data and transforming it as per the \nrequirements\n▪Provided the flexibility to update the projections based on the selection of high, medium or low growth scenarios\n▪Prepared a matrix for Top Brands with their Rank and Market Share for all the product categories across all the regions based on the model\nVALUE ADDITION\nIMPACT\n▪Overview of the projected Market Share & Ranks enabled the client to identify and work on focus areas and enhance the strategy to achieve or \nexceed the future targets, leading to increased Sales & Market share\n▪Implemented the excel model with linked files and moved to the client environment enabling the client to easily update the source files thereby \nreducing effort & turnaround time\nABOUT THE CLIENT\nClient is one of the largest Cosmetics Manufacturer brand with a global presence\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "3\n▪\nCleansed & consolidated all the data sources and created intermediate files by linking the \nappropriate data\n▪\nIngested the applicable information to the excel model using the intermediate files\n▪\nBuilt the structure of the model and linked relevant data\n▪\nProjected the Market Share for next 3 years based on the historical data & high-level \nmarket growth & sales assumptions\n▪\nCalculated the client sales based on the market share across each categories and based on \nproduct type\n▪\nInvolved excel macros to update the projections in case of any changes in the data sources\n▪\nValidated the projected market share & sales data and modified the calculations for \noutliers caused due to data anomalies\n▪\nLinked the model with all the relevant files\nPREPARATION OF EXCEL \nMODEL\nDATA INGESTION & \nCLEANING\nMethodology/Approach to prepare the data\nMODEL VALIDATION & \nENHANCEMENTS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "Architecture Diagram to show the data flow\n4\nOutput Data\nInput Data\nHigh-level Client Sales Projections\nHigh-level Market Growth \nProjections\nGlobal Market Share Data (Actuals)\nClient Sales Data (Actuals)\nClient Sales Projections for new & focus \nproducts\nStrategy Model\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "Innovation Strategy Model – Summary View\nILLUSTRATIVE\n5\nMarket Share and Rank \n-Actuals\nMarket Share and Rank \n- Projections\nGlobal Market Growth \nProjections\nClient Sales \nProjections\nMarket Share \ndata at Sub-\nCategory level\nConsolidation \nat Application \n& Major-\nCategory level\nEXTRAPOLATION\nRepresents Client's Share.\nInnovation Model\nMarket Growth\nSales - Market\nSales - Client\nRegion\nMajor \nCategory\nApplication\nSubcategory\nShare\nProj. \nRank\nShare\nProj. \nRank\nShare\nProj. \nRank\nShare\nProj. \nRank\nShare\nProj. \nRank\nCAGR\nRS\nRS\nRS\nRS\nRS\nRS\nRS\nRS\nRS\nRS\nYoY% RS YoY% RS YoY% RS YoY% RS\nGS\nGS\nGS\nGS\nGS\nYoY%\nYoY%\nYoY%\nYoY%\nMarket Market Market Market Market Client\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nClient\nFY22\nFY23\nFY24\nFY25\nFY26\nFY23\nFY24\nFY25\nFY26\nFY22\nFY23\nFY24\nFY25\nFY26\nFY22\nFY23\nFY24\nFY25\nFY26\nFY23\nFY24\nFY25\nFY26\nFY22\nFY23\nFY24\nFY25\nFY26\nEMEA\nMakeup\nLIP\n9.9%\n#4\n9.3%\n#5\n9.5%\n#4\n9.4%\n#6\n9.4%\n#5\n22.6%\n10.1%\n8.2%\n10.4%\n9.6%\n193\n      \n236\n      \n260\n      \n282\n      \n311\n      \n19\n        \n22\n        \n25\n        \n26\n        \n29\n        \n15.1%\n12.6%\n6.6%\n11.0%\n107\n         \n118\n         \n131\n         \n138\n         \n151\n         \nEMEA\nMakeup\nFace\n7.8%\n#3\n8.2%\n#4\n8.6%\n#2\n8.8%\n#2\n9.2%\n#3\n10.1%\n6.3%\n6.8%\n7.5%\n6.9%\n375\n      \n413\n      \n439\n      \n469\n      \n504\n      \n29\n        \n34\n        \n38\n        \n41\n        \n46\n        \n17.0%\n10.9%\n9.8%\n11.9%\n137\n         \n154\n         \n171\n         \n186\n         \n207\n         \nEMEA\nMakeup\nFace Color\n7.6%\n#3\n6.4%\n#4\n7.0%\n#4\n6.9%\n#4\n7.0%\n#4\n10.9%\n6.0%\n7.3%\n7.5%\n6.9%\n92\n        \n102\n      \n108\n      \n116\n      \n125\n      \n7\n          \n7\n          \n8\n          \n8\n          \n9\n          \n-6.1%\n14.5%\n6.0%\n9.2%\n47\n           \n45\n           \n47\n           \n50\n           \n54\n           \nEMEA\nMakeup\nEYE\n5.4%\n#5\n7.0%\n#4\n7.2%\n#4\n8.1%\n#4\n8.7%\n#4\n8.4%\n5.7%\n6.1%\n7.2%\n6.3%\n358\n      \n388\n      \n410\n      \n435\n      \n467\n      \n19\n        \n27\n        \n29\n        \n35\n        \n41\n        \n39.9%\n9.1%\n20.1%\n14.4%\n88\n           \n121\n         \n99\n           \n162\n         \n191\n         \nEMEA\nMakeup\nOther Makeup\n2.5%\n#9\n1.6%\n#13\n1.6%\n#13\n1.6%\n#13\n1.6%\n#13\n11.8%\n6.7%\n6.8%\n6.7%\n6.7%\n160\n      \n179\n      \n191\n      \n204\n      \n217\n      \n4\n          \n3\n          \n3\n          \n3\n          \n3\n          \n-28.7%\n8.4%\n5.2%\n6.9%\n45\n           \n28\n           \n17\n           \n17\n           \n18\n           \nEMEA\nMakeup\nMakeup\n6.7%\n#5\n7.0%\n#6\n7.3%\n#7\n7.6%\n#9\n7.9%\n#5\n11.9%\n6.9%\n6.9%\n7.8%\n7.2%\n1,178\n  \n1,319\n  \n1,409\n  \n1,506\n  \n1,624\n  \n79\n        \n93\n        \n103\n      \n115\n      \n128\n      \n17.8%\n11.0%\n11.6%\n12.1%\n424\n         \n466.1\n     \n466\n         \n553\n         \n620\n         \nEMEA\nSkincare\nSKINCARE\n0.4%\n#30\n0.4%\n#30\n1.4%\n#18\n1.7%\n#16\n1.9%\n#16\n7.0%\n6.9%\n6.6%\n7.8%\n7.1%\n1,499\n  \n1,604\n  \n1,714\n  \n1,827\n  \n1,970\n  \n6\n          \n7\n          \n24\n        \n31\n        \n37\n        \n11.5%\n240.2%\n29.1%\n21.0%\n18\n           \n21.3\n       \n32\n           \n42\n           \n51\n           \nEMEA\nFragrance\nFragrance\n0.0%\n#56\n0.0%\n#65\n0.0%\n#45\n0.0%\n#34\n0.0%\n#46\n5.9%\n6.4%\n6.3%\n7.9%\n6.9%\n3,500\n  \n3,705\n  \n3,943\n  \n4,191\n  \n4,523\n  \n0\n          \n0\n          \n0\n          \n0\n          \n0\n          \n17.3%\n6.4%\n6.3%\n7.9%\n0\n             \n0\n             \n0\n             \n0\n             \n0\n             \nEMEA\nTotal \n1.4%\n#12\n1.5%\n#14\n1.8%\n#11\n1.9%\n#14\n2.0%\n#11\n7.3%\n6.6%\n6.5%\n7.9%\n7.0%\n6,177\n  \n6,627\n  \n7,066\n  \n7,525\n  \n8,117\n  \n85\n        \n100\n      \n127\n      \n145\n      \n166\n      \n17.3%\n27.1%\n14.9%\n14.0%\n443\n         \n488\n         \n498\n         \n596\n         \n671\n         \nEMEA\nMakeup\nLIP\nLipstick\n10.0%\n#3\n9.6%\n#3\n9.8%\n#3\n9.6%\n#3\n9.7%\n#3\n10.8%\n11.8%\n8.3%\n10.4%\n10.2%\n70\n        \n78\n        \n87\n        \n94\n        \n104\n      \n7\n          \n7\n          \n9\n          \n9\n          \n10\n        \n6.9%\n13.7%\n6.4%\n10.7%\n70\n           \n73\n           \n81\n           \n84\n           \n91\n           \nEMEA\nMakeup\nLIP\nLip Liquid\n30.0%\n#2\n27.2%\n#3\n28.4%\n#3\n28.1%\n#3\n28.6%\n#2\n46.1%\n14.4%\n15.3%\n10.4%\n13.3%\n5\n          \n7\n          \n8\n          \n10\n        \n11\n        \n2\n          \n2\n          \n2\n          \n3\n          \n3\n          \n32.6%\n19.4%\n14.1%\n12.5%\n10\n           \n13\n           \n15\n           \n17\n           \n19\n           \nEMEA\nMakeup\nLIP\nLip Gloss\n2.2%\n#11\n3.0%\n#7\n3.3%\n#6\n3.4%\n#6\n3.7%\n#6\n4.9%\n8.1%\n8.1%\n7.9%\n8.0%\n35\n        \n37\n        \n40\n        \n43\n        \n46\n        \n1\n          \n1\n          \n1\n          \n1\n          \n2\n          \n45.4%\n17.9%\n13.1%\n14.9%\n7\n             \n10\n           \n11\n           \n13\n           \n14\n           \nEMEA\nMakeup\nLIP\nPrimers (Lip)\n25.0%\n#2\n14.7%\n#2\n14.8%\n#2\n14.4%\n#2\n14.3%\n#2\n17.6%\n15.0%\n10.7%\n10.0%\n11.9%\n2\n          \n2\n          \n3\n          \n3\n          \n3\n          \n1\n          \n0\n          \n0\n          \n0\n          \n0\n          \n-30.8%\n15.8%\n7.6%\n9.2%\n3\n             \n2\n             \n2\n             \n2\n             \n3\n             \nEMEA\nMakeup\nFace\nLiquid Foundation 3.1%\n#10\n3.0%\n#10\n3.8%\n#9\n4.0%\n#9\n4.4%\n#6\n8.1%\n3.5%\n6.5%\n5.1%\n5.0%\n70\n        \n76\n        \n78\n        \n83\n        \n88\n        \n2\n          \n2\n          \n3\n          \n3\n          \n4\n          \n4.6%\n29.9%\n10.3%\n17.5%\n50\n           \n51\n           \n65\n           \n70\n           \n81\n           \nEMEA\nMakeup\nFace\nCushion Foundation0.0%\n-\n0.0%\n-\n0.0%\n-\n0.0%\n-\n0.0%\n#\n7.9%\n5.0%\n5.1%\n5.8%\n5.3%\n7\n          \n8\n          \n8\n          \n8\n          \n9\n          \n-\n      \n-\n      \n-\n      \n-\n      \n-\n      \n0.0%\n0.0%\n0.0%\n0.0%\n2\n             \n2\n             \n-\n         \n-\n         \n-\n         \nEMEA\nMakeup\nFace\nCream Foundation Com\n18.3%\n#1\n17.0%\n#1\n17.1%\n#1\n16.6%\n#1\n16.5%\n#1\n10.9%\n6.0%\n3.8%\n8.7%\n6.2%\n3\n          \n3\n          \n4\n          \n4\n          \n4\n          \n1\n          \n1\n          \n1\n          \n1\n          \n1\n          \n2.6%\n6.7%\n0.9%\n7.9%\n1\n             \n1\n             \n1\n             \n1\n             \n1\n             \nEMEA\nMakeup\nFace\nOther Foundation 5.9%\n#6\n6.2%\n#6\n6.3%\n#6\n6.1%\n#6\n6.0%\n#6\n9.1%\n4.8%\n6.5%\n7.3%\n6.2%\n125\n      \n136\n      \n143\n      \n152\n      \n163\n      \n7\n          \n8\n          \n9\n          \n9\n          \n10\n        \n14.4%\n5.5%\n3.6%\n6.5%\n7\n             \n7\n             \n7\n             \n7\n             \n8\n             \nEMEA\nMakeup\nFace\nFACE POWDER\n9.8%\n#3\n10.9%\n#2\n10.9%\n#2\n11.1%\n#2\n11.3%\n#2\n10.3%\n5.0%\n4.7%\n5.2%\n5.0%\n45\n        \n50\n        \n52\n        \n55\n        \n57\n        \n4\n          \n5\n          \n6\n          \n6\n          \n6\n          \n22.6%\n5.7%\n6.5%\n6.8%\n10\n           \n12\n           \n12\n           \n13\n           \n13\n           \nEMEA\nMakeup\nFace\nCONCEALER\n12.7%\n#1\n13.2%\n#1\n13.3%\n#1\n13.9%\n#1\n14.3%\n#1\n8.7%\n6.8%\n4.1%\n8.1%\n6.3%\n55\n        \n60\n        \n64\n        \n67\n        \n72\n        \n7\n          \n8\n          \n8\n          \n9\n          \n10\n        \n12.6%\n7.6%\n8.9%\n11.2%\n20\n           \n22\n           \n23\n           \n25\n           \n27\n           \nEMEA\nMakeup\nFace\nSetting Spray\n40.0%\n#1\n40.9%\n#1\n41.2%\n#1\n44.4%\n#1\n46.4%\n#1\n19.8%\n15.6%\n13.8%\n15.3%\n14.9%\n10\n        \n12\n        \n14\n        \n16\n        \n18\n        \n4\n          \n5\n          \n6\n          \n7\n          \n8\n          \n22.6%\n16.4%\n22.7%\n20.2%\n10\n           \n12\n           \n14\n           \n16\n           \n19\n           \nEMEA\nMakeup\nFace\nTinted Moisturizer6.7%\n#5\n7.8%\n#4\n8.9%\n#4\n9.1%\n#4\n9.8%\n#4\n30.3%\n18.8%\n14.5%\n12.7%\n15.3%\n15\n        \n20\n        \n23\n        \n27\n        \n30\n        \n1\n          \n2\n          \n2\n          \n2\n          \n3\n          \n52.6%\n35.0%\n17.6%\n21.1%\n2\n             \n3\n             \n4\n             \n5\n             \n5\n             \nEMEA\nMakeup\nFace Color\nHighlighter\n57.1%\n#1\n52.4%\n#1\n52.8%\n#1\n51.3%\n#1\n50.9%\n#1\n6.9%\n11.6%\n11.0%\n8.7%\n10.4%\n7\n          \n7\n          \n8\n          \n9\n          \n10\n        \n4\n          \n4\n          \n4\n          \n5\n          \n5\n          \n-2.0%\n12.4%\n8.0%\n7.9%\n22\n           \n21\n           \n23\n           \n24\n           \n26\n           \nEMEA\nMakeup\nFace Color\nBlush\n6.7%\n#3\n6.4%\n#3\n6.5%\n#3\n6.3%\n#3\n6.2%\n#3\n11.9%\n7.3%\n5.4%\n6.8%\n6.5%\n30\n        \n34\n        \n36\n        \n38\n        \n41\n        \n2\n          \n2\n          \n2\n          \n2\n          \n3\n          \n7.6%\n8.0%\n2.5%\n6.0%\n20\n           \n21\n           \n22\n           \n22\n           \n23\n           \nEMEA\nMakeup\nFace Color\nBronzer\n0.0%\n-\n0.0%\n-\n0.5%\n#27\n0.5%\n#28\n0.7%\n#24\n8.7%\n4.2%\n7.5%\n7.2%\n6.3%\n46\n        \n50\n        \n52\n        \n56\n        \n60\n        \n-\n-\n      \n0\n          \n0\n          \n0\n          \n0.0%\n0.0%\n4.5%\n60.8%\n4\n             \n3\n             \n-\n         \n1\n             \n2\n             \nEMEA\nMakeup\nFace Color\nOther Face Color 11.1%\n#3\n4.6%\n#8\n4.6%\n#8\n4.5%\n#8\n4.4%\n#8\n21.9%\n5.9%\n9.0%\n9.6%\n8.2%\n9\n          \n11\n        \n12\n        \n13\n        \n14\n        \n1\n          \n1\n          \n1\n          \n1\n          \n1\n          \n-50.0%\n6.7%\n5.9%\n8.8%\n1\n             \n0\n             \n3\n             \n3\n             \n3\n             \nEMEA\nMakeup\nEYE\nEYE SHADOW\n5.5%\n#5\n5.4%\n#5\n5.5%\n#5\n7.0%\n#3\n7.9%\n#3\n12.2%\n8.8%\n6.7%\n8.6%\n8.1%\n55\n        \n62\n        \n67\n        \n72\n        \n78\n        \n3\n          \n3\n          \n4\n          \n5\n          \n6\n          \n12.1%\n9.6%\n36.8%\n21.2%\n22\n           \n24\n           \n26\n           \n35\n           \n41\n           \nEMEA\nMakeup\nEYE\nEYE SHADOW Palette\n60.0%\n#1\n68.9%\n#1\n70.7%\n#1\n68.7%\n#1\n68.9%\n#1\n11.2%\n7.3%\n8.6%\n9.7%\n8.6%\n10\n        \n11\n        \n12\n        \n13\n        \n14\n        \n6\n          \n8\n          \n8\n          \n9\n          \n10\n        \n27.8%\n10.1%\n5.6%\n10.0%\n6\n             \n8\n             \n8\n             \n8\n             \n9\n             \nEMEA\nMakeup\nEYE\nBROW\n8.9%\n#2\n11.7%\n#2\n12.5%\n#2\n12.7%\n#2\n13.2%\n#2\n8.5%\n4.9%\n7.9%\n5.3%\n6.0%\n45\n        \n49\n        \n51\n        \n55\n        \n58\n        \n4\n          \n6\n          \n6\n          \n7\n          \n8\n          \n42.6%\n12.4%\n9.1%\n9.7%\n10\n           \n14\n           \n15\n           \n16\n           \n18\n           \nEMEA\nMakeup\nEYE\nMASCARA\n0.7%\n#20\n0.9%\n#17\n0.1%\n#38\n1.6%\n#15\n2.0%\n#15\n5.8%\n3.1%\n4.4%\n8.1%\n5.2%\n150\n      \n159\n      \n163\n      \n171\n      \n185\n      \n1\n          \n1\n          \n0\n          \n3\n          \n4\n          \n42.6%\n-82.8% 1018.5%\n32.4%\n25\n           \n35\n           \n5\n             \n54\n           \n70\n           \nEMEA\nMakeup\nEYE\nEYE LINERS\n5.2%\n#8\n8.4%\n#4\n8.9%\n#4\n8.9%\n#4\n9.2%\n#2\n10.3%\n8.0%\n6.5%\n4.7%\n6.4%\n77\n        \n85\n        \n92\n        \n98\n        \n102\n      \n4\n          \n7\n          \n8\n          \n9\n          \n9\n          \n77.6%\n15.2%\n6.4%\n8.3%\n20\n           \n35\n           \n39\n           \n41\n           \n43\n           \nEMEA\nMakeup\nEYE\nPrimers (Eye)\n12.5%\n#4\n16.1%\n#2\n20.7%\n#2\n21.6%\n#2\n24.4%\n#1\n18.5%\n15.0%\n16.7%\n15.7%\n15.8%\n8\n          \n9\n          \n11\n        \n13\n        \n15\n        \n1\n          \n2\n          \n2\n          \n3\n          \n4\n          \n52.6%\n48.2%\n21.7%\n30.8%\n2\n             \n3\n             \n4\n             \n5\n             \n7\n             \nEMEA\nMakeup\nOther MakeupBrushes & Applicators\n0.0%\n-\n0.0%\n-\n0.0%\n-\n0.0%\n-\n0.0%\n#\n12.5%\n5.7%\n5.7%\n5.9%\n5.8%\n30\n        \n34\n        \n36\n        \n38\n        \n40\n        \n-\n      \n-\n      \n-\n      \n-\n      \n-\n      \n0.0%\n0.0%\n0.0%\n0.0%\n22\n           \n12\n           \n-\n         \n-\n         \n-\n         \nEMEA\nMakeup\nOther MakeupAccessories\n1.4%\n#12\n1.0%\n#16\n1.0%\n#16\n1.0%\n#16\n1.0%\n#16\n12.4%\n5.8%\n5.0%\n5.3%\n5.4%\n70\n        \n79\n        \n83\n        \n87\n        \n92\n        \n1\n          \n1\n          \n1\n          \n1\n          \n1\n          \n-22.4%\n6.5%\n2.1%\n4.5%\n8\n             \n6\n             \n6\n             \n6\n             \n6\n             \nEMEA\nMakeup\nOther MakeupCross Category\n5.0%\n#3\n3.1%\n#5\n3.2%\n#5\n3.1%\n#7\n3.0%\n#8\n10.5%\n8.4%\n9.3%\n8.6%\n8.8%\n60\n        \n66\n        \n72\n        \n79\n        \n85\n        \n3\n          \n2\n          \n2\n          \n2\n          \n3\n          \n-30.8%\n9.1%\n6.3%\n7.8%\n15\n           \n10\n           \n11\n           \n11\n           \n12\n           \nEMEA\nSKINCARE\nSKINCARE\nMoisturizer\n0.2%\n#44\n0.2%\n#39\n0.2%\n#44\n0.2%\n#45\n0.2%\n#44\n6.9%\n6.3%\n7.1%\n8.2%\n7.2%\n550\n      \n588\n      \n625\n      \n669\n      \n724\n      \n1\n          \n1\n          \n1\n          \n1\n          \n1\n          \n22.2%\n-8.0%\n-3.5%\n21.0%\n9\n             \n11\n           \n10\n           \n10\n           \n12\n           \nEMEA\nSKINCARE\nSKINCARE\nCleansers / Removers\n0.4%\n#33\n1.5%\n#12\n1.9%\n#12\n3.4%\n#9\n3.8%\n#8\n4.8%\n5.7%\n5.7%\n5.6%\n5.7%\n115\n      \n120\n      \n127\n      \n135\n      \n142\n      \n0\n          \n2\n          \n2\n          \n5\n          \n5\n          \n300.0%\n37.3%\n86.7%\n21.0%\n1\n             \n4\n             \n5\n             \n10\n           \n12\n           \nEMEA\nSKINCARE\nSKINCARE\nSerums & Essences1.4%\n#20\n0.6%\n#22\n7.5%\n#4\n8.0%\n#4\n8.8%\n#3\n12.9%\n10.2%\n7.8%\n10.0%\n9.3%\n210\n      \n237\n      \n261\n      \n282\n      \n310\n      \n3\n          \n2\n          \n20\n        \n23\n        \n27\n        \n-50.0% 1206.9%\n14.8%\n21.0%\n2\n             \n1\n             \n13\n           \n15\n           \n18\n           \nEMEA\nSKINCARE\nSKINCARE\nWatery /Treatment25.0%\n#1\n48.1%\n#1\n7.8%\n#4\n43.3%\n#1\n48.6%\n#1\n3.9%\n4.6%\n6.2%\n7.9%\n6.2%\n4\n          \n4\n          \n4\n          \n5\n          \n5\n          \n1\n          \n2\n          \n0\n          \n2\n          \n2\n          \n100.0%\n-83.1%\n489.5%\n21.0%\n1\n             \n2\n             \n0\n             \n2\n             \n2\n             \nEMEA\nSKINCARE\nSKINCARE\nSun – Face\n2.7%\n#8\n0.8%\n#15\n0.1%\n#36\n0.1%\n#40\n0.1%\n#38\n17.8%\n15.7%\n13.7%\n9.5%\n12.9%\n20\n        \n24\n        \n27\n        \n31\n        \n34\n        \n1\n          \n0\n          \n0\n          \n0\n          \n0\n          \n-66.7%\n-85.2%\n-15.3%\n21.0%\n3\n             \n1\n             \n0\n             \n0\n             \n0\n             \nEMEA\nSKINCARE\nSKINCARE\nOther SC\n0.1%\n#108\n0.1%\n#103\n0.1%\n#101\n0.1%\n#70\n0.1%\n#67\n5.1%\n6.0%\n5.6%\n6.9%\n6.2%\n600\n      \n630\n      \n668\n      \n706\n      \n755\n      \n0\n          \n0\n          \n0\n          \n1\n          \n1\n          \n12.4%\n12.2%\n81.7%\n21.0%\n2\n             \n2\n             \n3\n             \n5\n             \n6\n             \nEMEA\nFragrance\nFragrance\nFragrance\n0.0%\n#410\n0.0%\n#398\n0.0%\n#398\n0.0%\n#398\n0.0%\n#398\n5.9%\n6.4%\n6.3%\n7.9%\n6.9%\n3,500\n  \n3,705\n  \n3,943\n  \n4,191\n  \n4,523\n  \n0\n          \n0\n          \n0\n          \n0\n          \n0\n          \n17.3%\n6.4%\n6.3%\n7.9%\n0\n             \n0\n             \n0\n             \n0\n             \n0\n             \nFY23-26\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (160).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114133632+05'30'",
+            "modDate": "D:20241114133632+05'30'",
+            "trapped": ""
+        },
+        "content": "Innovation Strategy Model – Innovation/Cannibalization\nILLUSTRATIVE\n6\nActual Sales\nWaterfall chart to \nrepresent the \nSource of Sales \nGrowth\nProjected Sales\n"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 0,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI Infrastructure Assessment/Diagnostics \n1\n• Complex operational processes with multiple systems/applications interacting \nwith each other leading to inefficiencies in reporting including with single person \ndependence. \n• Underutilized tech stack and with scattered knowledge base and usage of the \ntools \nAgile, Lean and DevOps at scale framework provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 1,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nReviewed and assessed current state technology infrastructure, business processes and people controls in place and identified opportunities \nin Data ingestion process, infrastructure and security, and Process governance.\n•\nCreated current state data lineage and data flow diagrams to provide visibility into reporting and data architecture. Analyzed the patterns and \nidentified key areas which can be revamped or automated to meet future state requirements.\n•\nConsolidated all requirements and brainstormed with Business and Technology stakeholders to map data sources and process which need to \nbe setup for automated reporting.\n•\nDeveloped a future state data architecture with optimized tools stack, providing enhanced cost control and making it more end user friendly\nSituation\n•\nClient leverages Snowflake as their Data Warehouse solution which was not designed as per industry best practices. Manual effort is required \nfor reporting as it is heavily dependent on a single resource. The logic to build KPIs/Metrics is done from the poor quality of data and absence \nof process  documents or any master and mapping data makes reporting complicated.\n•\nPartnered with the client to perform a diagnostic study to find out gaps and opportunities in both data architecture and reporting suite.\n2\nImpact\n•\nProposed a unified and scalable technical architecture by leveraging single ETL tool to achieve scale and expertise on the tool; proposed \nindustry standard data modeling technique to overcome inefficiencies in reporting and provide drill-down capabilities in the reports. The \nrecommended architecture will increase data quality from 95% to 100%.\n•\nProposed to reorganize the reporting datasets to ensure data is ingested uniformly into Snowflake Data Warehouse and the source for all \nreporting happens from Snowflake Data Warehouse. The proposed automated solution will eliminate 4 hrs of manual weekly efforts.\n•\nProposed end-to-end automation of the data flow to generate and display KPIs/Metrics and remove any manual dependency and human error \nleading the consistent and timely reporting.\nData architecture and reporting infrastructure assessment \nBI INFRASTRUCTURE \nASSESSMENT/DIAGNOSTICS \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 2,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to perform a diagnostic study to find out gaps and opportunities in both data architecture and reporting suite. At \npresent, you leverage snowflake as data warehouse solution that is not designed as per industry best practices. Manual effort is \nrequired for reporting as it is heavily dependent on a single resource. \nDevops Solution Provider needs data architecture and \nreporting infrastructure assessment \n3\nYour value is enhanced. \nYou have a unified and scalable technical architecture by leveraging single ETL tool to achieve scale and expertise on the \ntool; proposed industry standard data modeling technique to overcome inefficiencies in reporting and provide drill-down \ncapabilities in the reports. The recommended architecture will increase data quality from 95% to 100%. You have \nreorganized the reporting datasets to ensure data is ingested uniformly into Snowflake Data Warehouse and the source for all \nreporting happens from Snowflake Data Warehouse. The proposed automated solution will eliminate 4 hrs of manual weekly \nefforts. You have end-to-end automation of the data flow to generate and display KPIs/Metrics and remove any manual \ndependency and human error leading the consistent and timely reporting\nCHURN PROPENSITY MODELING\nKEY RESULT   \n•\n>90% accuracy in \nprediction\n•\n~$2.5 Mn increase in \npotential revenue\nVALUE LEVERS PULLED\n•\nChurn propensity model\n3\nYou turn to Accordion. \nWe partner with your team to perform a complex  diagnostic study to identify gaps and opportunities in data ingestion process, \ninfrastructure and security, and Process governance, including   . \n1) Reviewing and assessing current state technology infrastructure, business processes and people controls in place and \nidentifying opportunities in data ingestion process, infrastructure and security, and process governance\n2) Creating current state data lineage and data flow diagrams to provide visibility into reporting and data architecture. \nAnalyzing the patterns and identifying key areas which can be revamped or automated to meet future state \nrequirements.\n3) Consolidating all requirements and brainstormed with business and technology stakeholders to map data sources and \nprocess which need to be setup for automated reporting.\n4) Developing a future state data architecture with optimized tools stack, providing enhanced cost control and making it \nmore end user friendly\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 3,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology \n4\n• Deep dived into existing data warehouse – tables, schema, data flows, tools used\n• Deep dived into existing Tableau reports and excel reports and documented manual interventions\n• Documented gaps and opportunities in Technology, Process and People\n• Documented strengths in existing state which can be revamped and leveraged in future state \n• Mapped data sources for all KPIs required by executive team and understood any manual \ninterventions and business assumptions for automating reporting in Tableau \n• Proposed future state data architecture design having features like lower maintenance, integration \nflexibility, business user friendly structure, high accuracy, access control\n• Proposed future state reporting suite by creating list of dashboards which covers key metrics \nacross various functions and also executive level reporting\nDiagnose\nDocument\nMap\nRecommend\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 4,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData assessment scorecard\n5\nData Strategy Element\nCurrent Status\nComments\nData Governance\nFormalized data governance best practices are currently not implemented\nData Availability\nBillings and Transactions data reconciliation and corrections are currently done \nmanually\nData Quality\nData Quality of Snowflake environment is high (~90%). However, data cleansing \nand business rules are currently not in place.\nData Access\nAccess control rules are currently not implemented\nData Management\nOne big table approach is being leveraged instead of Data Models / Data Marts\nBusiness Intelligence\nMost of the KPIs identified in Phase 1 are not currently being reported (63 out of \n76) in Tableau\n1\n2\n3\n4\n5\n1\n4\n6\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 5,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Current state data architecture\n6\nData Visualization\nDATAMART\n BUSINESS \nINTELLIGENCE\n(OBT)\nData Sources\nWeb Analytics\nPython \nScripts\nETL TRANSIENTS\nNote: Reporting is  further \nexpanded in the current \nreporting infrastructure\nFinancial Reports\n      (Monthly)\nTableau \nSync Out\nFIVETRAN\nINTEGRATIO\nN\nSFDC\nCOLLABORA\nTE\nManual Intervention\n•\nCountry\n•\nCompany Name\n•\nSuper Company\nData Storage and Processing\nCode Repository\nStatic Mapping Tables \n(QB GL, etc.)\nReverse ETL\nCollaborate (PostgreSQL)\nOrder\n5\n5\n6\n6\n7\n7\n8\n8\n9\n9\n2\n2\n1\n1\n3\n3\n11\n11\n4\n4 \nManual \nIntervention\n•\nClass Schedule\n•\nAttendance\nPython Script\n10\n10\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 6,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Current state data architecture details\n7\n5\nUsing Fivetran (ETL/ELT tool), datasets from different sources i.e., NetSuite, Marketo, Pendo, Google Analytics and Salesforce (Orders) are \ningested into Fivetran database in Snowflake\n6\nThe Tableau Sync Out tool is used to ingest all required Salesforce objects (except Orders) into Snowflake\n7\nCollaborate data is pulled from the Postgre database using an API connection\n8\nStatic mapping Excel files for Quick Book GL accounts, country, regions, etc. are imported to the Lookup_Tables schema under the \nETL_Transients database\n9\nData from sources such as Question Mark, Measure Grow, Credly, and others, is uploaded to Snowflake using Python scripts that run in the \nAirflow Orchestrator\n2\nClass schedule and class attendance details are manually uploaded to Salesforce\n3\nCeligo is used for two-way sync between the orders data from Salesforce and Transactions data in NetSuite\n1\nHightouch is a reverse ETL tool, used to push the aggregated Salesforce data from Snowflake back to the Salesforce\nData from various databases along with the datamart is being used in Tableau reporting suite\n4\nGitHub is being used as code repository for dbt cloud transformations\nThe manual process for company/super-company and region/country mapping is directly used in Tableau reporting and is not updated in \nSnowflake\n10\n11\n10\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 7,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Future state data architecture\n8\nData Visualization\nWeb Analytics\nPython \nScripts\n• Income Statement\n• Balance Sheet\n• Covenants\n• Revenue Metrics\nData Marts\nSAFe \nStudio\nor\nRAW\nCLEAN\nFinance Dashboards\n• Operations\n• SES/BPA/Partner Fees\n• Membership\n• Price Volume Mix\n• Backlog/Revenue/Pipeline\n• Engagement Metrics\n• Territory / Geography Reporting\nOperations Dashboards\nAGGREGAT\nE\nAWS \nBATCH\nData Storage and Processing\nCode Repository\nData Zones\nAs-is copy \nof source \ndata\nTRANSIEN\nT\nFACT & DIM\nCleanse \nand \ntransform\nHarmonize \nand \naggregate\nSCHEMA\nWISE\nCDC by \nSCD type-2 or type-4\nFinance + CRM\nFinance + HR\nCRM + Marketing\nData Sources\n5\n7\n4\n1\n8\n6\n3\n2\n11\n* Additional Data \nMarts can be created \nas per the requirement\n9\nManually \nprocessed file\n(Introduce \nautomation to \nreduce TAT)\n10\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 8,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Future state data architecture details\n9\n5\nIngest datasets from different sources i.e., NetSuite, Marketo, Pendo, Google Analytics and Salesforce (Orders) using Fivetran (ETL/ELT tool) \ninto Fivetran database in Snowflake\n6\nUpload data from sources such as Question Mark, Measure Grow, Credly, and others, to an Amazon S3 bucket using Python scripts that run in \nAWS Batch and Airflow Orchestrator\n3\nAutomate manual process of company/super-company and region/country mapping. As an interim solution, leverage SharePoint or Amazon S3 bucket, \nwhich will ingest data into Snowflake\n7\nLeverage a staged data storage layer by loading data into the Raw zone, defining the schema for cleaned and transformed data, and then \npushing to the cleaned zone. Further harmonization is carried out, and data models (Kimball principal), along with a few aggregate tables, are \ncreated in Aggregate zone. CDC by SCD Type-2 or Type-4 should be implemented\n9\nCreate Data Marts using dimensional data models that are created in the aggregate zone and tailor as per the requirements\n8\nData transformation tool (dbt Cloud) for all the transformations, which will create data models and Data Marts, which feed the Tableau reports \n1\nFivetran has cloud function connector which will be utilized to run python code in serverless function apps and push missing transactions data back \nfrom Snowflake to NetSuite\n2\nFivetran can also be used to run a python script which performs a 2-way sync between orders and transactions data between Salesforce and NetSuite\n4\nFivetran can also be used to run python script which will push aggregated Salesforce data from Snowflake back to the source\nTableau reporting BI suite will utilize the data marts created for the dashboards\n11\nUse GitHub as a code repository for version control of Snowflake data warehouse and dbt cloud transformations\n10\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 9,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Proposed reporting suite\n10\nReporting Suite\nData Marts\nReporting Dashboards\nKey KPIs\nExecutive Dashboard\nSales Performance Dashboard\nSales Pipeline Dashboard\nAccount Management Dashboard\nDeal Velocity Dashboard\nLeads Conversion Dashboard*\nSales and Revenue Dashboard\nMarketing Dashboard\nPartner Performance Dashboard\nLicense Tracking Dashboard\nMembership Management \nDashboard*\nTraining Performance Dashboard*\nFinancial Dashboard\nAccount Management Dashboard\nSales and Revenue Dashboard\nKey KPIs from each function \nHeadcount, Sales Team Expense, CAC, \nBooking(#) in pipeline, Pipeline Volume\nDays in Pipeline, Stages, Opportunity, \nBook to bill, $ booked\nCertification Rate, Members count and \nRenewal rate \nRevenue, Gross Margin, Net Income, \nDebt, ARR, MRR\nSales and \nMarketing \nExecutive\nFinance \nSales \nOperations \nFinance + CRM\nFinance + HR\nCRM + Marketing\nDATAMART BUSINESS \nINTELLIGENCE\nCurrent Reporting Dashboards\nCurrently Reported KPIs\nRoll Up\nDrill Down\nSlice & Divide\nPivot\nAdditional Data Marts can be \ncreated as per the \nrequirement\nSelf Serve \nSelf Serve Reporting Capability \n2\n1\nDATAWAREHOUSE\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 10,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Current state reporting lineage\n11\nData Storage / \nProcessing   \nData Source\nOutput\n"
+    },
+    {
+        "page": 12,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (349).pdf",
+            "page": 11,
+            "total_pages": 12,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173741+05'30'",
+            "modDate": "D:20241114173741+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach – Future state reporting lineage\n12\nSource\nOutput\nCore KPIs\n*\n*\n*\nOther \nKPIs\n"
+    }
+]

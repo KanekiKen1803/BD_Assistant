@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163723+05'30'",
+            "modDate": "D:20241114163723+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSalesforce data backfilling\n1\nWe developed a streamlined/ automated process to bulk seed the required data \ninto various salesforce objects just by dropping an excel file into a blob. This \nhelped drastically reduce the seeding time and removed manual seeding errors.\nE-Commerce compliance focused legal firm\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163723+05'30'",
+            "modDate": "D:20241114163723+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for an Azure based dynamic pipeline that encompasses above issues while seeding the Salesforce data\nE-commerce compliance focused legal firm needs salesforce \ndata backfilling\n2\nYour value is enhanced. \nYour client can leverage the same pipeline for seeding data for multiple products, as the process is well defined leading low \nmaintenance. You have automated the process, reduced manual effort, high quality data in the Salesforce which improved the \nquality of the data in the dashboards driven by the automation seeding time is reduced to just 15 minutes from 10 hours.\nSALESFORCE DATA BACKFILLING\nKEY RESULT   \n•\n15 minutes from 10 \nhours seeding time is \nreduced.\nVALUE LEVERS PULLED\n•\nLever 1\n•\nLever 2\n•\nLever 3\n2\nYou turn to Accordion. \nWe partner with your team to develop a streamlined/ automated process to bulk seed the required data into various salesforce \nobjects just by dropping an excel file into a blob. This helped drastically reduce the seeding time and removed manual seeding \nerrors, including:\n1)\nWe have analyzed the various Salesforce objects and their dependencies, and developed a process flow to ensure the data is \nproperly seeded according to the hierarchy of the Salesforce objects. This will help ensure that the data is accurate and can be \neffectively used by the team \n2) Created a single pipeline to seed the data into the Salesforce, without manual effort with high quality data in Salesforce.\n3) Removed dependency on a third party, a Salesforce developer service provider, towards data seeding\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163723+05'30'",
+            "modDate": "D:20241114163723+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nWe have analyzed the various Salesforce objects and their dependencies, and developed a process flow to ensure the data is properly seeded according to \nthe hierarchy of the Salesforce objects. This will help ensure that the data is accurate and can be effectively used by the team \n•\nCreated a single pipeline to seed the data into the Salesforce, without manual effort with high quality data in Salesforce.\n•\nRemoved dependency on a third party, a Salesforce developer service provider, towards data seeding\nSituation\n•\nA manual effort of more than 10 hours was required to seed the data into the Salesforce objects whenever the client onboarded new customers. Since the \nprocess is manual, data lineage and data redundancy is high impacting the downstream dashboards.\n•\nClient needed to move away from a Python based process that was error prone to a more streamline process to back fill the Salesforce source with data\n•\nWe partnered with client to streamline and automate the seeding process by creating an Azure based dynamic pipeline that encompasses above issues \nwhile seeding the Salesforce data\nSalesforce data seeding automation through azure\n3\nImpact\n•\nClient can leverage the same pipeline for seeding data for multiple products, as the process is well defined leading low maintenance\n•\nAutomated the process, reduced manual effort, high quality data in the Salesforce which improved the quality of the data in the dashboards\n•\nDriven by the automation seeding time is reduced to just 15 minutes from 10 hours.\nSalesforce data Backfilling\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163723+05'30'",
+            "modDate": "D:20241114163723+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSalesforce\n5\n2\nAzure Synapse\nStaging\nSeeding\n1\n3\n4\nAzure Blob Storage\nAzure <> salesforce integration\nData from the Seeding file in Blob \nstorage will be uploaded into the SQL \ntables in Synapse.\nData for the required objects in \nSalesforce will be synced to the tables \nwith Salesforce Schema\nData from the seeding file will be \nbreakdown into the different objects \nbased on the Object model. These \ntables will be stored with Staging \nschema.\nLookup is performed on the Staging \ntables to identify the new or updated \nrecords over the data present in the \nSalesforce objects. This will delete the \ndata from the Staging tables that is \nalready present in the Salesforce \nobjects.\nData from the Staging tables will be \ninserted/ upserted into the Salesforce \nobjects.\n2\n3\n4\n5\n1\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (301).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114163723+05'30'",
+            "modDate": "D:20241114163723+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSalesforce\n5\n2\nAzure Synapse\nStaging\nSeeding\n1\n3\n4\nAzure Blob Storage\nData from the Seeding file \nin Blob storage will be \nuploaded into the SQL \ntables in Synapse.\nData from the seeding file will \nbe breakdown into the different \nobjects based on the Object \nmodel. These tables will be \nstored with Staging schema.\nLookup is performed on the \nStaging tables to identify the \nnew or updated records over \nthe data present in the \nSalesforce objects. This will \ndelete the data from the \nStaging tables that is already \npresent in the Salesforce \nobjects.\nData from the Staging tables \nwill be inserted/ up-serted into \nthe Salesforce objects.\nData for the required \nobjects in Salesforce will be \nsynced to the tables with \nSalesforce Schema\nAzure salesforce integration\n"
+    }
+]

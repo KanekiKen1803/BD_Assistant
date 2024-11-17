@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCustomer retention forecasting model\n1\nPartnered with client to build a multi-variate timeseries forecasting model to \nenhance the accuracy of retention rates forecasts\nNutritional supplements provider\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to analyze current and historical data to forecast retention rate using advanced analytics model and enhance \nthe accuracy of the forecasts. You were using 8-week rolling averages method to forecast customer retention rates which \nresulted in big variances inaccuracies in the forecast\nNutritional supplements provider needs customer retention \nforecasting model\n2\nYour value is enhanced. \n•\nImproved the forecast accuracy (MAPE) by 10 percentage points in comparison to the current 8-week rolling average method \nduring the testing period\n•\nIntegrated the model output to existing reports and reduce the efforts to create financial projections, business health and \nmarketing reports\nCUSTOMER RETENTION FORECASTING \nMODEL\nKEY RESULT   \n•\nImproved the forecast \naccuracy by 10 \npercentage points\n•\nCurrent 8-week rolling \naverage method during \nthe testing period\nVALUE LEVERS PULLED\n•\nAnaconda (Python)\n•\nAzure \n•\nDatabricks\n•\nNotebook\n•\nAzure Data Factory\n•\nSSMS \n2\nYou turn to Accordion. \nWe partner with your team to build a multi-variate timeseries forecasting model to enhance the accuracy of retention rates \nforecasts, including:\n1) Evaluating the impact of multiple attributes such as marketing spend, discount etc., controlled by the company and \nexternal factors sch as covid cases, federal interest rates etc.\n2) Comparing customer retention rate forecasts from multiple models such as FB-Prophet, Neural-Prophet, 8-week rolling \naverage etc. to identify the most accurate model for optimizing retention forecast\n3) Customizing the model to improve forecasting agility by providing flexibility to update input parameters for each of the \nshortlisted variables.\n4) Deploying the model and scheduling the code to run on a weekly cadence to extract data and store the results in the \ndata warehouse\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nEvaluated the impact of multiple attributes such as marketing spend, discount etc., controlled by the company and external factors sch as covid cases, \nfederal interest rates etc.\n•\nCompared customer retention rate forecasts from multiple models such as FB-Prophet, Neural-Prophet, 8-week rolling average etc. to identify the most \naccurate model for optimizing retention forecast\n•\nCustomized the model to improve forecasting agility by providing flexibility to update input parameters for each of the shortlisted variables.\n•\nDeployed the model and scheduled the code to run on a weekly cadence to extract data and store the results in the data warehouse\nSituation\n•\nClient was using 8-week rolling averages method to forecast customer retention rates which resulted in big variances inaccuracies in the forecast\n•\nPartnered with the client to analyze current and historical data to forecast retention rate using advanced analytics model and enhance the accuracy of the \nforecasts\nCustomer retention forecasting\n3\nImpact\n•\nImproved the forecast accuracy (MAPE) by 10 percentage points in comparison to the current 8-week rolling average method during the testing period\n•\nIntegrated the model output to existing reports and reduce the efforts to create financial projections, business health and marketing reports\nCUSTOMER RETENTION FORECASTING \nMODEL\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology / Approach\n4\n01 \n02 \n03 \n04 \n05 \nModel selection –  Tested various statistical and ML based forecasting techniques such as  Weighted Moving Average, ARIMA, \nSARIMA, XGBoost, Fb-Prophet and Neural-Prophet. Multiple iteration of these models were run with various combination of input \nvariables and selected Fb-Prophet and Neural-Prophet methods as the final models had the lowest MAPE (mean absolute \npercentage error) \nFeature engineering (Shortlisting of appropriate variables) – Correlate the above variables with customer churn to ensure \nappropriate variables are selected and create combined variables to ensure appropriate features for modelling. dataset was cleaned \nfrom extreme outliers occurring due to promotional campaigns that could not be quantified\nData Acquisition – Transformed the transactional level dataset to weekly acquisition cohort level with period wise retention \nrates. Utilized additional factors in the analysis that could potentially impact the retention rates like marketing spend, discount \netc., controlled by the company and external factors like covid cases, federal interest rates etc.\nModel iteration – Most recent data is withheld from training and used to evaluate models, and their parameters based on the \nforecast accuracy. MAPE (mean absolute percentage error) is used for evaluation the model with the lowest MAPE is selected.\nModel deployment – Deployed all the required bash code in Azure Databricks notebook and scheduled the code to run on a \nweekly cadence using Azure Data Factory. The Databricks notebook interacts with the database to extract data and store the \nresults in a DWH table.\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nModel forecast\n5\n60%\n65%\n70%\n75%\n80%\n85%\n90%\nY1-W1\nY1-W5\nY1-W9\nY1-W13\nY1-W17\nY1-W21\nY1-W25\nY1-W29\nY1-W33\nY1-W37\nY1-W41\nY1-W45\nY1-W49\nY2-W1\nY2-W5\nY2-W9\nY2-W13\nY2-W17\nY2-W21\nY2-W25\nY2-W29\nY2-W33\nY2-W37\nY2-W41\nY2-W45\nY2-W49\nY3-W1\nY3-W5\nY3-W9\nY3-W13\nY3-W17\nY3-W21\nY3-W25\nY3-W29\nY3-W33\nY3-W37\nY3-W41\nY3-W45\nY3-W49\nY3-W53\nY4-W4\nY4-W8\nY4-W12\nY4-W16\nY4-W20\nY4-W24\nY4-W28\nY4-W32\nY4-W36\nY4-W40\nY4-W44\nY4-W48\nY4-W52\nRetention Rate (%)\nAcquisition Cohort Week\nRetention Rate - Actuals\nRetention Rate - Forecast\nLinear (Retention Rate - Forecast)\nActual Retention Rate\nForecasted Retention Rate\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (196).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114142111+05'30'",
+            "modDate": "D:20241114142111+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDeployment architecture in Azure ecosystem\n6\nDatabricks \nNotebook\nForecast models \nbased on input \nparameters\nLog results into \nDatabase\nNotify users on \nCompletion\nEnd\nStart\nAutomated/Manual \nTrigger\nData Extract \nfrom Database\nData-Warehouse - Database\nAzure Ecosystem\nDatabase\nILLUSTRATIVE\nExecute Forecasting model\nTrigger Email Notification\nExtract actual retention \nrate at acquisition week \ncohort\nStore forecasted \nRetention Rate\n"
+    }
+]

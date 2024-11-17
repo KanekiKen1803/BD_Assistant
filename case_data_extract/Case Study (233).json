@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104511+05'30'",
+            "modDate": "D:20241115104511+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSKU rationalization for a health & \nwellness company\n1\nBuilt a comprehensive and user-friendly model to identify products that can be \nremoved from the portfolio without a significant impact on the top-line. \nRecommended to prune ~30% of SKUs that had low Gross Margins/sales, thereby \nimpacting the overall revenues only by 2% and increased the overall Gross Margin \n(%) by 0.4%. \nHealth & wellness company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104511+05'30'",
+            "modDate": "D:20241115104511+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nBuilt a comprehensive model to determine the products that could potentially be pruned based on various user inputs such as Revenue/Margin, Unit sales, \nStore presence, Growth, Volume variability, etc., for each Product Category\n•\nAmong all the SKUs that could potentially be pruned, based on the tolerable limits for the Net revenue drop (%) provided by the user, SKUs with lower Gross \nmargins are shortlisted and recommended for pruning\n•\nPerformed a Market Basket Analysis to determine the product basket combinations that were frequently purchased together, to ensure that products that \nare part of prevalent baskets are not pruned.\nSituation\n•\nClient had an opportunity to simplify the product portfolio, and the supply chain expenses  without a material impact on the top line.\n•\nPartnered with the client to build a user-friendly model to identify the products that can be removed from the portfolio and evaluate the impact for the \nsame.\nSKU rationalization\n2\nImpact\n•\nRecommended the client to prune ~30% of SKUs that were identified to have low Gross Margins and minimal sales, which only impacted the overall revenues \nby 2%.\n•\nRemoving the low performing and low Gross Margin SKUs from the Product portfolio would increase the company’s overall Gross Margin (%) by 0.4%.\nSKU RATIONALIZATION FOR A HEALTH \n& WELLNESS COMPANY\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104511+05'30'",
+            "modDate": "D:20241115104511+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nApproach & methodology\n3\nRaw Data Inputs\nUser Inputs\nNet Revenue Change\nSKU \nRationalization \nModel\n➢SKU level Sales metrics for 2 \nconsecutive years (to determine \nthe YoY Revenue growth)\n➢Identified SKUs with lower Gross margins \nthat could be pruned ensuring that \nRevenue drop limits are met\nIncorporated the following thresholds into the \nmodel for each Product Category and each SKU to \nbe compared against their respective Category:\n➢Mandatory thresholds (minimum):\n‒ Revenue per SKU\n‒ Unit Volume per SKU\n‒ Gross Margin % per SKU\n➢Optional Thresholds:\n‒ Maximum Volume Variability per SKU\n‒ Minimum # Stores where the SKU has sales\n‒ Minimum YoY Growth\n‒ Retain SKUs that are part of prevalent \nbaskets\n➢Users should also input the tolerable limits for \nthe Net Revenue drop from the SKUs pruned\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (233).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104511+05'30'",
+            "modDate": "D:20241115104511+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSynthesized view of the top-level impact on each of the metrics by category\nUser can input \nconstraints such as GM% \nthreshold, volume \nthreshold etc., before \nmaximizing the GM%\nSnapshot of the SKU rationalization model\n4\n"
+    }
+]

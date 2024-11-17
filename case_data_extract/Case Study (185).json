@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBI Infrastructure design & implementation\n1\n• Integrated data from multiple sources into a data warehouse and automated \nETL processes for loading data from the sources\n• Deployed dashboards enabling the business functions to track critical KPIs \nrelated to product usage, customer success, product development, sales & \nmarketing, and finance\nSaaS based HR software company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking for designing and building data warehouse & reporting dashboards to provide visibility and track critical KPIs \nrelated to product usage, customer success, product development & delivery, sales & marketing, and finance.\nSaaS based company needs to design its data infrastructure\n2\nYour value is enhanced. \nYou have a customized dashboard for accurate reporting to make appropriate investment decisions and enable strategic cost \nmanagement and comprehensive dashboards, health score calculations, and analysis of customer usage patterns across \nindustries, enables you to identify customers at risk and provided insights to capitalize on up-sell and cross-sell opportunities. You \nhave also enabled product delivery team to better plan the development & delivery of the EPIC modules through various analyses \nsuch as average cycle time, delivery risk, and context switching analyses.\nBI INFRASTRUCTURE DESIGN & \nIMPLEMENTATION\nKEY RESULT   \n•\nImpact 1…\n•\nImpact 2…\nVALUE LEVERS PULLED\n•\nCompetitor Analysis\n•\nPattern Recognition \nAnalysis \n•\nCustomer Churn Risk \nPrediction\n•\nTeam Productivity \nAnalysis, Etc. \n•\nPower BI Reporting\n2\nYou turn to Accordion. \nWe partner with your team to integrate data from multiple sources into a data warehouse and automated ETL processes for \nloading data from the sources and to deploy dashboards enabling the business functions to track critical KPIs related to product \nusage, customer success, product development, sales & marketing, and finance.\n1)\nAutomating data extraction from ERP (NetSuite), CRM (Salesforce), project management systems (JIRA & Nikabot), customer \nexperience system (Qualtrics), internal PostgreSQL database, and Google Sheets for various analyses and reporting.\n2) Collaborating with various department leaders to identify and define KPIs. Configured a data warehouse (Snowflake) and \ndeveloped customized dashboards in Power BI for governing board, finance, customer success, product delivery, and sales & \nmarketing departments.\n3) Performing various analyses such as monte carlo simulations for predicting EPIC modules completion dates, pattern \nrecognition analysis of unstructured customer survey data, cost & revenue appropriation to estimate regional and module level \nP&L, competitor analysis by market and industry, customer churn risk prediction, squad/team productivity analysis, etc. \n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAutomated data extraction from ERP (NetSuite), CRM (Salesforce), project management systems (JIRA & Nikabot), customer experience system (Qualtrics), \ninternal PostgreSQL database, and Google Sheets for various analyses and reporting\n•\nCollaborated with various department leaders to identify and define KPIs. Configured a data warehouse (Snowflake) and developed customized dashboards \nin Power BI for governing board, finance, customer success, product delivery, and sales & marketing departments\n•\nPerformed various analyses such as monte carlo simulations for predicting EPIC modules completion dates, pattern recognition analysis of unstructured \ncustomer survey data, cost & revenue appropriation to estimate regional and module level P&L, competitor analysis by market and industry, customer churn \nrisk prediction, squad/team productivity analysis, etc. \nSituation\n•\nClient had limited visibility into cross-functional areas related to product development, customer usage, customer engagement, etc., which hindered \nstrategic and operational decision-making process\n•\nPartnered with the client to design and build their data warehouse & reporting dashboards to provide visibility and track critical KPIs related to product \nusage, customer success, product development & delivery, sales & marketing, and finance\nBI infrastructure design & implementation \n3\nImpact\n•\nCustomized dashboards and accurate reporting helped the C-Suite executives to make appropriate investment decisions and enabled strategic cost \nmanagement\n•\nComprehensive dashboards, health score calculations, and analysis of customer usage patterns across industries, enabled the company to identify \ncustomers at risk and provided insights to capitalize on up-sell and cross-sell opportunities\n•\nEnabled product delivery team to better plan the development & delivery of the EPIC modules through various analyses such as average cycle time, delivery \nrisk, and context switching analyses\nBI Infrastructure Design & \nImplementation \n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBusiness intelligence architecture executed\n4\nDATA SOURCES\nETL\nDATA WAREHOUSE\nBI REPORTING\nERP \nDATABASE\nNIKABOT TIME \nTRACKING\nCRM \nDATABASE\nPOSTGRESQL \nDB\nPROJECT \nMANAGEMENT\n& DEFECT \nTRACKING \nTOOL\nSet up daily data refresh processes to \nextract the latest data from ERP, \nCRM, \nthird party applications & other \ndatabases\nBuilt a data warehouse to \ntransform the raw data from \nvarious internal systems\nDesigned and deployed \nexecutive dashboards in Power \nBI  \nNetSuite Connector\nJIRA Connector\nSalesforce  Connector\nPostgreSQL  \nConnector\nCustom Qualtrics Connector \n(Python)\nCustom Nikabot Connector \n(Python)\nCUSTOMER \nSURVEYS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nExamples of key performance metrics\n5\nPRODUCT \nDEVELOPMENT\n▪Epic Analysis\n▪Cost of delivery\n▪Context switching analysis\n▪Cycle Time Analysis\n▪Predictability metrics (completion date by epic)\n▪Initiative schedule adherence\n▪Delivery Risk assessment\n▪Burn-Up/Burn-down chart\nSALES & \nMARKETING\n▪Opportunity conversions\n▪Lost clients & lost modules\n▪Sales Productivity \n▪Bookings by Sales team\n▪Revenue per customer/ module\n▪Competitor Risk by market (win-loss metrics)\nCUSTOMER \nSUCCESS\n▪Module usage analysis\n▪Feature adoption analysis\n▪Super User feedback\n▪Customer facing dashboards\n▪Support analyses (based on raised tickets)\n▪Customer Health Scorecard (churn risk analysis)\n▪Client engagement analysis\nFINANCE & \nACCOUNTING\n▪Profit and Loss report by Market\n▪Balance Sheet\n▪EBITDA Bridge\n▪Monthly Financial Package\n▪AR Ageing report\n▪Outstanding and Turn over ratios\n▪Cost of Support \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMonthly finance tracker\n6\nMonthly Executive \nSummary\nVisual indications for \npositive and negative \nvariances\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nCompetitor analysis\n7\nWin/Loss Analysis trends\nEncounter Analysis (by \nIndustry)\nEncounter Analysis (by \nCompetitor)\nSummary of Win-Loss Analysis\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDevelopment cycle time\n8\nSlider to choose desired timelines\nSummary of Cycle Time statistics \nfrom JIRA for selected teams and \ntimeline\nTrends of Cycle Time (Average) of \ntasks completed during the week\nAverage time taken to complete the tasks on week-on-week basis \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (185).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Siddharth Jain",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140727+05'30'",
+            "modDate": "D:20241114140727+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nDevelopment cycle time\n9\nRecruitment Funnel for \nCustomer\nRecruitment Funnel for \nIndustry\nNote: Reports / views that can be shared by the client with their customers during the regular discussions or up-sell meetings\nILLUSTRATIVE\n"
+    }
+]

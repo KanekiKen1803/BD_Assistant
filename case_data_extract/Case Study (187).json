@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140945+05'30'",
+            "modDate": "D:20241114140945+05'30'",
+            "trapped": ""
+        },
+        "content": "1\nBehavioural Healthcare Provider\n(Data Management Platform)\nIntegrated data from discrete systems to create a structured Data Warehouse and leveraged it to \nbuild a reporting suite of impactful Excel reports and Power BI dashboards for the Executive team\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140945+05'30'",
+            "modDate": "D:20241114140945+05'30'",
+            "trapped": ""
+        },
+        "content": "DATA MANAGEMENT PLATFORM IMPLEMENTATION\nSITUATION\n▪\nThe data sets used by the company were complex and disjointed, resulting in limited and manually intense reporting across the organization. In addition, the \ncompany did not have a common chart of accounts across its facilities\n▪\nMerilytics partnered with the client to create a clean data warehouse with data from multiple systems and leveraged it for building executive dashboards \nand reporting for the organization\n▪\nDesigned and built a structured data warehouse capturing data from multiple sources such as Accounts, Salesforce, Billing, Electronic Medical Records, Facility \nmanagement spreadsheets, Collection & Appeals and created a common chart of accounts across facilities\n▪\nDefined and implemented Key Performance Indicators to be tracked for various business functions based on discussions with the top management of the \ncompany\n▪\nDesigned and created Reports and 10 Executive Dashboards to track the key performance metrics by facility, payor and treatment type\nVALUE ADDITION\nIMPACT\n▪\nCreation of a common chart of accounts led to a reduction in the time taken to create consolidated financials and provided the leadership team visibility \ninto the business performance across different facilities\n▪\nCreated a reporting suite on top of the structured data warehouse that had impactful Excel reports and Power BI dashboards\n▪\nThis reporting infrastructure and dashboards provide daily visibility of the business operations to the Executive team and enable them to make data driven \ndecisions on Revenue cycle management, Appeals etc.\nABOUT THE CLIENT\nClient is a U.S. based chain of residential rehabilitation centers that provide effective treatment programs to tackle emotional trauma, addiction, depression, eating, \npsychological or intimacy disorders\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140945+05'30'",
+            "modDate": "D:20241114140945+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nDATA SOURCES\nDATA WAREHOUSE (ETL)\nDASHBOARD DEVELOPMENT\nELECTRONIC MEDICAL RECORDS\nBILLING INFORMATION\nPATIENT INFORMATION\nFACILITY LEVEL DATA, GENERAL \nLEDGER ETC.,\nBILLING INFORMATION\nACCOUNTING SYSTEM\n1. Data staging:\nSet up raw data from available data sources in tables \nbefore calculations/manipulation\n02\n2. Data clean up:\n▪Identified and cleaned up irregularities in the data. \nE.g., Great Plains instances used in various locations \nof the company had different chart of accounts.\n▪Mapped the chart of accounts to create \nhomogeneous accounts.\n3. Data warehouse:\nCreated a data warehouse which combines data from \ndifferent sources to provide a single source of truth\n01\n03\nDesigned and built executive dashboards for the \nfollowing business functions:\n▪Company sales\n▪Insurance authorization trends\n▪Claims management\n▪Census trends\n▪Consolidated P&L reporting\n▪Cost trends\n▪Business development performance\n▪Insurance collection trends\n▪Receivables aging\n▪Bill processing timelines\nPROCESS FLOW\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140945+05'30'",
+            "modDate": "D:20241114140945+05'30'",
+            "trapped": ""
+        },
+        "content": "4\n▪Provides transparency into the revenue collection process for the \nleadership team which accounts for all gross charges and breaks out the \ngross revenue at various stages of revenue cycle\n▪Summarizes collection details and breaks out the systemic issues in the \ncollection process\n▪Provides visibility into the top collection issues as a share of total \nexpected amount for the leadership team\nRevenue recovery cycle\nCollection process efficiency\nILLUSTRATIVE\nPOWER BI DASHBOARDS (1/2)\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (187).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Renu Rajani",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114140945+05'30'",
+            "modDate": "D:20241114140945+05'30'",
+            "trapped": ""
+        },
+        "content": "5\n▪Collection Efficiency is the actual amount collected as a share of the \ncontractual/baseline rate\n▪Provides visibility into the Collection Efficiency by Payor/Insurer type, \nauthorization status, facility and financial class\n▪Compares patient collections for the patients discharged in the latest \nweek with previous week\n▪Share of patient collections as a ratio of total outstanding amount is \nbenchmarked against company standards\nCollection efficiency\nWeekly patient collections\nILLUSTRATIVE\nPOWER BI DASHBOARDS (2/2)\n"
+    }
+]

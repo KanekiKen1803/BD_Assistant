@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nData warehouse and BI infrastructure design \nand implementation\n1\n• Built a scalable enterprise data warehouse on Azure platform to accommodate \ndata from multiple data sources\n• Built Power BI reporting suite to analyze the performance of various Practices\nHealthcare provider focused on women and maternal health\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the EMR data (multiple data sources) and Accounting data (Intacct) to identify the relevant KPIs\n•\nBuilt an Enterprise Datawarehouse (on Microsoft Azure platform) connecting different data sources through data pipelines (in Azure Data Factory), cleansed \nand transformed the raw data as per business requirements\n•\nCreated tabular data models in Azure SQL database to create ready-to-serve data marts for analytical and reporting purposes\n•\nDeveloped automated Power BI dashboards on top of the tabular data models to analyze the performance across different Practices\n•\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nSituation\n•\nOpportunity to build the BI reporting infrastructure to enable more efficient and reliable reporting for Senior Leadership team\n•\nPartnered with client to set up an Azure-based Enterprise Datawarehouse and develop automated performance dashboards\nSetting up cloud-based data warehouse and reporting suite\n2\nImpact\n•\nAdvanced Enterprise Datawarehouse enabled the availability of clean and validated data off the shelf across the company on near real time basis\n•\nData integration of multiple EMR systems enabled the client to have consistent reporting across multiple entities\n•\nAutomated Power BI dashboards provided visibility for the Senior Leadership team into the key performance metrics dashboards with consistent and \naccurate performance KPIs across different practices\nDATA WAREHOUSE AND BI \nINFRASTRUCTURE DESIGN AND \nIMPLEMENTATION\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPrior reporting processes\n3\nOLAP Analysis\nData Visualization\nSQL Database\nData Sources\nExcel extracts from \nIntacct\nReporting Layer\nObservations on prior reporting plan:-\n▪\nExtracting data from different sources is time \nconsuming and inefficient\n▪\nData sources across various entities are different with \nvarying architecture of each database and inconsistent \ndimensions\n▪\nNon-scalable architecture: cumbersome to add a new \ndata source with different data accessibility method\nData Structures\nData, Reporting \nand Analytics\n▪\nLack of consistency of data sources and no standardized reporting/ KPIs across different entities\n▪\nAd-hoc reporting based on needs from various teams\n▪\nProne to errors as the data is manually updated \n▪\nLack of availability of real-time data \n▪\nData security challenges while extracting the data from different systems and reports distribution\n•\nAppointments reports\n•\nRevenue recognition \nreport\n•\nCase Mix analysis\n•\nAR Aging report\n•\nP&L Analysis reports\n•\nFinancial reports\nManual cleansing & \nharmonization of data\nSnowflake\nEMR Data sources\nDataview tool\nManual cleansing & \nharmonization of data\nFinance Data source\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nNew reporting flow after BI infrastructure implementation\n4\nData Sources \nAzure Data \nFactory\nAzure SQL\nIngest\nPrep & \nTrain\nServe\nAutomated ETL Process with e-mail alerts / notifications\n▪\nBuilt an Enterprise Datawarehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\n▪\nDeveloped an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\n▪\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n▪\nCreated Tabular data models on Azure SQL database and developed ready-to-serve data marts for analytical and reporting purposes. \n▪\nDeveloped Power BI dashboards on top of the data models to monitor and track business performance.\nSQL Database\nSnowflake\nEMR Data sources\nFinance \ndatabase\nFinance Data sources\nData \nWarehouse\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard - Appointments\n5\nKPI cards to \nsummarize \nvarious \nappointments \nmetrics\nILLUSTRATIVE\nButtons to toggle \nbetween list of \nTop 10 and \nBottom 10 \nProviders based \non Appointments \nseen per provider \nday\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard - Revenue\n6\nMatrix to give \ninsights into key \nrevenue metrics by \nPractice and \nvarious \nDepartments in \neach Practice\nButtons to toggle \nbetween different \nrevenue metrics. \nCorresponding \nprevious year \nnumbers are also \nprovided with YoY \nvariance % \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – Payments\n7\n7 day rolling \naverage trend \nchart to capture  \npayments received \ntrend in last 90 \ndays \nVisual to portray \npayments trend for \nTop insurance \ncategories\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (394).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183529+05'30'",
+            "modDate": "D:20241114183529+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nIllustrative dashboard – AR Ageing\n8\nKPI cards to \ncapture key AR \nAging metrics\nPie chart to portray \nthe Balance \nreceivables for Top \n10 Payors based on \nAgeing bucket\nILLUSTRATIVE\n"
+    }
+]

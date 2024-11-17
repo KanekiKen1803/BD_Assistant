@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175417+05'30'",
+            "modDate": "D:20241114175417+05'30'",
+            "trapped": ""
+        },
+        "content": "PROVIDER COMPENSATION ANALYSIS FOR A HEALTHCARE PROVIDER\nSITUATION\n▪Client adopted a Profit-Sharing Model with the acquired care centers, and they lack the visibility into the compensation distribution for Partner \nPhysicians due to divergent contractual agreements with Care Centers\n▪Merilytics partnered with the client to build comprehensive and scalable report to understand the impact on bi-weekly payouts to the Partner \nPhysicians and estimate the quarterly lump sum amount due based on the contractual agreements between the client and care centers\n▪Integrated data from different sources systems (gGastro and Athena) into single centralized dataset which has bi-weekly payouts to the Partner \nPhysicians, financial transactions, employee census, billings & collections information\n▪Calculated the Net profit, Bi-weekly payouts and Partner Physician expenses across the care centers and estimated the final distribution amount due for \neach Partner Physician based on the contractual agreement by analyzing each agreement clause and deriving the business logics\nVALUE ADDITION\nIMPACT\n▪Comprehensive reporting suite helped the client’s payroll team to finalize the Quarterly Payouts based on the contractual agreements with the Care \nCenter and the Partner Physicians. This reporting helped the clients in reducing their cash payouts by ~15% per quarter when compared to the bi-weekly \npayouts\n▪Breakdown comparison at a Partner Physician level helped the client to track and take decisions during the Quarterly payout's discussions with the Care \nCenter Lead or Partner Physicians that reduced their extra payouts to the Partners\nABOUT THE CLIENT\nClient is a U.S. based integrated network of gastroenterology care centers that provides services across entire spectrum of gastrointestinal issues.\n1\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175417+05'30'",
+            "modDate": "D:20241114175417+05'30'",
+            "trapped": ""
+        },
+        "content": "Contractual Agreement \nby Care Center\nMETHODOLOGY/ APPROACH\n2\nQuickBooks Financial \nTransactions \nBusiness Central \nFinancial Transactions \nBi-Weekly Payouts \nInformation\nAthena Billing & \nCollection Data\nLists all Partner Physicians by Care \nCenter and their corresponding \nDistribution Due Amounts\nComprehensive Report that tracks Net \nProfit, Bi-Weekly Payouts and Partner \nExpenses by Care Center Partner \nPhysicians.\nHelps the client to track and take \ndecisions during the Quarterly \nPayout's discussions with the Care \nCenter Partner Physicians\nIntegrated \nData\nBi-Weekly \nPayouts to \nPartner \nPhysician\nExpenses by  \nPartner \nPhysician\nNet Profit \nDistribution \nby Contractual \nAgreement\ngGastro Billing & \nCollection Data\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175417+05'30'",
+            "modDate": "D:20241114175417+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPACT ANALYSIS – PROVIDER COMPENSATION\nILLUSTRATIVE\n3\nDistributed the Care \nCenter Profit among the \nPartner Physicians for the \nCare Center based on the \nProfit Distribution and \nContractual Agreement.\nPartner Physicians \nPhysician 1 \nPhysician 2 \nPhysician 3 \nPhysician 4 \nPhysician 5 \nPartner Totals \nService Type 1\nTotal Revenue\n$222,229\n$324,129\n$274,745\n$277,895\n$226,362\n$1,325,360\nShare of Revenue\n17%\n24%\n21%\n21%\n17%\n100%\nShared Participant Revenue\n$265,072\n$265,072\n$265,072\n$265,072\n$265,072\n$1,325,360\nShared Revenue\n$46,792\n$46,792\n$46,792\n$46,792\n$46,792\n$233,958\nTotal Revenue\n$311,864\n$311,864\n$311,864\n$311,864\n$311,864\n$1,559,319\nTotal Expense less the Partner Expenses\n$35,467\n$35,467\n$35,467\n$35,467\n$35,467\n$177,333\nNet Service Type 1 Profit\n$276,397\n$276,397\n$276,397\n$276,397\n$276,397\n$1,381,985\nService Type 2\nTotal Service Type 2 Income\n$55,374\n$55,374\n$55,374\n$55,374\n$55,374\n$276,871\nService Type 2 Expense\n$42,096\n$42,096\n$42,096\n$42,096\n$42,096\n$210,481\nNet Service Type 2 Profit\n$13,278\n$13,278\n$13,278\n$13,278\n$13,278\n$66,390\nService Type 3\nTotal Service Type 3 Revenue\n$118,000\n$118,000\n$118,000\n$118,000\n$118,000\n$590,000\nService Type 3 Expense\n$13,947\n$13,947\n$13,947\n$13,947\n$13,947\n$69,734\nNet Service Type 3 Profit\n$104,053\n$104,053\n$104,053\n$104,053\n$104,053\n$520,266\nCare Center Profit\n$393,728\n$393,728\n$393,728\n$393,728\n$393,728\n$1,968,641\n(x)% Pool Amount Split by Revenue Share\n$247,568\n$361,087\n$306,072\n$309,582\n$252,172\n$1,476,480\n(100-x)% Pool Amount Split by equally\n$98,432\n$98,432\n$98,432\n$98,432\n$98,432\n$492,160\nProfit Distribution\n$346,000\n$459,519\n$404,504\n$408,014\n$350,604\n$1,968,641\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175417+05'30'",
+            "modDate": "D:20241114175417+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPACT ANALYSIS – PROVIDER COMPENSATION\nILLUSTRATIVE\n4\nFinal Distribution Due \nafter deductions including \nPartner Expenses, Bi-\nWeekly Pay-outs to \nPartner Physicians and \nCarry Over Balances from \nPrevious Year at a Partner \nPhysician level and the \ncare Center.\nPartner Physicians \nPhysician 1 \nPhysician 2 \nPhysician 3 \nPhysician 4 \nPhysician 5 \nPartner Totals \nProfit Distribution\n$346,000\n$459,519\n$404,504\n$408,014\n$350,604\n$1,968,641\nPartner expenses\nPartners Expenses Type 1\n$0\n$14,393\n$0\n$0\n$6,156\n$20,549\nPartners Expenses Type 2\n$0\n$841\n$0\n$0\n$279\n$1,120\nPartners Expenses Type 3\n$0\n$0\n$0\n$0\n$29\n$29\nPartners Expenses Type 4\n$53\n$131\n$105\n$26\n$96\n$411\nPartners Expenses Type 5\n$9,625\n$9,625\n$9,625\n$9,625\n$9,625\n$48,125\nTotal Partner Expenses\n$9,678\n$24,991\n$9,730\n$9,651\n$16,185\n$70,235\nNet Profit Sharing (After deductions)\n$336,322\n$434,528\n$394,774\n$398,362\n$334,420\n$1,898,406\nTotal Regular Payouts to Partner Physicians\n$133,750\n$141,780\n$110,877\n$109,279\n$78,000\n$573,686\nCarry over Balances (Previous Year)\n-$12,864\n-$13,320\n-$10,829\n-$11,207\n-$12,004\n-$60,224\nFINAL PENDING PAYMENTS\n$189,708\n$279,428\n$273,068\n$277,877\n$244,416\n$1,264,496\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (361).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "Case Study Template",
+            "author": "Merilytics",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114175417+05'30'",
+            "modDate": "D:20241114175417+05'30'",
+            "trapped": ""
+        },
+        "content": "IMPACT ANALYSIS – PROVIDER COMPENSATION\nILLUSTRATIVE\n5\nProvider Compensation \nDashboard to assess the \nNet Profit, Biweekly Pay-\nouts, Partner Expenses \nand Final Distribution Due \nat a Partner Physician \nlevel and the care Center.\n"
+    }
+]

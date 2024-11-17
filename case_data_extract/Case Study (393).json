@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nShipset demand analysis\n1\nDeveloped a demand estimation model for existing and potential customers by \nleveraging detail of operational aircraft fleets along with various types of parts \nsupplied by client which can be used as components in these fleets\nAircraft aftermarket parts (shipset) supplier\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to build an analytical model to assess shipset demand and create an automated Power BI dashboard to \nenable visualization of global demand and its sales performance. Currently, you have no visibility into demand of the portfolio \nproducts (shipset) by existing customers and potential customers across the globe.\nAircraft parts supplier needs to analyze the demand of portfolio \nproducts \n2\nYour value is enhanced. \n•\nYou have visibility into ~$900 Mn demand from ~1,100 potential customers across the globe\n•\nYou have identified ~$275 Mn of uncatered demand for existing customer base\n•\nYou have also reduced 4 FTE days per month by developing an analytical data model and automating the data ingestion process\nSHIPSET DEMAND ANALYSIS\nKEY RESULT   \n•\n~$900 Mn potential \nproduct demand \nidentified\n•\n~$275 Mn uncatered \ndemand identified\n•\nSavings of ~4 FTE \ndays/month\nVALUE LEVERS PULLED\n•\nDemand Analysis\n•\nSales Performance \nAnalysis\n•\nAutomation of sales & \noperations data \ningestion \n2\nYou turn to Accordion. \nWe partner with your team to develop a demand estimation model for existing and potential customers by leveraging details \nof operational aircraft fleets along with various types of parts supplied which can be used as components in these fleets, \nincluding:\n1) Developing analytical model to estimate demand of products by mapping international operational fleets’ specifications \nsuch as type of airframe, engine & auxiliary power unit, with product details and sales data\n2) Identifying and correcting data gaps such as standard nomenclature of fleet types & customer names, thereby \nimproving mapping of data with third party database of operational fleet (Cirium)\n3) Providing flexibility to add or remove a customer from demand calculation based on factors such as FAA-PMA friendly \nstatus or sanctions by the US government, while also enabling modification of key demand calculation variables such as \nshipset quantity & replacement rate\n4) Deploying Power BI dashboard with automated ingestion of data from SharePoint and ERP system (Quantum Control)\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nDeveloped analytical model to estimate demand of products by mapping international operational fleets’ specifications such as type of airframe, engine & \nauxiliary power unit, with client’s product details and sales data\n•\nIdentified and corrected data gaps such as standard nomenclature of fleet types & customer names, thereby improving mapping of client’s data with third \nparty database of operational fleet (Cirium)\n•\nProvided user flexibility to add or remove a customer from demand calculation based on factors such as FAA-PMA Friendly status or sanctions by the US \ngovernment, while also enabling modification of key demand calculation variables such as shipset quantity & replacement rate\n•\nDeployed Power BI dashboard with automated ingestion of data from SharePoint and client’s ERP system (Quantum Control)\nSituation\n•\nClient lacked visibility into demand of its portfolio products (shipset) by existing customers and other potential customers across the globe \n•\nPartnered with the client to build an analytical model to assess shipset demand, and create an automated Power BI dashboard to enable visualization of \nglobal demand and its sales performance\nShipset demand analysis for aircraft parts supplier\n3\nImpact\n•\nProvided visibility into ~$900 Mn demand from ~1100 potential customers across the globe\n•\nAided identification of ~$275 Mn uncatered demand of existing customer base\n•\nReduced 4 FTE days per month by developing a data model and automating data ingestion\nSHIPSET DEMAND ANALYSIS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/Approach – Data flow\n4\nDATA SOURCES\nDATA STORAGE & PROCESSING\nDATA VISUALIZATION\nERP System\n-Data cleaning and correction of data \ngaps\n-Map Aircraft fleet data to Shipset \nthrough Shipset details\n1\n3\n4\n5\n2\nIngest sales & product details data from Oracle database of Quantum Control (ERP system) to data repository (Power BI)\nIngest, from SharePoint, data associated with international operational fleet, shipset details & user inputs for demand modification to data repository (Power BI)\nClean data and map shipset specifications from Quantum Control & Excel with international fleet data from Cirium\nBuild analytical model to calculate demand of shipset for airframe, engine & auxiliary power units for the aircrafts\nDesign and implement Power BI dashboard to automate reporting\nShipset/Part \nSpecifications\nUser Inputs to \nmodify demand\n2\n1\nShipset Demand & \nSales Dashboard\n5\nAnalytical model to calculate \ndemand, sales & profit for the \nShipset & specific Customers\n3\n4\nDemand ($) = \nNo. of applicable \naircrafts\nx\nx\nAnnual \nReplacement Rate \n% of shipset \nQuantity of \nspecific shipset \nrequired\nx\nPrice of \nShipset \n($)\nAircraft fleet database\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPotential demand across the market\n5\nUser can filter for PMA \nfriendly companies\nUser can filter out such companies \nwhich do not buy from client\nTotal demand of shipset \nacross companies, \ncountries, aircraft types, \nengine types, APU types & \nproduct categories   \nUser can view \ndemand values in \nterms of quantity of \nparts or in USD\nEstimated demand \nof shipset for \ndifferent companies \n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDemand vs. Sales benchmarking for a potential/existing client\nDetails of selected \nproduct\nApplicable fleets, demand, sales & specific \ndetails of a selected Product ID/Part no.\nNo. of customers \nwho have purchased \nthe product and no. \nof potential \ncustomers \nDemand distribution \nby fleet family type for \nthe selected Product \nID/Part no.\n6\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nDemand vs. Sales benchmarking for a selected part\nDetails of selected \nproduct\nApplicable fleets, demand, sales & specific \ndetails of a selected Product ID/Part no.\nNo. of customers \nwhich have \npurchased the \nproduct and no. of \npotential customers \nDemand distribution \nby fleet family type for \nthe selected Product \nID/Part no.\n7\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nCustomization flexibility based on evolving business needs\n8\nA particular \ncompany which \ndoes not purchase a \nparticular product \ncan be excluded in \ndemand calculation \nbased on user input\nUser can change applicable shipset \nquantity, replacements rate % for a \nparticular product & company\nMapping of \nCompany name in \nCirium database \nwith name in client’s \nERP system\nIf a particular company is \nnot FAA-PMA Friendly, \ncan be removed from the \noverall demand \ncalculation based on \ninput\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (393).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183422+05'30'",
+            "modDate": "D:20241114183422+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n9\n1) Learnt about the aerospace industry & 3rd party database of internally \noperational fleet\n2) Explored and identified system requirements to connect Quantum Control \ndata to Power BI\nLearnings\n"
+    }
+]

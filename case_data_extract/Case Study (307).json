@@ -1,0 +1,162 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 0,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nCredit Modeling\nFinancial services firm\nEvaluated advanced classification algorithms and developed \na new approval model using machine learning algorithms \n(such as Random Forest and XGBoost) to identify & reduce \ndefault risk  and improve profitability from the customers \napproved for financing\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 1,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "CREDIT MODELING\nSITUATION\n▪\nThe company was facing higher rates of unpaid loans due to riskier consumers being approved for financing which led to a higher write-off rate\n▪\nMerilytics partnered with the company to help build a new approval model to reduce default risk and improve profitability\n▪\nEvaluated advanced classification algorithms to reduce the risk and improve the profitability of the basket of customers approved for financing \n▪\nUsed machine learning algorithms (such as Random Forest and XGBoost) to predict the probability of customer making payment at various \nstages of the loan life cycle and probability of customer completing the entire cash flow cycle.\n▪\nAnalyzed sensitivity & specificity and ROC characteristics to select the best model across the techniques/algorithms. The credit applications were \nthen approved based on the classification by the newly deployed model.\n▪\nIdentified key features of the classification model and monitored their population stability to trigger retraining of the model, by comparing the \napplication pool against the validation set over time.\nVALUE ADDITION\nIMPACT\n▪\nThe credit model built by Merilytics helped the client reduce the charge-off rate of their asset pool (by 6% on a tranche level average) and \nunderwrite contracts within their risk appetite\n▪\nHelped the client to reduce the delinquency rate (by 9% on a tranche level average), improve the terminal cash flow and maintain borrowing \nbalance in line with the company’s annual targets\nABOUT THE CLIENT\nClient is a financial services company that provides point-of-sale financing to consumers making purchases at stores across the United States\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 2,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "3\nz\nObjective and approach\n▪\nDeployed a model that would instantly approve credit applications \nbased on customers’ personal data, credit data and  business’ risk \nprofile.\n▪\nBuilt on past 2 years return data of credit approvals made using thumb \nrules. \n▪\nApplied data science principles to arrive at the best classifier that would \nachieve business driven targets for return, delinquency and charge-off\nMethodology\n▪\nBuild set was created using customer personal data, income, credit \nscores & credit history\n▪\nDeployed machine learning algorithms like classification trees, Naïve \nBayes classifier, bagging ensembles and boosting ensembles while \nperforming 5-fold cross validation\n▪\nModels were scored on ROC characteristics & accuracy and tested on \nan out of time sample set and the best performing model was \ndeployed\nCustomer Data\nCredit Data from Vendor\nData Transformation / \nConsolidation\nModel Training\nCross Validation\nLogistic Regression\nCART\nNaïve Bayes\nBoosting Classifier / XGBoost \nBagging Classifier / Random Forest\nScored Models\nRun on Test Data\nEvaluate Results\nDeploy Model\nApproval Model Selection - Flowchart\nAPPROACH & METHODOLOGY\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 3,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "Model Selection\nBased on the Return Operating \nCharacteristics (ROC), the \nXGBoost algorithm, with an Area \nUnder Curve  (AUC) of 0.91 was \nthe best performing model on the \nout of time test set and was thus \ndeployed as the approval model\n4\nCOMPARISON OF APPROVAL MODEL CLASSIFIERS \nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 4,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "The top 28 variables (based on \nfeature importance) of the \nXGBoost model include several \ncredit scores, previous inquiry \nmetrics, historical delinquency \nand payment pattern metrics\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n90%\n100%\n0%\n5%\n10%\n15%\n20%\n25%\n30%\ng305s\nfi61\nper235\ng304s\nh5gi24af\nin36\nus101s\nus21s\nchgof24h\nus09s\nper223\nper225\npf21\ng020s\nbc110s\nagg319\nof61\njt21s\ng205b\nof21\ng307s\nus02s\nus51a\nfiratoth\nhmp5n24\nstd235\nagg318\nagg224\nOthers\nCumulative Importance\nImportance\nImportance\nCumulative Importance\nFeature importance from XGBoost\n5\nVARIABLE IMPORTANCE ANALYSIS\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 5,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "12-month term instalment loans charge-off rates - Client’s naïve model \nvs. Merilytics model\n0%\n4%\n10%\n14%\n20%\n23%\n25%\n27%\n29%\n31%\n0%\n2%\n7%\n11%\n14%\n16%\n19%\n21%\n24%\n26%\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nPrevious Client's Model\nMerilytics Model\nCharge-off rate dropped  of \ncharge-off rate by 5% points is \nfor sample of loans approved for \n6 months before and 6 months \nafter deployment of new \nMerilytics model \n6\n0%\n2%\n6%\n15%\n20%\n24%\n26%\n28%\n30%\n31%\n33%\n34%\n0%\n4%\n13%\n22%\n25%\n28%\n36%\n37%\n39%\n40%\n43%\n43%\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\n40%\n45%\n50%\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nStatement Number\nPrevious Client's Model\nMerilytics Model\nThe drop of 30+days delinquency \nrate by 9% points is for sample of \nloans approved for 6 months \nbefore and 6 months after \ndeployment of new Merilytics \nmodel \n12-month term instalment loans - 30+ days delinquency rates - \nClient’s naïve model vs. Merilytics model\nIMPACT OF MODEL DEPLOYMENT\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 6,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "A high PSI value (> 0.2) for \nthe production applications \nafter benchmarking against \nthe validation set \napplications would trigger a \nretraining of the model or \nreevaluating the metric\n7\nEvaluated population stability by benchmarking distribution of current applications against validation set\nPOPULATION STABILITY MONITORING\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (307).pdf",
+            "page": 7,
+            "total_pages": 8,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115104851+05'30'",
+            "modDate": "D:20241115104851+05'30'",
+            "trapped": ""
+        },
+        "content": "▪\nGained complete understanding on usage of Population Stability Monitoring that would be used to identify changes in the underlying model \nvariable and trigger retraining of the model.\n▪\nGained a good hold of a credit/loan application modelling and its linkages to risk monitoring, which can be seamlessly extended to other \nconsumer/retail finance clients.\nILLUSTRATIVE\nLEARNINGS\n8\n"
+    }
+]

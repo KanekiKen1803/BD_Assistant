@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBusiness Infrastructure & Reporting\n1\nIntegrated data from multiple Point of Sales (POS) software systems and built \nPower-BI dashboards to track restaurant performance. Recommended Pricing \nTiers for the restaurants based on various performance and demographic factors \nfor ameliorating their operations. \nFranchise Based American Restaurant Chain \n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCreated a Data Warehouse that sources data from multiple POS systems (Restaurant Manager, R-Power and Toast) across restaurants and built a reporting \ninfrastructure with a daily update cadence to track the overall performance \n•\nCreated monthly performance tracker to review the performance and traffic metrics by month, weekday, time of the day, revenue category & menu \ncategories at the company level or for an individual restaurant\n•\nAutomated the flow of leads generated from Facebook into the company’s CRM platform using the APIs \n•\nCreated a ‘Pricing Tier’ model based on restaurant’s performance, guest satisfaction, demographic factors and competitor’s price within five miles radius to \nhelp the client in clustering the restaurants into different pricing tiers\nSituation\n•\nCompany faced challenges in tracking the overall performance as franchises across locations were using three different Point of Sale (POS) systems\n•\nPartnered with the client to create a centralized Data Warehouse in AWS and build a BI reporting infrastructure. We also built a ‘Pricing Tier’ model to \ncluster the restaurants into different tiers.\nBI infrastructure & reporting \n2\nImpact\n•\nPower BI dashboards created based on the consolidated data warehouse provided better visibility of day-to-day performance of the company and the \nindividual restaurants to the senior leadership\n•\nIntegrated leads data into the company’s CRM platform enabled the Sales representatives contact the  franchise prospects in real time \n•\nPricing Tier model helped the client  to devise better pricing strategy for any future menu updates across tiers\nBUSINESS INFRASTRUCTURE & \nREPORTING\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nApproach / methodology for project delivery\n3\nDATA \nWAREHOUSING\nFACEBOOK- CRM LEADS\nPRICING TIERS \nMODEL\n▪Studied Data Structure in 3 POS systems to create a consolidated format\n▪Data Warehouse is built based on the consolidated format in the AWS cloud\n▪Automated data update with daily cadence and linked it to Power BI for reporting\n▪Facebook App is created using developer account for Leads data transfer\n▪Leads data is loaded  into the Data Warehouse using a Python script\n▪Leads are integrated into CRM through API every hour\n▪Identified Average customer rating, demographics and competitor’s price within five miles radius as the factors to \ndecide pricing tiers\n▪Data is collected from ESRI (3rd party) and other publicly available sources\n▪Indexes are calculated for each location based on the values of each factor for all restaurants. Indexes are \nbenchmarked from 50-150 and bucketed into the required number of pricing tiers\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPerformance tracker\n4\nNumber of Table Turns/day is calculated to understand the capacity \nutilization of the of the restaurant.\nKPIs are estimated on an hourly basis \nto identify traffic trends in a day\nKPIs are estimated monthly across 2016-\n2018 to observe seasonality trends\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPower-BI dashboards\n5\nUnderstand trends of KPIs over time \nwith flexibility to select date ranges.\nAdditional filters which will help to drill down data at a location level \nand inclusion/exclusion of Catering segment\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nPricing tiers\n6\nOverall index is calculated for each location based on demographic and other variables to determine the Pricing Tier that helps in \ndetermining a better pricing strategy for future menu updates.\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (62).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114193721+05'30'",
+            "modDate": "D:20241114193721+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nLearnings\n7\n▪\nPricing Tiers (Normalization of variables) : We have normalized the values for each of the factors by creating indexed. This is to be able to compare (and \nadd) values across factors with different scales\n▪\nFacebook – CRM integration : Understood how to pull data from Facebook campaigns and integrate into CRM platforms using Rest API\n▪\nData Warehouse –  We got an opportunity to build a database from scratch. Understood the nuances of creating a database from multiple sources. We \ncould have avoided few re-works with a better understanding of different datasets present and anticipating the potential issues like variable type mis-\nmatch, waiter information, unique identifier in the dataset proactively\n"
+    }
+]

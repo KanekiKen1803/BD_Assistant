@@ -1,0 +1,182 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 0,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n1\nExecutive KPI dashboard\n• Built Executive Dashboard that provides visibility into Sales and Marketing, \nHR, Finance and R&D\n• Integrated and consolidated data from Salesforce, Workday and flat Excel \nfiles for generating the dashboards\nPrivileged access management (PAM) software company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 1,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to augment the reporting capabilities through automated processes and create an executive dashboard with \nKPIs across all the departments of both the entities. Currently you do not have visibility into the company’s overall \nperformance due to lack of structured timely reporting after recent merger of two large entities. Existing reporting is based \non several sources across different functions and needs to be consolidated.\nAccess management software company needs a robust KPI \ndashboard\n2\nYour value is enhanced. \nYou have HR KPIs providing visibility into headcount and attrition, especially in sales department to ensure appropriate number \nof representatives are employed to hit the revenue budget, sales KPIs such as pipeline coverage and booking linearity enabling to \ntake proactive actions to boost the sales efforts and financial KPIs such as Annual Contract Value (ACV) and share of renewal & \nnon-renewal bookings allowed the team to undertake suitable measures to grow their subscription business.\nEXECUTIVE KPI DASHBOARD\nKEY RESULT   \nVALUE LEVERS PULLED\n•\nHeadcount and \nattrition analysis\n•\nSales analysis\n•\nPipeline coverage\n•\nFinancial performance \nanalysis\n2\nYou turn to Accordion. \nWe partner with your team to integrate and consolidate data from salesforce, workday and flat excel files and build an \nexecutive dashboard that provides visibility into sales and marketing, HR, finance and R&D, including:\n1) Creating a consolidated data model in Power BI that stores the data from various data sources (salesforce, workday and \nflat excel files) leveraging intermediate PostgreSQL database\n2) Building a dashboard to provide a holistic view of the entire organization by reporting KPIs across sales, marketing, HR, \nfinance & R&D to the C-Suite\n3) Developing a dynamic, interactive and automated dashboard with the ability to drill down at region, area and business \ntype level across various years and quarters\n4) Adding targets along with achievement percentage to be able to track status and progress of each KPI at a glance\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 2,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nCreated a consolidated data model in Power BI that stored the data from various data sources (Salesforce, Workday and flat Excel files) leveraging \nintermediate PostgreSQL database\n•\nBuilt a dashboard that provides holistic view of the entire organization by reporting KPIs across Sales, Marketing, HR, Finance & R&D to the C-Suite\n•\nDeveloped a dynamic, interactive and automated dashboard with the ability to drill down at region, area and business type level across various years and \nquarters\n•\nAdded targets along with achievement percentage to be able to track status and progress of each KPI at a glance\nSituation\n•\nClient lacked visibility into the company’s overall performance due to lack of structured timely reporting after recent merger of two large entities\n•\nExisting reporting was based on several sources across different functions and there was need for consolidated reporting across all functions\n•\nPartnered with client to augment the reporting capabilities through automated processes, and create an Executive dashboard with KPIs across all the \ndepartments of both the entities\nKPI dashboard for a B2B technology services company\n3\nImpact\n•\nHR KPIs provided the executive team visibility into Headcount and Attrition, especially in sales department to ensure appropriate number of Reps are \nemployed to hit the revenue budget\n•\nSales KPIs such as Pipeline Coverage and Booking Linearity enabled the executive team to take proactive actions to boost their sales efforts\n•\nFinancial KPIs such as Annual Contract Value (ACV) and share of Renewal & Non-Renewal bookings allowed the team to undertake suitable measures to \ngrow their subscription business\nEXECUTIVE KPI DASHBOARD\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 3,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Summary (1/2)\n4\nSummary of \ndifferent types of \nBookings along \nwith their previous \nperiod comparisons \nand targets\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 4,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Summary (2/2)\n5\nSummary of HR, \nFinance and R&D \nmetrics\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 5,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Opportunities summary (1/2)\n6\nTrend of Leads and \nOpportunities over time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 6,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Opportunities summary (2/2)\n7\nTrend of \nOpportunities created \nover time\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 7,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Bookings summary\n8\nSummary of Bookings \ncompared with \ntargets\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (44).pdf",
+            "page": 8,
+            "total_pages": 9,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114191428+05'30'",
+            "modDate": "D:20241114191428+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nKPI dashboard - Finance summary\n9\nSummary of Financial \nmetrics\nILLUSTRATIVE\n"
+    }
+]

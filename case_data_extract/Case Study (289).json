@@ -1,0 +1,122 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 0,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nBrief Description\nKey analyses\nPROPENSITY TO PAY MODELING \nCOLLECTION SERVICES \nCOMPANY\nPartnered with the client to build a “propensity to pay” \nmodel to help them identify high value accounts,\nscientifically allocate agent resources to those accounts and \nenable the company to improve its  Credit Collection \nPerformance\n• Poisson regression analysis \n1\nBI REPORTING CASE STUDY SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 1,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "CASE STUDY: PREDICTIVE MODELING FOR A COLLECTION SERVICES COMPANY\nABOUT THE CLIENT\nPropensity To Pay Modeling For A Collection Services Client\nSITUATION\n▪\nCompany was a regional debt collection agency that worked on third-party consumer portfolios\n▪\nThe company wanted to improve its credit collection performance and scientifically allocate its agent resources to the high value account \nportfolios and customers\n▪\nMerilytics partnered with the company to build a “propensity to pay” model that would rank the portfolios and customers within the portfolios, \non a monthly basis \n▪\nThis propensity-to-pay ranking model would enable the company to prioritize its resources and work those accounts with higher intensity\n▪\nShortlisted accounts from the portfolio for propensity to pay modeling, after factoring for data noise and shorter tenure\n▪\nDefined a set of independent variables across account characteristics, payment data and ‘treatment’ data and dependent variable as ‘number of \npayments’\n▪\nRan a “matching” algorithm on historically treated (contact made by any person or machine) and non-treated account sets, to remove treatment \nbias\n▪\nConducted a zero-inflated Poisson regression analysis on the matched data set, and ranked accounts in descending order of payment likelihood\nVALUE ADDITION\nIMPACT\n▪\nCritical variables in determining the payment likelihood were identified\n▪\nEnabled the company to achieve a ~10% lift in payments, and by treating fewer accounts \n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 2,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "• Mode of \ncontact of \ncalls\n• Duration of \ncalls\n• Outcome \ntype of calls\n• Time of calls\n• Mode of Payment\n• Payment Amount\n• Time of Payment\n• Previous Balance\n• Current Balance\n• Time since last payment \n• # of payments made in 6 months \n(N-3 to N+2)\n• % amount paid in 6 months - as a \n% of placed balance\n• # of calls made in \npast 3 months \n(Landline, mobile, \nother)\n• # of calls made in \npast 3 months - by \noutcome category\nMonth N\nN+1\nN+2\nN-3\nN-2\nN-1\nCall data (treatment) – total answered calls \nin past 3 mo.\nPayment data: for the account during 6 months (attributable to the answered \ncalls made in last 3 mo.)\nSnapshot of information captured for an account with tenure ‘N’1\nAccount characteristics (static variables)\n• Date of Record\n• Age\n• Income Score\n• Other Score\n• # of Phones\n• Placed Balance\n• Charge Off Date\n• Charge Off \nReason\n• Contract Date\n• Type of \nAccount/Card\n• ‘Settlement in \nfull” related \ndetails\n• Tenure – time since \nDate of Record\n• Age\n• Income Score\n• # of Phones\n• Placed Balance\n• Time since charge \noff\n• Time since contract \ndate as of tenure \nperiod\nCall activity metrics\nCall activity attributes\nPayment activity derived metrics\nPayment activity attributes\nAccount level metrics\nAccount level attributes\n1 Tenure N represents ‘Nth’ month of the account since the Date of Record\n3\n’\nDEFINED A SET OF INDEPENDENT VARIABLES ACROSS  ACCOUNT CHARACTERISTICS, \nPAYMENTS AND ‘TREATMENT’ DATA AND DEPENDENT VARIABLE AS ‘# OF PAYMENTS\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 3,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "Shortlisted attributes that could have \nimpacted treatment are used for matching\n…. to generate set of accounts with similar \ncharacteristics, as evident by the reduced \nStandardized Difference score1\nTreatment variables: \n• 0 (no answered call in past 3 \nmonths) or \n• 1 (at least 1 answered call in past 3 \nmonths)\nCo-variates selected:\n• Tenure of account\n• Age of customer\n• Time since charge off\n• Income Score\n• Time since last payment\nMatching algorithm:\nMethod: Logit regression\nDistance: Nearest neighbor method\nSignificance level2: 0.1\n-0.06\n0.03\n0.04\n-0.02\n0.03\nAge\n-0.30\nTime since\nCharge-off\nTenure\nIncome score\nTime since\nlast payment\n-0.07\n-0.26\n-0.08\n0.00\n146,730\n146,980\n146,602\n86,034\nTreated\nNot treated\nBefore matching\nAfter matching\nMatching algorithm is applied on ~293K \naccounts, resulting in a matched sample \nof ~233k accounts\nStandardized Difference score2\n \n1 Standardized Difference signifies the extent of lack of overlap in distribution curves of the metric, between treated and non-treated sets of accounts\n2 Significance level indicates the extent of robustness of the predictive model for propensity to treat. E.g., significance level of 0.10 indicates there that there is less than 10% probability \nthat the results from the regression are not representative of the true relationship between covariates and dependent variable\n4\n‘MATCHING’ OF ACCOUNTS WAS DONE TO REMOVE EFFECT OF ‘TREATMENT’ BIAS\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 4,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "Selected attributes that affect the \npropensity to pay, defined the dependent \nvariable…\n…ran ‘Zero-inflated Poisson regression \nmodel’ on the matched sample of \naccounts - 233K\n…generated the ranking of \naccounts by applying the model \non 407K accounts \n• Account Level Attributes\n─Tenure\n─Age of customer\n─Income Score\n─Number of phone numbers\n─Time since charge-off\n• Payment Activity Attributes: \nTime since last payment\n• Call Activity Attributes: # of \nsuccessful calls made in past 3 \nmonths\nDependent Variable\n• # of payments made in 6 months (N-3 \nto N+2 months)\nIndependent Co-variates:\n• Matching Attribute: Derived P-\nscore1 from matching step\n• Matched sample of accounts – 232,636\n• % of accounts that made zero payments in \n6 month period – 95.58% \n• Regression technique: Two stage – zero \ninflated model \no Binomial with logit link – Predicts \nwhether a person is likely to pay or not\no Poisson with log link – Predicts the \nnumber of payments that a person is \nlikely to make\n• Significance level cut-off2: 0.05\nRegression on matched sample of data \n• Applied regression model on 407K \naccounts to predict number of \npayments\n• Accounts are ranked based on the \nestimated likelihood of number of \npayments over a 6 month period\nRank 1\nRank 2\nRank 3\n.\n.\n.\n.\n.\n.\nRank 407,335\n1 P-score is the outcome variable in the matching step (Step 1) and signifies the propensity to treat (i.e., being contacted and answered by a person or machine)\n2 Significance level indicates the extent of robustness of the predictive model. E.g., significance level of 0.05 indicates there that there is less than 5% probability that the results from \nthe predictive model are not representative of the true relationship between covariates and dependent variable\n5\nZERO INFLATED POISSON REGRESSION’ WAS RUN ON THE MATCHED ACCOUNTS \nTO DEVELOP A PROPENSITY MODEL THAT WAS USED TO RANK ALL ACCOUNTS\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (289).pdf",
+            "page": 5,
+            "total_pages": 6,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114162014+05'30'",
+            "modDate": "D:20241114162014+05'30'",
+            "trapped": ""
+        },
+        "content": "Account funnel for the portfolio:\n427K accounts: Active at \nsome point in history \n(ensured that only one \nhistoric snapshot of each \naccount is captured)\nExcluded accounts with:\n• Placed Balance <= 0 \n• Current Balance <=0\n• Account life <=30 days\n• Age = (>90, <18)\nExcluded accounts with \n• Tenure of 1 month as of the \nselected month\n• Age = ‘n/a’\n• Income score = ‘n/a’\n407K accounts: \nAccounts used \nfor ‘Final \nranking’\n293K accounts: Accounts \nused for ‘Matching’ to \nremove treatment bias \nand for Regression \nequation\nReasoning\n• Negative/zero placed or current \nbalance indicates data noise\n• If total account life is <=30 days, \nthere is not enough treatment \nhistory\n• For each snapshot, if current tenure is \ntoo low, we would not have sufficient \nhistory to run the matching algorithm, \nfor that snapshot, for that account\n• Missing age and income attributes could \ndistort the matching model\n6\nACCOUNTS FROM THE PORTFOLIO WERE SHORTLISTED ACCOUNTING FOR DATA \nNOISE  AND SHORTER TENURE\n"
+    }
+]

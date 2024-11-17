@@ -1,0 +1,142 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 0,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBI infrastructure design & implementation\n1\n• Developed a scalable enterprise data warehouse on Azure platform that can \naccommodate multiple data sources for various business areas over time\n• Built a reporting suite on Power BI to analyze the performance of the various \nfunctional areas of the business\nHealthcare provider specializing in gastroenterology\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 1,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPicture this…\nYou’re looking to set up an Enterprise Datawarehouse and develop automated performance dashboards for housing the \ndata related to multiple lines of business such as AR summary, consolidated financial report, collection analysis, etc. Also, \nthere is a need to establish a BI reporting infrastructure to facilitate tracking of operational performance across different \nfunctional areas and care centers.\nHealthcare provider needs to setup a robust Enterprise \nDatawarehouse along with BI infrastructure\n2\nYour value is enhanced. \n•\nYou have the Enterprise Datawarehouse enabled with clean and validated data of different lines of business on a nearly real time \nbasis\n•\nThe seamless integration of data from multiple data sources with the Power BI reports helped you extract relevant insights to \nmake key decisions.\n•\nYou have a robust reporting structure to track and control the user permissions to protect from potential data misuse and \nestablish strong data security\nBI INFRASTRUCTURE DESIGN & \nIMPLEMENTATION\nKEY RESULT   \nVALUE LEVERS PULLED\n•\nConsolidated financial \nreport\n•\nAccount receivables \nsummary\n•\nCollection analysis\n•\nAppointments value \nchain report\n•\nStaff productivity \nreport\n2\nYou turn to Accordion. \nWe partner with your team to develop a scalable enterprise data warehouse on Azure platform that can accommodate \nmultiple data sources for various business areas over time, build a reporting suite on Power BI to analyze the performance \nof the various functional areas, including:\n1) Analyzing the Accounting system (QuickBooks), Payroll (ADP) and EMR systems (gGastro) to identify the relevant KPIs \nand dashboards\n2) Building an Enterprise Datawarehouse (based on Microsoft Azure platform) by connecting different data sources \nthrough data pipelines and transformed the raw data as per business requirements\n3) Developing automated self-serve Power BI dashboards on top of the Azure Analysis services to analyze the performance \nof the care centers\n4) Incorporating automated data validation and reconciliation rules at every step across the entire ETL process to ensure \naccuracy and consistency in data\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 2,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nAnalyzed the Accounting system (QuickBooks), Payroll (ADP) and EMR systems (gGastro) to identify the relevant KPIs and dashboards\n•\nBuilt an Enterprise Datawarehouse (based on Microsoft Azure platform) by connecting different data sources through data pipelines and transformed the \nraw data as per business requirements\n•\nDeveloped automated self-serve Power BI dashboards on top of the Azure Analysis services to analyze the performance of the care centers\n•\nIncorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\nSituation\n•\nClient needed to establish a BI reporting infrastructure in order to facilitate tracking of operational performance across different functional areas and care \ncenters\n•\nPartnered with the client to set up an Enterprise Datawarehouse and develop automated performance dashboards for housing the data related to multiple \nlines of business such as AR Summary, Consolidated Financial Report, Collection Analysis, etc.\nBI infrastructure design and implementation for a healthcare \nprovider\n3\nImpact\n•\nThe Enterprise Datawarehouse enabled the availability of clean and validated data of different lines of business on a nearly real time basis\n•\nThe seamless integration of data from multiple data sources with the Power BI reports helped the business users extract relevant insights to make key \ndecisions.\n•\nReporting structure helped the client track and control the user permissions in order to protect from potential data misuse and establish strong data security\nBI Infrastructure Design & \nImplementation\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 3,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPrior BI architecture\n4\nData Sources\nReports\nObservations on prior architecture:-\n•\nStandalone reports from various data \nsources and systems, no coordination \nor consolidation available at any level\n•\nFile processing was I/O intensive \noperation and slowed the \nperformance of the system. Also, \nthere was a possibility of files being \ncorrupted in transmission.\n•\nConstrained architecture: \nCumbersome to add a new data \nsource with different data \naccessibility method\n•\nManagement of data accesses was \ntedious and took a lot of time to \nprovision new accesses\nData, \nReporting and \nAnalytics\nData \nStructures\ngGastro\n(EMR system)\nADP System\nExcel ad-hoc \nreports\nBasic \nReports\n▪Ad-hoc reporting based on needs from various teams\n▪Lack of consistency of data being utilized by various teams\n▪Lack of consistency and documentation on KPIs\n▪Data distribution challenges while sharing with care centers\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 4,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nBI infrastructure implementation\n5\n▪Built an Enterprise Datawarehouse connecting different data sources through data pipelines and transformed raw data as per business requirements\n▪Developed an automated ETL process to load the data into data warehouse daily and configured e-mail alerts/notifications to monitor the overall ETL process\n▪Incorporated automated data validation and reconciliation rules at every step across the entire ETL process to ensure accuracy and consistency in data\n▪Created a Tabular data model on Azure Analysis services and developed ready-to-serve data marts for analytical and reporting purposes. \n▪Developed Power BI dashboard for business users at different levels on top of the Analysis services to monitor and track business performance.\nData Sources \nAccounting system\ngGastro (EMR system)\nADP System\nAzure Data \nFactory\nAzure SQL\nAzure Analysis \nServices\nIngest\nPrep & Train\nModel\nServer\nAutomated ETL Process with e-mail alerts / notifications\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 5,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nForecast evolution by each adjustment layer\nILLUSTRATIVE\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (392).pdf",
+            "page": 6,
+            "total_pages": 7,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation  Template",
+            "author": "Ashton Erickson",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114183313+05'30'",
+            "modDate": "D:20241114183313+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nSample dashboards – collection analysis\nILLUSTRATIVE\n"
+    }
+]

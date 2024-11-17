@@ -1,0 +1,82 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "page": 0,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173552+05'30'",
+            "modDate": "D:20241114173552+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nBuyer Prediction Model\n1\nBuilt a predictive model to identify the most likely buyers for a commercial real \nestate property based on past buyer purchases, using density based clustering \nalgorithms such as “DBSCAN” and vector techniques such as “one-hot \ntransformation”.\nCommercial Real Estate Services Company\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "page": 1,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173552+05'30'",
+            "modDate": "D:20241114173552+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nIdentified key metrics to determine market trends considering commercial real estate transactions over last 14 years\n•\nIdentified important characteristics of a deal by analyzing purchase deals for building the buyer recommendation system\n•\nProcessed deal data into numerical vectors to calculate distance to score buyers, using models such as “one-hot transformation”\n•\nPotential buyers were clustered using density based clustering algorithms such as “DBSCAN”\nSituation\n•\nThe client’s property sales line of business (LOB) was not efficient or targeted because brokers typically approached 5,000+ potential \nproperty buyers for a deal\n•\nPartnered with the client to leverage historical transactions data available with the LOB to build a predictive model generating a ranked \nactionable list of potential buyers for a property\n2\nImpact\n•\nDeveloped a buyer recommendation system that provided a ranked actionable list of 100 potential buyers for each property\n•\nWhen deals during last two consecutive years in the U.S. were considered, the actual buyer was present in top-100 predicted list in ~60% of \ncases, which made the deal sales process more efficient for the brokers\n•\nWorked with the client development team to integrate the buyer recommendation system with their internal deal flow management software\nBuyer Prediction Model for a Commercial Real Estate Firm\nBuyer Prediction Model\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "page": 2,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173552+05'30'",
+            "modDate": "D:20241114173552+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nKey Recommendations and Accuracy Insights\n3\nCharacteristics Considered for Modelling\nCharacteristic Type\nCharacteristics\nDescription\nGeographic\n•\nRegion\n•\nState \n•\nMetro\n•\nMarket\n•\nSub-Market\nThese property geography-specific characteristics were used to identify \npreferred geographies of buyers\nProperty Specific\n•\nProperty Type\n•\nProperty Sub-Type\n•\nProperty Age\n•\nProperty Value\n•\nTenancy\n•\nCap Rate\nThese property-specific characteristics were used to identify property \nrelated preferences of buyers\nDeal Specific\n•\nPurchase Objective\n•\nDeal Type\n•\nPurchase Frequency\n•\nDeal Year/Month\nThese characteristics were used to identify purchase preferences of buyers\n53%\n47%\n51%\nTop-300 Buyer Prediction Accuracy for 2016-17 Deals, by Geography, %\nModel prediction accuracy \nacross location for top-300 \nbuyers\nTotal Deals Considered (#)\n899\nDallas\nTop - 10 U.S. Metros\n8,585\nU.S.\n17,568\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (348).pdf",
+            "page": 3,
+            "total_pages": 4,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Shannon Chu",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114173552+05'30'",
+            "modDate": "D:20241114173552+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\n© 2024 Accordion     CONFIDENTIAL\nMethodology Flow for Buyer Recommendation System\n4\nProcessed test & train data into \nthe required format…\n…used vector distance calculations to score buyers based on how similar \ntheir past purchases were to the test property…\n...and recommended the most \nlikely buyers\nConvert property \ncharacteristics into \ncategorical variables\nCategorical variables were \nconverted into vectors\nTo each vectorized property \ncharacteristic, based on \nimportance, weights were \nassigned\nEvaluated distances of \nproperties from test property\nFor selected clusters of \nproperties, historical buyers were \nidentified\nBuyers were ranked in \ndescending order of \nscores\nLists of top-\n50/100/200/300 buyers \nwere generated\nBased on proximity to test \nproperty, property clusters were \nselected \nConsidering buyers’ properties \nthat fall within the selected \nproperty clusters, each identified \nbuyer was scored based on:\n•\nMean distance of their \nproperties from test property\n•\n# of buyer’s properties in the \nselected clusters\n"
+    }
+]

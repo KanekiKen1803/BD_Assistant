@@ -1,0 +1,222 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 0,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nFP&A analytics from planful\n1\n• Build FP&A Analytics dashboards presenting various financial KPIs ranging \nacross P&L metrices, operational metrices and cost & staffing metrices. \n• Leverage Planful source data to create automated Power BI dashboards\n(Pediatric healthcare provider)\nBack to summary page\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 1,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nAccordion Value Add \n•\nSetup automated data ingestion from the Planful data source using Azure Data Factory and Databricks Delta Live Table pipelines\n•\nDeveloped analytical models for various financial KPIs and performed in-depth data & dashboards functionality validation\n•\nBuilt comparative analysis for the financial KPIs against budget and previous year, which enabled the assessment and evaluation of financial performance\n•\nBuilt self-serve BI dashboards that provided qualitative financial analysis to derive relevant insights quickly\n•\nConsolidated financial raw data for the client at different levels of hierarchies and segmentation from Planful. Mapping was created at 9 different levels in \nAzure Data Factory which enabled multiple slices of the analysis and reporting consolidations, thereby, creating a single source for assessing financial \nperformance for different entities and locations.\nSituation\n•\nThe client relied on front-end data from Planful to report and track its business performance. However, the process of consolidating the data from Planful \nand updating the reports was manual and time-consuming.\n•\nMerilytics partnered with the client to build automated dashboards by creating data pipelines from Planful and provide key insights through revenue and \nexpenses waterfall showing Budget/Prior to Actuals variance contributors\nFP&A analytics for pediatric healthcare provider\n2\nImpact\n•\nAvailability of Financial KPIs/metrics on a real-time basis helped to monitor and track operations performance at an enterprise level\n•\nElimination of any manual efforts considerably reduced turnaround time for assessing and analyzing financial performance\n•\nEstimated savings of 7-8 man-days/week (annual savings of ~100K USD) \n•\nScalable Azure-based data tables and pipelines that could be leveraged with minimal effort to enhance and build additional financial metrics\nFP&A ANALYTICS FROM PLANFUL\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 2,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMethodology/ Approach\n3\nData sources\nChallenges\nValue-add\n▪Planful REST API end points.\n▪GL data based on scenario codes like \nactual and budget.\n▪Mapping related data from segment end \npoints\n▪Hierarchy of revenue and expense line \nitems were not consistent across the \nreports and it necessitated understanding \nnuances from lowest to the highest levels \nin the hierarchy\n▪Understanding the tree structures of the \nPlanful source data which was leveraged \nfor data consolidation in the dimension \ntables by mapping the parent child \nrelationships. 9 levels of hierarchy was \ncreated for consolidation and KPIs.\n▪Extensive validations were required due to \nthe nature and complexity of the existing \nfinancial reports contributed by the spread \nof client’s business across entities and \nlocations\n▪Built an exhaustive suite of automated BI \ndashboards for the Finance function, \nproviding insights into the performance of \nFinancial and Operational KPIs\n▪Conducted detailed validations to ensure data \naccuracy and consistency for the various \nfinancial metrics\n▪Eliminated manual efforts of preparing the \nexhaustive and detailed analysis for the \nclient's finance team\n– Estimated man-hour savings of 50-60 \nweekly hours \n– Annual cost savings of ~100K USD\n▪Scalable data tables that can be leveraged to \ncreate additional analysis for the future\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 3,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nData architecture – Low level diagram (LLD)\n4\nLinked Servers\nAzure Data \nFactory\nStorage Account\nLookup Activity \n(Control File)\nExecute COPY DATA \nactivity from source \nto landing\nFor each loop\nControl File \n(list of table names)\nB\nADF - 1\nA\nADF - 2\nLanding Zone \n(Parquet files)\nC\nD\nWeb Activity – \nkicks-off DLT \nPipeline on \nDatabricks\nRaw Zone\nClean Zone\nAggregate Zone\nDLT Pipeline – Ingests \ndata from Landing Zone, \ncreates DLT in Raw & \nClean Zones\nPower BI \nDashboard\nI\nPartitioned\nF\nG\nJ\nE\n(flat/encrypted files)\nSummar\ny\n Tables\nDim\nFac\nt\nDatabricks Notebook - \nCreate dim/ fact tables \nand final views\nH\n* Partitioned table contain quarantine as well as non-\nquarantined data. \nPlanful REST \nAPI\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 4,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nMetrics waterfall\n5\nILLUSTRATIVE\nThe charts show the \ntop contributors for \nthe variance of actual \nrevenue and expenses \nas compared to \nBudget/Prior Year at \nMTD and YTD levels\n"
+    },
+    {
+        "page": 6,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 5,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nP&L break-up\nILLUSTRATIVE\nThe visual depicts the \nclinic wise Revenue \nand Expenses for \ndifferent business \ncategories and \nprovides a \ncomparative of \nActuals Vs Budget \nand Pervious Year\n"
+    },
+    {
+        "page": 7,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 6,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPer visit metrics for different revenue heads\n7\nILLUSTRATIVE\nThe visual depicts \nthe clinic wise \nRevenue per Visit, \nwhich is rolled up to \nbusiness categories, \nand provides a \ncomparative of \nActuals Vs Budget \nand Pervious Year\n"
+    },
+    {
+        "page": 8,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 7,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPer visit metrics for different cost heads\n8\nILLUSTRATIVE\nThe visual depicts \nthe clinic wise Cost \nper Visit, which is \nalso rolled up to \nbusiness categories, \nand provides a \ncomparative of \nActuals Vs Budget \nand Pervious Year\n"
+    },
+    {
+        "page": 9,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 8,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nPer FTE (full time equivalent) for different cost heads\n9\nILLUSTRATIVE\nThe visual depicts the \nclinic wise \nCompensation Cost \nper FTE (Full Time \nEquivalence), which is \nalso rolled up to \nbusiness categories, \nand provides a \ncomparative of \nActuals Vs Budget \nand Pervious Year\n"
+    },
+    {
+        "page": 10,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 9,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTransposed P&L view (1/2)\n10\nILLUSTRATIVE\nThe visual depicts \nthe Key Financial \nMetrices and their \ndistribution among \nsubcategories and \nprovides a \ncomparative of \nActuals Vs Budget \nand Pervious Year \nfor both MTD and \nYTD.\n"
+    },
+    {
+        "page": 11,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (192).pdf",
+            "page": 10,
+            "total_pages": 11,
+            "format": "PDF 1.7",
+            "title": "",
+            "author": "Akhila Akula",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241114141638+05'30'",
+            "modDate": "D:20241114141638+05'30'",
+            "trapped": ""
+        },
+        "content": "© 2024 Accordion     CONFIDENTIAL\nTransposed P&L view (2/2)\n11\nILLUSTRATIVE\nThe visual depicts the \nkey Financial Metrices \nand their distribution \namong subcategories \nand provides a \ncomparative of \nActuals Vs Budget \nand Pervious Year for \nboth MTD and YTD.\n"
+    }
+]

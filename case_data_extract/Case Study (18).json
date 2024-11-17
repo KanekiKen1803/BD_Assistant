@@ -1,0 +1,102 @@
+[
+    {
+        "page": 1,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "page": 0,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103311+05'30'",
+            "modDate": "D:20241115103311+05'30'",
+            "trapped": ""
+        },
+        "content": "Project Name\nClient\nBrief Description\nKey Analyses\nTHROUGHPUT OPTIMIZATION\nRESTAURANT CHAIN\nAssessed the mix of table-tops to ensure maximum throughput, and \nminimum dropouts and wait times based on historical party sizes, inter-\narrival times and service time\nQueueing Simulation\n1\nSUCCESS STORIES - SUMMARY\n"
+    },
+    {
+        "page": 2,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "page": 1,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103311+05'30'",
+            "modDate": "D:20241115103311+05'30'",
+            "trapped": ""
+        },
+        "content": "THROUGHPUT OPTIMIZATION MODEL FOR A RESTAURANT CHAIN\nSITUATION\n▪\nCompany wanted to optimize table mix for operational efficiency\n▪\nCompany proposed a table-mix but did not have a model to validate if the proposed table-mix would deliver a higher throughput and lower wait time and \ndropouts\n▪\nMerilytics partnered with the Company to build a model to estimate operational metrics and optimize table mix across all its restaurants\n▪\nBuilt a model to estimate throughput, wait time and dropouts for a given table mix & historical visits data \n▪\nEstimated party size distribution, inter-arrival times’ distribution & table-time matrices using historical visits data\n▪\nEstimated time spent by a party for a combination of party size & occupancy level in the restaurant\n▪\nProvided flexibility to update model for any restaurant automatically on the click of a button\n▪\nProvided flexibility to combine 2-tops to accommodate parties of larger size was incorporated\n▪\nSimulated an entire operational day to study peak-time trends\nVALUE ADDITION\nIMPACT\n▪\nThe model enabled the client conclude that the proposed table mix is better than existing only if party sizes 1-2 are restricted to 2-tops\n▪\nCombining 2-tops led to higher dropouts & lower throughput as ~50% of the incoming parties were of size 1-2\n▪\nThe model validated that table-mix should be aligned to the party size distribution \nABOUT THE CLIENT\nClient is a family-friendly chain serving American made-from-scratch food\n2\n"
+    },
+    {
+        "page": 3,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "page": 2,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103311+05'30'",
+            "modDate": "D:20241115103311+05'30'",
+            "trapped": ""
+        },
+        "content": "User Input\nBack-end calc.\nOutput\nHistorical data\nInter-arrival time \ndistribution\nParty-size distribution\nParty schedule1\nTable-mix\nMaximum waiting \ntime condition for \ndrop-out\nTable service time vs. \nparty size\nmatrix\nQueuing simulation\nModel Flow Diagram\n1 Random schedule of parties & arrival times are simulated while matching the party size & inter-arrival times distributions\nPARTY SIZE DISTRIBUTION, INTER-ARRIVAL TIME DISTRIBUTION, TABLE-TIME MATRIX, \nTABLE-MIX & MAX. WAITING TIME ARE THE INPUTS TO THE QUEUING SIMULATION\n"
+    },
+    {
+        "page": 4,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "page": 3,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103311+05'30'",
+            "modDate": "D:20241115103311+05'30'",
+            "trapped": ""
+        },
+        "content": "Simulation of an operational day at restaurant\nArrival \ntime\nParty \nsize\nMin. capacity \nof table \nrequired\nTable # \nAlloted\nAlloted \nTable's \ncapacity\nSeat/Remove \ntime\n% Occupancy at the \ntime of availability of \nappropriate table\nWaiting time \n(in mins)\nTable time \n(in mins)\nExit time\n11:01 AM\n2\n2\n1\n2\n11:01 AM\n0%\n0\n55\n11:56 AM\n11:01 AM\n3\n4\n4\n4\n11:01 AM\n0%\n0\n74\n12:15 PM\n11:01 AM\n2\n2\n2\n2\n11:01 AM\n0%\n0\n55\n11:56 AM\n11:05 AM\n3\n4\n5\n4\n11:05 AM\n3%\n0\n74\n12:19 PM\n11:10 AM\n2\n2\n3\n2\n11:10 AM\n4%\n0\n55\n12:05 PM\n11:15 AM\n2\n2\n11:45 AM\n18%\n30\n56\n11:45 AM\n11:15 AM\n5\n6\n50\n6\n11:15 AM\n4%\n0\n85\n12:40 PM\n11:15 AM\n2\n2\n11:45 AM\n18%\n30\n56\n11:45 AM\n11:17 AM\n2\n2\n11:47 AM\n20%\n30\n56\n11:47 AM\n11:19 AM\n3\n4\n6\n4\n11:19 AM\n6%\n0\n74\n12:33 PM\n11:19 AM\n4\n4\n7\n4\n11:19 AM\n6%\n0\n74\n12:33 PM\n11:19 AM\n2\n2\n11:49 AM\n20%\n30\n56\n11:49 AM\n11:23 AM\n2\n2\n11:53 AM\n21%\n30\n56\n11:53 AM\n11:24 AM\n2\n2\n11:54 AM\n21%\n30\n56\n11:54 AM\n11:25 AM\n6\n6\n51\n6\n11:25 AM\n9%\n0\n85\n12:50 PM\n11:25 AM\n4\n4\n8\n4\n11:25 AM\n9%\n0\n74\n12:39 PM\n11:27 AM\n2\n2\n1\n2\n11:56 AM\n20%\n29\n56\n12:52 PM\n11:28 AM\n2\n2\n2\n2\n11:56 AM\n20%\n28\n56\n12:52 PM\n11:28 AM\n2\n2\n11:58 AM\n24%\n30\n56\n11:58 AM\n11:30 AM\n3\n4\n9\n4\n11:30 AM\n13%\n0\n68\n12:38 PM\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\nSeated w/o waittime\nSeated with waittime\nWalkout\nAllocations were done based \non the 10 scenarios considered\nILLUSTRATIVE\nA SIMULATION CAPTURES THE VISITS THAT HAPPEN IN THE RESTAURANT ON A WEEKEND DAY FROM 11 AM IN \nTHE MORNING TO 12 AM IN THE NIGHT\n"
+    },
+    {
+        "page": 5,
+        "metadata": {
+            "source": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "file_path": "C:\\Users\\ansh_lodhi\\Desktop\\BD_Assistant\\CaseStudies\\Case Study (18).pdf",
+            "page": 4,
+            "total_pages": 5,
+            "format": "PDF 1.7",
+            "title": "PowerPoint Presentation",
+            "author": "Moumita Gandhi",
+            "subject": "",
+            "keywords": "",
+            "creator": "Microsoft® PowerPoint® for Microsoft 365",
+            "producer": "Microsoft® PowerPoint® for Microsoft 365",
+            "creationDate": "D:20241115103311+05'30'",
+            "modDate": "D:20241115103311+05'30'",
+            "trapped": ""
+        },
+        "content": "# of tables by capacity, #\n18%\n9%\n5%\n24%\n3%\nExisting table-mix\n62\n74%\n66%\n8-top\n6-top\n4-top\n2-top\nProposed table-mix\n68\n1%\n45\n8-top\n68\nProposed table-mix\n4-top\n46\n3\n16\nExisting table-mix\n2-top\n1\n6\n62\n6-top\n2\n11\nShare of tables by capacity, %\n1.\nHundred iterations were carried out for each scenario\n2.\nThe data used for the analysis is as of September 2015\nTHE PROPOSED TABLE-MIX HAS MORE NUMBER OF 2-TOPS THAN EXISTING FORMAT \n"
+    }
+]
